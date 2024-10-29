@@ -1,0 +1,19 @@
+[package]
+authors    =["Thor Kampefner <thorck@pm.me>"]
+description="""how many of the top million sites use cloudflare sxg"""
+edition    ="2021"
+name       ="how-many-sxg-sites"
+repository ="https://github.com/thor314/how-many-sxg-sites"
+version    ="0.1.0"
+
+[dependencies]
+anyhow   ="1.0"
+cute = "0.3.0"
+log       ="0.4" 
+thiserror="1.0"
+env_logger = "0.11"
+dotenvy = "0.15" 
+
+
+[dev-dependencies]
+rstest    ="0.18"         # testing convenience proc-macros
