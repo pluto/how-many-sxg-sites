@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-55miQgVPnoRiGV/K////RK7698QdR37azyssKB2vfXw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "8aTOw2cM+SoeLIpgF/ozlBZkfHyyXSKDyikYcScp8No=",
+            "cert-url": "https://filecr.com/cdn-fpw/sxg/cert.pem.msg.8aTOw2cM-SoeLIpgF_ozlBZkfHyyXSKDyikYcScp8No",
+            "date": 1730241501,
+            "expires": 1730245701,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIF0WioOs6rpUrTA+xWORvuX0KJfR6Fh6luN8AJUaqRY4AiAMvvk7PBiAuFmq8769A4e6SvvuacLKL4asb3xZyChhDA==",
+            "validity-url": "https://filecr.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://filecr.com/en/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "s-maxage=600, stale-while-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6ffa6a76df94f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Mmmyo2gK4DBBf31EDU4rEEzd65dfIEhapqduP84Exyg="
+      ],
+      "Link": [
+         "<https://filecr.com/_next/static/css/b1d9edf64c0d818b.css>;rel=preload;as=style,<https://filecr.com/_next/static/css/b1d9edf64c0d818b.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-+2X5kNveJQ9bcdvHRRC2Tdb2uwQiJzO8aZp6N6WNz2o=\",<https://filecr.com/_next/static/css/2a3dfd2ff48fce35.css>;rel=preload;as=style,<https://filecr.com/_next/static/css/2a3dfd2ff48fce35.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-yM40jDH0bJxKRqhEFXUBJk/03PoZyjgHfiSKy7Eb7cs=\",<https://filecr.com/_next/static/css/30ab869b7d697535.css>;rel=preload;as=style,<https://filecr.com/_next/static/css/30ab869b7d697535.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-CIx85PC9v2tlpDMhluV1NIZds9Zw/G1Q1tf8B5uk8EA=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "off"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Nextjs-Cache": [
+         "HIT"
+      ],
+      "X-Powered-By": [
+         "Next.js"
+      ],
+      "X-Xss-Protection": [
+         "0"
+      ]
+   }
+}

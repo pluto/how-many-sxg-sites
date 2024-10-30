@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-qGdDPICMfAzudHbiS2jwx/gk0DYy2h/sOKsLn8PSnvQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "45Gn3FdWp1V3PPzP7/m1BhslHOcTcnrE6MneG2yK+wc=",
+            "cert-url": "https://xxxvideos.blog/cdn-fpw/sxg/cert.pem.msg.45Gn3FdWp1V3PPzP7_m1BhslHOcTcnrE6MneG2yK-wc",
+            "date": 1730243070,
+            "expires": 1730246970,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCj4D+n5RAG6PfK+wS8YH029Md4FyqdSI4pXXOVBNx7MwIhAIU9rGexcYbb44TYyu5SF4k+5JNbOZxHtIgBGlg5FTNn",
+            "validity-url": "https://xxxvideos.blog/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://xxxvideos.blog/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=300"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da725f77581969f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:30 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=1s5WfJWu0F10fJ4ogQxGeuOSYDXQEyRuI1bqm1FRaeQ="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:06:06 GMT"
+      ],
+      "Link": [
+         "<https://xxxvideos.blog/wp-content/cache/autoptimize/css/autoptimize_56c0c5b1bef60bb2201a576d9aebedc2.css>;rel=preload;as=style,<https://xxxvideos.blog/wp-content/cache/autoptimize/css/autoptimize_56c0c5b1bef60bb2201a576d9aebedc2.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-qlQCZOzyufSofxGKQQifwKo4thyUGlsfePb7UPi0td4=\",<https://xxxvideos.blog/wp-content/cache/autoptimize/js/autoptimize_02b9b19b0aee5a76128505e0893b7c2b.js>;rel=preload;as=script,<https://xxxvideos.blog/wp-content/cache/autoptimize/js/autoptimize_02b9b19b0aee5a76128505e0893b7c2b.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-06NlECu7eLgpR9W0HqpT+YrMQgtWqz4C73qtBh8+XFQ=\""
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Version": [
+         "MS24102502"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

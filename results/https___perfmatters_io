@@ -1,0 +1,100 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-QPui5PtA+/NRlfX0Ik8bjUpLH/OgY1eZc68WPAEAcbw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "i2xrVbN/7K60KH3NorO7PChd1gojyvKZEUfmG/EXmyM=",
+            "cert-url": "https://perfmatters.io/cdn-fpw/sxg/cert.pem.msg.i2xrVbN_7K60KH3NorO7PChd1gojyvKZEUfmG_EXmyM",
+            "date": 1730242326,
+            "expires": 1730847126,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCSDVWK45REO/4T1hOkGwwzIekTHyyyJZE2KKh+yboP8AIhAO6xGQltKF6K3zNnbcL18rHtJDoWq9J4V8TVK7szruVe",
+            "validity-url": "https://perfmatters.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://perfmatters.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "4458"
+      ],
+      "Cache-Control": [
+         "max-age=16070400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da713cc4657d009-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:52:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=xU/mn7R+vIDgu8C3RRzWE2CZEo2nFm0D7Ei5+RwVKg8="
+      ],
+      "Ki-Cache-Type": [
+         "None"
+      ],
+      "Ki-Cf-Cache-Status": [
+         "BYPASS"
+      ],
+      "Ki-Edge": [
+         "v=20.2.8;mv=3.1.3"
+      ],
+      "Ki-Edge-O2o": [
+         "yes"
+      ],
+      "Ki-Origin": [
+         "g1p"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:37:47 GMT"
+      ],
+      "Link": [
+         "<https://perfmatters.io/wp-content/cache/perfmatters/perfmatters.io/css/front.used.css?ver=1706315216>;rel=preload;as=style,<https://perfmatters.io/wp-content/cache/perfmatters/perfmatters.io/css/front.used.css?ver=1706315216>;rel=allowed-alt-sxg;header-integrity=\"sha256-uMhTK+QxM7S6AmL3K0lG8FDhx4szwE6qSS9hbwTOHD0=\",<https://perfmatters.io/wp-content/uploads/2024/07/perfmatters.svg>;rel=preload;as=image;imagesrcset=\"https://perfmatters.io/wp-content/uploads/2024/07/perfmatters.svg 1x, https://perfmatters.io/wp-content/uploads/2024/07/perfmatters.svg 2x\",<https://perfmatters.io/wp-content/uploads/2024/07/perfmatters.svg>;rel=allowed-alt-sxg;header-integrity=\"sha256-cyn2GdYpKh5bRGPxFRdKmbIAMLZ/mrDpyfCtm9H34Ao=\""
+      ],
+      "Nel": [
+         "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Report-To": [
+         "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2FRvj2Ji0jUT0B76VTA6JntCiLN1E%2F2wKYqH5w2CBqdej%2BUUSX%2FflM%2FU8usIB0%2FI5HJeQmV64fWaT2G4VwYA7%2BKZq0OMAubgefIE6Iam6HGY4CDfG4lu%2F55f2mS4I1E%2B2\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Edge-Location-Klb": [
+         "1"
+      ],
+      "X-Kinsta-Cache": [
+         "HIT"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ]
+   }
+}

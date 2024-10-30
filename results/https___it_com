@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-BLMIwY6v9jty/rknBLa6qG3h2vm0cQmskYZW6XqmxJs=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Ft7MiDPpgbGLaH0q22u5Hi7SuiVwZn8P4AZLx3cJ1eI=",
+            "cert-url": "https://get.it.com/cdn-fpw/sxg/cert.pem.msg.Ft7MiDPpgbGLaH0q22u5Hi7SuiVwZn8P4AZLx3cJ1eI",
+            "date": 1730241826,
+            "expires": 1730846626,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDOMussFexHY2H4oHn5RfFYvFzz4mIPoKNGPqFjo3n6sAiBBLM0IOASylBbbSIPhTYOZhNgJBi7zz6MEw+HDiPb83w==",
+            "validity-url": "https://get.it.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://get.it.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70798d6042302-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:43:46 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=JK4G0oOBz/qjLWW7nHUdSF5BCMfyAjt7i1kSrxsSYXw="
+      ],
+      "Link": [
+         "<https://get.it.com/_nuxt/d282148.js>;rel=preload;as=script,<https://get.it.com/_nuxt/d282148.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-lkSEOsB6X0+xwoPvsMZ5l6qI5rYbEM/WT/Hr3CYSRxY=\",<https://get.it.com/_nuxt/8611e2d.js>;rel=preload;as=script,<https://get.it.com/_nuxt/8611e2d.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-ty//6346Mh0tq3GossZDexPhQvPHvGbN+c6fMbmiVsA=\",<https://get.it.com/_nuxt/79a4c10.js>;rel=preload;as=script,<https://get.it.com/_nuxt/79a4c10.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-jFhy9LuJHRRxphu0x6TQpbnR9brRb0jdA3ulRuEDwlU=\",<https://get.it.com/_nuxt/5df8687.js>;rel=preload;as=script,<https://get.it.com/_nuxt/5df8687.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-eO6i4uKPVplfe5yUfmk+FIzGZ8Wy2Cj1EiqLe/xVEyU=\",<https://get.it.com/_nuxt/c4bf4af.js>;rel=preload;as=script,<https://get.it.com/_nuxt/c4bf4af.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-Oh8psVWvzLzAWbMo2U2v09M/mbmyYnCBqTsweYOI3oc=\",<https://get.it.com/_nuxt/adb8765.js>;rel=preload;as=script,<https://get.it.com/_nuxt/adb8765.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-xRgkHLW62EL+IGxU2gjkBEdRaf4tFrmmKaxQ8lCJGro=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

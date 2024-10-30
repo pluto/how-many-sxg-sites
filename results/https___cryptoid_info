@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-EnXG/ximkWQnRTrKjbMhnfphAwVaPDNxXW8uhTMLZ/w=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "dNTEYX4nKlyTvBsC8QuMKnMYpjSP+hK2X09XpNJKGXA=",
+            "cert-url": "https://chainz.cryptoid.info/cdn-fpw/sxg/cert.pem.msg.dNTEYX4nKlyTvBsC8QuMKnMYpjSP-hK2X09XpNJKGXA",
+            "date": 1730241259,
+            "expires": 1730846059,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCAjech5XK/PZxuOh1W2UbSnt6iAOh+fvyJySo2faSWhQIgE1AlkMBEgje1pM4HeBFy3oAiS+Yz29EYZXlSjKkjF0Q=",
+            "validity-url": "https://chainz.cryptoid.info/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://chainz.cryptoid.info/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f9c352e797ff-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Length": [
+         "7382"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:34:19 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=MqGZueZ8vFByWJGQyIxswJnTIDBoGH0Ouq9M8EF4PnA="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

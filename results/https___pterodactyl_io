@@ -1,0 +1,91 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-278r3sT/ytmRz/WQUrOCKn3MIMQ3mKas95hoyvvf9p8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "dQuhNj0IBw6nzFIEQDCzx6YX0TGMazIHj1u5N0oY1C4=",
+            "cert-url": "https://pterodactyl.io/cdn-fpw/sxg/cert.pem.msg.dQuhNj0IBw6nzFIEQDCzx6YX0TGMazIHj1u5N0oY1C4",
+            "date": 1730242400,
+            "expires": 1730246600,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDRlgf/fz9LrCJCxuin6J8pHJMz7G6TjFqxEIVf1Nrf+wIgDpHS6jM6Gbhxc1OSOm1rA5ziVd9whrrCOofpJ+2beHk=",
+            "validity-url": "https://pterodactyl.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://pterodactyl.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "0"
+      ],
+      "Cache-Control": [
+         "max-age=600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7159bb793cef9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=R0fBwW5/bn9MVjTZAmRKBUd359LTuJf4Lkqrehxv4qE="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 22:27:21 GMT"
+      ],
+      "Last-Modified": [
+         "Sun, 29 Sep 2024 18:31:36 GMT"
+      ],
+      "Link": [
+         "<https://pterodactyl.io/assets/js/app.9c890b61.js>;rel=preload;as=script,<https://pterodactyl.io/assets/js/app.9c890b61.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-Yk89cAB1nKw4al5vvE0YBUVAht/OSoAY8Peoz7MantQ=\",<https://pterodactyl.io/assets/js/2.638bc23b.js>;rel=preload;as=script,<https://pterodactyl.io/assets/js/2.638bc23b.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-AFPuENhcgWQ+q5ywpeJnKdGNB3Ze+rot1FCrv1XThug=\",<https://pterodactyl.io/assets/js/4.0da8214b.js>;rel=preload;as=script,<https://pterodactyl.io/assets/js/4.0da8214b.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-dGJyLS82p9CTA2RBzahOJh6FDY4/5Y8sHIgb8B7442U=\",<https://pterodactyl.io/assets/css/0.styles.894cd3e9.css>;rel=preload;as=style,<https://pterodactyl.io/assets/css/0.styles.894cd3e9.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-oL4UCbBOIfqhsu70+3xZsnpUdYgvUWehKyoD996CtPY=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 varnish"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Cache-Hits": [
+         "0"
+      ],
+      "X-Fastly-Request-Id": [
+         "7f6b7769633a226f21cc486fc9eb913fa764f48b"
+      ],
+      "X-Github-Request-Id": [
+         "8F88:3BF84:71451D:737B04:67215EF1"
+      ],
+      "X-Proxy-Cache": [
+         "MISS"
+      ],
+      "X-Served-By": [
+         "cache-sjc1000133-SJC"
+      ],
+      "X-Timer": [
+         "S1730246000.971023,VS0,VE112"
+      ]
+   }
+}

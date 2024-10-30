@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-zRdk9YyvhlXcfZTni3Ysp4GHMPHQkb0VFrklhyEfu6I=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "HsRKTRpdSIch+18Q2U3VZH1CriNhd9lvisy+PUoc/yk=",
+            "cert-url": "https://www.trueachievements.com/cdn-fpw/sxg/cert.pem.msg.HsRKTRpdSIch-18Q2U3VZH1CriNhd9lvisy-PUoc_yk",
+            "date": 1730242863,
+            "expires": 1730847663,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCkryMwzgycFPkvwoTEfHBLv8kzANYi5wANz8YlzFOV9wIhAKBwmSFzpBtFgQgbzOiZXrrUeurjtrtKx6XBC24NCyej",
+            "validity-url": "https://www.trueachievements.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.trueachievements.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1784"
+      ],
+      "Cache-Control": [
+         "public,max-age: 0, s-maxage=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da720ea41811694-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:03 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=hi4D9emQoX8clkx68j4CTnAbdUCrbSFJi1cDUXtvvVw="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:31:19 GMT"
+      ],
+      "Link": [
+         "<https://www.trueachievements.com/css/libs/ta-responsive-font.min.css?v=23>;rel=preload;as=style,<https://www.trueachievements.com/css/libs/ta-responsive-font.min.css?v=23>;rel=allowed-alt-sxg;header-integrity=\"sha256-WugRqz3SK8Cu1Q5Rl8KNX0FsUNIkb2A06ZwKkaXK0CY=\",<https://www.trueachievements.com/vcss/858/v5/bundles/homepage-d.min.css>;rel=preload;as=style,<https://www.trueachievements.com/vcss/858/v5/bundles/homepage-d.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-1myp9ZsycS8jvACsRpndGY1J0dZTcBnh6g0d//nckv8=\",<https://www.trueachievements.com/css/libs/font-awesome-4.7.0/fonts-custom-v15/ta-responsive-font.ttf>;rel=preload;as=font;crossorigin=anonymous,<https://www.trueachievements.com/css/libs/font-awesome-4.7.0/fonts-custom-v15/ta-responsive-font.ttf>;rel=allowed-alt-sxg;header-integrity=\"sha256-ecsyaOv+baeELlgm2vZj3TRp7hY8RuskrKuqO9NE9gM=\",<https://www.trueachievements.com/vcss/174/v5/base-d.min.css>;rel=preload;as=style,<https://www.trueachievements.com/vcss/174/v5/base-d.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-J89LSYenTvM4kl/omBJ09aY2GSWuWaz/hpZAs5P0pl8=\",<https://www.trueachievements.com/vcss/858/v5/bundles/targets-active-right-panel.min.css>;rel=preload;as=style,<https://www.trueachievements.com/vcss/858/v5/bundles/targets-active-right-panel.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-KonDWPQWYH7o8X27+20wUinDkdtw08ZvCrf40HerVUw=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Aspnet-Version": [
+         "4.0.30319"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Powered-By": [
+         "ASP.NET"
+      ],
+      "X-Xss-Protection": [
+         "1"
+      ]
+   }
+}

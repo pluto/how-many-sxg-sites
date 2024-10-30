@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-/OuWS61474kEFbIvj1TvPHNldCmDnlganynXmxNciiY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Q/qucbOqoG3YE82Oq6id06z+Fxjm+hV2t9A730z/moc=",
+            "cert-url": "https://www.travelandtourworld.com/cdn-fpw/sxg/cert.pem.msg.Q_qucbOqoG3YE82Oq6id06z-Fxjm-hV2t9A730z_moc",
+            "date": 1730242853,
+            "expires": 1730505653,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIA+R4s+vl1BK+pVDsd61PzNYyjdkNh+ffUCHXYknkuNzAiA02xtAjRhQulYZRmBZYcN3zWvxPfqKsvhOx15ZTCQFUA==",
+            "validity-url": "https://www.travelandtourworld.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.travelandtourworld.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cache-Control": [
+         "max-age=259200"
+      ],
+      "Cache-Provider": [
+         "CLOUDWAYS-CACHE-DC"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da720af76c5980c-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:00:53 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=3QHSiMIOk5vcpNgoJmjJcnqlAsl7M5vOgb3SLI6wqt4="
+      ],
+      "Expires": [
+         "Fri, 01 Nov 2024 16:13:42 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 16:13:46 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Pingback": [
+         "https://www.travelandtourworld.com/xmlrpc.php"
+      ]
+   }
+}

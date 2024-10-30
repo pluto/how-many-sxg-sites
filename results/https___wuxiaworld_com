@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ch9JSW1qWF8+/wkzSE6gFykdjL4ZiWUKl29wMt0/aWY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "KZ0/xCcuJ2vE8U4yaDJvZRV0ggGjohDkufNmc3YiHIU=",
+            "cert-url": "https://www.wuxiaworld.com/cdn-fpw/sxg/cert.pem.msg.KZ0_xCcuJ2vE8U4yaDJvZRV0ggGjohDkufNmc3YiHIU",
+            "date": 1730243044,
+            "expires": 1730847844,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIA5HmLSOONHjRUgIBFGdLEBn5Dq5ZOtZIGyvTdRxzWHAAiBkSYmv80gZ28o11WkVH1Ujocpb7n3xTl4nU89MLOyi5A==",
+            "validity-url": "https://www.wuxiaworld.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.wuxiaworld.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Placement": [
+         "remote-EWR"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Digest": [
+         "mi-sha256-03=rBL/Kkqf/iejJKGGkgyFwjmmd6zU8KzxuLmZu+kdF0M="
+      ],
+      "Link": [
+         "<https://www.wuxiaworld.com/assets/inter-v8-latin-700-YMG7pBvT.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.wuxiaworld.com/assets/inter-v8-latin-700-YMG7pBvT.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-31t590RA/ITYOUbFgMAgUElD8aZPNVELhWohEqS/DiE=\",<https://www.wuxiaworld.com/assets/inter-v8-latin-500-BBCcZVJd.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.wuxiaworld.com/assets/inter-v8-latin-500-BBCcZVJd.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-JhgNtlq+Pi3egbW6ySus/4A684a5YuMVcWB47ZMMCfI=\",<https://www.wuxiaworld.com/assets/app-I-JTUSKm.css>;rel=preload;as=style,<https://www.wuxiaworld.com/assets/app-I-JTUSKm.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-mBTx1HjYArl0IYDlqjCqxeYuQtEdl/WMHyWYV20kfNw=\",<https://www.wuxiaworld.com/assets/inter-v8-latin-regular-C0b7ZYuD.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.wuxiaworld.com/assets/inter-v8-latin-regular-C0b7ZYuD.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-ZXYZwHwtXHxN1pxslGd56Uvw5gdAkaF7XJksQr+UsVE=\",<https://www.wuxiaworld.com/assets/app-I-JTUSKm.css>;rel=preload;as=style,<https://www.wuxiaworld.com/assets/app-I-JTUSKm.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-mBTx1HjYArl0IYDlqjCqxeYuQtEdl/WMHyWYV20kfNw=\",<https://www.wuxiaworld.com/assets/inter-v8-latin-regular-C0b7ZYuD.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.wuxiaworld.com/assets/inter-v8-latin-regular-C0b7ZYuD.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-ZXYZwHwtXHxN1pxslGd56Uvw5gdAkaF7XJksQr+UsVE=\",<https://www.wuxiaworld.com/assets/inter-v8-latin-700-YMG7pBvT.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.wuxiaworld.com/assets/inter-v8-latin-700-YMG7pBvT.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-31t590RA/ITYOUbFgMAgUElD8aZPNVELhWohEqS/DiE=\",<https://www.wuxiaworld.com/assets/inter-v8-latin-600-Do_HpvrI.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.wuxiaworld.com/assets/inter-v8-latin-600-Do_HpvrI.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-DBtPmtjjgudvoITVLwm9GmvcIW0kIDcQ2MG4nuw1idc=\",<https://www.wuxiaworld.com/assets/inter-v8-latin-500-BBCcZVJd.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.wuxiaworld.com/assets/inter-v8-latin-500-BBCcZVJd.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-JhgNtlq+Pi3egbW6ySus/4A684a5YuMVcWB47ZMMCfI=\",<https://www.wuxiaworld.com/assets/inter-v8-latin-600-Do_HpvrI.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.wuxiaworld.com/assets/inter-v8-latin-600-Do_HpvrI.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-DBtPmtjjgudvoITVLwm9GmvcIW0kIDcQ2MG4nuw1idc=\""
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Ssr": [
+         "1"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

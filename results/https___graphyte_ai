@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-f3tD6hZh6IU32igbjX4FfflC1Vbd3eUDbO19V5E+Deg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "KHbgQR43KtmGd2+lx6vBEShP0F+/goRc1FTtYtXM0vw=",
+            "cert-url": "https://www.optimove.com/cdn-fpw/sxg/cert.pem.msg.KHbgQR43KtmGd2-lx6vBEShP0F-_goRc1FTtYtXM0vw",
+            "date": 1730241632,
+            "expires": 1730245832,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCML7uFyHxMI2vmqaCVHjAOBXW2ebZfAFvD0ptJRV/zGgIhANDrtc6HOea073/gEKRwilaq1ieVecoiT1WRu8CS38b9",
+            "validity-url": "https://www.optimove.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.optimove.com/product/digital-experience-platform",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=600, must-revalidate"
+      ],
+      "Cache-Tag": [
+         "optimove2022626f7e717bb17"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da702dcb4892572-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:40:32 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=m8vK/j/bcy6PELMcqHmt7+iwbyibLD9LzEuWgbD95Co="
+      ],
+      "Link": [
+         "<https://www.optimove.com/wp-content/uploads/2023/02/Lobby1-res.jpg>;rel=preload;as=image,<https://www.optimove.com/wp-content/uploads/2023/02/Lobby1-res.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-NxY7JuyXSEVsnUpOq0ll0IvXgleDPcc9t+P2UajunUY=\""
+      ],
+      "Permissions-Policy": [
+         "autoplay=*, camera=(self) , cross-origin-isolated=*, display-capture=(self), encrypted-media=*, geolocation=*, keyboard-map=*, microphone=(self), payment=(self), fullscreen=*"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+      ],
+      "X-Cache": [
+         "HIT: 1"
+      ],
+      "X-Cache-Group": [
+         "normal"
+      ],
+      "X-Cacheable": [
+         "SHORT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "WP Engine"
+      ]
+   }
+}

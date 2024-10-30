@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-leo0dMWWDxBw3266m+Rt7FhWe9KjO/zraI73jGqrUrY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "HAMu/hLSqIb0rbct9L2gye1yM0tDOliCyNqqmEJuiDo=",
+            "cert-url": "https://www.billets.ca/cdn-fpw/sxg/cert.pem.msg.HAMu_hLSqIb0rbct9L2gye1yM0tDOliCyNqqmEJuiDo",
+            "date": 1730241044,
+            "expires": 1730244794,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBSFPuZEdKMV+z8Lvd389XSWNnurWLwdrzJutPd0Ht6jAiEA1nS5ToKr/4UgJfB+ZUKs45855pulAx0f4pPNNhXJSlQ=",
+            "validity-url": "https://www.billets.ca/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.billets.ca/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=150, s-maxage=150, stale-while-revalidate=7200"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f48314aafa86-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self' data:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; manifest-src 'self' *.billets.ca *.2tickets.ca *.tickets.ca; script-src 'self' 'unsafe-eval' 'unsafe-inline' *.billets.ca *.2tickets.ca *.tickets.ca *.enzuzo.com https://widget-mediator.zopim.com/ *.zendesk.com https://static.zdassets.com https://maps.googleapis.com https://analytics.google.com https://www.facebook.com https://www.google.com https://www.google-analytics.com https://www.googleadservices.com https://www.googletagmanager.com https://googleads.g.doubleclick.net https://bat.bing.com https://static.hotjar.com https://script.hotjar.com https://snap.licdn.com https://connect.facebook.net https://js.hs-scripts.com https://js.hs-banner.com https://js.hsadspixel.net https://js.hscollectedforms.net https://js.hs-analytics.net https://www.clarity.ms https://analytics.tiktok.com; font-src 'self' fonts.gstatic.com; img-src 'self' *.billets.ca *.2tickets.ca *.tickets.ca https://placehold.co *.amazonaws.com *.zdassets.com https://mapsresources-pa.googleapis.com data: blob: https://maps.googleapis.com https://maps.gstatic.com https://www.google.com https://www.google.ca https://www.google-analytics.com https://www.googletagmanager.com https://bat.bing.com https://www.facebook.com https://px.ads.linkedin.com https://track.hubspot.com https://forms.hsforms.com https://www.linkedin.com https://p.adsymptotic.com https://c.clarity.ms https://c.bing.com; connect-src 'self' data: http://0.0.0.0:* ws://localhost:* *.oribi.io *.billets.ca https://www.google.com https://pagead2.googlesyndication.com https://www.tickets.ca *.2tickets.ca *.tickets.ca *.enzuzo.com https://bat.bing.com www.linkedin.com https://px.ads.linkedin.com https://www.google.ca/ https://snap.licdn.com https://widget-mediator.zopim.com/ wss://widget-mediator.zopim.com wss://*.zendesk.com https://*.zendesk.com https://ekr.zdassets.com/ https://maps.googleapis.com https://www.facebook.com https://analytics.google.com https://www.google-analytics.com https://stats.g.doubleclick.net https://api.hubapi.com https://forms.hubspot.com https://*.clarity.ms https://c.clarity.ms https://vc.hotjar.io https://analytics.tiktok.com https://o1428952.ingest.sentry.io; frame-src 'self' https://vars.hotjar.com https://td.doubleclick.net/ https://vc.hotjar.io https://bid.g.doubleclick.net www.googletagmanager.com https://www.google.com/maps/embed;; media-src 'self' https://static.zdassets.com *.billets.ca *.2tickets.ca *.tickets.ca *.amazonaws.com; frame-ancestors 'none';"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:30:44 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=TvM7povuC/5dUVonmGYg91KHi8uDpeDd2HRe9LLdvJU="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:30:18 GMT"
+      ],
+      "Link": [
+         "<https://www.billets.ca/_next/static/css/e9f4c6c680b2cfbf.css>;rel=preload;as=style,<https://www.billets.ca/_next/static/css/e9f4c6c680b2cfbf.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-CxJTolLLzohK40pklKYk/3BFOMZagIYN/32bDMk31wA=\",<https://www.billets.ca/_next/static/css/0cf9c08fb3333dda.css>;rel=preload;as=style,<https://www.billets.ca/_next/static/css/0cf9c08fb3333dda.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-eIvbsw86YPmUJpiIEKlzvj6NM8cZZ2la5pRh+3R4lps=\""
+      ],
+      "Referrer-Policy": [
+         "origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Cache-Hits": [
+         "24"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

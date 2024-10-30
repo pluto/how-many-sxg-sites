@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-8ZaDvhn8Eiz4VlpC7yRmyWd0YIJkG3uIEvVCaAJSgjg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "gYZUxuTZI2d4AaWA7CHfq4QlbVgiZfLmQsaOa0aQJFM=",
+            "cert-url": "https://www.quicknode.com/cdn-fpw/sxg/cert.pem.msg.gYZUxuTZI2d4AaWA7CHfq4QlbVgiZfLmQsaOa0aQJFM",
+            "date": 1730242424,
+            "expires": 1730847224,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCeq/2TV8b/Vt6pAPRyWJFe9t9FAWjz4DJmgrpEx6gbFgIhAM+DQL4c21PrkItHmD3lOFn8OO7n5yF5PckmQk9hxwXB",
+            "validity-url": "https://www.quicknode.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.quicknode.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Ray": [
+         "8da7162c4685faec-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:43 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=aXoEVZrGQK5xE1e4q3odVlhMHo+V0qMpThtJn+2gDjg="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url"
+      ],
+      "X-Edge-Runtime": [
+         "1"
+      ],
+      "X-Matched-Path": [
+         "/"
+      ],
+      "X-Powered-By": [
+         "Next.js"
+      ]
+   }
+}

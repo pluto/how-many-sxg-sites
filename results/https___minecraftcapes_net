@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-PHkl+Z0nSJLsnO0FcfhJL/LSugjRB+Y4LympHXF0tuY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "E5xU2NHcJLl0077ko1J2kH/joyW3dcA36QSyzOeAx8s=",
+            "cert-url": "https://minecraftcapes.net/cdn-fpw/sxg/cert.pem.msg.E5xU2NHcJLl0077ko1J2kH_joyW3dcA36QSyzOeAx8s",
+            "date": 1730242081,
+            "expires": 1730846881,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFQYifOaZZWNLolbznRiZmvSLv7Pah1WEQ0hKoQFSuktAiEA7ohmD4ocMQBIpHYE3p4MVRHH7es4QAn9fnsTjg/8gb4=",
+            "validity-url": "https://minecraftcapes.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://minecraftcapes.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cache-Control": [
+         "public, max-age=2678400, must-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Ray": [
+         "8da70dd143237af4-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:00 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=JOJSivzpDzJwy06fJkQEivrsDeLJh0IOIoOkQQxmTOM="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:48:00 GMT"
+      ],
+      "Nel": [
+         "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Report-To": [
+         "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=TMTlHwIJ60j79HYHJNyyIdXZvBfiT%2BduaTXzC63Zj18zsHncjGcklINfA2deTN9iYEUqcmFksxkzlr6yIy5OltP5slHcKGdI%2FcnrQ8O5PPZLOdJet9nG%2BFLV0g0gHL9aSW3w8dnhygFLCZSCZaZ8TTE%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

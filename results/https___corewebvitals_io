@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-D81ZQJmG2bdOY7q5nJ3kaM78RXSSW2v1RkaWbmy7vIo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "rc2dSPL7BGUflc9HTRUElM3ZV05vZCQ1wsatjek0k04=",
+            "cert-url": "https://www.corewebvitals.io/cdn-fpw/sxg/cert.pem.msg.rc2dSPL7BGUflc9HTRUElM3ZV05vZCQ1wsatjek0k04",
+            "date": 1730241239,
+            "expires": 1730846039,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHkML9/gcoHDlkldnnid+IMPI9BMBb/Gd9BF7khftfSLAiBGVKa9utto+JT7+kCZ626nRa89M+q7AnBQl5kSDORsig==",
+            "validity-url": "https://www.corewebvitals.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.corewebvitals.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "927"
+      ],
+      "Cache-Control": [
+         "max-age=691200"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f947a7fb67d1-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:33:59 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=a+4f10LNiuNTMsNZK964AlxFkDxI9wD0pSt/BC5eCp0="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 18:02:03 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 18:02:03 GMT"
+      ],
+      "Link": [
+         "<https://www.corewebvitals.io/static/img/lq-404-400/s/lightouse-corewebvitals.webp>;rel=preload;as=image,<https://www.corewebvitals.io/static/img/lq-404-400/s/lightouse-corewebvitals.webp>;rel=allowed-alt-sxg;header-integrity=\"sha256-NH1Qn7vF2BFRuHYqLrw4eTNUwgb1ilTV4IyDMiT57n8=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Speculation-Rules": [
+         "\"/rest/speculation/lets-make-it-superfast\""
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

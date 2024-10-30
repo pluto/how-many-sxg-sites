@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-EbZhwD30uLlMGxArO4Vga6EiWzJPpNbTHX+dsFj1cNA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "MUvmOQkYubBE0dhCIiPlrXVkGJRATm+pB+NRf1m3FfA=",
+            "cert-url": "https://www.adrenaline.com.br/cdn-fpw/sxg/cert.pem.msg.MUvmOQkYubBE0dhCIiPlrXVkGJRATm-pB-NRf1m3FfA",
+            "date": 1730240857,
+            "expires": 1730244757,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIHIdXiEKIpBc+x23hEUIOnnySQXxBZgguY8AylXY4+n+AiEA6Et/wEeabMfhESQaCarSQxlG74LbZsCipH4Y7RFYPhg=",
+            "validity-url": "https://www.adrenaline.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.adrenaline.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=300"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6efe1c6719698-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:27:36 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=D5JNOvk2X3oe60UrmniYO/Hz9wuZVNccUcSd6yNHfdo="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:27:36 GMT"
+      ],
+      "Link": [
+         "<https://www.adrenaline.com.br/wp-content/uploads/2024/10/Intel-Core-Ultra-5-245K-review-678x423.jpg>;rel=preload;as=image;imagesrcset=\"https://www.adrenaline.com.br/wp-content/uploads/2024/10/Intel-Core-Ultra-5-245K-review-327x204.jpg 992w,  https://www.adrenaline.com.br/wp-content/uploads/2024/10/Intel-Core-Ultra-5-245K-review-678x423.jpg 1200w\";imagesizes=100vw,<https://www.adrenaline.com.br/wp-content/uploads/2024/10/Intel-Core-Ultra-5-245K-review-678x423.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-62IXOPs3GjFP7XLeAJtjZeccyRVejDkT993cTXUdoks=\",<https://www.adrenaline.com.br/wp-content/themes/seox-publishers-child//assets/images/header/logo_adrenaline.svg>;rel=preload;as=image,<https://www.adrenaline.com.br/wp-content/themes/seox-publishers-child//assets/images/header/logo_adrenaline.svg>;rel=allowed-alt-sxg;header-integrity=\"sha256-RWwMt964rCBmgsK6Nixjsgj5Tzd3IzdYYVSzaFpfcL0=\",<https://www.adrenaline.com.br/wp-content/uploads/2024/10/Adrena_dragon-age-veilgguard-678x423.jpg>;rel=preload;as=image;imagesrcset=\"https://www.adrenaline.com.br/wp-content/uploads/2024/10/Adrena_dragon-age-veilgguard-327x204.jpg 992w,  https://www.adrenaline.com.br/wp-content/uploads/2024/10/Adrena_dragon-age-veilgguard-678x423.jpg 1200w\";imagesizes=100vw,<https://www.adrenaline.com.br/wp-content/uploads/2024/10/Adrena_dragon-age-veilgguard-678x423.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-VpLdPUZ0L1GjEDbs+VQCafdwin0nvmHvNlnZ5hjHf80=\""
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "WordOps"
+      ]
+   }
+}

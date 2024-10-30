@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ze0XwNDKtiK7vTZlZ84mpxsabn4BWLYodDEMT0H3+Qo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "r+QRYKfNES9t4Xw3RYan9TyeS3/mFHWwFugkoOKpq9o=",
+            "cert-url": "https://hugly.app/cdn-fpw/sxg/cert.pem.msg.r-QRYKfNES9t4Xw3RYan9TyeS3_mFHWwFugkoOKpq9o",
+            "date": 1730241725,
+            "expires": 1730846525,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHk7SioGAoZfyvJtAUEXUc/d/aLhtxzXtiKnbThL2lNyAiB/5v7DNJRzhnbeBd3cBCWXzA3lCp3FXBDwW1YmPubnjw==",
+            "validity-url": "https://hugly.app/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hugly.app/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "511054"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da705236499987f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:42:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=DNMKOKSF3PrcMe5RURfdd8OZhHZ1QrVwb6vycuQ+Ta0="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "x-wf-forwarded-proto, Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Cache-Hits": [
+         "0"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "2d66d0da-c176-4ed8-bc76-71152e4e228b"
+      ],
+      "X-Served-By": [
+         "cache-sjc1000116-SJC"
+      ],
+      "X-Timer": [
+         "S1730245325.351868,VS0,VE1"
+      ]
+   }
+}

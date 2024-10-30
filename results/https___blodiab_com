@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-DE04n6N43WXgQEyxQJpUJ+ry96XA4utFdseDcXUcoZk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "czKT3G3mtgqeamh8hzju20gZ2jkVxdTfdy3ia8Mi9gs=",
+            "cert-url": "https://blodiab.com/cdn-fpw/sxg/cert.pem.msg.czKT3G3mtgqeamh8hzju20gZ2jkVxdTfdy3ia8Mi9gs",
+            "date": 1730241059,
+            "expires": 1730845859,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCQV/19HYtW8ps+kPH4hxjuGGFj7m9fmLSyBzsKsYOMnAIhANcw6G07TqrGjHT4M2hhdCm7zK/jKfH0xxVC9XA4//Eg",
+            "validity-url": "https://blodiab.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://blodiab.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f4dd21171749-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:30:58 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=oI9S0Hs+pB/EPw1HTj/izWGYwer4O3Gm1LNcK63Gx+I="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

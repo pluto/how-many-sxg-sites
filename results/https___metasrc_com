@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-qZpHL8vJJJtd4esZgbSVtWBOviucYN5qedgglbrT7ZY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "+yfB+l1CsAM+9IN+7ZvFLDL9ir7O0r+kjTLTq37XLTA=",
+            "cert-url": "https://www.metasrc.com/cdn-fpw/sxg/cert.pem.msg.-yfB-l1CsAM-9IN-7ZvFLDL9ir7O0r-kjTLTq37XLTA",
+            "date": 1730242067,
+            "expires": 1730247467,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDiwXTezHJ+SakfdxR0mcF0QRU87wCOEjzqbYsE57dkLAiBcAwZqhCQgI0anZCMYBbAnmRs61IB+j2m7sHNI8GyTng==",
+            "validity-url": "https://www.metasrc.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.metasrc.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1000"
+      ],
+      "Cache-Control": [
+         "max-age=1800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70d7f0607f97b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:47:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=KyBKZ5QZWnr1uxf35uUiINSEnIuo4tg3i41IgoR/9lg="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:16:43 GMT"
+      ],
+      "Link": [
+         "<https://www.metasrc.com/assets/v/6.10.0/css/overrides.css>;rel=preload;as=style,<https://www.metasrc.com/assets/v/6.10.0/css/overrides.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-qE5uLF3Z7xh2E5rf82rLsPi7hrzPa/Ci291ye/2VfOk=\",<https://www.metasrc.com/assets/v/6.10.0/css/select2.min.css>;rel=preload;as=style,<https://www.metasrc.com/assets/v/6.10.0/css/select2.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-BztP8UPLsmwtoIVeJgpD8OezbaS9i1ufYHrd3u53YLA=\",<https://www.metasrc.com/assets/v/6.10.0/css/font-awesome-v4.min.css>;rel=preload;as=style,<https://www.metasrc.com/assets/v/6.10.0/css/font-awesome-v4.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-UQgNzj7Z/in1AMtJXPpp/J6xRH7JfPRplIXtwE5SYwQ=\",<https://www.metasrc.com/assets/v/6.10.0/css/jquery.typeahead.min.css>;rel=preload;as=style,<https://www.metasrc.com/assets/v/6.10.0/css/jquery.typeahead.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-aJPMdcaPq/D6Jr9REWXtm4z3F2BXZekpex7Sa0YBipc=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

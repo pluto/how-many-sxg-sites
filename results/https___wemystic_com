@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-76YoKnOscfnD2Iu8oEYTV02Gbk/gN6gNJVAeMQKC8CU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "UoU8VrznQiU4d5PHwuo6KfsWlBKBZv5iKhWSxk0o8qk=",
+            "cert-url": "https://www.wemystic.com/cdn-fpw/sxg/cert.pem.msg.UoU8VrznQiU4d5PHwuo6KfsWlBKBZv5iKhWSxk0o8qk",
+            "date": 1730243011,
+            "expires": 1730847811,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCuM154eXUssO89UXqTzLQLbhjh1vXO3zC+ix9viDRH+wIgZ6Tz5Y3+90fLFk/kvFXnuQ3F9asS17iWYmIur/0BZ3Q=",
+            "validity-url": "https://www.wemystic.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.wemystic.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "23580"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da72487507e9688-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src https: blob: data: 'self'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline' ; img-src https: data: ; media-src https: blob: ; upgrade-insecure-requests; block-all-mixed-content; connect-src https: wss://*.hotjar.com;"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:31 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=CE3gAi0ytDgxuGKlgCeKjo1Piq4EregwN4st5Sqs3fE="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 17:29:52 GMT"
+      ],
+      "Permissions-Policy": [
+         "camera=(), microphone=()"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 b728afd684cc887f4e71375cc2bdd25a.cloudfront.net (CloudFront)"
+      ],
+      "X-Amz-Cf-Id": [
+         "ArFSxQc-Pw3r5eHafjoy0hPlXqc3bq8s4rnZcqCiLjLAW6cdksQVeA=="
+      ],
+      "X-Amz-Cf-Pop": [
+         "SFO53-P3"
+      ],
+      "X-Cache": [
+         "Hit from cloudfront"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

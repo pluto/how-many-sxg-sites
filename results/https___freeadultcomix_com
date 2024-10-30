@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-TTcBas1+GR8afOdvt+0++dNjsljE0oUEOFUS9DgoCL8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "9/N59q5ksRdyz8mNIxo3XwNTch2By/aMefCEmED9C8A=",
+            "cert-url": "https://freeadultcomix.com/cdn-fpw/sxg/cert.pem.msg.9_N59q5ksRdyz8mNIxo3XwNTch2By_aMefCEmED9C8A",
+            "date": 1730241539,
+            "expires": 1730245499,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDJQXvhkPGf1hk0Cl9uAipldEtoFXeaQAICTZ4RA01ERAiAQdByfjX8WzUWesZhExWncSZcp/4D07iHASo2t3nRqlQ==",
+            "validity-url": "https://freeadultcomix.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://freeadultcomix.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=360, public"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7009633f29e76-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:59 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Gy/n6LNl4ofUlG4MOOyq6KASfOcLFydxksxVMVTJRwA="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Powered-By": [
+         "NovaNAX (c) Next Generation Datacenters"
+      ],
+      "X2n-Balancing-Cluster": [
+         "#1 (Server #18)"
+      ],
+      "X2n-Cache-Backend": [
+         "HIT"
+      ],
+      "X2n-Cache-Backend-Age": [
+         "533.817 seconds"
+      ],
+      "X2n-Cache-Backend-Hits": [
+         "580"
+      ],
+      "X2n-Cache-Backend-Ttl": [
+         "604266.183 seconds"
+      ]
+   }
+}

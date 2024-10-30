@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-v0o65YJbKQSWRjx8TQuxKf3vsk8Cez8BGJ4b6p5RIuQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "zGVu5sLidRulVn2SJGGszrJd8oVUtfL7W7s0DKzWl2Q=",
+            "cert-url": "https://www.smarketer.de/cdn-fpw/sxg/cert.pem.msg.zGVu5sLidRulVn2SJGGszrJd8oVUtfL7W7s0DKzWl2Q",
+            "date": 1730242641,
+            "expires": 1730847441,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDTYYPLoDvnj+xARmOJPWq2s8Com9kWiIgZLL0zYd6MRAIhAP2KpKuwW8WtXDoXYdTkP7i0VT460PTTUO7VlJdL9Yjp",
+            "validity-url": "https://www.smarketer.de/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.smarketer.de/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71b7b23e917dc-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=DFK1T85ghJeYLaQQosxSo33M3+9d2ZRv+xTT4w497YU="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 15:09:06 GMT"
+      ],
+      "Permissions-Policy": [
+         "camera=(), microphone=(), accelerometer=(), battery=(), gamepad=(),  usb=(), screen-wake-lock=()"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-z98Bb2QXKa2+/jkrwuvV10cvv4fyxqX96my5+TlssbY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "SxpBfp+UmxDP17z6L7RhsfLWqIwWYwIXszWGZApN15I=",
+            "cert-url": "https://labymod.net/cdn-fpw/sxg/cert.pem.msg.SxpBfp-UmxDP17z6L7RhsfLWqIwWYwIXszWGZApN15I",
+            "date": 1730241925,
+            "expires": 1730247325,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEDk/X/hG0DqpWTDYzY2NDwp2/B8adGsgetRGfMiQLZmAiEA/xSjo03IsEAgWAjlaV34dGwfMixWyCS+biuGtQ9VU+0=",
+            "validity-url": "https://labymod.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://labymod.net/en",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=1800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70a034532cff9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:25 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=rEDtWBtqkpU10jDd35SouAIyhM1sP+gcfg5tZf5SD2Y="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:41:43 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Or-Cache-Status": [
+         "HIT"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-821Sp9polwz/jx+ndXqnynZdTX+2MRrbqU9x7pd8h+w=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "/JZwKuO05WmcH3RhP13GL/RfqblLE8DAuyfzp6gdprM=",
+            "cert-url": "https://psvgamestudio.com/cdn-fpw/sxg/cert.pem.msg._JZwKuO05WmcH3RhP13GL_RfqblLE8DAuyfzp6gdprM",
+            "date": 1730242399,
+            "expires": 1730847199,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDC2PTxuZxQuBE12WPMYNYNPfNmstMfEHx/qaQJvTIlugIgE5M8f9WfKQftvBRk1fkqzlLSHtEWxaMbIKm1ehKK1TI=",
+            "validity-url": "https://psvgamestudio.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://psvgamestudio.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71596046296ad-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:19 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=yEwqg1F2hNSR5u0N8iq3J2D4oioC+6+YUmKy5kDJPR4="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

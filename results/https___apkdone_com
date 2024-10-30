@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-nKX+BOaP1rnIO0PLNgHW0qGCh7OV2a+2z5ycODWxCuU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "adeS+XibXCzIlcVevpreVQBYpiADHgz1zEBLaq3T+M8=",
+            "cert-url": "https://apkdone.com/cdn-fpw/sxg/cert.pem.msg.adeS-XibXCzIlcVevpreVQBYpiADHgz1zEBLaq3T-M8",
+            "date": 1730240927,
+            "expires": 1730248127,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDu2IlEKjKUoC4f1MRK0wdtKVsMew83f6MlZ3RcH5dTtQIgO11s28OTZwQ9VHoZJ5T1KYvp8GxdCdB1xCTm28B8fp0=",
+            "validity-url": "https://apkdone.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://apkdone.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "3300"
+      ],
+      "Cache-Control": [
+         "max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f1a740fc96c3-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Cross-Origin-Resource-Policy": [
+         "cross-origin"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=GoNSPbJsWMRVCobqZkqcTPyu72asT9mF1+f1nygfGBs="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 20:58:23 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

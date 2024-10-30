@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-GeCmr7C76GqaFoj0D9FWrqVy5A7bM8INKn03foOOjKA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "v0fFPwM4Z4XxXBECCneqyePuMThsxZeTjyWHUkkoaJk=",
+            "cert-url": "https://laby.net/cdn-fpw/sxg/cert.pem.msg.v0fFPwM4Z4XxXBECCneqyePuMThsxZeTjyWHUkkoaJk",
+            "date": 1730241924,
+            "expires": 1730267124,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIE177JLagdzIpn+9E26yjfzZCTafW+frNPpx0wE097VIAiADozXhsk0WE9C96UypKMVd+lREnTz+A/hwTjh/c/4RAw==",
+            "validity-url": "https://laby.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://laby.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "5519"
+      ],
+      "Cache-Control": [
+         "max-age=21600, public"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da709ff26d41692-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:24 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=J+O7oI/nQMaJzAyvv1ag2VGdEFXeY/dI1zZfXMXlw4A="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:13:25 GMT"
+      ],
+      "Link": [
+         "<https://laby.net/build/230.c39325b6.js>;rel=preload;as=script,<https://laby.net/build/230.c39325b6.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-ti+/uIj82fc8NEJACXFIfbgTB7VBmsUrysKjLFcVzLE=\",<https://laby.net/build/284.0967f29c.js>;rel=preload;as=script,<https://laby.net/build/284.0967f29c.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-fyCSLLXz1aIe5wITz2AtVIBgApAvBOk66LDEgSxyVG4=\",<https://laby.net/build/js/head.2a7c4160.js>;rel=preload;as=script,<https://laby.net/build/js/head.2a7c4160.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-mZgshToT1rCkQt37mQJy8UVRBt6GmoXIGdARP23ku54=\",<https://laby.net/build/935.f5acdcc1.js>;rel=preload;as=script,<https://laby.net/build/935.f5acdcc1.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-7gG6bGmJgnW6e12cQAarA6Uc0GAGiO8XX3KCwj1ZpZ8=\",<https://laby.net/build/runtime.bff6fc2f.js>;rel=preload;as=script,<https://laby.net/build/runtime.bff6fc2f.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-UketRSoueJqLt99bHK+6XEuMZv78BINFGo4FJl1Neow=\",<https://laby.net/build/223.cb60927b.js>;rel=preload;as=script,<https://laby.net/build/223.cb60927b.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-Y83bXRMbF2a5mzDyzTqppDR2SgFYaNfahqZXt962Bxs=\",<https://laby.net/build/css/style.fd8fd050.css>;rel=preload;as=style,<https://laby.net/build/css/style.fd8fd050.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-oUJ8VBxMhxaMLsetYPchpBO8eXpmuQRo92DnvipXKcA=\",<https://laby.net/build/js/app.9e488b93.js>;rel=preload;as=script,<https://laby.net/build/js/app.9e488b93.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-GunEVPO3eK5pky/O1NTv1F9mIC+xSPGjCJx4IrNGVjU=\",<https://laby.net/build/js/index.56976700.js>;rel=preload;as=script,<https://laby.net/build/js/index.56976700.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-hVsXYyiCE0c/ovPJ2LygyfuM/5M2p54M5sX6J8poafA=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

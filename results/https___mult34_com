@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-bNjGsnTORv3dMF4AexBoQz0/POHeYt0gqsJNkhu0VCk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "eGEms1u86G7/I/e2C6O/ujt9L7ZKqj8XzvBKjw4Yqrc=",
+            "cert-url": "https://mult34.com/cdn-fpw/sxg/cert.pem.msg.eGEms1u86G7_I_e2C6O_ujt9L7ZKqj8XzvBKjw4Yqrc",
+            "date": 1730242123,
+            "expires": 1730846923,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDbwfB37qG1h+5ikk9SI3nye5ppF8F4TKGu73zG310eXAiEA+obHrDl7dBFWuigSY7cmLpnNJNdI5p3cAVmAnl6vSYY=",
+            "validity-url": "https://mult34.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://mult34.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "3086"
+      ],
+      "Cache-Control": [
+         "max-age=31536000"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70ed9f6bbce74-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:43 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=VLVKwRRM4HrlktNRJsQXgdQyXnV5Ri5h5WSRIyVooMU="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:57:17 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Cache-Handler": [
+         "cache-enabler-engine"
+      ]
+   }
+}

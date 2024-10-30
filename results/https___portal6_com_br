@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-UCsjZs4Cyj0e8oXyrTjFKjPs3ENuf8FNCuHCu0D8dIE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "NgwDe7FRiEUkDzKEAujKa3qLVoPxoC46IoQXwALbpiQ=",
+            "cert-url": "https://portal6.com.br/cdn-fpw/sxg/cert.pem.msg.NgwDe7FRiEUkDzKEAujKa3qLVoPxoC46IoQXwALbpiQ",
+            "date": 1730242374,
+            "expires": 1730260374,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCo4EuEJdR0kJnm+Bdi1iqiGZv6IawEt9SJJavDV2XofwIhANG92IshC1BSQH5YS5zhdfOXCdU4JmG4+h2t2cY94mqi",
+            "validity-url": "https://portal6.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://portal6.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "477"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da714f996f72510-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self' http: https: ws: wss: data: blob: 'unsafe-inline' 'unsafe-eval'; frame-ancestors 'self';"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:52:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=HV8bf1zKx7jnrKTzA1zpSSnZLOkE9fMPJpoC67jgdD8="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:44:29 GMT"
+      ],
+      "Link": [
+         "<https://portal6.com.br/wp-content/uploads/2024/10/seinframarginal.jpeg>;rel=preload;as=image,<https://portal6.com.br/wp-content/uploads/2024/10/seinframarginal.jpeg>;rel=allowed-alt-sxg;header-integrity=\"sha256-rKS1B5dw5IWhEz6tNmjb+6c35yLw43l3/5RzEfVv1lo=\""
+      ],
+      "Permissions-Policy": [
+         "microphone=(), camera=()"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Status": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

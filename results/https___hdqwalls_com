@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Ma02u627O6UnriFNXdOTc7707ysThUafbYshuOXoZEk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "DsmyNxpk1cv+j+Fp29G1zY49j3zN6R9n84A3cVtyYwM=",
+            "cert-url": "https://hdqwalls.com/cdn-fpw/sxg/cert.pem.msg.DsmyNxpk1cv-j-Fp29G1zY49j3zN6R9n84A3cVtyYwM",
+            "date": 1730241671,
+            "expires": 1730846471,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIAP2wcnM5C6rV64GZzC+k/sGYPjiqPdC3xIWmlJLpR0EAiAYRRf2AXKB9HoEv1bp04pbEZLPu2aw/kIByGazceSF0w==",
+            "validity-url": "https://hdqwalls.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hdqwalls.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da703d2e7f996d2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:11 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=ILcMerzLN/urDQSajm9L9+J85HD+ubZ71Fap9r/czhs="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Nginx-Upstream-Cache-Status": [
+         "BYPASS"
+      ],
+      "X-Server-Powered-By": [
+         "Engintron"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

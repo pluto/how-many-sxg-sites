@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-xKJrH6WBqiWCum5VjWlAPog6pc5pm0XlI1oqKvJSgX4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "XrcY64JDzZnHo906q0MO0zsxmowGCcPWCPdrrNp8PY4=",
+            "cert-url": "https://www.contabeis.com.br/cdn-fpw/sxg/cert.pem.msg.XrcY64JDzZnHo906q0MO0zsxmowGCcPWCPdrrNp8PY4",
+            "date": 1730241233,
+            "expires": 1730245133,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDBZYiSDVlaxqyVVSPZ9Ks+xBE3ZWcTnDlwbRCCnB64MgIhAOC/aTkF9oG/r8mMFDuyXVRRfNWYendNXFCdMo4my2fK",
+            "validity-url": "https://www.contabeis.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.contabeis.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "https://www.contabeis.com.br"
+      ],
+      "Cache-Control": [
+         "max-age=300, must-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Ray": [
+         "8da6f91740029809-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html;  charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:33:52 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=mBlEX2rQX9vX9RvYYBQUFXmVpkYmH6MwIFBXXCdSoTs="
+      ],
+      "Expires": [
+         "Thu, 19 Nov 1981 08:52:00 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:33:43 GMT"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

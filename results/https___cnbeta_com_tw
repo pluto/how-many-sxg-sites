@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-CFZY9dnH63dmX46NYcaJQGtu6d+ND3y0kyP4sLNvK90=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Ei6LlAwM6hbuQt5D6N4PA4oQJMnTSgswRm/xD7zBr/I=",
+            "cert-url": "https://www.cnbeta.com.tw/cdn-fpw/sxg/cert.pem.msg.Ei6LlAwM6hbuQt5D6N4PA4oQJMnTSgswRm_xD7zBr_I",
+            "date": 1730241207,
+            "expires": 1730846007,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCatZ5AvavVQ8V8NNODMRhRpyK4d00vi5CFsQW/fZzNZwIhAKUXPAwBmuR8Ql3Y5+ZgApgNu2lCPWkXrCYqAj3ZuH9P",
+            "validity-url": "https://www.cnbeta.com.tw/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.cnbeta.com.tw/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f878f39ffa8a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:33:27 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=cLQAetgBoCNO02gUieF4K/vZls/2BhKUAVOdDDeWndw="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:32:06 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

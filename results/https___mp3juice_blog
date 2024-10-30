@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-uYNRMOVXpamhFeOk4mA4ujvHQ0dREgAYM4xErReUyqM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "JZ/ghrV+OM3ptG+gQdeuVU/ZdNZJwjo4alU4eBr91OU=",
+            "cert-url": "https://wwd.mp3juice.blog/cdn-fpw/sxg/cert.pem.msg.JZ_ghrV-OM3ptG-gQdeuVU_ZdNZJwjo4alU4eBr91OU",
+            "date": 1730242117,
+            "expires": 1730846917,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDbkXpwgT+K6Uh4tc5/04WCAD8NjieZ8D/KZrDTD3ll8AiBSebmzi/1Eb8BPGQChuQoCm3W95QgoIUwAlRdohkaaTQ==",
+            "validity-url": "https://wwd.mp3juice.blog/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://wwd.mp3juice.blog/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70eb26459156b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:37 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=UH/q1aAAo5+Xo+kEiSCKRBItlj0zNItnlt3YW9tCwUE="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

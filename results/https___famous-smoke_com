@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-C3QsNR0fijr0LqDn/3rRazD7+AV+0TWD62Icg8scOuE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "fgdpfe2DAu8+aeQu0xJvRfaIz0jnjIPAQvD8j33V3Dg=",
+            "cert-url": "https://www.famous-smoke.com/cdn-fpw/sxg/cert.pem.msg.fgdpfe2DAu8-aeQu0xJvRfaIz0jnjIPAQvD8j33V3Dg",
+            "date": 1730241483,
+            "expires": 1730846283,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIAIgKgSHw9+efEpR92R3xmK2fyopg6PZ9QVahjlKPNa1AiAh3BWxd85F86jB396iUPIqTBIwZgIPZr9cJjBfl1aSNA==",
+            "validity-url": "https://www.famous-smoke.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.famous-smoke.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6ff3b379015ef-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:03 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=fWRw+/T3QsQCE13iaO87lAMxK+8iDaeT7GafR4Qwp6c="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

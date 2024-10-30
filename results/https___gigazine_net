@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-p3/9FBJmZ3pgXQp3wMKPY90Mo61gT/ZTWRXYNnRtOi0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "kZGSKP3xCFTcesBWUKekrEc30HP1jp1PdhmZox3pmZc=",
+            "cert-url": "https://gigazine.net/cdn-fpw/sxg/cert.pem.msg.kZGSKP3xCFTcesBWUKekrEc30HP1jp1PdhmZox3pmZc",
+            "date": 1730241597,
+            "expires": 1730259597,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEe06gHBNiIFZSsFDtSv9fqFSY7YU8S8B6J48+o1UTvGAiEAnMcTgl69P0saIo4gB9ssEjIMtqU58YKFXAp7hdMOOt8=",
+            "validity-url": "https://gigazine.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://gigazine.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "62"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7020055d2ceed-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self' gigazine.biz"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:39:56 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=LtiIuP0ir8QVoTNvs7fnrzz0Hj12q+Cam5/5TDmg4vs="
+      ],
+      "Expires": [
+         "Sat, 26 Jul 1997 05:00:00 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:38:54 GMT"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

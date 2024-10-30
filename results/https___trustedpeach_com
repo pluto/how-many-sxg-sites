@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-QmuZteeAKpgOFbhbuOs3GJtcp94QasZ/KZT04iHacM0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "jmnKsbbnLtoqa44RNwZco4Emjjg1FpNLhaNb+m4YUAE=",
+            "cert-url": "https://www.eplay.com/cdn-fpw/sxg/cert.pem.msg.jmnKsbbnLtoqa44RNwZco4Emjjg1FpNLhaNb-m4YUAE",
+            "date": 1730242864,
+            "expires": 1730247664,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIA8ZzQ9bs53HRIZpS2Cwe/FM1qGEG5t+UONQM1In8ilhAiArRcUUxy0qnj09nAmRXZyIf3ZthrYRxBSFxirZuTyeMw==",
+            "validity-url": "https://www.eplay.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.eplay.com/?ref=levelup",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cache-Control": [
+         "public, s-maxage=1200, max-age=300, stale-while-revalidate=7200"
+      ],
+      "Cf-Cache-Status": [
+         "UPDATING"
+      ],
+      "Cf-Ray": [
+         "8da720f4924d236e-SJC"
+      ],
+      "Content-Disposition": [
+         "inline"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:04 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=0Ypj6YexJOdrkBcCtCfssZM5qaKHEoH2Jcb7SaBZnxM="
+      ],
+      "Etag": [
+         "W/\"61d3dcb0213d5d74bf7182f091a95223\""
+      ],
+      "Link": [
+         "<https://www.eplay.com/_next/static/css/268efbfe96373547.css?dpl=dpl_3nGhg7gFF2EZ17aCjkju3ufBMaTb>;rel=preload;as=style,<https://www.eplay.com/_next/static/css/268efbfe96373547.css?dpl=dpl_3nGhg7gFF2EZ17aCjkju3ufBMaTb>;rel=allowed-alt-sxg;header-integrity=\"sha256-uoUU0CJlB012cfkWOf4G7aow72eg7jJcdgSZhAc0624=\",<https://www.eplay.com/fonts/inter-v12-latin-regular.woff2>;as=font;crossorigin=anonymous;rel=preload,<https://www.eplay.com/fonts/inter-v12-latin-regular.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-O1mtBS7MC8kxZPpEsYGNvIVY5aYSkLlOwILktJKche4=\",<https://www.eplay.com/_next/static/css/b4555bfd8e0baf47.css?dpl=dpl_3nGhg7gFF2EZ17aCjkju3ufBMaTb>;rel=preload;as=style,<https://www.eplay.com/_next/static/css/b4555bfd8e0baf47.css?dpl=dpl_3nGhg7gFF2EZ17aCjkju3ufBMaTb>;rel=allowed-alt-sxg;header-integrity=\"sha256-15zN1HxHJ25SRRm4YcIyXrfxQQCAV3CQAJTzQglPEGw=\",<https://www.eplay.com/fonts/inter-v12-latin-200.woff2>;as=font;crossorigin=anonymous;rel=preload,<https://www.eplay.com/fonts/inter-v12-latin-200.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-3LQ8ozre5pslWhzk1hJfL6u7oVZ9ufzMvOEE8+1PkjE=\",<https://www.eplay.com/fonts/inter-v12-latin-700.woff2>;as=font;crossorigin=anonymous;rel=preload,<https://www.eplay.com/fonts/inter-v12-latin-700.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-/Xjl+8lp5y6ApBV9WYWLTpGGCvaid71JonDKqIvxkMA=\",<https://www.eplay.com/fonts/inter-v12-latin-500.woff2>;as=font;crossorigin=anonymous;rel=preload,<https://www.eplay.com/fonts/inter-v12-latin-500.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-HmBxXEaDVVKKDBw4qQOP/VTdb52VSob2kalIRebXZQY=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "RSC, Next-Router-State-Tree, Next-Router-Prefetch"
+      ],
+      "X-Cache-Control": [
+         "public, s-maxage=1200, max-age=300, stale-while-revalidate=7200"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Matched-Path": [
+         "/"
+      ],
+      "X-Vercel-Cache": [
+         "HIT"
+      ],
+      "X-Vercel-Id": [
+         "cle1::tw25g-1730165195524-b7272771adbd"
+      ]
+   }
+}

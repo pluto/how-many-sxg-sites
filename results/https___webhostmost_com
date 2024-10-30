@@ -1,0 +1,91 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-j750Pr05TAqXFM1uD23Vl6JLvnrM3CcwgIGhZSx0qfg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "m1mUc/d2EWaVf6hxMM0pu80GRyIVcmNJ3DDgpPz0YE8=",
+            "cert-url": "https://webhostmost.com/cdn-fpw/sxg/cert.pem.msg.m1mUc_d2EWaVf6hxMM0pu80GRyIVcmNJ3DDgpPz0YE8",
+            "date": 1730243000,
+            "expires": 1730847800,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEvu+V3w8dlBPedt7mNr+OAGH7bh0wP8zfGKSi4f/U9DAiAJ+XcP5Apvg+MIDthDt8t7yxtNHLqEwbNqfRu8/T/hvQ==",
+            "validity-url": "https://webhostmost.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://webhostmost.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7243f142d2700-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "block-all-mixed-content"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=MqICIsrAJ4ArueesF4YSxlHWZhU8HChEj5wzMl/30OM="
+      ],
+      "Expires": [
+         "Thu, 19 Nov 1981 08:52:00 GMT"
+      ],
+      "Link": [
+         "<https://webhostmost.com/assets/css/fontawesome-all.min.css>;rel=preload;as=style,<https://webhostmost.com/assets/css/fontawesome-all.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-Vm3AyXlkAKFq1TurqkWuzf/kK1PsZbldLEyvzDnXMMU=\""
+      ],
+      "Permissions-Policy": [
+         "geolocation=*, midi=*, sync-xhr=(self \"https://webhostmost.com\" \"https://www.webhostmost.com\"), microphone=*, camera=*, magnetometer=*, gyroscope=*, payment=*, fullscreen=*"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Download-Options": [
+         "noopen"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "master-only"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ],
+      "X-Xss-Protection": [
+         "1"
+      ]
+   }
+}

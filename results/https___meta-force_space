@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-tPLKsnNJqtdwzoTSY6FeN9CzXgU7uZAHpwDTTx4xTPk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "PIPDV0tGsVaMk6fKCO7Sd2tCz9T+lby1N/ERkQPVnt0=",
+            "cert-url": "https://meta-force.space/cdn-fpw/sxg/cert.pem.msg.PIPDV0tGsVaMk6fKCO7Sd2tCz9T-lby1N_ERkQPVnt0",
+            "date": 1730242066,
+            "expires": 1730846866,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIF4OTBN7p1oJwkaL63Si7wwL6VbqUs/9E5kSBAAnV7ZuAiBvtNufoeK9AFyvHVfFk7JefV1XqS+unBQhAZoEhQEykg==",
+            "validity-url": "https://meta-force.space/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://meta-force.space/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70d76731524d6-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:47:46 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=e4Y7F9ZGMp/q6/dXZDSg6aZf1i/o0v+S3aBJtbRS9oE="
+      ],
+      "Last-Modified": [
+         "Sun, 06 Oct 2024 13:55:43 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

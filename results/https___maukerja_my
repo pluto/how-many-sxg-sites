@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-4965vuvtf4qXR7MGYy5A45FvXD8vXOhR4JbqGocO+Ws=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "X+Rbc5sQXsP/y/JKTe5ZVTu8n7FOPhsWc3qhPGV78uE=",
+            "cert-url": "https://www.maukerja.my/cdn-fpw/sxg/cert.pem.msg.X-Rbc5sQXsP_y_JKTe5ZVTu8n7FOPhsWc3qhPGV78uE",
+            "date": 1730242033,
+            "expires": 1730846833,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIHql8+FXwTuI8m/legOugON/tVL3q+tKSGcJEGd/RahSAiEAvFO2uXMT0BuNGXYxYfDc49RFE4aVl3a/vxP4z/ibcsw=",
+            "validity-url": "https://www.maukerja.my/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.maukerja.my/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70c9d858517d1-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:47:13 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=mFlXN77Kun4rw2Ck4epqIAYAL+lNypgyes1WE51saOw="
+      ],
+      "Etag": [
+         "W/\"4d163-p5NT3JnemJtbelEOGwQmGvQ96po\""
+      ],
+      "Link": [
+         "<https://www.maukerja.my/_nuxt/d7befcb.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/d7befcb.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-jJbEpTJVEIpIKGhjjsEDXLb1+PDMHP1Af32HB9Tumnk=\",<https://www.maukerja.my/_nuxt/8d7874c.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/8d7874c.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-e4NHyDIMzv60YoGbWGXcOSwX+xoHMlQAXICwjYEjpeA=\",<https://www.maukerja.my/_nuxt/bcff456.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/bcff456.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-2icKnrfn7772dJrimKuZ5Zdj+ljJhQr58CpDv/z91Ic=\",<https://www.maukerja.my/_nuxt/c391564.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/c391564.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-B5YxL4PMiG3qPxXA4yQtOYxpePTewax+JLDQiW8x2Ik=\",<https://www.maukerja.my/_nuxt/eb1e101.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/eb1e101.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-9CIr9YiVIHOwoyO+ttPuoj+IoxgzKVJOI+h2uFDkaX0=\",<https://www.maukerja.my/_nuxt/79e181a.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/79e181a.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-6HwUeSFqqH+Ko1PsUhQQv8yNQccE1stBrCfoMGFg0Co=\",<https://www.maukerja.my/_nuxt/css/8ad6d76.css>;rel=preload;as=style,<https://www.maukerja.my/_nuxt/css/8ad6d76.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-+urqL8BYJlIgkhpPsyNnGnqWnTPPQNNVcwnKTm5Eqik=\",<https://www.maukerja.my/_nuxt/5bba630.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/5bba630.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-KPtm/QB5siHx1VuNpak2UIwevnyB9980JsPN2+iCG4E=\",<https://www.maukerja.my/_nuxt/000cb94.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/000cb94.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-y39XnDx13V+M8Kk9ZJIEnGhoJjOJcfh/IZM99nYTLw4=\",<https://www.maukerja.my/_nuxt/4a570a8.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/4a570a8.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-2YErFZCB1IMJz6E40xTMWTZ+AKsXWb621qPJkTAgLDk=\",<https://www.maukerja.my/_nuxt/4b486d6.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/4b486d6.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-ulR848OKGTOksIKiIgP6xVAfVCcDO1ANiYRJBG3aE8o=\",<https://www.maukerja.my/_nuxt/656e5bf.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/656e5bf.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-TS/ZpdEOE/wl58UM1cz8vXycX7s/HYor0ebQCzQYEqc=\",<https://www.maukerja.my/_nuxt/5f36ef5.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/5f36ef5.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-Ml0y9V9Oh59euQq/KnKsURynGdt4p+BR79kaKtoJeTU=\",<https://www.maukerja.my/_nuxt/fe0f0b9.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/fe0f0b9.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-eNmAaZwtbEdN2S6v2rAMi36+f5Q3AAMKFFbUmyKth8E=\",<https://www.maukerja.my/_nuxt/38837a2.js>;rel=preload;as=script,<https://www.maukerja.my/_nuxt/38837a2.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-z4ysNMTJCmrHIuCGyuh+4gdIoIeE9pCSl9x4UtT4JdM=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

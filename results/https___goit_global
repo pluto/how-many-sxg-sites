@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-6nQBc/b9jJeOOHcHMod4FleHN66TjTEnGARE7NTipeM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "OSXmu96X1gPb7jPqUaEjb3+L7WLYSYK9FijpZxSKLuo=",
+            "cert-url": "https://goit.global/cdn-fpw/sxg/cert.pem.msg.OSXmu96X1gPb7jPqUaEjb3-L7WLYSYK9FijpZxSKLuo",
+            "date": 1730241617,
+            "expires": 1730259617,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHxnHvOxt5EOtF64GEl3EpkVygGNCj3zk26w6gkslMR1AiBQC5UeJoTCfYoiwLNF/SK4Kvd+sPbJlTkQby/N9bU8YQ==",
+            "validity-url": "https://goit.global/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://goit.global/ua/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7027b173115b2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:40:17 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=OXf/5WUAHdrhTUiJ7mQqKKysnV0lYZVtCAzvl1kcKko="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:36:17 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Page-Speed": [
+         "on"
+      ],
+      "X-Ray": [
+         "wnp1047:1.460/wn1047:1.450/wa1047:D=1443113"
+      ]
+   }
+}

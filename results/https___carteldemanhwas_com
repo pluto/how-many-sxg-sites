@@ -1,0 +1,91 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-sAlbUOqgYdRB3Bjv1NS8u3/AgPFgo8KPCBI//iA29NY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "CQSYtq5dE7BLl8lG8jbOG0AFiantQtHBHqAWN2pTFi8=",
+            "cert-url": "https://carteldemanhwas.com/cdn-fpw/sxg/cert.pem.msg.CQSYtq5dE7BLl8lG8jbOG0AFiantQtHBHqAWN2pTFi8",
+            "date": 1730241128,
+            "expires": 1730845928,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD7NBO5g3RwFpTGuSumTJkmXlQfP4BHHZEpeopnD1xkHwIgF/HMOGYYaC6qH2jrF50aecnuiXfqdLJWgr+vk2J4+Ec=",
+            "validity-url": "https://carteldemanhwas.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://carteldemanhwas.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+      ],
+      "Cache-Control": [
+         "s-maxage=31536000, max-age=600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f692514dfa2e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:32:08 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=nWYgvrMxLTFCAIBYlePsXoBqN6QkESKhhE1zU23Ftww="
+      ],
+      "Edit": [
+         "Set-Cookie ^(.*)$ $1;HttpOnly;Secure"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:31:47 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Litespeed-Cache": [
+         "miss"
+      ],
+      "X-Litespeed-Cache-Control": [
+         "public,max-age=604800"
+      ],
+      "X-Litespeed-Tag": [
+         "382_HTTP.200,382_home,382_URL.6666cd76f96956469e7be39d750cc7d9,382_F,382_"
+      ],
+      "X-Powered-By": [
+         "PleskLin"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ],
+      "X-Wp-Cf-Super-Cache": [
+         "DISABLED"
+      ],
+      "X-Wp-Cf-Super-Cache-Active": [
+         "1"
+      ],
+      "X-Wp-Cf-Super-Cache-Cache-Control": [
+         "s-maxage=31536000, max-age=600"
+      ],
+      "X-Wp-Cf-Super-Cache-Cookies-Bypass": [
+         "swfpc-feature-not-enabled"
+      ]
+   }
+}

@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-6Q6Ra/M6NOiuEAFgk6csCrnG0QhL6aqcsVfnS3oZ5GU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "lMRqH3z3fX25xPScwx9z/giadjymiT3erVoz9+DcNGk=",
+            "cert-url": "https://appewa.com/cdn-fpw/sxg/cert.pem.msg.lMRqH3z3fX25xPScwx9z_giadjymiT3erVoz9-DcNGk",
+            "date": 1730240930,
+            "expires": 1730845730,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBPI5MsJBDSGlCLMfMGB1e7EK2BOaV9AfJ2RMIP+WU0jAiAwz0xIzhwYjzMjbVLOD2NdI7F2jcl0eSBytSPEavgNaA==",
+            "validity-url": "https://appewa.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://appewa.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cache-Control": [
+         "max-age=604800"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f1b627792554-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Length": [
+         "7872"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:50 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=qK8fsXqVpCyEC7cLHDlsHm/C59OzTgA71FapsdUIIYs="
+      ],
+      "Etag": [
+         "\"0057305e8b1221e114d062ad1a52f84f\""
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 13:44:13 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Amz-Id-2": [
+         "voHhIElzVoyseNJan6W0gUPfgZvaW6LpCR0fMNwfXmfm2fIXr5j56SBSh3FRo4yMa7R1oDbGs7lBFLsiL6LoJw=="
+      ],
+      "X-Amz-Request-Id": [
+         "AMPJ3YNAKPVCG52T"
+      ],
+      "X-Amz-Server-Side-Encryption": [
+         "AES256"
+      ],
+      "X-Amz-Storage-Class": [
+         "INTELLIGENT_TIERING"
+      ],
+      "X-Amz-Version-Id": [
+         "xUtftY9vMSlYyJmeqy9x5QyN7OBhkdMs"
+      ]
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-bRASJxK1QeFSNgyxbjxZLcAujFbort3pAesC1j9xcZg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "RBMXNp+TFOjdIOoFHI1bH/FtKQWFGSyFd324wuOdi8Q=",
+            "cert-url": "https://www.everyeye.it/cdn-fpw/sxg/cert.pem.msg.RBMXNp-TFOjdIOoFHI1bH_FtKQWFGSyFd324wuOdi8Q",
+            "date": 1730241466,
+            "expires": 1730245366,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDU0RDZnzAvDB8l1za8/bEIsHNEAe/l5i/iB1MEFNoyAQIgAjLBZR2TK+qS+nuJFJKweBYpc/bXbLGLTz9FldZJHIQ=",
+            "validity-url": "https://www.everyeye.it/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.everyeye.it/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Encoding": [
+         "gzip,deflate"
+      ],
+      "Cache-Control": [
+         "public, max-age=300"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6fece13166420-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; Charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:37:46 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=tlPxh21okvhJx45WO1FWS4ErCUlUyRalYwS2RXfofU4="
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

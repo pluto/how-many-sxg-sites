@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ZxOVJttIuxKN17mm7fLYsDaGvATiu62rDP/IM2/OLF4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "9FS/yc5FUchLcLKg8IKnW4ZyGvLBwoeCWOke6zcqcAE=",
+            "cert-url": "https://www.desikahani2.net/cdn-fpw/sxg/cert.pem.msg.9FS_yc5FUchLcLKg8IKnW4ZyGvLBwoeCWOke6zcqcAE",
+            "date": 1730241310,
+            "expires": 1730846110,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCaU84HOXFDba/0IcxMVCuk3kf217rUTCLKCtkQneyjlgIhAJIhZRQs7imrhoUk54cjfo3C56YHJFwXNgBGL1orEraM",
+            "validity-url": "https://www.desikahani2.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.desikahani2.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=691200, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6fafd41d4cf2b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:10 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=d4veVnW0YkiIU/yHXTHJjlSNwcSSbrMX5SpslBtyzi8="
+      ],
+      "Expires": [
+         "Thu, 19 Nov 1981 08:52:00 GMT"
+      ],
+      "Fastcgi-Cache": [
+         "HIT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:35:10 GMT"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

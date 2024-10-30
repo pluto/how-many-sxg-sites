@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-K0MhlRVME2SQre5Q9QM19wmzKfOf6s+O5cVsOlygrDA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "0WVjUbXDI4f3/MRXMAJgUntxtKod0uDjGusdXXEyU18=",
+            "cert-url": "https://www.yourlifechoices.com.au/cdn-fpw/sxg/cert.pem.msg.0WVjUbXDI4f3_MRXMAJgUntxtKod0uDjGusdXXEyU18",
+            "date": 1730243094,
+            "expires": 1730847894,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCICo1bjs+uKcPQ4kQ0xM3pzP1RwqMWCSTnvfLXDMt49q7AiEAoa2O+arRKlzKfmormdYFo9qYVCP6Xs4dJKrUi/nkYVA=",
+            "validity-url": "https://www.yourlifechoices.com.au/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.yourlifechoices.com.au/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7267d255f96cb-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "games.yourlifechoices.com.au"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=n2ILlmsCJvnufZ42Vb9+uPQhIWHatQXJ/D77wptAz6s="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Frame-Options": [
+         "ALLOW-FROM games.yourlifechoices.com.au"
+      ],
+      "X-Php-Fpm-Load-Balancer": [
+         "true"
+      ]
+   }
+}

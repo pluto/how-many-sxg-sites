@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-tz+1iJmK7j7isW5tq7NpPOJns0/vRGtmYHh+pIWXtX4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "tM9B+W2ZCgsh4JIa7+UCpIAXmD/KMN4AaMBwIX+iMpA=",
+            "cert-url": "https://sozcucdn.com/cdn-fpw/sxg/cert.pem.msg.tM9B-W2ZCgsh4JIa7-UCpIAXmD_KMN4AaMBwIX-iMpA",
+            "date": 1730242665,
+            "expires": 1730847465,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDe5CCzA82f952gSVkFi1crks40p9t3lEi8BlwyRPUviAiBK4E0XQKdfmog0hzDRuL8wq15NKEYfGEE+OMfmhBMo7Q==",
+            "validity-url": "https://sozcucdn.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://sozcucdn.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71c1814b36453-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:46 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Rc+wOacqctUU75qsZzWhjBv/P4iHuiGEJovq8oRCzZk="
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

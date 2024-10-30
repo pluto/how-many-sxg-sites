@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-7Zy4HJb/+MARzfuN9uVeD5BAx/7E+3ZondPzYd5AQo4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "1GBpoTxZfJKjmuhV27qkM7WF3F+76XHV7vWJp8xOJSw=",
+            "cert-url": "https://www.favcomic.com/cdn-fpw/sxg/cert.pem.msg.1GBpoTxZfJKjmuhV27qkM7WF3F-76XHV7vWJp8xOJSw",
+            "date": 1730241491,
+            "expires": 1730846291,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQD5lQd7AYD7b9n3qLVf3oY66WwmJU1rdo327CDAK+hPHgIhAOlOvyler6U+wdXxOC47zsozKBjRVr8TfIBMDw2xjgn3",
+            "validity-url": "https://www.favcomic.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.favcomic.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6ff67f64b7ace-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en-US"
+      ],
+      "Content-Type": [
+         "text/html;charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:11 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=8XbSdjviwmQ2KILdIg1mBSSlUB8pvzmu/SNWSmbni/Y="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

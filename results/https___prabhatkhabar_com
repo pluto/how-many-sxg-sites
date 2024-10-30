@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-nZMwxvzBKZyXV3nOv7Nhr6KqIHKlHWqZussA5vrDnnE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "5J+vFu59MuoTjAwp9GxFSTWZ9SawzIZdDdIv5pgZv/o=",
+            "cert-url": "https://www.prabhatkhabar.com/cdn-fpw/sxg/cert.pem.msg.5J-vFu59MuoTjAwp9GxFSTWZ9SawzIZdDdIv5pgZv_o",
+            "date": 1730242381,
+            "expires": 1730247781,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFbKru2nwyqghO0yQQu8AgEOgzWivM3UQktlodHa8kzFAiEA4MY77JvCmIpwcmz0GXqmBuKePiESBnuTPVu66OHQnTE=",
+            "validity-url": "https://www.prabhatkhabar.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.prabhatkhabar.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=60, s-maxage=1800, stale-while-revalidate=1000, stale-if-error=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7151ff163cfb8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:01 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=6V87mu9zTL4jfWIU7qWgMLC8zIPKZ94iwCmmqep8F3o="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:47:16 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "MISS"
+      ]
+   }
+}

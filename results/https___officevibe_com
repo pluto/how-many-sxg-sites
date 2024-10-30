@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-tvjR5cuaGlfBo+MacRCs3SIBrMkKgykX7HYASn/ApzM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "4s9dd6VsqIsFSoDval0OcCtpCOtJybBXh2GavHjZFiU=",
+            "cert-url": "https://workleap.com/cdn-fpw/sxg/cert.pem.msg.4s9dd6VsqIsFSoDval0OcCtpCOtJybBXh2GavHjZFiU",
+            "date": 1730242248,
+            "expires": 1730246448,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHMHFHhwB7F5GDhOlYhVOJXuSfcouTStonojZ340/kB6AiAEwq3FhmbvLm+wcMDiHnhOjKzATZWzkgfVWjpsTLigCQ==",
+            "validity-url": "https://workleap.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://workleap.com/officevibe/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1154739"
+      ],
+      "Cache-Control": [
+         "max-age=600, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da711ea560f967b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:50:48 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=LT4uOJGci1XCsNJEugXjry04M4iQtuxUKp5tL4uZt/Q="
+      ],
+      "Last-Modified": [
+         "Fri, 12 Jul 2024 08:14:28 GMT"
+      ],
+      "Link": [
+         "<https://workleap.com/wp-content/themes/workleap/build/assets/main-style.css?ver=1729090635>;rel=preload;as=style,<https://workleap.com/wp-content/themes/workleap/build/assets/main-style.css?ver=1729090635>;rel=allowed-alt-sxg;header-integrity=\"sha256-JCCUU48nRChdAj+cUnsPQbmdUK4LEU22T/lgoWZkVkA=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+      ],
+      "X-Cache": [
+         "MISS"
+      ],
+      "X-Cache-Group": [
+         "normal"
+      ],
+      "X-Cacheable": [
+         "SHORT"
+      ]
+   }
+}

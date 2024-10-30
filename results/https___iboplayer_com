@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-rgs7rU72SMLX6jp/sPExUZepyy5pQ6u2P0Vh4GXSe/A=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "/xZaoe2RTl7NYGGoHrql0jRxcPI0gfl6WoszGDWHAXI=",
+            "cert-url": "https://iboplayer.com/cdn-fpw/sxg/cert.pem.msg._xZaoe2RTl7NYGGoHrql0jRxcPI0gfl6WoszGDWHAXI",
+            "date": 1730241739,
+            "expires": 1730846539,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD/64Pv9EaVXAOFw92bVGWUS0Of+BrR+XZcWqP0gINzuAIgIUhKBw/POQ5tUUw94c7dDpQ5Df+QdJvUTlYPsSYRoMo=",
+            "validity-url": "https://iboplayer.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://iboplayer.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7057b722c96e1-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:42:19 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Tq7U+l1XjoieBIV9UUwQuHUjykb9m6fSceIjgiS2bDU="
+      ],
+      "Last-Modified": [
+         "Wed, 23 Oct 2024 12:27:33 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

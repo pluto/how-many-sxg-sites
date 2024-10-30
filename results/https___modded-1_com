@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-WRdkxlpBvpJNBU7KUjQZFk54AtecAIzk8XmHMODMxsQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "dQkXuEanmk4p0aA6bpj9Apbt/aWuymYUAF3PrvSKxQY=",
+            "cert-url": "https://modded-1.com/cdn-fpw/sxg/cert.pem.msg.dQkXuEanmk4p0aA6bpj9Apbt_aWuymYUAF3PrvSKxQY",
+            "date": 1730242096,
+            "expires": 1730846896,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQC9iV7rhf0SBuAYyM3NIQZGygPFXcGld0Sdzf2YkE22wgIgMN9nj1g2UBD7pdqHbaJ60vRwhyvK11bVtHIwyvKbaZg=",
+            "validity-url": "https://modded-1.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://modded-1.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "476"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da70e2f70c8642e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:15 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=FCcSDIIIUFWxKag3lbKJRtGJzgMXha6510/WEXD8tuM="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:14:03 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Litespeed-Cache": [
+         "hit"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ]
+   }
+}

@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-xyE85A6pG5VkwT2dwzMq/KnuP2lGOQNbUOjf1Edmdtw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "TI5+hl4ueYwdyOYamUEBt4uzMQ6bOMjMQysbbsrz+qo=",
+            "cert-url": "https://brawlify.com/cdn-fpw/sxg/cert.pem.msg.TI5-hl4ueYwdyOYamUEBt4uzMQ6bOMjMQysbbsrz-qo",
+            "date": 1730241084,
+            "expires": 1730246484,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDydpD7o6w61JVPrCNgJ6WqrWtdI6ok7fPH8xE0fvC+cAiB8KH16cp0DhSUQvH9mnzJrKBSuyhMIIobHzOiEgaa7nQ==",
+            "validity-url": "https://brawlify.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://brawlify.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "151"
+      ],
+      "Cache-Control": [
+         "public, max-age=1800, s-maxage=1800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f57f320b15e9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:31:24 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=s33xZJcGIRvM8VUhzy46DplF7hH3zQ4HZ24U6/bImXg="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:28:38 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "X-Requested-With,Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

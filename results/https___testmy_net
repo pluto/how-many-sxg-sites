@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-gP4HWISQRDVcqKKqByL8epOb3PZe/sXM33vQlNojKtg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "F+k2zXE90OE6KH0o4pUdX6pv18nJUkpxOAvb3L0R3XU=",
+            "cert-url": "https://testmy.net/cdn-fpw/sxg/cert.pem.msg.F-k2zXE90OE6KH0o4pUdX6pv18nJUkpxOAvb3L0R3XU",
+            "date": 1730242776,
+            "expires": 1730847576,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCICu5Je3WFEzhhlPMWEysxOhA8l97RXwKknuQZTN5zyp4AiEAsDdQToVTHLufN3izVti8aU5I9Ns40SZsoCGGtIeL+ZA=",
+            "validity-url": "https://testmy.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://testmy.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Encoding": [
+         "gzip"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71ecde743cf31-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:36 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=OMg1frj8t65FZ4tU81iISKQ/IPJu5a2AB+CLfp/PifA="
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN always"
+      ],
+      "X-Powered-By": [
+         "PHP/8.1.30, PleskLin"
+      ]
+   }
+}

@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-fy1BSxQu74vgk/y8n7PaRdMD7JPi6e/wL03S2NXCdN8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "s+eQd04TrDazUiep9LMAfy3WvC6DzZjrCGiwLjmO2xA=",
+            "cert-url": "https://pornogratisdiario.com/cdn-fpw/sxg/cert.pem.msg.s-eQd04TrDazUiep9LMAfy3WvC6DzZjrCGiwLjmO2xA",
+            "date": 1730242372,
+            "expires": 1730847172,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDU/WILQIoEVoWFZtZtT1dtc0iFfRa7HtZI6J9DOynm9gIhAIsC0YivEqofTB74WxA5m/K8Xn7segkR6f6poJODh/cr",
+            "validity-url": "https://pornogratisdiario.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://pornogratisdiario.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Access-Control-Expose-Headers": [
+         "Content-Length,Content-Range"
+      ],
+      "Age": [
+         "3765"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ipcountry": [
+         "US"
+      ],
+      "Cf-Ray": [
+         "8da714eb7495faf0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:52:52 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=93WznwINpv43GAwT4i0yq2IQRN83Q9Ep96CuC90V2Lg="
+      ],
+      "Expires": [
+         "Thu, 19 Nov 1981 08:52:00 GMT"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, X-UA-Device, X-UA-Bot"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Country-Code": [
+         "US"
+      ],
+      "X-Ua-Bot": [
+         "0"
+      ],
+      "X-Ua-Device": [
+         "pc"
+      ]
+   }
+}

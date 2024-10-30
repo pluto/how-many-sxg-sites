@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-uLCLuYJwAOoNLWM0A/40cA+p+j5xqq++Bqd0SRbJZXQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "vuLKuQ7NaVEmvqZhz9xLLhG27++04bdPLKXjAE7dmeE=",
+            "cert-url": "https://kudosi.ai/cdn-fpw/sxg/cert.pem.msg.vuLKuQ7NaVEmvqZhz9xLLhG27--04bdPLKXjAE7dmeE",
+            "date": 1730241915,
+            "expires": 1730846715,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCfgOZ5XABIBbl3/s/V7BcR/OlpZBSGDY2X+UQb93BaDgIgfbf4EaYzZ4c2VjH4fR4YWM3QhaaWK+HXkDO4MI/EENo=",
+            "validity-url": "https://kudosi.ai/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://kudosi.ai/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "s-maxage=31536000, stale-while-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da709c2a7a17aa9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:15 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=PJIa4NKlfjyfWYjXdnUYHwzbBDOoWuYtWDApH7cXEQQ="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Nextjs-Cache": [
+         "HIT"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

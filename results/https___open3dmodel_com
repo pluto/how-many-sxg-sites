@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-y7rVdQwqgURCHH/G1wyHeZd7cc+LjMNtiIi1ULnnXKo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "es5I6b8RQfqPZg1L6SmGm/lGInhMSQbQnamuwDPXGmE=",
+            "cert-url": "https://open3dmodel.com/cdn-fpw/sxg/cert.pem.msg.es5I6b8RQfqPZg1L6SmGm_lGInhMSQbQnamuwDPXGmE",
+            "date": 1730242268,
+            "expires": 1730332268,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD6BV1SO76H7fgQy0Gl2IC1KQLanym+NHCyAHR17lApYgIgAbkGP74hsRm+3dywc85OhM86prlbyW9lYVKYI2XUmVU=",
+            "validity-url": "https://open3dmodel.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://open3dmodel.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "26753"
+      ],
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7126532089e53-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:08 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=AXeOxuJnQ4XCUsfiCciPkzPG2qrphPpS9dYMsy93I08="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 10:46:05 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cf-Powered-By": [
+         "WP Rocket 34.4"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "WordOps"
+      ]
+   }
+}

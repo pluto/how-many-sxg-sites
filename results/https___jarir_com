@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-hC91gi7XCi8cH8kLRzaJT3vlPoHNnETBZ2lkh6m2q3o=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "vJqWltICWQNYFOoxEfhQELvhxJfx70nQvNVHUcZP6V0=",
+            "cert-url": "https://www.jarir.com/cdn-fpw/sxg/cert.pem.msg.vJqWltICWQNYFOoxEfhQELvhxJfx70nQvNVHUcZP6V0",
+            "date": 1730241837,
+            "expires": 1730245737,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIAGgwA38oURxUQiDTxar/Aqsmr+8mc92HWu+Yf76S5y2AiARs0HHmSUzwz3k0STEhRAvDfVxEtYsOTgJyx0m1NyQow==",
+            "validity-url": "https://www.jarir.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.jarir.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "233"
+      ],
+      "Cache-Control": [
+         "public, max-age=300"
+      ],
+      "Cf-Apo-Via": [
+         "origin,host"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da707de805317e0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:43:57 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=+7S+vuGKV0L3wR376+za19mN0+q5z6gjBA0rtFeYQaU="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:48:57 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:40:04 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ]
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-oO+OPRDNzc36tyV+TGN3XjdfMK1yVnjWEEWjtOIEazQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "5kofDAkMSoBw3ES/xhGzybvb5VOiu51MrjHPH0+fZbw=",
+            "cert-url": "https://www.greatandhra.com/cdn-fpw/sxg/cert.pem.msg.5kofDAkMSoBw3ES_xhGzybvb5VOiu51MrjHPH0-fZbw",
+            "date": 1730241634,
+            "expires": 1730846434,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDZT1SrPrGWg80qRoO2qHFCG4K7tsJIwxIpSiyJLOZFKQIgM71ukFmvm/v7ZdFcsOLVlFlhMIq/1dol3aPp6d3g+sI=",
+            "validity-url": "https://www.greatandhra.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.greatandhra.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da702e7d0d2cee5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:40:34 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Pz9qKL7yZefFdRscwH243mR1B+mwW4aQY7EXGIZKSe8="
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

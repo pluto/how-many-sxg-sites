@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Gkv7tPDoxGqSokZaKh4YggwpOPdS3P/WQVE9JQVHm4A=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "CCXQcFbumELlsWHKlX8SKmxsJXY2w/zGVG27oOd1DtQ=",
+            "cert-url": "https://www.diskpart.com/cdn-fpw/sxg/cert.pem.msg.CCXQcFbumELlsWHKlX8SKmxsJXY2w_zGVG27oOd1DtQ",
+            "date": 1730241329,
+            "expires": 1730846129,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIH0+cvsysgZdSRwPwgg7WVVuNIjhakFAtORc71GjZ/IpAiEA8kRbDPxzTLfNzd1Sg/qVrAwkwZo++N8kuz7wr4M6DwQ=",
+            "validity-url": "https://www.diskpart.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.diskpart.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fb7aa70196d8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:29 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=wiM/0lfieM3C/3sIz9JQQLFjdHKN95bnyssMl7N/J4A="
+      ],
+      "Last-Modified": [
+         "Fri, 18 Oct 2024 01:26:02 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-AyFP/rDXKPhLDR00Cq/8Co8H+Y3UfxYA13o4NQ7M00k=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "k/2OSqG1WqtT+UhpISx5bjp5x554BZKI5hZqaJM8oms=",
+            "cert-url": "https://macvendorlookup.com/cdn-fpw/sxg/cert.pem.msg.k_2OSqG1WqtT-UhpISx5bjp5x554BZKI5hZqaJM8oms",
+            "date": 1730241998,
+            "expires": 1730288798,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIFLgWkLgoexx08fGhWrYMKRs0U2VJL1CS/4CTo0vHQCBAiBjHXHVFzoDex9cfbD98p7WnO9klJ48LJAssQZkiZ0qnA==",
+            "validity-url": "https://macvendorlookup.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://macvendorlookup.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=43200"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Ray": [
+         "8da70bcde02667bb-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Cross-Origin-Resource-Policy": [
+         "cross-origin"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:46:38 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=R2Zae+5D+Iym0OPx616wSm68cV8bda2YsfbXwUaIXfM="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:46:38 GMT"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

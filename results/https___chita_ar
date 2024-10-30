@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-zO6dk/rxqSea1zSn4t89PLpB6Q8iJUd20qvEiFyWxIk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "8rz1STyj7nkYX8nW8lj0vfBC2zzNi7+C392+CxrtgZw=",
+            "cert-url": "https://chita.ar/cdn-fpw/sxg/cert.pem.msg.8rz1STyj7nkYX8nW8lj0vfBC2zzNi7-C392-CxrtgZw",
+            "date": 1730241168,
+            "expires": 1730845968,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDi9Z7LhW2bF25S8iAxwUwxXjpCKMpRAGHe8NRVMoPYEgIhAO2hZyoZ+HtwEYcpbs1X/Y572gbCNIxQPzWFVZCVSXcc",
+            "validity-url": "https://chita.ar/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://chita.ar/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f78835199456-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:32:48 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=bOKqis0HxxTL5uMfnjJeA3MXbmD5qMbNfscpHjYCXuE="
+      ],
+      "Link": [
+         "<https://chita.ar/_next/static/css/49bb0dbeabe2bb15.css>;rel=preload;as=style,<https://chita.ar/_next/static/css/49bb0dbeabe2bb15.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-CZHqRl05nb9AF9ZNrmktPgma4ODW7T+u42wMtGQswKw=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Powered-By": [
+         "Next.js"
+      ]
+   }
+}

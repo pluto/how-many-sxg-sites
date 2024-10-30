@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-LdUtN683LF+AnWLg5MvyqnwdJF6IjxzGqqwZfkEamMU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "/jQ9HMkHzXIJZRAEPeyzd8fYWRYfue8d2Mh5YNesPD0=",
+            "cert-url": "https://moviesmod.bid/cdn-fpw/sxg/cert.pem.msg._jQ9HMkHzXIJZRAEPeyzd8fYWRYfue8d2Mh5YNesPD0",
+            "date": 1730242115,
+            "expires": 1730260115,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBLQcmxpKKplGTRJd8VkXgP9Mp77TH4qz12iLRt6uHb3AiEAtUZpVDirDqqUL0r3o9Gay7FGKCFKptOApJZrPoQ/gpE=",
+            "validity-url": "https://moviesmod.bid/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://moviesmod.bid/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "8994"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da70ea5c2e4fa8e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:34 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=9eRrNvOhw44fFqeBR46EDiL5sJn6tLIngXvUBe17SJk="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Litespeed-Cache": [
+         "hit"
+      ]
+   }
+}

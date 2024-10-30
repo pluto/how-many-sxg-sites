@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-95FmK9wW3ZHaa0tWhRHgPYc2htnmmJHzgeEv9l6816E=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "1rldcmSKXKDYE2SlMeNW/y2WoXZYVI+SafpBwzQ7wIM=",
+            "cert-url": "https://www.misa.vn/cdn-fpw/sxg/cert.pem.msg.1rldcmSKXKDYE2SlMeNW_y2WoXZYVI-SafpBwzQ7wIM",
+            "date": 1730242085,
+            "expires": 1730332085,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCICnfAhglQLFiizOVq5wnRnv+QnlpcZ4Hf5h/0gIUsXxNAiEA1zka0kbqn+STwmM8aa4ghBYmlShGYJiWkSVevxtq6y0=",
+            "validity-url": "https://www.misa.vn/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.misa.vn/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "46788"
+      ],
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70df06505176d-SJC"
+      ],
+      "Clientip": [
+         "20.245.235.33"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=EhGqBIH89Cab7IkzsMgiebTAHYA/8YgWl3fUU3isfs8="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 10:48:17 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 10:40:12 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "X-Forwarded-Proto,Accept-Encoding,User-Agent"
+      ]
+   }
+}

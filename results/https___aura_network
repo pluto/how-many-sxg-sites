@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-BYqGbUmtMJ8MFRlZ80OWtlhxWMOXBvmzLOz0CiN8BBs=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "n18zdXlJSuOds8QnoEofOh6+tvDF72yvSsYssk7DAmI=",
+            "cert-url": "https://aura.network/cdn-fpw/sxg/cert.pem.msg.n18zdXlJSuOds8QnoEofOh6-tvDF72yvSsYssk7DAmI",
+            "date": 1730240972,
+            "expires": 1730845772,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGccb5erI71UjQBRzXvNYV8R3HpNcrgJEX2EQivRjYnXAiEA0Fn3obbJPcRbUPHMg1vX+CHiGYP+ShfP2Nrgzz9maw4=",
+            "validity-url": "https://aura.network/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://aura.network/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f2b8b6931574-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:29:31 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=ihs2lybybv9RDe6fYH5yRA98HafZFvZ/MrRL0vv85is="
+      ],
+      "Last-Modified": [
+         "Fri, 13 Sep 2024 08:33:14 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Amz-Id-2": [
+         "Cy2E1cIKen7HCgQjtuK1KsFRdcvdAcQVpjrk4okuiIQkZYDElxxGvZSQFXSFW39UVa9pEVW9CwPjIOVqSquHn+FM86jYRjIeCASH3TJ2xVI="
+      ],
+      "X-Amz-Request-Id": [
+         "2B1ST07Z5B6RH28P"
+      ],
+      "X-Frame-Options": [
+         "deny"
+      ]
+   }
+}

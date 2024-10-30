@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-o5BeJClUxaL7JGzy6wi2th96NVAKQo0OQStbNVGrLqo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "dGeZNduB8tFTrPCBgo3P1JPozyhV+85xxH1dlBtu+ps=",
+            "cert-url": "https://www.sicat.com/cdn-fpw/sxg/cert.pem.msg.dGeZNduB8tFTrPCBgo3P1JPozyhV-85xxH1dlBtu-ps",
+            "date": 1730242614,
+            "expires": 1730847414,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCZpHHk8EvOU2jCBSx7vnKB2sHpyOtkiYwerP8Uobim/QIhAOpS/w9BufTCw6HtOM1rNXzIfgRtClk0oGlyPom1+tyI",
+            "validity-url": "https://www.sicat.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.sicat.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71ad19101cf05-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=m+106b36zgNu8I3vI81V6TIlj6FpCtY9+Pr7LvM+9RI="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Website-Server": [
+         "1"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

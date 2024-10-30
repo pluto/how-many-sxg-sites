@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-kGxLa6nq48+0WmAqIhLJWT0TggxZJG6/jglDMikOOUU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "SxBDFQEMY2uNuIbT86J94/mfkGGdPsA57kfZIRKQJ2A=",
+            "cert-url": "https://www.mtv.com.lb/cdn-fpw/sxg/cert.pem.msg.SxBDFQEMY2uNuIbT86J94_mfkGGdPsA57kfZIRKQJ2A",
+            "date": 1730242122,
+            "expires": 1730245842,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGiMrw7eLuCOorl4CCFnNnbqFJ1IOJ3CKR8EDQCNcdemAiEAvOAyT0kucCv+2CRrfFmfBV0cO0AVvJAeyJb4kzyXiZw=",
+            "validity-url": "https://www.mtv.com.lb/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.mtv.com.lb/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "8"
+      ],
+      "Age": [
+         "3"
+      ],
+      "Cache-Control": [
+         "max-age=120"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70ed3d2ed251e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:42 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=QsMmjWZ+1+VxeqTruBDRyHLHhk950KaJWrHStYk0FAA="
+      ],
+      "Expires": [
+         "-1"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:48:39 GMT"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Aspnet-Version": [
+         "4.0.30319"
+      ],
+      "X-Aspnetmvc-Version": [
+         "5.0"
+      ],
+      "X-Server": [
+         "ashburn"
+      ],
+      "X-Test": [
+         "served from mtvlebanon.net"
+      ]
+   }
+}

@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-zgWhtZrgufmjiMX9TYCa8XevuW/BeVnCGl4c3GW0kec=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "bbSFOdo9GgB2uMujgDFRxe+PnnnBw5iQ5OXWu+/irXA=",
+            "cert-url": "https://itsfoss.com/cdn-fpw/sxg/cert.pem.msg.bbSFOdo9GgB2uMujgDFRxe-PnnnBw5iQ5OXWu-_irXA",
+            "date": 1730241829,
+            "expires": 1730259829,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCYsTSaF7RWjO8gGxr3Mf7c0u8/+BLKMIu0J03fL8RrBAIgLRuhR79DzDKgwPx0+yWo6qM/nAcGtl53BmzTtFijKAE=",
+            "validity-url": "https://itsfoss.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://itsfoss.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "11138"
+      ],
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da707aaf0ef15ba-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:43:48 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=4gH9nphF6dp+NOcD02MDGy6flxWOF/scNR7f4jaTyo0="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ]
+   }
+}

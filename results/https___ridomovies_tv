@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-hhQYiR7iqPnWGNyTerDb48DQWj8a6KJsSCcEyLQuLPQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "HVCtrG0XydWmAmyrgmN4mvkEPnS6EC7FQ+YqxqxM1Wc=",
+            "cert-url": "https://ridomovies.tv/cdn-fpw/sxg/cert.pem.msg.HVCtrG0XydWmAmyrgmN4mvkEPnS6EC7FQ-YqxqxM1Wc",
+            "date": 1730242476,
+            "expires": 1730847276,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGjZDR/vr091PjtLs076033r6EP2IWOcccO++F2dpv7kAiEA5kF0GNwQd2Qer3QSPWiqUo9kQDGuheS6IKSZVcbdJUs=",
+            "validity-url": "https://ridomovies.tv/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ridomovies.tv/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "s-maxage=31536000, stale-while-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71775c1d5ce80-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:54:36 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=gE1ZmoaxFc23FtpYeZ4VoSa2KGxKWf3e+pagyWI/aaY="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding"
+      ],
+      "X-Nextjs-Cache": [
+         "HIT"
+      ],
+      "X-Powered-By": [
+         "Next.js"
+      ]
+   }
+}

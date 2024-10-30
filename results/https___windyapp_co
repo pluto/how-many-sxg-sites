@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-YuYNARqg6lROAvTr6bWzRyaeYwvsCS81+BvRVfvYTc0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "pJWYNJeyNmIfpTiyjYTvHrhoAnvFdXToySmpl4ziMEo=",
+            "cert-url": "https://windy.app/cdn-fpw/sxg/cert.pem.msg.pJWYNJeyNmIfpTiyjYTvHrhoAnvFdXToySmpl4ziMEo",
+            "date": 1730243026,
+            "expires": 1730261026,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD4P4AUHa8W/YkH02DAlo8nCh4d2wmW/inBNXjvgXbkDwIgdlanBQMmlSc1ZJAaVs/SPIV2uoegScqiMcxqadA5fKw=",
+            "validity-url": "https://windy.app/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://windy.app/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "10744"
+      ],
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da724e89410173b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:46 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=mV4BUguHcqk4o5DFe6byZm++fuOQMAw1yG40BrmusDQ="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 04:03:46 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 18:37:07 GMT"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "PHP/7.4.33"
+      ],
+      "X-Xss-Protection": [
+         "1"
+      ]
+   }
+}

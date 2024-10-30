@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-E275IpGBq7B/loyrqo/Zu4ke+af+UMHRepjw//RKePM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "uEjpBg8debvkAeu808hl8tUT1Zocx94dYDaMYfvSs5s=",
+            "cert-url": "https://check-host.cc/cdn-fpw/sxg/cert.pem.msg.uEjpBg8debvkAeu808hl8tUT1Zocx94dYDaMYfvSs5s",
+            "date": 1730241162,
+            "expires": 1730845962,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQC9ht82KX7zzEPni8YpO10g1+yJtbYsjqf5pqupqhc8UgIgaX2+M+Gm7Hf2wBxIjySiBtgH2SejjWWrYf3tQ5ajDPI=",
+            "validity-url": "https://check-host.cc/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://check-host.cc/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Access-Control-Allow-Headers": [
+         "DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "639"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f764a58f67f4-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:32:42 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=MIRSvUZQA4Ceq+CcKzejrFdvU5HzhCIbWJ0s/8mK/Lk="
+      ],
+      "L7-Filter": [
+         "FW01"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:19:22 GMT"
+      ],
+      "Link": [
+         "<https://check-host.cc/assets/adv/solia/307kb.gif>;rel=preload;as=image,<https://check-host.cc/assets/adv/solia/307kb.gif>;rel=allowed-alt-sxg;header-integrity=\"sha256-wi2JH1nZbuXMzxhUQqDF4fZDhP6xu7+pNqiJiUXhYHE=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

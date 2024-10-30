@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-+TSTig14yiO/2kuI4Tf8Q6Vu1eN6QFET0TUuxhqTLw0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "k2c3g9s9nymyXbEHfp8BGujizFvWkE5VjFoHYdevgN0=",
+            "cert-url": "https://www.novel.com/cdn-fpw/sxg/cert.pem.msg.k2c3g9s9nymyXbEHfp8BGujizFvWkE5VjFoHYdevgN0",
+            "date": 1730242227,
+            "expires": 1730847027,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDp9l/dF/QBzNv5vgV7QfvqFJ9NDDt/vFc+fj12Ysx3wgIgDf2QXmBCY29EnAf/VY0GMwD3GeZbKOy8oCC8aiuWZzs=",
+            "validity-url": "https://www.novel.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.novel.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "102800"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7116434db1690-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:50:27 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=8mFEsWFq0ON49DQmp2t5SRefnBDk8bWWzkQrKXJa+TA="
+      ],
+      "Expires": [
+         "Thu, 01 Jan 1970 00:00:00 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Contextid": [
+         "dbXAyqMd/38rxlE8C"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN, SAMEORIGIN"
+      ]
+   }
+}

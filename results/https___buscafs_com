@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-nXeRKGw3K94IIqiB0gKRzwfP4hyo7Z+dZg8x2x/IL0Y=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "m6I6mWI9Ald2AKnuHFfmpN5EkYOqfwKnk/zCFj11yvI=",
+            "cert-url": "https://buscafs.com/cdn-fpw/sxg/cert.pem.msg.m6I6mWI9Ald2AKnuHFfmpN5EkYOqfwKnk_zCFj11yvI",
+            "date": 1730241101,
+            "expires": 1730845901,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDJ9Ra9iQh7WqeOEyRGypP5HIF5TH2HhPzC6sUtoPCV4gIhALlOGh8bHJ5haqhyUaZqQC1LFyqwpaloVXp+UpUIuVGR",
+            "validity-url": "https://buscafs.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://buscafs.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "795"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f5e6473315d8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:31:41 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=/4fd/RyWxLGOkM1BjGlM/E7N+EpPvaebQp01WJidn6A="
+      ],
+      "Last-Modified": [
+         "Fri, 20 Jul 2012 20:33:14 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Origin"
+      ],
+      "Via": [
+         "1.1 varnish"
+      ],
+      "X-Backend": [
+         "app03"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Server": [
+         "604732-var02.buscaco"
+      ],
+      "X-Varnish": [
+         "1312065986 1312041068"
+      ],
+      "X-Varnish-Obj-Ttl": [
+         "14400.000"
+      ],
+      "X-Varnish-Ttl": [
+         ""
+      ]
+   }
+}

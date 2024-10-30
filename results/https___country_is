@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Eym0A1goc8OMFZNguZrLe+9eAs22q0ZvWFoG/WmGjJg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ojF7b5y3/OcxkjMHQ36swqIoHIMhqThwiXEZaIWa8QY=",
+            "cert-url": "https://country.is/cdn-fpw/sxg/cert.pem.msg.ojF7b5y3_OcxkjMHQ36swqIoHIMhqThwiXEZaIWa8QY",
+            "date": 1730241244,
+            "expires": 1730245444,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCwhTZxRs4Q8xfKsOO/NZpXtT+rAxVp07eNMElZ/mqAZAIgF1WUu037EeNHtjsuxIpwezx/R15MWKG+HVyWKcs6gvI=",
+            "validity-url": "https://country.is/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://country.is/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "0"
+      ],
+      "Cache-Control": [
+         "max-age=600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f96374e89861-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:34:04 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=wpT1xujWb2p6QnvvEixdEyDoGM4GAXMDwM2YO9Y0utw="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:44:04 GMT"
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 14:23:44 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 varnish"
+      ],
+      "X-Cache": [
+         "MISS"
+      ],
+      "X-Cache-Hits": [
+         "0"
+      ],
+      "X-Fastly-Request-Id": [
+         "640af313f4ac50730b347cb6919754644ad20bef"
+      ],
+      "X-Github-Request-Id": [
+         "7F0C:3B7545:2A9A441:2BB24EC:672170EB"
+      ],
+      "X-Proxy-Cache": [
+         "MISS"
+      ],
+      "X-Served-By": [
+         "cache-sjc1000107-SJC"
+      ],
+      "X-Timer": [
+         "S1730244844.082210,VS0,VE97"
+      ]
+   }
+}

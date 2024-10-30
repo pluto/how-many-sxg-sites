@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-n2aS9OjM5ua6bPNuumS+1VUPzAb7HGvPfFentzjzJsE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "8bRhdZFT3QFOO9rOavqqRYNDR3q6pK7RpFLU1p2HweA=",
+            "cert-url": "https://www.thepinknews.com/cdn-fpw/sxg/cert.pem.msg.8bRhdZFT3QFOO9rOavqqRYNDR3q6pK7RpFLU1p2HweA",
+            "date": 1730242793,
+            "expires": 1730246693,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDmWQy4fpIitAsloj9hjSCGLp2809iL2JTaLSfiXdi7zQIgelFhaw0Mzf96fO1mVKUXtJlibXQBOysseJ1JXzBu1cY=",
+            "validity-url": "https://www.thepinknews.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.thepinknews.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=300, must-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71f3774ab15ba-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:53 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=JhaUoWJ25/X9DByF8GhopNy6mB0vWUL7KUNR0n27y4Q="
+      ],
+      "Host-Header": [
+         "a9130478a60e5f9135f765b23f26593b"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Hacker": [
+         "If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header."
+      ],
+      "X-Rq": [
+         "sjc2 123 243 443"
+      ]
+   }
+}

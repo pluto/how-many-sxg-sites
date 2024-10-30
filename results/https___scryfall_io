@@ -1,0 +1,94 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-nLuiU5Nd5I7wA0WglEyeMtYFri5TGOtluKidx4CSFDw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "SYtHxDPfjDDZ8ffejYKksPhoB0ffGhYxtSI+3KmGTdg=",
+            "cert-url": "https://scryfall.com/cdn-fpw/sxg/cert.pem.msg.SYtHxDPfjDDZ8ffejYKksPhoB0ffGhYxtSI-3KmGTdg",
+            "date": 1730242553,
+            "expires": 1730847353,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDEnyKXkiKOhkr2+nqR0Pl03k0wcWTCWZI7QUw/u3xrQAiEAyMvvJHeSQeD/A1redhX5Vj3Lc5XDlEQpSMMQpoExn3M=",
+            "validity-url": "https://scryfall.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://scryfall.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7195770ae67e2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'none'; base-uri 'none'; frame-src checkout.stripe.com *.google.com; frame-ancestors 'none'; style-src *.scryfall.com scryfall.com; script-src *.scryfall.com scryfall.com *.analytics.google.com *.google-analytics.com *.googletagmanager.com *.google.com *.gstatic.com *.cloudflareinsights.com checkout.stripe.com 'unsafe-eval'; img-src *.scryfall.io *.scryfall.com scryfall.com *.analytics.google.com *.google-analytics.com *.googletagmanager.com *.stripe.com data:; font-src *.scryfall.com scryfall.com; manifest-src *.scryfall.com scryfall.com; connect-src api.scryfall.com scryfall.com *.analytics.google.com *.google-analytics.com *.googletagmanager.com cloudflareinsights.com checkout.stripe.com; block-all-mixed-content;"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:55:53 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=6jqpJyRSYv7Bq5FKzlPzUD/tmmn0B64RGeClyIQpRmI="
+      ],
+      "Etag": [
+         "W/\"c4c8ba814511bca03686886966fcee73\""
+      ],
+      "Nel": [
+         "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Report-To": [
+         "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=cv1JtHrU3OoeJ62y0AE6jo3hA6FdJjMa0HD6fJ9xV2k%3D\\u0026sid=929419e7-33ea-4e2f-85f0-7d8b7cd5cbd6\\u0026ts=1730246153\"}],\"max_age\":3600}"
+      ],
+      "Reporting-Endpoints": [
+         "heroku-nel=\"https://nel.heroku.com/reports?s=cv1JtHrU3OoeJ62y0AE6jo3hA6FdJjMa0HD6fJ9xV2k%3D&sid=929419e7-33ea-4e2f-85f0-7d8b7cd5cbd6&ts=1730246153\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "2.0 heroku-router"
+      ],
+      "X-Action-Cache": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Download-Options": [
+         "noopen"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

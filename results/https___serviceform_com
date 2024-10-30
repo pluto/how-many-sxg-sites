@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-rp/oeqFSu4ief5bUm0xFWZqOOv96XnZtTyhnHHSy7Ko=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "moMxqRSsz1gQi3/1G08SwLdDxKLi1RbPchFSQyU1TYM=",
+            "cert-url": "https://www.serviceform.com/cdn-fpw/sxg/cert.pem.msg.moMxqRSsz1gQi3_1G08SwLdDxKLi1RbPchFSQyU1TYM",
+            "date": 1730242581,
+            "expires": 1730678181,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQClZIqmCcVrvkrtyYzUWf5ywWgza7mM9cEvtqzjoVozKQIgFiMxl7YjwI3m+WWsTZqcXIqXNab8G3d+Sg5e0/yeuz0=",
+            "validity-url": "https://www.serviceform.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.serviceform.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "397084"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71a0684d896bf-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:21 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=0jtEdfVAMK1koa/WUedtCWg2fn0U6GudVsPWlu1ki78="
+      ],
+      "Last-Modified": [
+         "Fri, 25 Oct 2024 09:35:14 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=432000"
+      ],
+      "Surrogate-Key": [
+         "www.serviceform.com 63de3f62371ddd932f05a0d1 pageId:66d9cfc0f13ae471424736f9 63e5617691ec544ad74b32b8 63de9f9c4fd49bf41e850684 63eada246da7ed3d8d4db3c9 63f11283461fa0f353b933fd 63deace1dd106609be1e5585"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cluster-Name": [
+         "us-west-2-prod-hosting-red"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "e26373d4-32c7-41c3-ad76-a793ab40032a"
+      ]
+   }
+}

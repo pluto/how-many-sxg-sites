@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-dqtLwItILDqKGT/ak7rmzkDPX8vjdIYWRwVWmYdC2dA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "0CIiGElq9w1yB4nwYasjUedXO1ljqcR1/i0S69i+mmg=",
+            "cert-url": "https://www.24.com/cdn-fpw/sxg/cert.pem.msg.0CIiGElq9w1yB4nwYasjUedXO1ljqcR1_i0S69i-mmg",
+            "date": 1730240798,
+            "expires": 1730845598,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIGmYjJW7wHmXjjpnNB7PciI50zYTmsg3vhCgbEcxr1gIAiA/pwexgTTjee51bkAk5NoBv/JA+qTqm3bJS6nEHwXWfw==",
+            "validity-url": "https://www.24.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.24.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cf-Apo-Via": [
+         "origin,host"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6ee7925e196ed-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "object-src 'none'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:26:37 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=MLWwWjns5uHIcp73hiuhHkkiG0TqLIouHRD3YFO27zk="
+      ],
+      "Referrer-Policy": [
+         "strict-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Status": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

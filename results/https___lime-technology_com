@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-IvH6dy31N7n6IqbuIVFI6sBjD9kAx/gl66vOYL9W+zE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "yI4hjoxpwtAUIv1yCAzR9NNQQnDzler4YYmxK3fKn/A=",
+            "cert-url": "https://unraid.net/cdn-fpw/sxg/cert.pem.msg.yI4hjoxpwtAUIv1yCAzR9NNQQnDzler4YYmxK3fKn_A",
+            "date": 1730241956,
+            "expires": 1730259956,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCWxIbUK6lmFceb+xtMYmxPqCH0BdNm4W4BiGLgohmTeAIgdWlajf2hzycpAIxm6Q09JuizUzqn5nsJ9OAmT4AemJ8=",
+            "validity-url": "https://unraid.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://unraid.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "12501"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70ac7461717ee-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:56 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=/4h6IKOt51KB4aCCW6oaUfNExiRzXbQVgkyJzwjd/wU="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 20:17:17 GMT"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade, no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "Craft Commerce,Craft CMS, SEOmatic"
+      ],
+      "X-Robots-Tag": [
+         "all"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

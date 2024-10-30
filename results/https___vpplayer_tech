@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-NsPaapk4TDWIWrZQCKYyxTwAruo0m3YWvkKw6wb3sPQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "6im5InceR8qcHzgOJ2mA0MT/NNGdkUCO6g5FaV68C3Y=",
+            "cert-url": "https://vp.gjirafa.tech/cdn-fpw/sxg/cert.pem.msg.6im5InceR8qcHzgOJ2mA0MT_NNGdkUCO6g5FaV68C3Y",
+            "date": 1730242974,
+            "expires": 1730847774,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCICZ7zLoQD/VXJLgJswbRQyUni4+mcmJVTRGkJT0xrwS7AiBQJQHciiqbOYYcmSP3xq/MgIiRstkYnc7J5PqGpacNVg==",
+            "validity-url": "https://vp.gjirafa.tech/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://vp.gjirafa.tech/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7239d54f167fa-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Length": [
+         "87044"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=hYaROmHWYKC54MYAmyiy8J1g5whBU48Zt7+65ZwM/6c="
+      ],
+      "Link": [
+         "<https://vp.gjirafa.tech/_nuxt/clientFeedback.c1aef8bf.css>;rel=preload;as=style,<https://vp.gjirafa.tech/_nuxt/clientFeedback.c1aef8bf.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-6EDCDnFjElg0PABjUeYibygyHmmTUyGZK0ZMlkuEchY=\",<https://vp.gjirafa.tech/_nuxt/interestCard.e4589ae9.css>;rel=preload;as=style,<https://vp.gjirafa.tech/_nuxt/interestCard.e4589ae9.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-22yVHhrqoBfe19gHucz5lkuNDk56ZYt1GziBxUVR5Gc=\",<https://vp.gjirafa.tech/_nuxt/scrollTracker.3aa4af73.css>;rel=preload;as=style,<https://vp.gjirafa.tech/_nuxt/scrollTracker.3aa4af73.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-d+kMplvuDBkxYQz+OVvysT+p8VZt4OuGZUgVOiMef64=\",<https://vp.gjirafa.tech/_nuxt/swiper-vue.a337f45f.css>;rel=preload;as=style,<https://vp.gjirafa.tech/_nuxt/swiper-vue.a337f45f.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-YnR7AvBhCAjEuOm2aFaNEyqsyRBTeeqbNhpOAsrWG1k=\",<https://vp.gjirafa.tech/_nuxt/entry.ebb75441.css>;rel=preload;as=style,<https://vp.gjirafa.tech/_nuxt/entry.ebb75441.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-GMriP8YP76crHAYTmeu9mSCd60Q5QmarhYRX43WNqb0=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Powered-By": [
+         "Nuxt"
+      ],
+      "X-Region": [
+         "rbx8c"
+      ]
+   }
+}

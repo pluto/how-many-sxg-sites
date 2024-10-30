@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-U9x3Y2fqVdfUlSVvWj+QKAqmtGTKwS026nlloKSLrGU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "vdwKPDPaRodi4AtYLSsRonqGCk2fkeyWV27k+S9WQ3s=",
+            "cert-url": "https://www.apowersoft.info/cdn-fpw/sxg/cert.pem.msg.vdwKPDPaRodi4AtYLSsRonqGCk2fkeyWV27k-S9WQ3s",
+            "date": 1730240929,
+            "expires": 1730266129,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQC5jy9R9pBs1egu83oiO68Oj4ObsOwROu4hsYck9bP8bgIhAKRuw7oxhw7RE1keBHmzw1/7hIIGkb2RMyrOuUJBBULh",
+            "validity-url": "https://www.apowersoft.info/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.apowersoft.info/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=21600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f1b3923e15cc-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:49 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=n7ItvQga85a3liNeRUi4iNylzpSES6jn2Q3Yfvck/QU="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Wx-Cache": [
+         "hit|abddbf01ce537a57d658d80c9a5aafcf-overseas"
+      ],
+      "Wx-Client": [
+         "overseas|us|172.69.23.21|webp:false|app:web|mob:false"
+      ],
+      "X-Served-By": [
+         "webus1.aoscdn.com"
+      ]
+   }
+}

@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-9gXTPhBXrTzYPlbEVS04TwpI/EgoLPDTkVDd+A9AYoU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "5cmdLpoXZw5MCr30vPb0yxDbMt7WqUA7XHUSET8pFxM=",
+            "cert-url": "https://www.billetweb.fr/cdn-fpw/sxg/cert.pem.msg.5cmdLpoXZw5MCr30vPb0yxDbMt7WqUA7XHUSET8pFxM",
+            "date": 1730241047,
+            "expires": 1730331047,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCcyHK9J4r9r6FxGEoc4fht+dWDaYwEZ+v7bXOmFiCM/gIgO0EqConLf+kv9bCxsYMqGneNHCcEY8zVafXVdVUBqiw=",
+            "validity-url": "https://www.billetweb.fr/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.billetweb.fr/fr-fr/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=172800, public, no-transform"
+      ],
+      "Cdn-Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f493d3d92393-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:30:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=cIOcYPh62JdS24vHQIolyN3wRUOE08HzC2ig4S6F6b4="
+      ],
+      "Etag": [
+         "W/\"47074-191b2134508\""
+      ],
+      "Expires": [
+         "Thu, 31 Oct 2024 23:30:47 GMT"
+      ],
+      "Last-Modified": [
+         "Mon, 02 Sep 2024 09:31:33 GMT"
+      ],
+      "Link": [
+         "<https://www.billetweb.fr/_nuxt/static/1725269488/manifest.js>;rel=preload;as=script,<https://www.billetweb.fr/_nuxt/static/1725269488/manifest.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-U5AtGhNgojKgo1N9zP3vG1rdlLN6lzHDmvOmbRl9014=\",<https://www.billetweb.fr/_nuxt/static/1725269488/fr-fr/payload.js>;rel=preload;as=script,<https://www.billetweb.fr/_nuxt/static/1725269488/fr-fr/payload.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-Ve+1TCS3TDQ9WWI9GGrtGc69t+UWPEbu5Uvz4i7dIX8=\",<https://www.billetweb.fr/_nuxt/static/1725269488/fr-fr/state.js>;rel=preload;as=script,<https://www.billetweb.fr/_nuxt/static/1725269488/fr-fr/state.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-7sU42OxSgzIV3GrNs1MaepmZpZyBIKLi2RN/kzpRl2M=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=86400"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

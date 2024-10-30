@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-UP4hFveo1Lr/WP0sr9K20lIaZbyyPNo9RXClbtt7Enw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "DpDkwcdalEwzOICgsW4KvhBvMseVrD7p3SE0C8ZUFaQ=",
+            "cert-url": "https://www.analyticsvidhya.com/cdn-fpw/sxg/cert.pem.msg.DpDkwcdalEwzOICgsW4KvhBvMseVrD7p3SE0C8ZUFaQ",
+            "date": 1730240921,
+            "expires": 1730845721,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCi9aPBByjBiX0M5kRTYDQ5IFOJPyNTOjSkFhS7RIGBtQIhAIoOAr1jOQuQX2PqQPyi6E9FVOne5bdaDlBS+9uuDFNT",
+            "validity-url": "https://www.analyticsvidhya.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.analyticsvidhya.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f17ab0fa17de-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:40 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=EymVosWuUTROAIILeqZo3soiWoHKdS+96Ye32TTbdDk="
+      ],
+      "Expect-Ct": [
+         "max-age=60, report-uri=\"https://www.analyticsvidhya.com/report\""
+      ],
+      "Feature-Policy": [
+         "vibrate 'none';"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "master-only"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

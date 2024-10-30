@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-jTgCGg9rhYLzK6JHaGgX2wEIy8uULy0RAI5qp4tQoHc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "no5kATxu3DMMyqhS3VraNbju3Pme0vxX8vLo0urcX+w=",
+            "cert-url": "https://delta.app/cdn-fpw/sxg/cert.pem.msg.no5kATxu3DMMyqhS3VraNbju3Pme0vxX8vLo0urcX-w",
+            "date": 1730241305,
+            "expires": 1730676905,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDLKelQQtoeQFABkAN4ps+juIIhHxrTWiZ2Kzj1vJsVvAiEA7TgfqcJkFme5myiH2CRzfOnAsQUfJCOZSQGJRTg0/0g=",
+            "validity-url": "https://delta.app/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://delta.app/en",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cache-Control": [
+         "public, max-age=60, s-max-age=300, no-transform, stale-while-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "BYPASS"
+      ],
+      "Cf-Ray": [
+         "8da6fae0b012fa36-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=3AnbPCcbF54CD0T1YoPJzY6L0QAvn4zUTWsqYHuxGo4="
+      ],
+      "Last-Modified": [
+         "Fri, 25 Oct 2024 20:25:22 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=432000"
+      ],
+      "Surrogate-Key": [
+         "webflow.delta.app 649412cd35852fa073a7748d pageId:65d4dd923a7af018c0bb40fb 65d4dd923a7af018c0bb4192 65d4dd923a7af018c0bb40c6"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cluster-Name": [
+         "eu-west-1-prod-hosting-red"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "89d67c88-df81-45ea-82dd-c95590ad935c"
+      ]
+   }
+}

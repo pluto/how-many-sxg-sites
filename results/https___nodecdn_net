@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-8rYvgvYewnavGA81+L8tC/v49bK86fi80Kr4QAF9ED0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "URmnP9JnqstxkXKbQ3UUG9FFvhcT0OKvqNWLRvmK89c=",
+            "cert-url": "https://nodecdn.net/cdn-fpw/sxg/cert.pem.msg.URmnP9JnqstxkXKbQ3UUG9FFvhcT0OKvqNWLRvmK89c",
+            "date": 1730242219,
+            "expires": 1730249419,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEflPcM9TyyTqSEKfgpLcOlftRl5iy799Q/MHAMIE0uzAiEAxx7mD9c+82qUXfggQ8nlCAyE20BYu7YudEzCYsYLb70=",
+            "validity-url": "https://nodecdn.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://nodecdn.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cache-Control": [
+         "max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Length": [
+         "6923"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self'; script-src 'self' cdnjs.cloudflare.com static.cloudflareinsights.com analytics.nodecraft.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com; img-src 'self' data: nodecraft.com; child-src 'none'; font-src 'self' fonts.gstatic.com; connect-src 'self' api.nodecdn.net analytics.nodecraft.com; prefetch-src 'none'; object-src 'none'; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests;"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Digest": [
+         "mi-sha256-03=PFhdxClozanFUCH9dzOx6oiKkswMGe/1DyW+NCp2LWA="
+      ],
+      "Etag": [
+         "\"index.6761a9bc73.html\""
+      ],
+      "Feature-Policy": [
+         "geolocation 'none'; midi 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; fullscreen 'none'; payment 'none';"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-+j5lNSQdvCS3Np/KN+Vx4iDa9eJxBxI3b85X6hJpxpQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "HWM+lIEJMv4uqItzgImTjUFN0kH5tGz1HIecyeSiYek=",
+            "cert-url": "https://www.amplimed.com.br/cdn-fpw/sxg/cert.pem.msg.HWM-lIEJMv4uqItzgImTjUFN0kH5tGz1HIecyeSiYek",
+            "date": 1730240918,
+            "expires": 1730258918,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCWtbCipRXKJcj3g4mdv2j6HY1rkqQylDscuHdpe4m6QAIgYgvgMxV5W4n83hwy4CafRBcxmOPlkELjLMmjXt6epJU=",
+            "validity-url": "https://www.amplimed.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.amplimed.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ch": [
+         "Sec-CH-UA-Mobile"
+      ],
+      "Age": [
+         "87181"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f16f2179fada-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:38 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=u9WvveHUjSuM47kOfIBmPlnBb2yelPGMwtd61NpsZgE="
+      ],
+      "Expires": [
+         "Mon, 28 Oct 2024 21:57:34 GMT"
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 21:53:15 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Nitro-Cache": [
+         "MISS"
+      ],
+      "X-Nitro-Disabled": [
+         "1"
+      ],
+      "X-Nitro-Disabled-Reason": [
+         "ajax"
+      ]
+   }
+}

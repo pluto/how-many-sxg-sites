@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-f+h0YWlpoVZ+AgOQtYcNydNHi1YBpCUQAI0JuY7ByBc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "MYQdWcXoObqdmJuhunMjBsvxBMBtwmUKggVq3iwBuYA=",
+            "cert-url": "https://www.timecamp.com/cdn-fpw/sxg/cert.pem.msg.MYQdWcXoObqdmJuhunMjBsvxBMBtwmUKggVq3iwBuYA",
+            "date": 1730242809,
+            "expires": 1730260809,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFw0oIqNlFDfriii/d2ibZ55SS2Al1q6w/7iDzqzVWCqAiEAzJSbUenYGns1nJlgo5AhceGLTbQeuL8TRM/jZCaP75k=",
+            "validity-url": "https://www.timecamp.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.timecamp.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "1771048"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71f9cb28017f0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:00:09 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=CzN5jgvNL94QwLB3At+ykles9btnvuXCLEBxQe3yfGk="
+      ],
+      "Last-Modified": [
+         "Wed, 09 Oct 2024 11:11:04 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Backed-By": [
+         "timecamp.cloud"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "sameorigin"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-xANCasGvXRaR9MjUwhY9U3Bx1QcSlD07AuwRv1LM1Ao=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "a7srCT3X80sRfxKsXv+YVfhoxQVXojt0hB25Y4Fe5po=",
+            "cert-url": "https://valorant-api.com/cdn-fpw/sxg/cert.pem.msg.a7srCT3X80sRfxKsXv-YVfhoxQVXojt0hB25Y4Fe5po",
+            "date": 1730242923,
+            "expires": 1730847723,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCK6u+ciUcByGjIyaXzedj4XxwqAAGN0O6Vlp9hlwWhegIhANfd8iS2doNUpUd4o/Gv3hkltqTZ4Jtk+0vRobW6ldOR",
+            "validity-url": "https://valorant-api.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://valorant-api.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da72260d228cf72-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:03 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=/jnVUmEwsqmqToAq+e0iYM+QGSbAFlkPYP5waRsRz/c="
+      ],
+      "Last-Modified": [
+         "Sat, 13 Feb 2021 23:40:15 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

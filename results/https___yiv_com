@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-eSYtYaJaLZeCUcsw1n7oC7XZmtrogzeQiDnnXzfGRDQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "7+AsjUDgLev5prVWBjRIFOBFBFFDvyL/WlPjuby3jmE=",
+            "cert-url": "https://www.yiv.com/cdn-fpw/sxg/cert.pem.msg.7-AsjUDgLev5prVWBjRIFOBFBFFDvyL_WlPjuby3jmE",
+            "date": 1730243082,
+            "expires": 1730847882,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDG1YKSOCPSeYZvnTZ5WaeZmdF5POeX3WCnN8MaqIcA1gIhALLwLEsEhwt5VWj6vimqMri4z56cuXaqdLBdYRefvEQ8",
+            "validity-url": "https://www.yiv.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.yiv.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da72646c3d7f95b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:42 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=D2XubCJ1QffZjJ4WGp0KpcBy3kG1vjT2XVI9ciM5d8k="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

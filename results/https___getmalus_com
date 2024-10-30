@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-qpKLKFbmsomW5s/8s5IN1yXamyZlCVMXICDxCtNACdY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "k0xqnvn0F5nft3Uey1Kd9s+dfHe0p89M6fpXazG19Jw=",
+            "cert-url": "https://getmalus.com/cdn-fpw/sxg/cert.pem.msg.k0xqnvn0F5nft3Uey1Kd9s-dfHe0p89M6fpXazG19Jw",
+            "date": 1730241588,
+            "expires": 1730245788,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQC/Uthoza/4MMpCqhDwREena3KJYRfWNMeCt59PL1Ur5AIgfeNw9ymxDl6sTBJnPJ4SmeC/TB7aOkfiNUi7LejnvIc=",
+            "validity-url": "https://getmalus.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://getmalus.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Access-Control-Allow-Headers": [
+         "*"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET,HEAD,PUT,PATCH,POST,DELETE"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cache-Control": [
+         "public, max-age=600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da701ca5062fa96-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:39:48 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=OEQLPsIj+AJWr9I4BJl8szf0Gs0b8//tTy31PH6NvOo="
+      ],
+      "Link": [
+         "<https://getmalus.com/common/remixicon.css>;rel=preload;as=style,<https://getmalus.com/common/remixicon.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-EMWi4ctEZapVJIPdZZPQ9sh9Ywtff2Y8M+VWBzyK3T8=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Cache-Status": [
+         "HIT"
+      ]
+   }
+}

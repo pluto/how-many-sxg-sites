@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-rsOzjs1lZnFGzYd5V0Hfs0ZLvkt3JVPqgdjCNkYRaFY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "jfyIMpRNebFT3LwDlfgv9UWOwRdUmdsm0U39z0g/g6o=",
+            "cert-url": "https://www.indiansexstories2.net/cdn-fpw/sxg/cert.pem.msg.jfyIMpRNebFT3LwDlfgv9UWOwRdUmdsm0U39z0g_g6o",
+            "date": 1730241778,
+            "expires": 1730846578,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCID1e3ph0QzlaVG09Lf2DigcW7mSn9fofyU9uNT078P1PAiEA32CZ5U+f1ZveTY3/FoTqySSk1VgThL1PddXJUCV0JMk=",
+            "validity-url": "https://www.indiansexstories2.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.indiansexstories2.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=691200"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7066d0142cf15-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:42:58 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=F2l3PYTkwXirNuyoTJnTyZzIZPuiTMWQc0hvpEeQm0k="
+      ],
+      "Fastcgi-Cache": [
+         "HIT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:42:58 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "PHP/8.1.29"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

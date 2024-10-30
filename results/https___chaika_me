@@ -1,0 +1,34 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-R0OoxN+gt3Nxa9492bltorHNWhuSddl3tPuZ3qEsYsY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "pmgnaTg4J4BexMRpEFUj/r10Mn5l1ZOcrA1yOQVB42Q=",
+            "cert-url": "https://chaika.me/cdn-fpw/sxg/cert.pem.msg.pmgnaTg4J4BexMRpEFUj_r10Mn5l1ZOcrA1yOQVB42Q",
+            "date": 1730241155,
+            "expires": 1730845955,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDTeij9j8oIR929ZJ54Y4lZo3afqgHbsKSayr27G6jaqAIgJJfaEtwU2DvBdfiU94xXDZFhF/4qkq0+hVLqDApXvOc=",
+            "validity-url": "https://chaika.me/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://chaika.me/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Digest": [
+         "mi-sha256-03=87AvoRm7m3GDdw9Iy8X2/tO4D8XodvabkTSEYd7zh0I="
+      ]
+   }
+}

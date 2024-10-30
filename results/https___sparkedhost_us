@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-w1x56Wviftp/6EITlRZFNYIoiAVq4SKc1UdHxVYOQt0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Z6tWAItjpvfUzGa5TLVoYudyaMBUJuQ6V3jHwTMjFrY=",
+            "cert-url": "https://sparkedhost.com/cdn-fpw/sxg/cert.pem.msg.Z6tWAItjpvfUzGa5TLVoYudyaMBUJuQ6V3jHwTMjFrY",
+            "date": 1730242668,
+            "expires": 1730847468,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIFbAnYd1jwuyxVnRJ6vPpIOMAelwL332b4I9HQQ7sZGuAiBP1pw/qubWOB5Mjc+Ky6AGnfpcEKWCvVxnNxtqZI3cTA==",
+            "validity-url": "https://sparkedhost.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://sparkedhost.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=2592000"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71c28811a169e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:48 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=9tk3sRny91RcCmRuOdg4ULuAfEWJNHJI/b/Wk8tN8GQ="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Robots-Tag": [
+         "all"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-IuiYI8+Z77rUZ1rVycb+11qWmvIvE+eL/sRa2+Jfu8g=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "PzPjsr+abA8xtQ5DrsL4ybBxhU0jPnWCuwAdYszMIA4=",
+            "cert-url": "https://www.acheconcursos.com.br/cdn-fpw/sxg/cert.pem.msg.PzPjsr-abA8xtQ5DrsL4ybBxhU0jPnWCuwAdYszMIA4",
+            "date": 1730240834,
+            "expires": 1730245634,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBuwm5DVzcSw9c4w2xJbBax1UYfgOqi9qzbsQBLAl2w5AiEA2CLEd6H4VR0A+LrhkinmhpqOcMnH87qeqTg7UAodBtE=",
+            "validity-url": "https://www.acheconcursos.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.acheconcursos.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=1200"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6ef5fe6bacf35-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "upgrade-insecure-requests; default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss: blob:; media-src data: https: blob:; object-src 'none'; child-src https: data: blob:; form-action https:; frame-ancestors 'self';"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:27:13 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=SRBtK2vBjVm6IL6ir2hwSGHQVb2IaTNPWa7lSjsS/V8="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:19:16 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

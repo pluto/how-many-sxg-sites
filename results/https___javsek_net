@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-EOl7U5M98laCJzAh2873kezcTSVr24HTvcdKlMjXmxY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "MRwddH0mVSP9a+xee/QtxIrZd8AxkSTIDEAbNQksMC4=",
+            "cert-url": "https://javsek.net/cdn-fpw/sxg/cert.pem.msg.MRwddH0mVSP9a-xee_QtxIrZd8AxkSTIDEAbNQksMC4",
+            "date": 1730241839,
+            "expires": 1730846639,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDkSLSd6pXixBS7LMHNdwafspK7LUOKMQ54d8AwvSPcOAiBxYCVpqio4eO3RHwYPlTiGlMTSoBR5pybpVaX/YQzMog==",
+            "validity-url": "https://javsek.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://javsek.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "6933"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da707ebe75567b5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:43:59 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=nXVohsNGR4H9BabAZWrfwggXJwoz8b0fwA8B/PcSPaE="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 20:57:05 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Server-Timing": [
+         "wp-before-template;dur=377.03"
+      ]
+   }
+}

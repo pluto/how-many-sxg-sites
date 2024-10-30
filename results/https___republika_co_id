@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-1z9xhcWN33uvsr9KALfC79rFAzzCtyyzsoP+Nj78IA4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "BLr+m4sk/9ExWuyTSXrhFAdiTuq3mjbPkXTnVbWYQDw=",
+            "cert-url": "https://www.republika.co.id/cdn-fpw/sxg/cert.pem.msg.BLr-m4sk_9ExWuyTSXrhFAdiTuq3mjbPkXTnVbWYQDw",
+            "date": 1730242464,
+            "expires": 1730847264,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDUeFhmwv/DD1PJ23RsB1rrOQykkNMDrpG/0Em/YmosvAIhAPd8Nw0y/rfaO+VKewlYtiZ2rOVUe79EitUEJsb0JFOM",
+            "validity-url": "https://www.republika.co.id/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.republika.co.id/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7172e40d9cf9b-SJC"
+      ],
+      "Cluster": [
+         "Republika-Prod-Anggur-1"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:54:24 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Sb090+yXRRwpEMNpp1rOk8kf2ZenJl9GaDJ1JGtoMAg="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

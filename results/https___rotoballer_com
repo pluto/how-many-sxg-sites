@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-jhoVrJUZoRRjCCSyU2xKZ5zqhY+zIsUUzRQ8SenXnrc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "OuuCpai8iBAYLY4l9Yz7ZBtMQi7meq3BtgR1+15VGX4=",
+            "cert-url": "https://www.rotoballer.com/cdn-fpw/sxg/cert.pem.msg.OuuCpai8iBAYLY4l9Yz7ZBtMQi7meq3BtgR1-15VGX4",
+            "date": 1730242495,
+            "expires": 1730332495,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCn+kHsZNN/jB9KwN67BeerBZOUZKqITQxgtQxZkPgQWgIhAMiS7I9dL0ZKz0B2iFbmQaHAcXpj5aFb9cbiUxV2jk3L",
+            "validity-url": "https://www.rotoballer.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.rotoballer.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "197"
+      ],
+      "Cache-Control": [
+         "public, max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da717ed04dafb34-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:54:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Jud31t9ivoBkhdyEDPclWg9/9ocfUNeCv3K0wqaPsWg="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:51:37 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Cookie, Cookie"
+      ],
+      "Via": [
+         "1.1 varnish, 1.1 varnish"
+      ],
+      "X-Cache": [
+         "HIT, MISS"
+      ],
+      "X-Cache-Hits": [
+         "21, 0"
+      ],
+      "X-Pantheon-Styx-Hostname": [
+         "styx-fe2-a-5466c7c5b8-prs6f"
+      ],
+      "X-Pingback": [
+         "https://www.rotoballer.com/xmlrpc.php"
+      ],
+      "X-Served-By": [
+         "cache-chi-klot8100173-CHI, cache-sjc1000145-SJC"
+      ],
+      "X-Styx-Req-Id": [
+         "952ff3cc-964d-11ef-a385-865bfe08344e"
+      ],
+      "X-Timer": [
+         "S1730245897.343662,VS0,VE55"
+      ]
+   }
+}

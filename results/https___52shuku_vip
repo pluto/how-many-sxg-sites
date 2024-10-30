@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-KbOjmvqslsjkiFT3tOGmZgplrtUcJAWxjDgMsSHXeto=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ZLW6Jcx4KGaHIiywX/mSNsZELcSsC+DPBWX11NmLOSI=",
+            "cert-url": "https://www.52shuku.vip/cdn-fpw/sxg/cert.pem.msg.ZLW6Jcx4KGaHIiywX_mSNsZELcSsC-DPBWX11NmLOSI",
+            "date": 1730240807,
+            "expires": 1730262407,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCID/uCELr5zFAPtRg3Tk4mCB5Cx9U5lAyn/XBzeDZMRJAAiEAqEtYfhutzMXvrDNhESGtq21P/vng5tDve5liNLXY7Hc=",
+            "validity-url": "https://www.52shuku.vip/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.52shuku.vip/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "6928"
+      ],
+      "Cache-Control": [
+         "max-age=18000"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6eebc02c0fab2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:26:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=8V94vDeBjBKNpTFHlfflse6pkMPRJ80VrwaKNbd4zaY="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 12:39:19 GMT"
+      ],
+      "Referrer-Policy": [
+         "same-origin, same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff, nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN, SAMEORIGIN"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "master-only, master-only"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block, 1; mode=block"
+      ]
+   }
+}

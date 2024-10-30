@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-3mQlkrQEsx58cH6wGwdvXLQ6cv6WjDkLPDky+Ty5SsM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "wiG1ou098wSHkJvvPYXbf0hiyTJDwnR6pXkgDqfwO50=",
+            "cert-url": "https://www.aiprm.com/cdn-fpw/sxg/cert.pem.msg.wiG1ou098wSHkJvvPYXbf0hiyTJDwnR6pXkgDqfwO50",
+            "date": 1730240875,
+            "expires": 1730248075,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDb+2rGcSupY4I6PCOV1Yzt96uhicQVeZNal4u+XQWg8wIhALVNJ+IAzf6FT2XdCvZ1gGkSWIbcplR+cRFQ5KcqUIi1",
+            "validity-url": "https://www.aiprm.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.aiprm.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "10460"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000"
+      ],
+      "Cache-Control": [
+         "max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f05fe2e5ceb1-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:27:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=xQ/kNFJt3nPML+7ZQIX/F7JD3V+9qSLXzKnw/pTbl14="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 05:04:47 GMT"
+      ],
+      "Link": [
+         "<https://www.aiprm.com/css/docsearch.css>;rel=preload;as=style,<https://www.aiprm.com/css/docsearch.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-k/UTnqlFI1UxbzgFe7bG9ZB7R+oyE2J9pXsOi/2BTD4=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-NV/B3ULe4TVBz7qKuYIbBG2HD15/CykQ5Ay2A6nRv4c=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "pwgNABErfjppL3AJLGA8Qf3ZnrALREVF3oPS3j2ht/0=",
+            "cert-url": "https://worddaily.com/cdn-fpw/sxg/cert.pem.msg.pwgNABErfjppL3AJLGA8Qf3ZnrALREVF3oPS3j2ht_0",
+            "date": 1730243035,
+            "expires": 1730246935,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEiEt09Ns2Zr3opQvz10Kw4MBvrK+CmVmwj9bgKJdR+yAiApJcX0YvfJ0ClefhkqExe+PPYI8iSl+RU7EAIDzJynQA==",
+            "validity-url": "https://worddaily.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://worddaily.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=300, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "origin,page-rules"
+      ],
+      "Cf-Cache-Status": [
+         "BYPASS"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7251b96bb96a1-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Pq83Fl0nno5hYim9USQJUPLsdaA+7/yMYcXYQcoN3yg="
+      ],
+      "Host-Header": [
+         "a9130478a60e5f9135f765b23f26593b"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "STALE"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Hacker": [
+         "If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header."
+      ],
+      "X-Powered-By": [
+         "WordPress VIP <https://wpvip.com>"
+      ],
+      "X-Rq": [
+         "sjc2 123 242 443"
+      ]
+   }
+}

@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-7iT03n0LPm51GZmbq4whxWX1dUHme75YkqpgXol/rUk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "kugIcvA0E72a0naz/gq/cb0m/g3zmc5G5MiUVcE1K3Q=",
+            "cert-url": "https://neurosciencenews.com/cdn-fpw/sxg/cert.pem.msg.kugIcvA0E72a0naz_gq_cb0m_g3zmc5G5MiUVcE1K3Q",
+            "date": 1730242192,
+            "expires": 1730846992,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQC+Mf6tK4OnTj5j+1FVN9VJ+9i0yYIBP7fb0ByAZGlqcAIhAPOJ7FoAinZ7NVkeow9i81aUNUAbBgSz/27qAorhK5Sx",
+            "validity-url": "https://neurosciencenews.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://neurosciencenews.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "5720"
+      ],
+      "Cache-Control": [
+         "max-age=5356800"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7108ca2c0cf8f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "block-all-mixed-content"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:49:52 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=zyn4EfkuGunDwfNj5ocZSpaVJdn7LlFP5Phc/f5/MQ8="
+      ],
+      "Host-Header": [
+         "8441280b0c35cbc1147f8ba998a563a7"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:30:35 GMT"
+      ],
+      "Link": [
+         "<https://neurosciencenews.com/wp-content/themes/zeen/assets/css/tipi/tipi.woff2?9oa0lg>;rel=preload;as=font;crossorigin=anonymous,<https://neurosciencenews.com/wp-content/themes/zeen/assets/css/tipi/tipi.woff2?9oa0lg>;rel=allowed-alt-sxg;header-integrity=\"sha256-hwnmwEQxZ5TSXHhBVyO0UAMzOV+Qxh5bPhenhlRAHts=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Enabled": [
+         "True"
+      ],
+      "X-Httpd-Modphp": [
+         "1"
+      ],
+      "X-Proxy-Cache": [
+         "HIT"
+      ]
+   }
+}

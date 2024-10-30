@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-TjvrbQMg5lZpsneqpMYHJmb0q5ygyu4damFxHewiPJM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "nljBm6QuYXbR95gja7WBmy3EZEnfyY1d0Mj5desHuLE=",
+            "cert-url": "https://www.worldhistory.org/cdn-fpw/sxg/cert.pem.msg.nljBm6QuYXbR95gja7WBmy3EZEnfyY1d0Mj5desHuLE",
+            "date": 1730243037,
+            "expires": 1730333037,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDwPEQsnv2PonXDVmDy5zWEzmBItYUJY4Ot9ffH8p9XiAiEAxrMq4AM+XA7elnN30aHW3WbRYFSOc58SDLlyU4D7xhA=",
+            "validity-url": "https://www.worldhistory.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.worldhistory.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ch": [
+         "Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version"
+      ],
+      "Age": [
+         "18167"
+      ],
+      "Cache-Control": [
+         "public, s-maxage=86400, max-age=86400"
+      ],
+      "Cdn-Cache-Control": [
+         "max-age=86400, stale-while-revalidate=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7252a80c6f94f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:57 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=QCqu2Y4fWEGAzSe/Q6KgNZ1znkDz/EohEou//W+7mC4="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 17:01:16 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 17:01:16 GMT"
+      ],
+      "Link": [
+         "<https://www.worldhistory.org/template/images/bg_timeline.png>;rel=preload;as=image,<https://www.worldhistory.org/template/images/bg_timeline.png>;rel=allowed-alt-sxg;header-integrity=\"sha256-ueZCTHUp36En1coWJfeAzzKrik9o3s/IqtUa/LJ/k9Y=\""
+      ],
+      "Pragma": [
+         "cache"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent"
+      ],
+      "X-Ahe-Cache": [
+         "cached, last transmitted on 2024-10-29 19:00:22"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "sameorigin"
+      ]
+   }
+}

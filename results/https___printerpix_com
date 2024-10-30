@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-p0sXdgUxV3iN3DqpL+noinvzPSJ7O97o89y90fTBZcs=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "2tPF2Zkjo7tnS+6Hj6FqTd/PLYi2LVuMEhuUD4hrLNc=",
+            "cert-url": "https://www.printerpix.com/cdn-fpw/sxg/cert.pem.msg.2tPF2Zkjo7tnS-6Hj6FqTd_PLYi2LVuMEhuUD4hrLNc",
+            "date": 1730242386,
+            "expires": 1730847186,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCD28mbQlVznEGN6y3gdrVokkU2RRMMoKX2vegXn25usgIgEd8l0tzruSh8qB2xL2Sn3oNTGksoMG8Zej02E6mlRPE=",
+            "validity-url": "https://www.printerpix.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.printerpix.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71545e47b24f3-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:06 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=QkMntacubgSPpHg0zTf+ihBeB0fuZvVKPxKlMaE6vPE="
+      ],
+      "Link": [
+         "<https://www.printerpix.com/images/admin/homepagebanners/Desktop01/b9408560-eb42-4392-9771-3f3e07dae072.webp>;rel=preload;as=image,<https://www.printerpix.com/images/admin/homepagebanners/Desktop01/b9408560-eb42-4392-9771-3f3e07dae072.webp>;rel=allowed-alt-sxg;header-integrity=\"sha256-GtZWpEipt4s75heztj8mA6GK6eulf0K6o/TgXQ70wNQ=\",<https://www.printerpix.com/images/admin/homepagebanners/Mobile01/b9408560-eb42-4392-9771-3f3e07dae072.webp>;rel=preload;as=image,<https://www.printerpix.com/images/admin/homepagebanners/Mobile01/b9408560-eb42-4392-9771-3f3e07dae072.webp>;rel=allowed-alt-sxg;header-integrity=\"sha256-0uJMNHpjATFtnH/7NPn0M5zGCeLD1ZjHE2yOds2SRjw=\",<https://www.printerpix.com/images/admin/PageGroupImages/CarouselHome/c44e2c60-a0b1-4980-a9df-e8b36ac2747b.webp>;rel=preload;as=image,<https://www.printerpix.com/images/admin/PageGroupImages/CarouselHome/c44e2c60-a0b1-4980-a9df-e8b36ac2747b.webp>;rel=allowed-alt-sxg;header-integrity=\"sha256-32oBtJ4frzwnPV9iZYoJGZqy2UO4DCNNVy3efiDhTIU=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Country": [
+         "US"
+      ],
+      "X-Ip": [
+         "2a06:98c0:3600::103"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ],
+      "X-Src-Ip": [
+         "2a06:98c0:3600::103"
+      ]
+   }
+}

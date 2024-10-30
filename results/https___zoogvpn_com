@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-LvVZwwLDfcKz7tD1TKbzkN/V6CvXQ3ER8ZG5b7e61F0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "s9ThuRJtrzuLH5CHjtn+A+6jSmLAI8Y23BxOTLY3u6g=",
+            "cert-url": "https://zoogvpn.com/cdn-fpw/sxg/cert.pem.msg.s9ThuRJtrzuLH5CHjtn-A-6jSmLAI8Y23BxOTLY3u6g",
+            "date": 1730243120,
+            "expires": 1730847920,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD9PBnfGQ/e5l7yDIDhouTBY/kkcNTHx1NFAFiXVamMMwIgZJJN9Lhkg2AtMTUKtRHt5EOd+EDi/q9Q0RJhE3hy+KM=",
+            "validity-url": "https://zoogvpn.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://zoogvpn.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Apo-Via": [
+         "origin,page-rules"
+      ],
+      "Cf-Cache-Status": [
+         "BYPASS"
+      ],
+      "Cf-Ray": [
+         "8da7272cb7f6d049-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:05:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=1PFJaEO0q8WDtV2qWSzHddfn4nxX+sGoDkgh6Qb1FBU="
+      ],
+      "Link": [
+         "<https://zoogvpn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0>;rel=preload;as=style;media=all,<https://zoogvpn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0>;rel=allowed-alt-sxg;header-integrity=\"sha256-r0Uuhne7sygJUkjOQOn7qOXWbY/JVj4a+79wGQk9oa8=\",<https://zoogvpn.com/wp-content/themes/dvpn/assets/css/font-awesome.all.min.css?ver=5.9.0>;rel=preload;as=style;media=all,<https://zoogvpn.com/wp-content/themes/dvpn/assets/css/font-awesome.all.min.css?ver=5.9.0>;rel=allowed-alt-sxg;header-integrity=\"sha256-eTl6r8BLhwROAdT65q+TM5Y+SgkjV4TDXGxKJOMAeGw=\",<https://zoogvpn.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1727867861>;rel=preload;as=style;media=all,<https://zoogvpn.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1727867861>;rel=allowed-alt-sxg;header-integrity=\"sha256-xooUU4CTiD2QBktJGCHjTgtcX5N0d7Vx6KY91DkaprA=\",<https://zoogvpn.com/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1727867861>;rel=preload;as=style;media=all,<https://zoogvpn.com/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1727867861>;rel=allowed-alt-sxg;header-integrity=\"sha256-LnLeCzHGqUBxK2igg+A1AjNnJ0IzxdYYvso9BHqv028=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

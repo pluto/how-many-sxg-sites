@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-A9IsaYsMDxaSLf/H2hJW8CebLRLVPjGcgks8o68EYtI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "HImdU57TdwEGwRxF6YBJyP9NHvQNFQcJj9AQkUygKzE=",
+            "cert-url": "https://flo.health/cdn-fpw/sxg/cert.pem.msg.HImdU57TdwEGwRxF6YBJyP9NHvQNFQcJj9AQkUygKzE",
+            "date": 1730241519,
+            "expires": 1730259519,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEJlg7d84UUqc75jqsNC4fjV3Ghorqg1s3x5RPzsjCfmAiEAtbrPXWeQJHIrPMn7qXsmapZZdD0G9v1R9CvhgcaS6ik=",
+            "validity-url": "https://flo.health/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://flo.health/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "13009"
+      ],
+      "Cache-Control": [
+         "max-age=30, must-revalidate, public, s-maxage=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7001b469e9e64-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:39 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=G1AVDynnHkMv2roymRlLCjCdd3LszgpzVfomIPJMFTY="
+      ],
+      "Feature-Policy": [
+         "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 19:59:53 GMT"
+      ],
+      "Referrer-Policy": [
+         "origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Digest": [
+         "en1dc6281ddf9b49e68a5bceab723e41f91bc1e9c32f75f366a9adcb94f2650735"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

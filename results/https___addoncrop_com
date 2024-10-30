@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-iOHFTXrGH+fqJEe9RaFu/Ax5nkaWT5eWW2YXNclUtbE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "onZl9cEpYujeGjbUskON6zU9IqIidz2AF+g8oYH9KRc=",
+            "cert-url": "https://addoncrop.com/cdn-fpw/sxg/cert.pem.msg.onZl9cEpYujeGjbUskON6zU9IqIidz2AF-g8oYH9KRc",
+            "date": 1730240843,
+            "expires": 1730845643,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCWNXUWCf7jrYmRkhKWeodjAZgmxQdqL3qFhnfp2c1M2QIhAJhOxb5/fzAkkLb9KvJY1889RjipgRKww+bE1AO6R6uD",
+            "validity-url": "https://addoncrop.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://addoncrop.com/v34/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6ef99b4cc96c3-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:27:23 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=BPKLAT/2rTAnTwMCrQ3GGO4wDovtU4CT70XxDWwQ4Vo="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, User-Agent"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

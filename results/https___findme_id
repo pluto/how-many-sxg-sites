@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ezwvbwx10iHtlh+R3+JO7wAQdmncYBVqcO6Q6Xg1RRk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "KLvdQgDc+uo/KPYwOjAl4LvaMZKOTkGLJFfDgnxiWTg=",
+            "cert-url": "https://findme.id/cdn-fpw/sxg/cert.pem.msg.KLvdQgDc-uo_KPYwOjAl4LvaMZKOTkGLJFfDgnxiWTg",
+            "date": 1730241506,
+            "expires": 1730846306,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIAewVSh5CyCJmdx6+ZaM4opAB+Wt6ks2L3E+pRubuxC7AiEA9cgN1SqQwqG8O4SHZbRmOD0zTkpKUo/xO5OAEPo/okw=",
+            "validity-url": "https://findme.id/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://findme.id/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6ffc6a67d15df-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "upgrade-insecure-requests"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:26 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=MR8Nr9lEkFDTQ9sZZ0tpkq+wdFVgdU8cSbM6M3Ez2Jg="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:29:01 GMT"
+      ],
+      "Panel": [
+         "hpanel"
+      ],
+      "Platform": [
+         "hostinger"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Tenweb-Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Powered-By": [
+         "PHP/8.2.18"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ],
+      "X-Two-Cache-Date": [
+         "1730240496"
+      ],
+      "X-Two-Optimize": [
+         "1"
+      ],
+      "X-Two-Page-Cached": [
+         "1"
+      ],
+      "X-Two-Page-Is-Optimized": [
+         "1"
+      ],
+      "X-Two-Version": [
+         "2.30.5"
+      ]
+   }
+}

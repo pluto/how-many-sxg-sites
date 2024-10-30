@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-u/jTe2HvEs3gTRKJxlXleDaUxCanHA6uvSI0xCG5ojE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "u+zLXJZfOBgK8oUYvg0smBJAX+3pkFNKcKed3pufygE=",
+            "cert-url": "https://yat.fyi/cdn-fpw/sxg/cert.pem.msg.u-zLXJZfOBgK8oUYvg0smBJAX-3pkFNKcKed3pufygE",
+            "date": 1730243077,
+            "expires": 1730333077,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIB38OgTWvl/TaQt6hq6oUxczRB1+YJGkY7kqdy8ZDsNkAiEAj4eea3isQf8Xu/0yiUNpdW8DVDo2jyOF2eSp1Je6jWw=",
+            "validity-url": "https://yat.fyi/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://yat.fyi/index.html",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cache-Control": [
+         "public,max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da72620549167f5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:37 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=KV4oh+lNmG6QxXw9ZjNOKQRadp7SiIcaRFs0U8/G+N0="
+      ],
+      "Last-Modified": [
+         "Thu, 03 Oct 2024 13:38:32 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

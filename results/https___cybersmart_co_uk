@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-DRMFUKdKJeOLY73Rb2WwT+JwGVWueJIRBqKr80u+oxg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "EERXPo99Bhrsot3wT+5ntbWowAipBW93/IrHyXw3ZWg=",
+            "cert-url": "https://cybersmart.co.uk/cdn-fpw/sxg/cert.pem.msg.EERXPo99Bhrsot3wT-5ntbWowAipBW93_IrHyXw3ZWg",
+            "date": 1730241272,
+            "expires": 1730846072,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDos51s2p0hMHdArci0hl/MNk7k5553cjSoF/nIs/boqAIhALHOIyyf8zsbJ2YRPQwz+bTdpEsKDjDhRCgjC15+Xiv9",
+            "validity-url": "https://cybersmart.co.uk/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://cybersmart.co.uk/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "6848"
+      ],
+      "Cache-Control": [
+         "max-age=31536000"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6fa15a1ceaaa6-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:34:32 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Ve/msyatf8HYRZOkvMvUpAja49RV0HJ/SE4jWCudGjc="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 20:36:18 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 20:36:19 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "MISS"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,97 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-YmieOpgMuUuo5FXknjTCW5+z1aeHYC0t35BCCOh7cPE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "3hZ+RQ7ufEsqzMqP7rAeDQ0ixVwI6zLPk0jT5u4uREQ=",
+            "cert-url": "https://stapecdn.com/cdn-fpw/sxg/cert.pem.msg.3hZ-RQ7ufEsqzMqP7rAeDQ0ixVwI6zLPk0jT5u4uREQ",
+            "date": 1730242690,
+            "expires": 1730847490,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBeLb/0ArSI5/l/sKD/9egCwsArSUXXVgRy+BYh05s4MAiEA2r3ho6Vgeg1dSOqmbnwAgiMo4G9trM13c1tC8nA1sZo=",
+            "validity-url": "https://stapecdn.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://stapecdn.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "635896"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ],
+      "Cache-Control": [
+         "public, max-age=31536000"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71cb130bb7ac2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:58:10 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Zv2r96R2dNYiopTwZ/rsLDgrZ8Hmyp4hn7/2+8iaYaM="
+      ],
+      "Expires": [
+         "Tue, 22 Oct 2024 16:18:54 GMT"
+      ],
+      "Last-Modified": [
+         "Fri, 19 Apr 2024 08:50:57 GMT"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Goog-Generation": [
+         "1713516657650674"
+      ],
+      "X-Goog-Hash": [
+         "crc32c=QPdHEA==, md5=T5gJgTZslXtR2RUCCpqW9Q=="
+      ],
+      "X-Goog-Metageneration": [
+         "1"
+      ],
+      "X-Goog-Storage-Class": [
+         "STANDARD"
+      ],
+      "X-Goog-Stored-Content-Encoding": [
+         "identity"
+      ],
+      "X-Goog-Stored-Content-Length": [
+         "917"
+      ],
+      "X-Guploader-Uploadid": [
+         "ACJd0Nq3Ku7F31kZaAlJvdi4NdqwbsqAfm3cuCxhxwobrXWCM3jCoFhnueYACD4TDzyWhbdYmys"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

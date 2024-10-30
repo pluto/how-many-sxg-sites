@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-X5lg358HpNjy0oDFc/GhOgrCaZqta7D4KobE+zKBXjM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "3MNl2bJ3LpLTAwKiVEaninTYUq+QLlsZZwK7/tLhCp4=",
+            "cert-url": "https://brasilbitcoin.com.br/cdn-fpw/sxg/cert.pem.msg.3MNl2bJ3LpLTAwKiVEaninTYUq-QLlsZZwK7_tLhCp4",
+            "date": 1730241084,
+            "expires": 1730845884,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCICylMQz6EsEDKZByNak9CAqlxSzi6tGIDJSquWFYoH2yAiEAlZ7tEjX5nrnQnAo3vS7K3zCtsSPS0YILmlmeVmx8J3U=",
+            "validity-url": "https://brasilbitcoin.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://brasilbitcoin.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "455447"
+      ],
+      "Cache-Control": [
+         "public, max-age=31536000"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f57cc1f91573-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:31:24 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=8wTqvZwlxNiI1Yu+Nq0wK5ftqgBxeEa5gwuM61Yb02E="
+      ],
+      "Last-Modified": [
+         "Thu, 24 Oct 2024 15:56:49 GMT"
+      ],
+      "Link": [
+         "<https://brasilbitcoin.com.br/index/v5/css/default.min.css?v=1.33>;rel=preload;as=style,<https://brasilbitcoin.com.br/index/v5/css/default.min.css?v=1.33>;rel=allowed-alt-sxg;header-integrity=\"sha256-uTZkX0zUGSBhRitB8+8h0LUxlTcChsLmwnf3ym7nhek=\",<https://brasilbitcoin.com.br/index/v5/fonts/montserrat-v25-latin-regular.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://brasilbitcoin.com.br/index/v5/fonts/montserrat-v25-latin-regular.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-pEg+bFk7FKRweZX4N89Lfd+izetyxHWailrQbaR+hRE=\",<https://brasilbitcoin.com.br/index/v5/fonts/montserrat-v25-latin-600.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://brasilbitcoin.com.br/index/v5/fonts/montserrat-v25-latin-600.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-UfuV4e7J/7IXgZiUqp3SrcCPOnr33WF7Y3lk8SAumas=\",<https://brasilbitcoin.com.br/index/v5/fonts/montserrat-v25-latin-500.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://brasilbitcoin.com.br/index/v5/fonts/montserrat-v25-latin-500.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-0ETi9l3RVlbM49nFMLSPjX4MjTAdI52F0pBwREC0m90=\",<https://brasilbitcoin.com.br/index/v5/fonts/montserrat-v25-latin-300.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://brasilbitcoin.com.br/index/v5/fonts/montserrat-v25-latin-300.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-Be0UEwDIDujOoLLxer7LyrvhVXaAkE7Ob9nmw+E8kNg=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept"
+      ]
+   }
+}

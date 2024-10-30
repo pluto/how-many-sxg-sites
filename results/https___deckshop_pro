@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-8Vfw+htirkG6mLYQ8xBDe5jHLFdpDuo4HMq/pVYy+RE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ZHjobMZK8IJwQJYBoSNoovwOqaBRz4EbP2Qo3LhKMd4=",
+            "cert-url": "https://www.deckshop.pro/cdn-fpw/sxg/cert.pem.msg.ZHjobMZK8IJwQJYBoSNoovwOqaBRz4EbP2Qo3LhKMd4",
+            "date": 1730241300,
+            "expires": 1730246100,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIF/E7tZMANb29WhAmqJzNvLHXhukVzab9BPSXI3oQqubAiAHsED0qsWCHze4CW3l50gOLuYNbWf8gxDHq8jNrzIGzA==",
+            "validity-url": "https://www.deckshop.pro/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.deckshop.pro/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "175"
+      ],
+      "Cache-Control": [
+         "max-age=1200"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6fac230652366-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:00 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=JTc5zytZI7BvjWhpDr6gI4SjnWc2Js0f/dh5LuFryQg="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:32:05 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, X-Requested-With"
+      ],
+      "X-Backend": [
+         "decks_backend"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

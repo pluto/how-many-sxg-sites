@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-XVnRfgpF/7J0qlCmEOTZlAYaalalTE/bybhrt/H6G3E=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "16dA0MhzvQwtfshh0KBHpFsSLCqSR71B14jV1f+fW1g=",
+            "cert-url": "https://xxvideos.blog/cdn-fpw/sxg/cert.pem.msg.16dA0MhzvQwtfshh0KBHpFsSLCqSR71B14jV1f-fW1g",
+            "date": 1730243067,
+            "expires": 1730246967,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCA4RZB9wad/72XzPUTFQQCwqrJKohD0QOjaoltl0NcnwIgQpUS4GvircPsvjNodz6xXuhL4IDTH914jVWJ/Wtt48A=",
+            "validity-url": "https://xxvideos.blog/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://xxvideos.blog/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "415866"
+      ],
+      "Cache-Control": [
+         "max-age=300"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da725e6c6ee9e59-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:27 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=BQ7YRPuiNinCjrBNetUW2KmYU2xQjBCZEQcDCSYzyxw="
+      ],
+      "Last-Modified": [
+         "Wed, 23 Oct 2024 19:55:12 GMT"
+      ],
+      "Link": [
+         "<https://xxvideos.blog/wp-content/cache/autoptimize/js/autoptimize_b7692cdf627b1f1c79b1bc1bdb12f577.js>;rel=preload;as=script,<https://xxvideos.blog/wp-content/cache/autoptimize/js/autoptimize_b7692cdf627b1f1c79b1bc1bdb12f577.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-kxNWEr5KaG7g9U8UsdqUFR/Bl2o4Z3sfU0jYirVqIag=\",<https://xxvideos.blog/wp-content/cache/autoptimize/css/autoptimize_65783f075801ebe40d342200b387bb91.css>;rel=preload;as=style,<https://xxvideos.blog/wp-content/cache/autoptimize/css/autoptimize_65783f075801ebe40d342200b387bb91.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-t3ZRNpPzknXphB5+7+p3Bqp0m2ZcwcgxRre/GR2lPEo=\",<https://xxvideos.blog/>;rel=preload;as=other,<https://xxvideos.blog/>;rel=allowed-alt-sxg;header-integrity=\"sha256-IOD+EQEVTWuwN+x5Xl9L3GuQy3geTWM5kWAr0iCAYEI=\",<https://xxvideos.blog/wp-content/plugins/ane-player/player.php>;rel=preload;as=other,<https://xxvideos.blog/wp-content/plugins/ane-player/player.php>;rel=allowed-alt-sxg;header-integrity=\"sha256-QLytqjrLYimdP7gQbF44d/EBBOiu31fx71pjlUTGaM4=\""
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Version": [
+         "MS24092601"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Micro-Cache": [
+         "MISS"
+      ]
+   }
+}

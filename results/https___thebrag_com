@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-CrQfKNC0o2MBkgaV2oyjdf6P97D69cLaQP4pI9oS5lE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "R34Sc9H/vfZQ3/MHL76HlNpWQ2H1SjygPLWzwNmTNP8=",
+            "cert-url": "https://thebrag.com/cdn-fpw/sxg/cert.pem.msg.R34Sc9H_vfZQ3_MHL76HlNpWQ2H1SjygPLWzwNmTNP8",
+            "date": 1730242784,
+            "expires": 1730260784,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCouCrjWSsjMmK5SDT0eRvqI/3V5qiLywnYPAoC6tb1vAIhAPV5yGGGrntKrbPs/UbpDrx8KRThPTsFZA53MmVeOkF1",
+            "validity-url": "https://thebrag.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://thebrag.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "2429"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71efdd674cec9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:44 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=tb9jkxSQg1OihWSVK0TWJf/pN/VeZ+pb1biznLzpQqU="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:16:28 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "WordOps"
+      ]
+   }
+}

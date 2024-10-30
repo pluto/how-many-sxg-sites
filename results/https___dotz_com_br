@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-jsCoI55X4pSWaoWG1dsUIsjGEKQAE8uYRtw+I8omU/A=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "1DkN6oMpSQ1hwMNkvnc2i53yiCWJNeyD2umXLJtUuB8=",
+            "cert-url": "https://dotz.com.br/cdn-fpw/sxg/cert.pem.msg.1DkN6oMpSQ1hwMNkvnc2i53yiCWJNeyD2umXLJtUuB8",
+            "date": 1730241352,
+            "expires": 1730846152,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBetebCjX1OoDqisntkH0I5+Ql1zP1dmzIHvsEw3HNOpAiApxvwObLyrW6sGpa1tb54zZXkGOYOaMnCkbwWDhObN9g==",
+            "validity-url": "https://dotz.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://dotz.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fc064182984f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:52 GMT"
+      ],
+      "Dharma-Bot-Global-Security": [
+         "verify"
+      ],
+      "Digest": [
+         "mi-sha256-03=vyPS6l26PRxPMTcovCqc3J5IXqwGyqn+VcrngRJEw0A="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-UG4+X/I/lcJNu+0f/bUsWrSsM52PeMeZ+tWbD64bwSk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "hsi2WLrjW9Fb1mLh/46//gfbkF69ZDvfH2Te1GH+SVs=",
+            "cert-url": "https://dietpi.com/cdn-fpw/sxg/cert.pem.msg.hsi2WLrjW9Fb1mLh_46__gfbkF69ZDvfH2Te1GH-SVs",
+            "date": 1730241320,
+            "expires": 1730331319,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGbWu21hCWu65IG5s77auHEN44tCRwa3J2nzUFR2OXImAiEA6VLzIkVovNfqAd4dZcGU5caBYoUlGwoMrL+TXuR+OhU=",
+            "validity-url": "https://dietpi.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://dietpi.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=86399"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fb3b70fece9c-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en"
+      ],
+      "Content-Security-Policy": [
+         "upgrade-insecure-requests; frame-ancestors 'self'; base-uri 'self' https://dietpi.com/matomo/index.php https://dietpi.com/grafana/; default-src 'none'; object-src 'none'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src * data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdnjs.cloudflare.com; worker-src 'self' blob:; frame-src 'self'; manifest-src 'self'; connect-src 'self' https://api.github.com"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=JJtERYRiCqgYYQQhsh8CfTJF1KBv1d0BEkvAjzFiIC0="
+      ],
+      "Last-Modified": [
+         "Fri, 18 Oct 2024 17:43:24 GMT"
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(), autoplay=(), browsing-topics=(), camera=(), display-capture=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), interest-cohort=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=(), screen-wake-lock=()"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Robots-Tag": [
+         "all"
+      ],
+      "X-Xss-Protection": [
+         "0"
+      ]
+   }
+}

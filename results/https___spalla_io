@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-9cAVBN0LE/jESbqPXxkwLki3guc/BNBJgHJeMLyi82w=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "oTZl4DtB+qjCLrZifaP1Ahjfua2JhX92wZvwZ2FYDoA=",
+            "cert-url": "https://spalla.stream/cdn-fpw/sxg/cert.pem.msg.oTZl4DtB-qjCLrZifaP1Ahjfua2JhX92wZvwZ2FYDoA",
+            "date": 1730242667,
+            "expires": 1730260667,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIAR2li93RpBwevf0anLlRHgSynqHMFNMFRy3SQ9lgyp8AiAwqrvwZXplRcqhtDPRS1h1CNqyC2j192+4siYsPkKD/g==",
+            "validity-url": "https://spalla.stream/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://spalla.stream/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71c21c1009e5e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=SbMxohtJ1xWJ5cbeu7ntxXBRCndMA6BrK10cUT9HNy0="
+      ],
+      "Last-Modified": [
+         "Sun, 20 Oct 2024 04:13:27 GMT"
+      ],
+      "Link": [
+         "<https://spalla.stream/wp-content/et-cache/1/1/46/et-divi-dynamic-46.css?ver=1729011342>;rel=preload;as=style;media=all,<https://spalla.stream/wp-content/et-cache/1/1/46/et-divi-dynamic-46.css?ver=1729011342>;rel=allowed-alt-sxg;header-integrity=\"sha256-Gn/4uarUEF9myvxju7bKgpUzV8F/omrPaGZ9s2G4z0o=\",<https://spalla.stream/wp-content/et-cache/1/1/46/et-divi-dynamic-46-late.css?ver=1729011342>;rel=preload;as=style;media=all,<https://spalla.stream/wp-content/et-cache/1/1/46/et-divi-dynamic-46-late.css?ver=1729011342>;rel=allowed-alt-sxg;header-integrity=\"sha256-YJUq8OjWdu0tgoJlE0DHm5JFPJdAxwrKCEJ4diCUV4A=\",<https://spalla.stream/wp-content/et-cache/1/1/46/et-core-unified-deferred-46.min.css?ver=1729011343>;rel=preload;as=style,<https://spalla.stream/wp-content/et-cache/1/1/46/et-core-unified-deferred-46.min.css?ver=1729011343>;rel=allowed-alt-sxg;header-integrity=\"sha256-mUWm8zZfRHJtDA4G/OkBs8jF9curI71V0w0f78Boc6M=\",<https://spalla.stream/wp-content/themes/Divi/js/scripts.min.js?ver=4.22.1>;rel=preload;as=script,<https://spalla.stream/wp-content/themes/Divi/js/scripts.min.js?ver=4.22.1>;rel=allowed-alt-sxg;header-integrity=\"sha256-8m0ndRccD2atadmsUTkW8fYvp82GBpzTjooMLgJwf28=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

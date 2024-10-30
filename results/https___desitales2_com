@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-hpYGxjUa4QYUxiPuktIsYJ44FmKB3XLVHusRftrS+WI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "/9peBBErOuljyCyTzD0CUDqwhGRB2vvjuNSbAuXRdL0=",
+            "cert-url": "https://www.desitales2.com/cdn-fpw/sxg/cert.pem.msg._9peBBErOuljyCyTzD0CUDqwhGRB2vvjuNSbAuXRdL0",
+            "date": 1730241310,
+            "expires": 1730846110,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD977QkH2DNuKj2IQe0PC+wIOBXzk/ZU9sUgINXzHapXQIgOYr/3frZWhqSA0v5VgBVINXxdMGvheBTX6LuT0/3Rto=",
+            "validity-url": "https://www.desitales2.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.desitales2.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "647"
+      ],
+      "Cache-Control": [
+         "max-age=691200"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6fb0104449878-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:10 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=o7ZqUVlhl3fXUq8pMv7Ukw1VruIHn/6J7wCfGxRmTcM="
+      ],
+      "Fastcgi-Cache": [
+         "HIT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:24:23 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-AeNEvvGNefgozKg73JelkA73d0q4Ks/mkNc+Dw1dmfE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "xygl0RIKBE+YI1G28xe3DYmJYOfBVHogJ9jJ3W9hzo0=",
+            "cert-url": "https://www.opus.pro/cdn-fpw/sxg/cert.pem.msg.xygl0RIKBE-YI1G28xe3DYmJYOfBVHogJ9jJ3W9hzo0",
+            "date": 1730242275,
+            "expires": 1730847075,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIHFbIQ5VD7aCXf8cXZubVrzyvGG8j5w2pE2cHMaIn1Y5AiEA156ETCLR3gygvF8vLQa1Zw28+9u9U0bHvk8zmoDViQ0=",
+            "validity-url": "https://www.opus.pro/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.opus.pro/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "9435"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7129284e6230c-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:15 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Z8y3OMlJhwNscTVl/NARdewHPeOuTTdC9ABBGubGGsM="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 20:55:45 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=2147483647"
+      ],
+      "Surrogate-Key": [
+         "www.opus.pro 6388604483b03a9ecb34d695 pageId:65a7268a3d5bcf09584d7552"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cluster-Name": [
+         "us-west-2-prod-hosting-red"
+      ],
+      "X-Lambda-Id": [
+         "095ab9bb-f543-4253-b6f4-f483c05a6510"
+      ]
+   }
+}

@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-+b/UK1qIDRKv/C9Xkbu82Huu3cIAAFCrjhaErNo69jk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "sZITIyIsfucorNepFm+8jp7HMHK+agFUqR8OkaXPHGU=",
+            "cert-url": "https://dailypassport.com/cdn-fpw/sxg/cert.pem.msg.sZITIyIsfucorNepFm-8jp7HMHK-agFUqR8OkaXPHGU",
+            "date": 1730241281,
+            "expires": 1730245181,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCN1cL8LnkrWcSewTvLZRYYAEdIJdFawL3Je/AuhnwaigIhALOpjnqRAOx9g1e8zv+Jar+gYZ7ekm8I5J0UE8ebxYEx",
+            "validity-url": "https://dailypassport.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://dailypassport.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=300, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "origin,page-rules"
+      ],
+      "Cf-Cache-Status": [
+         "BYPASS"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6fa49d4a0159e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:34:40 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=OpF+NGLgnto47smfq1vLcSGeglQXHocTrEqnz/oIst8="
+      ],
+      "Host-Header": [
+         "a9130478a60e5f9135f765b23f26593b"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Hacker": [
+         "If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header."
+      ],
+      "X-Powered-By": [
+         "WordPress VIP <https://wpvip.com>"
+      ],
+      "X-Rq": [
+         "sjc2 123 242 443"
+      ]
+   }
+}

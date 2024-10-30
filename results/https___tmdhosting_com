@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-gdL8eZEgAI5x7rAbWNEq+hg1YNAL8wBFMEa7Q31hn8s=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "3nHP0j0it2QGqmjrEgEDJCoM+HQsKgqLvJYJlquxDxw=",
+            "cert-url": "https://www.tmdhosting.com/cdn-fpw/sxg/cert.pem.msg.3nHP0j0it2QGqmjrEgEDJCoM-HQsKgqLvJYJlquxDxw",
+            "date": 1730242819,
+            "expires": 1730847619,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIA2LEZXCK9+snFM/Cp4yCqL3ioK/gUXB3HQxtOSR+BogAiAaZ8mc+o+wPWB0+xQVwQ6IAcL9u07iia5sUPopONdFYw==",
+            "validity-url": "https://www.tmdhosting.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.tmdhosting.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "2742"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71fd8745b6897-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:00:19 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=lf9r85Yc3PnI8RSHNfEf7Qrrfcm55oHAwsv2dHyFmHk="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:14:10 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,Cookie"
+      ]
+   }
+}

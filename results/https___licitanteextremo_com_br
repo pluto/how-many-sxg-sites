@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-LRUApJpH/lSX4XE0+ieLMUOCCf/l3nGez9SrVYhQ0Qo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "uPkfMfQQPdkFgK3n/MOsLlK4pVT6SobJ8Vmrd0kAijk=",
+            "cert-url": "https://licitanteextremo.com.br/cdn-fpw/sxg/cert.pem.msg.uPkfMfQQPdkFgK3n_MOsLlK4pVT6SobJ8Vmrd0kAijk",
+            "date": 1730241953,
+            "expires": 1730846753,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDONWU1TxTVy+WsNjIt3bMuZl0dtRoIjIIENIwWKPTHxQIhAIdNZJilxriPMzMkfr+lKcDh9G++/PyjjA0L5wf+EraS",
+            "validity-url": "https://licitanteextremo.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://licitanteextremo.com.br/cvg/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70ab2e04b238b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:53 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=vLXOK8C3cpFEyEy2AKJw9lmjxnIRtpJQD6uGKr6kWwU="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 16:50:38 GMT"
+      ],
+      "Link": [
+         "<https://licitanteextremo.com.br/wp-content/uploads/2024/10/hero-copy-1.webp>;rel=preload;as=image,<https://licitanteextremo.com.br/wp-content/uploads/2024/10/hero-copy-1.webp>;rel=allowed-alt-sxg;header-integrity=\"sha256-O1u6jAGyBViAbYqpMaNzuEuSqePfHQrZitVPRpnZAu4=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

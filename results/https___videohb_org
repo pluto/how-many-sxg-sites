@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-NF/anAlkfdmdQm4bc+9YpDoUL7JlKRy7i7qqCmbLNQA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "yeIa2E1WQJjrn5E6MIeZlvizQftVLs6PmYPHvzIRhvY=",
+            "cert-url": "https://videohb.org/cdn-fpw/sxg/cert.pem.msg.yeIa2E1WQJjrn5E6MIeZlvizQftVLs6PmYPHvzIRhvY",
+            "date": 1730242943,
+            "expires": 1730847743,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDSVEw9GWuhmyVIKQ8FPpTXsGf42VNv4ReLF1SiEkZOIgIgXyiOcU0cnU6RAetwcrfGwPzfOTplMVBos7K4d33pjuQ=",
+            "validity-url": "https://videohb.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://videohb.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da722d8f066cef5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:23 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=XsU9k4ZZ/mvIPWjrj3lHGeUAfA/IHVn1pI5+6Ts6YXA="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 00:09:33 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

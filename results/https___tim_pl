@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-FqGhzhjX1X5+KR5jXHxLaRAOhTiri5TKyo38cqzc94w=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "meI+gdaMCFPNfGL8u2b5+ETf8VlLtSrNbRmHsumyuWk=",
+            "cert-url": "https://www.tim.pl/cdn-fpw/sxg/cert.pem.msg.meI-gdaMCFPNfGL8u2b5-ETf8VlLtSrNbRmHsumyuWk",
+            "date": 1730242810,
+            "expires": 1730246710,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHf0Csd83AVkk3PCdg95mIp8GbSlKrZu8F+Lfr0srDEVAiBuD6ScJwMaxUkYawuVZd4GoprINitiBPE40GG0/aHNtA==",
+            "validity-url": "https://www.tim.pl/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.tim.pl/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=300"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71f9fa3159836-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "report-to endpoint; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.salesmanago.pl *.bing.com *.facebook.net *.cookiebot.com *.doubleclick.net *.google.com *.google.pl *.saleago.com *.google-analytics.com *.googletagmanager.com *.google.com *.tim.pl *.googleadservices.com *.fact-finder.pl *.easypack24.net *.youtube.com *.pagespeed-mod.com *.doubleclick.net *.googlesyndication.com *.hotjar.com connect.facebook.net www.googleadservices.com www.googletagmanager.com app2.salesmanago.pl cdn.jsdelivr.net www.tim.pl googleads.g.doubleclick.net www.google-analytics.com consent.cookiebot.com consentcdn.cookiebot.com geowidget.inpost.pl bat.bing.com timsa.fact-finder.pl app2.salesmanago.pl translate.googleapis.com region1.google-analytics.com region1.analytics.google.com ajax.googleapis.com www.google.com www.google.pl pagead2.googlesyndication.com www.pagespeed-mod.com survey.survicate.com surveys-static.survicate.com stats.g.doubleclick.net connect.facebook.net geowidget.easypack24.net embeddable-sandbox.cdn.apollographql.com timsa.fact-finder.pl www.googletagmanager.com unpkg.com *.unpkg.com www.taboola.com *.taboola.com senuto.pl *.senuto.pl ahrefs.com *.ahrefs.com cdn.segmentify.com analytics.tiktok.com gandalf-eu.segmentify.com cdn.sgmntfy.com; object-src 'none'"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:00:10 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=aWGaWc7dVLTc+gHMmxl200hbjjsuBPZeIICJJdA6OMY="
+      ],
+      "Etag": [
+         "W/\"6aed1-Zp3E7LDUPT4PC+d/4Dt0gWW94cY\""
+      ],
+      "Link": [
+         "<https://www.tim.pl/images_D74hyTg0_nuxt_3/fonts/roboto-latin-ext-400.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.tim.pl/images_D74hyTg0_nuxt_3/fonts/roboto-latin-ext-400.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-nOZrXHllHzdhF6x5FXQCg4tgNFpIZnAhZTzBPJVzzfY=\",<https://www.tim.pl/api/v1/assets/resize/eyJzb3VyY2UiOiJodHRwczovL3d3dy50aW0ucGwvbWVkaWEvZWFzeWJhbm5lci9zbGlkZXIyaGl0eXBhel8xLmpwZyIsInF1YWxpdHkiOjkwLCJ3aWR0aCI6ODAyLCJoZWlnaHQiOjQwMCwid2F0ZXJtYXJrIjoiIiwiZm9ybWF0Ijoid2VicCJ9>;rel=preload;as=image;media=\"(min-width:1264px)\",<https://www.tim.pl/api/v1/assets/resize/eyJzb3VyY2UiOiJodHRwczovL3d3dy50aW0ucGwvbWVkaWEvZWFzeWJhbm5lci9zbGlkZXIyaGl0eXBhel8xLmpwZyIsInF1YWxpdHkiOjkwLCJ3aWR0aCI6ODAyLCJoZWlnaHQiOjQwMCwid2F0ZXJtYXJrIjoiIiwiZm9ybWF0Ijoid2VicCJ9>;rel=allowed-alt-sxg;header-integrity=\"sha256-fkmq00qUsUuQi7BXRhiu1V2nEuyY4uCN39sAx67FNDM=\",<https://www.tim.pl/images_D74hyTg0_nuxt_3/fonts/roboto-latin-ext-300.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.tim.pl/images_D74hyTg0_nuxt_3/fonts/roboto-latin-ext-300.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-C23aD+AiL4glZ3bZaWsGRlPdDMwV4PtWsejK6nCGdEs=\",<https://www.tim.pl/static_D74hyTg0_nuxt_3/cookies/build.05b772b3.min.js>;rel=preload;as=script,<https://www.tim.pl/static_D74hyTg0_nuxt_3/cookies/build.05b772b3.min.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-8jjFMiXMa4ghMyZh9LjyH5NF5OqBXdgh8N6RmxrLCAg=\",<https://www.tim.pl/images_D74hyTg0_nuxt_3/fonts/roboto-latin-ext-500.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.tim.pl/images_D74hyTg0_nuxt_3/fonts/roboto-latin-ext-500.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-SMkOPBp7SFo8aPpjY/61kUL71ABbjUy6T8aOa5a00xs=\",<https://www.tim.pl/images_D74hyTg0_nuxt_3/fonts/roboto-latin-ext-700.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.tim.pl/images_D74hyTg0_nuxt_3/fonts/roboto-latin-ext-700.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-z7SwipLs+NLpBNDubq5PmK1rmh6NuIj7rTPdr6gDyJ8=\",<https://www.tim.pl/api/v1/assets/resize/eyJzb3VyY2UiOiJodHRwczovL3d3dy50aW0ucGwvbWVkaWEvZWFzeWJhbm5lci9zbGlkZXIyaGl0eXBhel8xLmpwZyIsInF1YWxpdHkiOjkwLCJ3aWR0aCI6NzY3LCJoZWlnaHQiOjM4NCwid2F0ZXJtYXJrIjoiIiwiZm9ybWF0Ijoid2VicCJ9>;rel=preload;as=image;media=\"(min-width:0px) and (max-width:767.9px)\",<https://www.tim.pl/api/v1/assets/resize/eyJzb3VyY2UiOiJodHRwczovL3d3dy50aW0ucGwvbWVkaWEvZWFzeWJhbm5lci9zbGlkZXIyaGl0eXBhel8xLmpwZyIsInF1YWxpdHkiOjkwLCJ3aWR0aCI6NzY3LCJoZWlnaHQiOjM4NCwid2F0ZXJtYXJrIjoiIiwiZm9ybWF0Ijoid2VicCJ9>;rel=allowed-alt-sxg;header-integrity=\"sha256-s1/B1bHc4s9gKEopdO6xpbdM2Ch89QJk+/xnIYm4FFQ=\",<https://www.tim.pl/api/v1/assets/resize/eyJzb3VyY2UiOiJodHRwczovL3d3dy50aW0ucGwvbWVkaWEvZWFzeWJhbm5lci9zbGlkZXIyaGl0eXBhel8xLmpwZyIsInF1YWxpdHkiOjkwLCJ3aWR0aCI6MTI2MywiaGVpZ2h0Ijo2MzIsIndhdGVybWFyayI6IiIsImZvcm1hdCI6IndlYnAifQ==>;rel=preload;as=image;media=\"(min-width:768px) and (max-width:1263.9px)\",<https://www.tim.pl/api/v1/assets/resize/eyJzb3VyY2UiOiJodHRwczovL3d3dy50aW0ucGwvbWVkaWEvZWFzeWJhbm5lci9zbGlkZXIyaGl0eXBhel8xLmpwZyIsInF1YWxpdHkiOjkwLCJ3aWR0aCI6MTI2MywiaGVpZ2h0Ijo2MzIsIndhdGVybWFyayI6IiIsImZvcm1hdCI6IndlYnAifQ==>;rel=allowed-alt-sxg;header-integrity=\"sha256-70288fCVAS4R1r2n7gu/wEhuJnwYbhLje19Ciu6BPkw=\""
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(), ambient-light-sensor=(), autoplay=(self), battery=(), camera=(), gyroscope=(self), layout-animations=(self), legacy-image-formats=(self), magnetometer=(), microphone=(), midi=(self), navigation-override=(self), oversized-images=(self), picture-in-picture=(self), publickey-credentials-get=(), sync-xhr=(self), usb=(), web-share=(), xr-spatial-tracking=()"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Reporting-Endpoints": [
+         "endpoint=\"https://www.tim.pl/csp.php\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Gateway": [
+         "MISS"
+      ],
+      "X-Cache-Shard": [
+         "MISS"
+      ],
+      "X-Cache-Ttl": [
+         "3d"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Varnish": [
+         "3934728, 532975727"
+      ]
+   }
+}

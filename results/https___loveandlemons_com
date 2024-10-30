@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-iSxLonLBuumRZpGlPzKYbgGFr1FPsR2XBg00Q4nOONU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "wsEvmyXUMDaTRxj0p7KGQ2dyjJfbISlHDpphFI8BDgU=",
+            "cert-url": "https://www.loveandlemons.com/cdn-fpw/sxg/cert.pem.msg.wsEvmyXUMDaTRxj0p7KGQ2dyjJfbISlHDpphFI8BDgU",
+            "date": 1730241983,
+            "expires": 1730249183,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCttFEz4Y0uVcEa/9+//lUADkWfV2iV1qonKbWgDzrFFgIgWUkRKU2vF3FQG5wA00fCtEEjCE2yZDiBOmT54B7jAMM=",
+            "validity-url": "https://www.loveandlemons.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.loveandlemons.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "358"
+      ],
+      "Cache-Control": [
+         "max-age=3600, public"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70b6ea402254e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:46:23 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Utr7egf7ujaAD4x64AtwaYDc56oAWHYoPBNq7wIWSBo="
+      ],
+      "Etag": [
+         "W/\"2d4bfd77aa230936326e0f74650034eb\""
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 00:40:25 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:40:25 GMT"
+      ],
+      "Pragma": [
+         "public"
+      ],
+      "Referrer-Policy": [
+         ""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent,Cookie,X-Forwarded-Proto"
+      ],
+      "X-Powered-By": [
+         "W3 Total Cache/2.7.6"
+      ]
+   }
+}

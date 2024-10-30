@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-KJ3FhFg3d0h/6bpsE1sySXDK+Lk9h91A8DnrtpNbp2I=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "/UgXiPMAuSB24tBdgVXtC6t9LekyTTTxBObMLg2cW0o=",
+            "cert-url": "https://corp.sertifi.com/cdn-fpw/sxg/cert.pem.msg._UgXiPMAuSB24tBdgVXtC6t9LekyTTTxBObMLg2cW0o",
+            "date": 1730242577,
+            "expires": 1730246297,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCID83MdGfz7hbcqaA8Ip3HMtFI8hnnrfc7wzJ7fmvV39QAiEAv1WXxQ/YRVa/sVv/+cJ29CAk5BVnpxzUzHe65bknnm8=",
+            "validity-url": "https://corp.sertifi.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://corp.sertifi.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "34908"
+      ],
+      "Cache-Control": [
+         "public, max-age=120"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da719ede2f6944d-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self'; script-src 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' blob: https://corp.sertifi.com https://campaigns.sertifi.com https://sertifi.chilipiper.com https://js.chilipiper.com https://api.chilipiper.com https://apps.chilipiper.com https://fire.chilipiper.com https://s3-us-west-2.amazonaws.com https://b-code.liadm.com https://js.zi-scripts.com https://widget.surveymonkey.com https://ajax.googleapis.com https://anjt6a9l0k.execute-api.us-west-1.amazonaws.com https://app.jazz.co https://cdn.dreamdata.cloud https://cdn.jsdelivr.net https://connect.facebook.net https://diffuser-cdn.app-us1.com https://dyv6f9ner1ir9.cloudfront.net https://embed.typeform.com https://cdn-asset.optimonk.com https://front.optimonk.com https://googleads.g.doubleclick.net https://gs-cdn.optimonk.com https://js.intercomcdn.com https://kit.fontawesome.com https://l0w6hlar9j.execute-api.us-west-1.amazonaws.com https://onsite.optimonk.com https://onsite2.optimonk.com https://player.vimeo.com https://prism.app-us1.com https://script.hotjar.com https://sertifi.activehosted.com https://snap.licdn.com https://static.cloudflareinsights.com https://static.hotjar.com https://trackcmp.net https://widget.intercom.io https://www.googleadservices.com https://www.googletagmanager.com https://www.redditstatic.com; style-src 'report-sample' 'self' 'unsafe-inline' https://cdn-asset.optimonk.com https://cdn.jsdelivr.net https://embed.typeform.com https://fonts.bunny.net https://fonts.googleapis.com https://l0w6hlar9j.execute-api.us-west-1.amazonaws.com; object-src 'none'; base-uri 'self'; connect-src 'self' https://pro.ip-api.com https://alocdn.com https://9xgnrndqve.execute-api.us-west-2.amazonaws.com https://stats.g.doubleclick.net https://analytics.google.com https://ws.zoominfo.com https://js.zi-scripts.com https://tracking.chilipiper.com https://sertifi.chilipiper.com https://js.chilipiper.com https://api.chilipiper.com https://apps.chilipiper.com https://fire.chilipiper.com https://api-iam.intercom.io https://api.typeform.com https://cdn-limit.optimonk.com https://cdn-account.optimonk.com https://cdn-renderer.optimonk.com https://cdn-content.optimonk.com https://cdn.dreamdata.cloud https://content.hotjar.io https://vc.hotjar.io https://front.optimonk.com https://jfapiprod.optimonk.com https://metrics.hotjar.io https://pixel-config.reddit.com https://ka-p.fontawesome.com https://kit.fontawesome.com https://pixel-config.reddit.com https://px.ads.linkedin.com https://www.google-analytics.com https://www.redditstatic.com wss://nexus-websocket-a.intercom.io wss://ws.hotjar.com; font-src 'self' data: https://cdn-custom.optimonk.com https://fonts.bunny.net https://fonts.gstatic.com https://fonts.intercomcdn.com https://ka-p.fontawesome.com; frame-src 'self' https://sertifi.chilipiper.com https://js.chilipiper.com https://api.chilipiper.com https://apps.chilipiper.com https://fire.chilipiper.com https://www.tfaforms.com https://www.typeform.com https://www.surveymonkey.com https://sertifi818.outgrow.us https://form.typeform.com https://player.vimeo.com https://td.doubleclick.net https://www.youtube.com; img-src 'self' data: https://testsertifiumbstorage.blob.core.windows.net https://prodsertifiumbstorage.blob.core.windows.net https://sertifi.chilipiper.com https://js.chilipiper.com https://api.chilipiper.com https://apps.chilipiper.com https://fire.chilipiper.com https://prod.smassets.net https://www.facebook.com https://alb.reddit.com https://app.jazz.co https://googleads.g.doubleclick.net https://i.vimeocdn.com https://i.ytimg.com https://js.intercomcdn.com https://px.ads.linkedin.com https://static.intercomassets.com https://ucarecdn.com https://www.google.com https://www.googletagmanager.com; manifest-src 'self'; media-src 'self' https://corp.sertifi.com https://js.intercomcdn.com; worker-src 'none';"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:16 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Oh9LS6bJOLiPkbQ9MJF9zQMhoFd9xjshv002653wTI4="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:58:16 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 14:14:08 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "sameorigin"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

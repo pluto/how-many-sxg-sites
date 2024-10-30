@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-K5Wgh/yDu/5YWTIcF0W2W29JSxmYYQno1Vqb/NmRHAw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ScwnpkaUW08u7YqRQXsedu2diamt60tG7wBzcFiS/+A=",
+            "cert-url": "https://storepoint.co/cdn-fpw/sxg/cert.pem.msg.ScwnpkaUW08u7YqRQXsedu2diamt60tG7wBzcFiS_-A",
+            "date": 1730242703,
+            "expires": 1730249903,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCSt588ZtWw7znqS4in2olAnZ2opSuB7aFykmsdA+PutwIgSmU2qG+XtGrjFcI2WTVaT+z6qZqoCpJmF0KAkyXC4HE=",
+            "validity-url": "https://storepoint.co/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://storepoint.co/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "439884"
+      ],
+      "Cache-Control": [
+         "public, max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71d04c784cfc8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:58:23 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=tz8fiHlKm7QUrizD20YuFpLj+joC3TH1DHQBUAGbiLk="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 00:58:23 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cloud-Trace-Context": [
+         "753492a3ff9725d24939214980600e37"
+      ]
+   }
+}

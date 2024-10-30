@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-UkVFqwvx+wh/D2B72Ljl5nPn3KQj2P0SuQqt/TPuHzk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "PWegux9Iwf+ORr3pn57BboqgaXLTG7/mP0r604IOb+0=",
+            "cert-url": "https://www.kettner-edelmetalle.de/cdn-fpw/sxg/cert.pem.msg.PWegux9Iwf-ORr3pn57BboqgaXLTG7_mP0r604IOb-0",
+            "date": 1730241885,
+            "expires": 1730846685,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCKtvs67wokcgipWV7koq8v655AfrxL/0+/PjkIYmW/NQIhANZ7+0RqPzMFNvtdbHhFR6uxEOxQVYl5sq/Fq+YyJoMS",
+            "validity-url": "https://www.kettner-edelmetalle.de/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.kettner-edelmetalle.de/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da709023004cfcc-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:44:45 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=U0n23n7EU2y5TAIavubWUnuvqAnjPXKrkDF3oL7ARrg="
+      ],
+      "Nel": [
+         "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Report-To": [
+         "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=tkF63vtXF5PcQ1OhNmKlTIgZU7XdWMQR0BzmHHmUDFGFcy67lvCl6ipg%2B5ZSG5xUE4Ksc8MsDi8phSS7fkORwZ2hWMrltnnQEnOACF0798MoWdpbSqMbyIXYLpJEvyDWdEVLc87I2%2BqtKnbBDGPS3vznB7AtTaxrzA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Powered-By": [
+         "Nuxt"
+      ]
+   }
+}

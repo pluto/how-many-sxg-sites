@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ioHe9hjxLFTuvCY3pK4F/H3mVHyPs6MkBcS1mjrCMrk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "W4v8dY1rh046FBh/xVuYnRYfCL4USHChbUHYECmbO5I=",
+            "cert-url": "https://www.qconcursos.com/cdn-fpw/sxg/cert.pem.msg.W4v8dY1rh046FBh_xVuYnRYfCL4USHChbUHYECmbO5I",
+            "date": 1730242416,
+            "expires": 1730847216,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEgUqH1oCyNMYIqtyZMcDoH42evDxZomTTL6+bFuHNitAiEA0T7Us2RDxkK/jckdoAJ0jYNkZYgK7Mx2BHvd90EgKZI=",
+            "validity-url": "https://www.qconcursos.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.qconcursos.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71603974fcf6d-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:36 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=OjSnIP3kUmk6a9yAWsbH1RYjYn4PyN+VtLganhhot0A="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Envoy-Upstream-Service-Time": [
+         "74"
+      ]
+   }
+}

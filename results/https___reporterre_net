@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-e0ZushGIGlC9Hl66xw9/vEYbwuiEcKNcZyIAL8Q8uHg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "zQfrj9E/PyTA1cdQGeMcPbzWhHJvEe/OfEHqFxXs+7k=",
+            "cert-url": "https://reporterre.net/cdn-fpw/sxg/cert.pem.msg.zQfrj9E_PyTA1cdQGeMcPbzWhHJvEe_OfEHqFxXs-7k",
+            "date": 1730242464,
+            "expires": 1730847264,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDekVnS2mrsvCYG33c5z3B+nMcgg8sCXvYNtT3StQ+edQIhAJbvziIXwhXEEsmjVBu6wcinR+Sr9kGCuVQUGq/OTWX+",
+            "validity-url": "https://reporterre.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://reporterre.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "Content-Type"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET,OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "https://infolettre.reporterre.net"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7172896cfcfa8-SJC"
+      ],
+      "Composed-By": [
+         "SPIP @ www.spip.net"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "script-src 'self' 'unsafe-inline' 'unsafe-eval' *.reporterre.net https://cdn.ampproject.org/ https://reporterre-stats.cloud-ed.fr https://static.cloudflareinsights.com ajax.cloudflare.com https://platform.twitter.com https://syndication.twitter.com https://*.spotify.com https://*.soundcloud.com https://telegram.org https://js.stripe.com https://hooks.stripe.com https://www.youtube.com https://www.tiktok.com https://lf16-tiktok-web.ttwstatic.com https://www.instagram.com https://embed.typeform.com https://player.ausha.co https://public.flourish.studio https://*.gogocarto.fr https://e.infogram.com https://datawrapper.dwcdn.net *.convertexperiments.com *.mrf.io *.marfeel.com; frame-src 'self' optimize.google.com youtube.com www.youtube.com https://platform.twitter.com https://player.vimeo.com https://*.spotify.com https://*.soundcloud.com https://t.me https://www.tiktok.com https://www.dailymotion.com https://www.instagram.com https://www.facebook.com https://js.stripe.com/ https://hooks.stripe.com https://lutteslocales.gogocarto.fr https://form.typeform.com https://player.ausha.co https://umap.openstreetmap.fr https://flo.uri.sh https://*.gogocarto.fr https://e.infogram.com https://datawrapper.dwcdn.net *.mrf.io *.marfeel.com https://tube.extinctionrebellion.fr https://mastodon.social https://video.off-investigation.fr; worker-src 'self' 'unsafe-inline' 'unsafe-eval' blob: m.reporterre.net"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:54:24 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=e37+m1ibLLqpg3hIgZlFzIf3eEeIMSYNWkFFUOoRBnY="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:54:23 GMT"
+      ],
+      "Link": [
+         "<https://reporterre.net/local/cache-css/82353b5910a456def46aa4ce798d8a68.css?1730116413>;rel=preload;as=style,<https://reporterre.net/local/cache-css/82353b5910a456def46aa4ce798d8a68.css?1730116413>;rel=allowed-alt-sxg;header-integrity=\"sha256-hoTMh1uVEJAC59EQPYg8iLXPUTf0uHa5xdaWYl3dmRw=\""
+      ],
+      "Referrer-Policy": [
+         "no-referrer, strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Cookie,Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Spip-Cache": [
+         "2592000"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

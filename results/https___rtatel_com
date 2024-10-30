@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-JGWxa0aYpGFHxgeSNnkVjPW54ukKu+7jYNaMQbKdF48=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "rxIiGizpyIjjYpu9k7aDKVdfN3oohLTVppgcCMc7K2A=",
+            "cert-url": "https://rtatel.com/cdn-fpw/sxg/cert.pem.msg.rxIiGizpyIjjYpu9k7aDKVdfN3oohLTVppgcCMc7K2A",
+            "date": 1730242501,
+            "expires": 1730260501,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCJkoyWp/Up26rb8lgoYeKKfMnQiAEIdFXmRDB/7v5mAwIgOuu27JZgutTPNP0wi8cglcZdj3LDQS5V+su7VAhnT44=",
+            "validity-url": "https://rtatel.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://rtatel.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "318774"
+      ],
+      "Cache-Control": [
+         "max-age=14400, stale-while-revalidate=604800"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7181576c49822-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:55:01 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=1CGJ66Cfm78rQNqRNPlKb4kjAnF21VoPgQ8dH9XkKs8="
+      ],
+      "Last-Modified": [
+         "Sat, 26 Oct 2024 03:05:37 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ]
+   }
+}

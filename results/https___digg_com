@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-vEkJmtHi2OKloS8dd/rYRic2eVUvKAa5JY6XMAu167c=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Mj7E5c/VGUcu15aks10O8YhJHGIoxFUDAYrGbxhJboI=",
+            "cert-url": "https://digg.com/cdn-fpw/sxg/cert.pem.msg.Mj7E5c_VGUcu15aks10O8YhJHGIoxFUDAYrGbxhJboI",
+            "date": 1730241320,
+            "expires": 1730846120,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD19tFQhlgpJF9ngdnfdV2p9zek0+xYHAx89IXtm9XEcgIgH95+sdBHUiDfeqeA3H69o8DErvIrCuU2syVsPRPD1hg=",
+            "validity-url": "https://digg.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://digg.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fb3ed2dc7ac7-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Origin": [
+         "cached"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=sfG67QPWlMu3ofQqvAApGEBUvkTbTskD8fsNzh7t70Y="
+      ],
+      "Expect-Ct": [
+         "max-age=0"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "off"
+      ],
+      "X-Download-Options": [
+         "noopen"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Xss-Protection": [
+         "0"
+      ]
+   }
+}

@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-qJpTAa4nE5f7q756+K5L9NxG4rjliidu5goU2EWQ8g8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "4g2o/pyXGqZJPmPe4DW1jPNA6Q12ECZ4swNif+iQ7l8=",
+            "cert-url": "https://www.sindonews.tv/cdn-fpw/sxg/cert.pem.msg.4g2o_pyXGqZJPmPe4DW1jPNA6Q12ECZ4swNif-iQ7l8",
+            "date": 1730242623,
+            "expires": 1730847423,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDtieRzcx5suum0R8ep4CuzLBuDwSIkYU4zBBnAra/xqgIgM/dKgf/PhhJVYMRAOSiK8n1QR4mD31ZIVL6v5jO8C0o=",
+            "validity-url": "https://www.sindonews.tv/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.sindonews.tv/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "38718"
+      ],
+      "Cache-Control": [
+         "public, max-age=31536000"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71b0d9790967c-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:02 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=VQvixcNYl8hEaAGw0YIKaUr4iwRYq2c2yjSJaRkcrK8="
+      ],
+      "Expires": [
+         "Wed, 29 Oct 2025 23:57:02 GMT"
+      ],
+      "Last-Modified": [
+         "Wed, 12 Jul 2023 17:10:20 GMT"
+      ],
+      "Pragma": [
+         "public"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Status": [
+         "MISS"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-UjPNuqBShyjsJo0VjZX58gEa4AC0WQB+DYPnRW1ewNU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "yFidHP+6d6ueIGhCCADjpXBRXFgFq4PB9cvo2G2+4X0=",
+            "cert-url": "https://ambcrypto.com/cdn-fpw/sxg/cert.pem.msg.yFidHP-6d6ueIGhCCADjpXBRXFgFq4PB9cvo2G2-4X0",
+            "date": 1730240908,
+            "expires": 1730246308,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDpA5LEzwF74rnYqNuJKlUfVux5uiuDbn88Iu7UYiHKYQIhAK1Nbtg92xBLhBx07jaFnMCBR/qr6wQrVkvsfOhiM+10",
+            "validity-url": "https://ambcrypto.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ambcrypto.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "1460"
+      ],
+      "Cache-Control": [
+         "max-age=1800"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f13453d56456-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:28 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=tVAR6Mb+sJ5MGxR7w93DYrZ02xnvgFgyyzeH9PR1FMY="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:01:27 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding"
+      ],
+      "X-Ws-Status": [
+         "2"
+      ]
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-7xukd6OVj3k5URotkvoYF6E+LwkNn6pTV62L+drwnSE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "EwLhHtDSmJfPC7stiV6SHQkfj7Vvzx+HqOZyZduW8LU=",
+            "cert-url": "https://actuar.com/cdn-fpw/sxg/cert.pem.msg.EwLhHtDSmJfPC7stiV6SHQkfj7Vvzx-HqOZyZduW8LU",
+            "date": 1730240837,
+            "expires": 1730845637,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQC4FQXRLp7S/9p/JMh2xjr5Hp8JxIInWRi6yNfMrqOzPAIhAL93EFgqGbicoAUvaZrabA8eW54eNfatiEt464UTCSxs",
+            "validity-url": "https://actuar.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://actuar.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "7706"
+      ],
+      "Cache-Control": [
+         "max-age=2678400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6ef7793bb15be-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:27:17 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=uEsvkuLsVQ8rICLPtnDDHa7w0OVJOMc2GQ4X+hkklq4="
+      ],
+      "Link": [
+         "<https://actuar.com/assets/images/mobile.mp4>;rel=preload;as=video,<https://actuar.com/assets/images/mobile.mp4>;rel=allowed-alt-sxg;header-integrity=\"sha256-vDJV/yuojK9pz6LZF776UVYba50DnmTMBXqWqCG1eds=\",<https://actuar.com/assets/images/desktop.mp4>;rel=preload;as=video,<https://actuar.com/assets/images/desktop.mp4>;rel=allowed-alt-sxg;header-integrity=\"sha256-yAz3J166e1e7RHdqs9+p2JxgYchZjkkhaTD+myLHbbU=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Via": [
+         "1.1 google"
+      ],
+      "X-Cloud-Trace-Context": [
+         "e47dcefff9ee13dd4edf721254bb3205"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ]
+   }
+}

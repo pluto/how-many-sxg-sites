@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-we2MjpGSI8aXqrekBnIN/w0yZhYJPdLU+wAP5wJt9ew=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "5Uy+I4hJghzZtSqBxUUE7hA2CF20bD9bwcc16SlKXX4=",
+            "cert-url": "https://www.drive.com.au/cdn-fpw/sxg/cert.pem.msg.5Uy-I4hJghzZtSqBxUUE7hA2CF20bD9bwcc16SlKXX4",
+            "date": 1730241359,
+            "expires": 1730248559,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEGZSGWqpBD4VZq/8EW9WWrOPIFW0+p3vZjg0v0L9zeaAiBX7FwsWaZKOsyn2UojMMELioEtwGVQkxy+mL76kCKqsg==",
+            "validity-url": "https://www.drive.com.au/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.drive.com.au/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "44"
+      ],
+      "Cache-Control": [
+         "public, max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6fc35d4361643-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:59 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=5VJ3RuAWciaKMGHKRAEXJ10a+fRBw3oSiv81NN/2iq0="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:40:59 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:31:28 GMT"
+      ],
+      "Link": [
+         "<https://www.drive.com.au/_next/static/chunks/webpack-3db4fc671f29cd9f.js>;rel=preload;as=script,<https://www.drive.com.au/_next/static/chunks/webpack-3db4fc671f29cd9f.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-+dqNFu2/Mmn/e92odVzFEel7HSclImRi6WYio8i0u/g=\",<https://www.drive.com.au/fonts/IBM/ibm-plex-sans-v13-latin-regular.woff2>;as=font;rel=preload;crossorigin=anonymous,<https://www.drive.com.au/fonts/IBM/ibm-plex-sans-v13-latin-regular.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-WGOJkZrUs6KdSKvhGgLAF4HiCE8RIH2YkFL0+PDLZXw=\""
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, RSC, Next-Router-State-Tree, Next-Router-Prefetch"
+      ],
+      "X-Cache-Status": [
+         "EXPIRED"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Frame-Options": [
+         "sameorigin"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-KUadqpdk0pZAdg6ID9fJAVZ2CwXSE4jfzbi+tIDnTDA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "hQh9bFYzj/V/OXCCsMPku+6rG+wkBogckmQFSz9cJSc=",
+            "cert-url": "https://adventive.com/cdn-fpw/sxg/cert.pem.msg.hQh9bFYzj_V_OXCCsMPku-6rG-wkBogckmQFSz9cJSc",
+            "date": 1730240858,
+            "expires": 1730845658,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBqUVnosDiYTALMa4uqOwHEA6KJ4ejhYMEdZR0LMLcqSAiAErVi8h5UsfCsb+i7R/dMOCS3/QuiG8YlTyQ7oReXQWQ==",
+            "validity-url": "https://adventive.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://adventive.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "17159"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6eff80177f963-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:27:38 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=KRcZuNZW0v6jFQ0pfayoCADZhlradwZLHF5hkJ4D7yE="
+      ],
+      "Host-Header": [
+         "wpcloud"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 18:33:22 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Cookie"
+      ],
+      "X-Ac": [
+         "1.jfk _atomic_dca MISS"
+      ]
+   }
+}

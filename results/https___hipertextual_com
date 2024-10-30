@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Oy3xFNKGJRmJ5t9EyYPNcHuVzGTGPFz/b3Gd1gKwJ/s=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "bFBB30uQ/HP1MIr3VZmE+G7adB31epVY3GlS5xHU+Ak=",
+            "cert-url": "https://hipertextual.com/cdn-fpw/sxg/cert.pem.msg.bFBB30uQ_HP1MIr3VZmE-G7adB31epVY3GlS5xHU-Ak",
+            "date": 1730241690,
+            "expires": 1730245590,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIA45B3TGdMKrQwUtrdmqVtaDUGGpGRAOIeNKoFNjTcYCAiA6GqeTWCJPxbCvXwTSSPdZQxPLyXfgyeognTzDPHQDrQ==",
+            "validity-url": "https://hipertextual.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hipertextual.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "104"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cache-Control": [
+         "max-age=300, must-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Placement": [
+         "local-SJC"
+      ],
+      "Cf-Ray": [
+         "8da70446b5f09e6b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:30 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=TmItmu/DM34IsKTst5B9c4/Hzc/nDpWDbwIYYWIRbio="
+      ],
+      "Host-Header": [
+         "Newspack"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:37:19 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, accept, content-type, cookie"
+      ],
+      "X-Ac": [
+         "5.dca _atomic_dca MISS"
+      ],
+      "X-Html-Edge-Cache": [
+         "cache,bypass-cookies=wp-|wordpress|comment_|woocommerce_"
+      ],
+      "X-Nananana": [
+         "Batcache-Set"
+      ]
+   }
+}

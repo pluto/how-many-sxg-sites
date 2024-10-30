@@ -1,0 +1,103 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-XZszAryhyGhPcd0M+w0iB24Wh+177x97dZbRi1CEmmY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Dx0/1QHwSoon0ahZZZ7SirZcsR9IOxx+IkIpZm0Ud5g=",
+            "cert-url": "https://starfiles.co/cdn-fpw/sxg/cert.pem.msg.Dx0_1QHwSoon0ahZZZ7SirZcsR9IOxx-IkIpZm0Ud5g",
+            "date": 1730242691,
+            "expires": 1730248091,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFIZ5rNs+4NiYn9isB/DrSOeVh00aNlxu+oEIc8rIONmAiEArSewfcMkc7c5iv/SBbRYZz1PWmZtypub4pdtMTE9IlQ=",
+            "validity-url": "https://starfiles.co/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://starfiles.co/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "Accept, Content-Type, Authorization, Origin, X-Requested-With, Access-Control-Request-Method, Access-Control-Request-Headers, Access-Control-Allow-Headers, Access-Control-Allow-Origin"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET,POST,OPTIONS,DELETE,PUT"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "1448"
+      ],
+      "Cache-Control": [
+         "max-age=5356800, must-revalidate"
+      ],
+      "Cdn-Cache-Control": [
+         "public, max-age=1800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71cb8e14967d0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src * data: blob: 'unsafe-eval' 'unsafe-inline'"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:58:11 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=RvdsmshDPLAK2N+ENaj4xMepAUTpEItt0F6PWIRopLc="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Expires": [
+         "Thu, 19 Nov 1981 08:52:00 GMT"
+      ],
+      "I2p-Location": [
+         "http://vnt23fy3n5qiwojrkcec2i3ac6w5gkacdyrf2gobid6xjnq53ffq.b32.i2p/"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:09:48 GMT"
+      ],
+      "Onion-Location": [
+         "http://starfilesmj35tuw5bf7qaxfpf4d6tydvqjbftzw23t3ghtjreyx45id.onion/"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Sf-Primary": [
+         "primary-germany-1"
+      ],
+      "Sf-Primary-Cache-Status": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-jIn3DYHmMphQkwKbtqPKL6BRLyVo1HedV8EmU8QwHnc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "qUdWAcAVPDEAalxMnivhmWqRSdt8kf12cJTyDJKGw/o=",
+            "cert-url": "https://buymeacoffee.com/cdn-fpw/sxg/cert.pem.msg.qUdWAcAVPDEAalxMnivhmWqRSdt8kf12cJTyDJKGw_o",
+            "date": 1730241103,
+            "expires": 1730331103,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQD2YDIMx6ghfI8h2mrZFdNCgYnK4aDH8OvV59eyLl2ecQIhANHcIXY4PWXMPcEQCMkuFumaJgEi7obqmKmbzLFVZSOY",
+            "validity-url": "https://buymeacoffee.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://buymeacoffee.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "24668"
+      ],
+      "Cache-Control": [
+         "public, max-age=31536000, s-maxage=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f5f266d91758-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:31:43 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=tHAp/sxvXGp4fW+Zl6Xlnoa9WNwbx3densdVVbNr/cs="
+      ],
+      "Last-Modified": [
+         "Thu, 24 Oct 2024 06:29:16 GMT"
+      ],
+      "Link": [
+         "<https://buymeacoffee.com/_payload.json>;rel=preload;as=fetch;crossorigin=anonymous,<https://buymeacoffee.com/_payload.json>;rel=allowed-alt-sxg;header-integrity=\"sha256-jO4AA9C6sICbulQDOpKmatMKt83hfK6DbVOgK049+Fo=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

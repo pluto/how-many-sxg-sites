@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-qeyvGf7+2Shdew99ddIVdaxdLAFTNCl71PZvv4k5inI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "30xe9O5sMQKFdF4i+Iz4xnbwnCVaHKyJKc4sYAfHFh8=",
+            "cert-url": "https://worldtravelling.com/cdn-fpw/sxg/cert.pem.msg.30xe9O5sMQKFdF4i-Iz4xnbwnCVaHKyJKc4sYAfHFh8",
+            "date": 1730243038,
+            "expires": 1730847838,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGch/dxSeS9r38b7x4q8MB1VwRI4/ZnArZtHCIz3aNK1AiEAzVg5CzdZP/LEZi44S7xi5ywsd621Ti51gF3TAyl26jU=",
+            "validity-url": "https://worldtravelling.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://worldtravelling.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7252ff259cf1f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:58 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=wJs55QsaEyLe0lhirTOzZP+c2EjXchFcMamIv3njYs8="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 16:00:30 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 f6fac6150e74e246a088cfa5c1ab6452.cloudfront.net (CloudFront)"
+      ],
+      "X-Amz-Cf-Id": [
+         "nXdjggQodwagwZ3utjzee_to5yeeM8nkvtegpIsI_w2bpfpfqlgOBg=="
+      ],
+      "X-Amz-Cf-Pop": [
+         "SFO5-P2"
+      ],
+      "X-Cache": [
+         "Miss from cloudfront"
+      ]
+   }
+}

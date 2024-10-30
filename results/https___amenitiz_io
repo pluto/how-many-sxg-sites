@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-X0h58lcm/z4esFJQkDgYrsHHREAcHPmkSuar80wsnVU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "sJZfMTtARo4KGUB4pvGaUSytJ0PqBCICcbrRp57MK7o=",
+            "cert-url": "https://amenitiz.com/cdn-fpw/sxg/cert.pem.msg.sJZfMTtARo4KGUB4pvGaUSytJ0PqBCICcbrRp57MK7o",
+            "date": 1730240912,
+            "expires": 1730330912,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCglcaXg6ZMETEdEGUC4/CfT6YuHvFKJd+klscGxWrQMwIgYh1jvoCKfjqN7P6bZo+7PSFF4M0Hci7rDIhmyghLRKI=",
+            "validity-url": "https://amenitiz.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://amenitiz.com/en/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "26244"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cache-Control": [
+         "public, max-age=86400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6f14a41ef6459-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:32 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=agxyl+mY9s848qn84veMawS+EaPCk35zwLGofQMN4jY="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 23:28:32 GMT"
+      ],
+      "Host-Header": [
+         "WordPress.com"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 14:23:12 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Cookie"
+      ],
+      "X-Ac": [
+         "2.ams _atomic_ams STALE"
+      ],
+      "X-Hacker": [
+         "Want root?  Visit join.a8c.com and mention this header."
+      ],
+      "X-Nananana": [
+         "Batcache-Hit"
+      ]
+   }
+}

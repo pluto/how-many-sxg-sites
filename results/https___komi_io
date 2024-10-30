@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Z8EsCp1xEWP7Velb8KMHwi878fTLf0HPGjQgEp2VZdo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "zqbLaVIYt8g5iXxs+vu2zB45dRUU9ewjulIZwZyR9IY=",
+            "cert-url": "https://komi.io/cdn-fpw/sxg/cert.pem.msg.zqbLaVIYt8g5iXxs-vu2zB45dRUU9ewjulIZwZyR9IY",
+            "date": 1730241905,
+            "expires": 1730846705,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCVaI51sXh6xAihlOTTSUvSSjQ9i4/d97YfUjioOkhCxwIhAM+SLAcGZI+kAXYkW+E+U0JNsVmWzbTdbeMOdYj0XvsU",
+            "validity-url": "https://komi.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://komi.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "556805"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70985a3c0173a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=MwOpdPpH5Y2aFtwFqhbHKVApeg6VZpc2k+tys3OvxqA="
+      ],
+      "Last-Modified": [
+         "Wed, 23 Oct 2024 12:58:08 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=2147483647"
+      ],
+      "Surrogate-Key": [
+         "webflow1.komi.ci 63bee2a6c490b309ba2e4939 pageId:66682c578140bf0f32f19142"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cluster-Name": [
+         "us-west-2-prod-hosting-red"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "b65360c1-03d2-4a32-a50e-bec8a31ab194"
+      ]
+   }
+}

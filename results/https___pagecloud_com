@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Wf5kj1UkNtpPyGlQYImD05UoDDO62JWoNot1Al4dcMc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "kXyvSWK4d/WIfX56pn/1ueXllIkVqM8wxreoEg7px/U=",
+            "cert-url": "https://www.pagecloud.com/cdn-fpw/sxg/cert.pem.msg.kXyvSWK4d_WIfX56pn_1ueXllIkVqM8wxreoEg7px_U",
+            "date": 1730242293,
+            "expires": 1730847093,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCsBNobfKlShrrKwY1j40bl/LVkzEl/CSZltWg06QMMZgIhAJIQwkPoStk4OEOCTcdmDZ9orVyJYXi941pYe6alLC+5",
+            "validity-url": "https://www.pagecloud.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.pagecloud.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da712fd91a2d001-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self' pagecloud.com www.pagecloud.com;"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=VeGeyrto88pslzB8Kkw27NUaIW+ZcLWSIPzCxoUzPSs="
+      ],
+      "Last-Modified": [
+         "Thu, 10 Oct 2024 14:37:25 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

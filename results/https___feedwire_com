@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-zH06Iz61VCzychyvkEOfsxgfMtT9KxmON4S0x9Ct0Qw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "TfL/v/8DDV77RY4uo6NfPQlqemRROKeV57fUbWIj5Xw=",
+            "cert-url": "https://feedwire.com/cdn-fpw/sxg/cert.pem.msg.TfL_v_8DDV77RY4uo6NfPQlqemRROKeV57fUbWIj5Xw",
+            "date": 1730241493,
+            "expires": 1730846293,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCBGaLaOvJfHmYJyUTp8yre3artrR0ie0KpdQaRs0rhPQIhALgkFYCV4WfXPPkO7Mm5HI9BLvNIrdZkZ9toDMbUzXmc",
+            "validity-url": "https://feedwire.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://feedwire.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "226359"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6ff7986579685-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:13 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=HBgrgt91mfrqHJQIBqjcoJ9KLQtBVVa3IXyJPEnk1Kg="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Expires": [
+         "Thu, 01 Jan 1970 00:00:00 GMT"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Contextid": [
+         "xsLajllz/XdSIIP4S"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

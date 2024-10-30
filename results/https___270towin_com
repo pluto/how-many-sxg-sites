@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-FEythFDZ1+mYK2xE35xu7QJ3oSReH312ni343szuSL4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ySeOBZ0/bI3Y6QDu4SfkvG06KlTqMlKwi4RPybEcBqE=",
+            "cert-url": "https://www.270towin.com/cdn-fpw/sxg/cert.pem.msg.ySeOBZ0_bI3Y6QDu4SfkvG06KlTqMlKwi4RPybEcBqE",
+            "date": 1730240798,
+            "expires": 1730845598,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBBEUUwwqSBt6gUvrPETPCAtJJYAHFlAlNJH0JSozCRWAiBtLLY2huAFbEPu8fJHiAYyGDYqvzr4cKFYPnhj5c0oKQ==",
+            "validity-url": "https://www.270towin.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.270towin.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "677"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6ee84341415e5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:26:38 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=wKEMv66rXYA5Y3yKK3Afn8Jdf2oSosdZKH13Gyt0Lsc="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:15:18 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ]
+   }
+}

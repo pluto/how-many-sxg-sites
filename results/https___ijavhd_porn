@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-oRCrpipGUmtVA5N0O+ydEI2+hmEJbVpqtJcpnKF3Tpc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "+58AkPsC8Nv6a5P3nD5dRd00FPbWPbC5ccSeZKPVEzc=",
+            "cert-url": "https://x.ijavhd.com/cdn-fpw/sxg/cert.pem.msg.-58AkPsC8Nv6a5P3nD5dRd00FPbWPbC5ccSeZKPVEzc",
+            "date": 1730241758,
+            "expires": 1730846558,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDaMXq96gLkzvh8x+FklI8SiWXpRA/vVx1s+8yBMkzOmAIhALMSXy/rVyY8xg7XJZnvRSFdDLqSOOAB2TukPWOCnkyg",
+            "validity-url": "https://x.ijavhd.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://x.ijavhd.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "4768"
+      ],
+      "Cache-Control": [
+         "max-age=31536000"
+      ],
+      "Cf-Apo-Via": [
+         "origin,host"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da705ef5384cec9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:42:37 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=ww46Splb9xDZ2ASZDm+yB2mADzkGB1ypiuMPkbTJdgM="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:05:48 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Powered-By": [
+         "EasyEngine v4.7.3"
+      ],
+      "X-Srcache-Fetch-Status": [
+         "HIT"
+      ],
+      "X-Srcache-Store-Status": [
+         "BYPASS"
+      ]
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-H2roUgGF7BemXZmz7Bk5cJZ1MVmA260PeRxBVjtCaz4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "jfw2FH906vtL++8pwoYvZL4oOODJh1ynoFINLJAXDMc=",
+            "cert-url": "https://forbole.com/cdn-fpw/sxg/cert.pem.msg.jfw2FH906vtL--8pwoYvZL4oOODJh1ynoFINLJAXDMc",
+            "date": 1730241530,
+            "expires": 1730245430,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCIsdlvXMSJhXTml1tAN+cHE2vFmq3boMlA8BNEmCCJxQIgG1jw/CCNMx4+DlT8Q/Xd1zoEe6WEV4iRobW4Q3l6Ckk=",
+            "validity-url": "https://forbole.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://forbole.com/en",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "s-maxage=300, stale-while-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7005f85be7e25-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:50 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=VQJcKTTGKB0216dVOhbouS5Sh2plICqbKNcnBs93iSY="
+      ],
+      "Link": [
+         "<https://forbole.com/_next/static/chunks/webpack-9007fa1eb8e06ae6.js>;rel=preload;as=script,<https://forbole.com/_next/static/chunks/webpack-9007fa1eb8e06ae6.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-G/TQFLes1YN1wurhizeOM8kWg1JOKb4gcnhgvIQ2Ot8=\",<https://forbole.com/assets/svgs/forbole-logo-horizontal.svg>;rel=preload;as=image,<https://forbole.com/assets/svgs/forbole-logo-horizontal.svg>;rel=allowed-alt-sxg;header-integrity=\"sha256-iv+xYZQtZRKTZQSWe+PyDQgqqOv232fzrnVRN9XQJsk=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Middleware-Rewrite": [
+         "/en"
+      ],
+      "X-Nextjs-Cache": [
+         "HIT"
+      ],
+      "X-Powered-By": [
+         "Next.js"
+      ]
+   }
+}

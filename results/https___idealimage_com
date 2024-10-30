@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Jg1KBTwlJgHCQRbu4unhtv7VFmSN5RQQko80zfvJXe8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "L++BdcvQPBqwgCO269VBoKpfYCCLRCxZehm/+0CKy8M=",
+            "cert-url": "https://www.idealimage.com/cdn-fpw/sxg/cert.pem.msg.L--BdcvQPBqwgCO269VBoKpfYCCLRCxZehm_-0CKy8M",
+            "date": 1730241748,
+            "expires": 1730846548,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDB7DMJ2MNZXcKovNoDhruAfdquWX9Fx48rkqK9g7vO4QIhAK30p3Tgwrrh3I/NlaZFqLAcxI5berBFqfXGY1H5gvzn",
+            "validity-url": "https://www.idealimage.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.idealimage.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "137243"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da705b14469689a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Length": [
+         "222668"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self' 'unsafe-eval' 'unsafe-inline' https://*.quiq-api.com https://*.quiq-cdn.com https://*.sentry-cdn.com https://*.userway.org https://cdn.acsbapp.com/config/store.idealimage.com/config.json https://cdn.acsbapp.com/config/idealimage.com/config.json https://cdn.acsbapp.com/config/beideal.idealimage.com/config.json https://*.peek-achoo.com https://*.googlesyndication.com https://*.ally.com https://acsbapp.com https://*.bing.com https://*.bugsnag.com https://*.cloudflare.com https://*.cloudflareinsights.com https://*.cloudfront.net https://*.cookielaw.org https://*.crazyegg.com https://*.doubleclick.net https://*.e-signlive.com https://*.facebook.com https://*.facebook.net https://*.fontawesome.com https://*.ggpht.com https://*.go2sdk.com https://*.gonift.com https://*.google-analytics.com https://*.google.co.in https://*.google.com https://*.googleadservices.com https://*.googleapis.com https://*.googleoptimize.com https://*.googletagmanager.com https://*.googleusercontent.com https://*.gstatic.com https://*.hotjar.com https://*.hotjar.io http://*.idealimage.com https://*.idealimage.com https://*.jsdelivr.net https://*.litix.io https://*.mutinyhq.com https://*.mutinycdn.com https://*.mutinyhq.io https://*.myfortiva.com https://*.nmi.com https://*.onetrust.com https://*.pardot.com https://*.pingdom.net https://*.puntpunt.fun https://s3.amazonaws.com/documents.idealimage.com/ https://*.securedvisit.com https://*.snapchat.com https://*.sv.rkdms.com https://*.taboola.com https://*.tiktok.com https://*.typekit.net https://player.vimeo.com https://*.wistia.com https://*.wistia.net https://*.xg4ken.com https://aspireiq.go2cloud.org https://e-signlive.com https://google.com https://*.salesforce-sites.com https://idealimage.secure.force.com https://imagedelivery.net https://pixel.locker2.com https://pixel.wp.com https://res.cloudinary.com https://s.w.org https://s3.us-east-1.amazonaws.com https://sc-static.net https://stats.wp.com https://tsdtocl.com https://assets.scrippsdigital.com https://us01ccistatic.zoom.us wss://*.hotjar.com data: blob:; frame-ancestors https://app.mutinyhq.com https://*.nmi.com;"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:42:28 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Iu0TUbOirm28PQ7CwpN/XvkB6T5eju8OUPxq1pjjIWk="
+      ],
+      "Etag": [
+         "\"index.d170d7d7e3.html\""
+      ],
+      "Expires": [
+         "Thu, 31 Oct 2024 23:42:28 GMT"
+      ],
+      "Feature-Policy": [
+         "none"
+      ],
+      "Referrer-Policy": [
+         "unsafe-url"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-I4piTrAIS7Q6p6sh1ROuKQtfMjvi3xWwiRfEdiXEEPU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "d1qMLuR3/uOxnqHaeKrXghs3NAmFxeLoU8PfPJXgmDk=",
+            "cert-url": "https://ygoprodeck.com/cdn-fpw/sxg/cert.pem.msg.d1qMLuR3_uOxnqHaeKrXghs3NAmFxeLoU8PfPJXgmDk",
+            "date": 1730243080,
+            "expires": 1730847880,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIAO2bsGPjZRNaiBCiLjjFo5c7wfQSeIVM3WLpE6EYadzAiAOYthBBRIxT19R5ECOz3JVuFqdGyk2vIKdwxQB9bKTNA==",
+            "validity-url": "https://ygoprodeck.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ygoprodeck.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da72639c759cfe5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:40 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=J6Qjz1eE2oTyiDqt+injzErB2sP/a+ozvGingK87mEA="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ]
+   }
+}

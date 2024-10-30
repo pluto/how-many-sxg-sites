@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-rGFrpBreeqhXtRXSyDKcIEAzCuCI9hlQ9JCo/k5cjqw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "3PRuz9o4dqxSKB/BGPyFI9kcvJoyAnfaQGjPyTvEtkg=",
+            "cert-url": "https://www.betway.co.tz/cdn-fpw/sxg/cert.pem.msg.3PRuz9o4dqxSKB_BGPyFI9kcvJoyAnfaQGjPyTvEtkg",
+            "date": 1730241034,
+            "expires": 1730845834,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDzl6hO1i7XYQE/7ZuGLQ//8eYLxubvWjo5pQzCCtZprAiEA8TPkJPf1URLRXsDakaPPTDI9SLam2SP1XRBYJuoa65E=",
+            "validity-url": "https://www.betway.co.tz/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.betway.co.tz/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f441076a7ad6-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:30:34 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=FZUHdgHhpNt07GgBOjryaQi9Cz80NF1e26xpz+Lo1dY="
+      ],
+      "Link": [
+         "<https://www.betway.co.tz/_nuxt/entry.c9aa091e.css>;rel=preload;as=style,<https://www.betway.co.tz/_nuxt/entry.c9aa091e.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-Q2WLrs+gyfLD9G84CyTqxqKgsX3RGqO+bLaMdMYBz6Q=\""
+      ],
+      "Rsrv": [
+         "SYNAPSE-PROD-2C"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Server-Timing": [
+         "dtSInfo;desc=\"0\", dtRpid;desc=\"-854795762\""
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Oneagent-Js-Injection": [
+         "true"
+      ],
+      "X-Powered-By": [
+         "Nuxt, ARR/3.0, ASP.NET"
+      ],
+      "X-Ruxit-Js-Agent": [
+         "true"
+      ]
+   }
+}

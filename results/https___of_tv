@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-mHJeCZbQKpySx7oUDirPX6/aXNdqtGy/H+w++OGWkjY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ZJoQj5L9UUldIdIYJEFiLlUZtW4Yr/snZP23OO3KptA=",
+            "cert-url": "https://of.tv/cdn-fpw/sxg/cert.pem.msg.ZJoQj5L9UUldIdIYJEFiLlUZtW4Yr_snZP23OO3KptA",
+            "date": 1730242247,
+            "expires": 1730847047,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDDDiNMbSn3uREeITSDzjSrKOjAnmfVSK3swMRkcJUW+gIhAMXawE8hGpKtc+Sje4EaNez4Spl7Vy23g9BZxFIDZb2e",
+            "validity-url": "https://of.tv/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://of.tv/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da711e181ec2524-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:50:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=OtAfF7qL12eum53H3el7qmEuKnt3+l/j01X0QBziJYI="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Amz-Apigw-Id": [
+         "Ab8xuFFmIAMEPmg="
+      ],
+      "X-Amzn-Requestid": [
+         "e9f8565a-a5d5-4b40-bfe8-56f0d912e7bc"
+      ],
+      "X-Amzn-Trace-Id": [
+         "Root=1-672174d7-4de0e5ee1cda1d6e48da3c79"
+      ]
+   }
+}

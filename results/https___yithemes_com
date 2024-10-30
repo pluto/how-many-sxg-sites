@@ -1,0 +1,94 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-lPNOoaW0KHeaX51pj88tEGRkekpPx14mWoBB9XFeQVg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Jzq9Dbl3IPHU6NWXIyuAEdf8JfPxk07YFStJ6VLQLeg=",
+            "cert-url": "https://yithemes.com/cdn-fpw/sxg/cert.pem.msg.Jzq9Dbl3IPHU6NWXIyuAEdf8JfPxk07YFStJ6VLQLeg",
+            "date": 1730243082,
+            "expires": 1730847882,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIHziTksq9fquIP8oD2rOSik90Onz1T14FO+OoEI+3POMAiEAq4WHZSJrWBRvXlTxfpjCkQc2SMrwhyhvg5gDiRDw83k=",
+            "validity-url": "https://yithemes.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://yithemes.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "136"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da72644659f6803-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:42 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=GDVInC9eO15Qj2LOaavZZ4tLKg0tI26LfEX+s4E8xY0="
+      ],
+      "Ki-Cache-Type": [
+         "None"
+      ],
+      "Ki-Cf-Cache-Status": [
+         "BYPASS"
+      ],
+      "Ki-Edge": [
+         "v=20.2.8;mv=3.1.3"
+      ],
+      "Ki-Edge-O2o": [
+         "yes"
+      ],
+      "Ki-Origin": [
+         "g1p"
+      ],
+      "Last-Modified": [
+         "Wed, 30 Oct 2024 00:02:26 GMT"
+      ],
+      "Link": [
+         "<https://yithemes.com/wp-content/themes/yithemes/assets/js/scripts.min.js?ver=5.1.2>;rel=preload;as=script,<https://yithemes.com/wp-content/themes/yithemes/assets/js/scripts.min.js?ver=5.1.2>;rel=allowed-alt-sxg;header-integrity=\"sha256-D67RXQM82txfzIObaBjLTB4Q8nfOyNWMJQWotb1njnY=\",<https://yithemes.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4>;rel=preload;as=script,<https://yithemes.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4>;rel=allowed-alt-sxg;header-integrity=\"sha256-xDHeCzfRvy/G+ANTqfKforP3qwu8kXh8D0cRrEPGgLE=\",<https://yithemes.com/wp-content/themes/yithemes/assets/css/main.min.css?ver=5.1.18>;rel=preload;as=style,<https://yithemes.com/wp-content/themes/yithemes/assets/css/main.min.css?ver=5.1.18>;rel=allowed-alt-sxg;header-integrity=\"sha256-M+iz/CowUDMYd97eIpxx6PXW5EUvsZknJk9uyXbn9iE=\""
+      ],
+      "Nel": [
+         "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Report-To": [
+         "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=M2WMRPa%2FzsPxi519yzcCMHcc4E76JPeUpLsAnMsOVdNQuSUqNVMdXnAFkmlsVku7Z2LORQr%2F%2BHQAD0aBHlGjZCAJ1m2n7UI5thuB%2FlD4LmAGpCvflPY%2F3%2BJvQQYo6A%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Edge-Location-Klb": [
+         "1"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Kinsta-Cache": [
+         "HIT"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

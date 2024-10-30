@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-4y4gR+VS1WR77nDJ1b9U8zxMRG14ya8BfmQB8HDM1FQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "QASsssmGUACVwZOS6XFn8E6xwEPJ1wGdAkdl4pGQErQ=",
+            "cert-url": "https://tripleten.com/cdn-fpw/sxg/cert.pem.msg.QASsssmGUACVwZOS6XFn8E6xwEPJ1wGdAkdl4pGQErQ",
+            "date": 1730242860,
+            "expires": 1730847660,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDCKZbGTPpQ08/gePq1gSkhu79R26+GZUSnBdQ3BStiFwIgK6pIshKb69TsOtkosA5/OTSi8cPbm16zOXExXw9NwkQ=",
+            "validity-url": "https://tripleten.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://tripleten.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da720d9222c24e2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self';"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:00 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=CfDcrWLIN1Q8LtoeFXwc7IMfsXBa5W+x7o4mIMMKzxE="
+      ],
+      "Last-Modified": [
+         "Fri, 18 Oct 2024 09:07:32 GMT"
+      ],
+      "Permissions-Policy": [
+         "camera=(), microphone=(), geolocation=(), fullscreen=(self), camera=(), autoplay=(), display-capture=(), document-domain=(), gyroscope=(), otp-credentials=(), publickey-credentials-create=(), screen-wake-lock=(), window-management=(self)"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Amz-Id-2": [
+         "a9gGK+jWd+T7H8KzQ8abB3yoCdq3iLU0JHfEZP4yb3MSWETGRnnjL/hCPJ+W+IvH5nP4WZdP7Uw="
+      ],
+      "X-Amz-Meta-X-Amz-Meta-Transformed": [
+         "true"
+      ],
+      "X-Amz-Request-Id": [
+         "A0HMXY3MJQMBGKGZ"
+      ],
+      "X-Amz-Version-Id": [
+         "null"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Tripleten-Trace-Id": [
+         "7ef3f624dcad33c20e263e3f79fc5e51"
+      ],
+      "X-Xss-Protection": [
+         "1"
+      ]
+   }
+}

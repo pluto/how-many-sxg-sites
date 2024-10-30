@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-XIPa8WHHj2qZAIwQs+lt2nqruMwiVaDO6Zk4pWhDQR0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "GkCodhMMJi9wYCVWxwcr1i20PTt4eZ92f5TYlKzWMDg=",
+            "cert-url": "https://www.oolveri.com/cdn-fpw/sxg/cert.pem.msg.GkCodhMMJi9wYCVWxwcr1i20PTt4eZ92f5TYlKzWMDg",
+            "date": 1730242268,
+            "expires": 1730847068,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQC6qqEC9EC6WhWeW1FG7B6HfvQhrmwk5ZFhdKh8mWyBoQIhAI6Fu/8iQ03//6nvhlz8jB3ksvzYRlryze8TIzZCLky/",
+            "validity-url": "https://www.oolveri.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.oolveri.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=691200"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7126177331703-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:08 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=/LgdYjArOwCDiKdYMWvdZmHOwsN4rhwDQCQ/05FCupo="
+      ],
+      "Fastcgi-Cache": [
+         "HIT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:51:08 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

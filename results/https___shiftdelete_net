@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-k6sSBB28lmECMLNJRcMNte9pEa2tgEeslHlO4V2wzCY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "7vzK1cvZu+V7sBRFrDvGCtY+4kpn67wrzcSZBoYLYYM=",
+            "cert-url": "https://shiftdelete.net/cdn-fpw/sxg/cert.pem.msg.7vzK1cvZu-V7sBRFrDvGCtY-4kpn67wrzcSZBoYLYYM",
+            "date": 1730242600,
+            "expires": 1730847400,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFh93IbTigOrMFe+zrIPOxJCueN8tVgYGzLBU6cnhSJRAiEA+ghzsvm228IGLCpOMwlz2GE7mYYojMfuMHg/8rDF6c4=",
+            "validity-url": "https://shiftdelete.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://shiftdelete.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71a7d760196d7-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:40 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=oNTqV0j+cfu1CTLVYM7P0C2JpYVhnWxL1xYsGxzbzTs="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Link": [
+         "<https://shiftdelete.net/wp-content/themes/shiftdelete/assets/img/logo-2x.png>;rel=preload;as=image,<https://shiftdelete.net/wp-content/themes/shiftdelete/assets/img/logo-2x.png>;rel=allowed-alt-sxg;header-integrity=\"sha256-j9xdu4hQp2HMDwusjTu9N1rTJMifZZxKpL8IbF8G/hQ=\",<https://shiftdelete.net/wp-content/themes/shiftdelete/assets/css/app.css>;rel=preload;as=style,<https://shiftdelete.net/wp-content/themes/shiftdelete/assets/css/app.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-97SIS5EkK7HTLT3n0LP5GBl0yPId1TlwzmNBq12DGGc=\""
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

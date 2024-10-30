@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-W4WIxcZS3T2N3wyAU0enKJfQ5O4I0EMpXeeKbZ0KwH4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "LH16fGeR/TFG7e7w+YTdILFbr5Yzrw85dhSXFf4vM0M=",
+            "cert-url": "https://pibox.art/cdn-fpw/sxg/cert.pem.msg.LH16fGeR_TFG7e7w-YTdILFbr5Yzrw85dhSXFf4vM0M",
+            "date": 1730242336,
+            "expires": 1730847136,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDdo/nQRjBcFmzFgvsQJnuJm2NZ00vZk5vHE7eC3canlQIgMmijSbxAHp4M3aY0J+hG1QkXbBF8P7jFQf3JgNGAnig=",
+            "validity-url": "https://pibox.art/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://pibox.art/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7140d831dfaec-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:52:16 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=8uZiggVbxdM/K3nKnLnKoCCZ1Oaq1sP8x1oGkJDeCNg="
+      ],
+      "Last-Modified": [
+         "Fri, 10 May 2024 06:41:18 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

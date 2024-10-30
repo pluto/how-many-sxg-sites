@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-BCHRF4vHkt6I7fdR/iEUoLvNPLE6hBb0KTq5Ip3R38Q=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "OWQ9qEFafekpc3j2Zuqx+cHA17be8VSWaF8t8IX6vvA=",
+            "cert-url": "https://ipromcloud.com/cdn-fpw/sxg/cert.pem.msg.OWQ9qEFafekpc3j2Zuqx-cHA17be8VSWaF8t8IX6vvA",
+            "date": 1730241813,
+            "expires": 1730846613,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDHm2HPhSZPgnSKXeP3iJ+hWXdp5HEEfzUyLlNlom0H7gIhAO2rpOvQlIjtxIwBv4PvIupOEdCJuc6Iy9a3WRhaOnHd",
+            "validity-url": "https://ipromcloud.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ipromcloud.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7074975df6802-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:43:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Wejlt51nSkZQstON+LvEbX4yRr/vnQn1DSMsOm06OZA="
+      ],
+      "Last-Modified": [
+         "Tue, 06 Oct 2015 19:32:48 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

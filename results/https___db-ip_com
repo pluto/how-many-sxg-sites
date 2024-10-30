@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-meFRFKcEDdJTKo+F/+YxsOJaUB9nYTJGqM9bzDR7D9Q=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "VJCEneOVC3l05dOxCI5sBPbFb8w4LGlW3U6L5GYrYmY=",
+            "cert-url": "https://db-ip.com/cdn-fpw/sxg/cert.pem.msg.VJCEneOVC3l05dOxCI5sBPbFb8w4LGlW3U6L5GYrYmY",
+            "date": 1730241293,
+            "expires": 1730273693,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD7exAMrvpZwRGATLI+0LM0Vhpomofq4GSPx5pxGsyH+gIgRACkSuGtdlDQ2JsG7Klex/hrzuSb6yMrneUa21BNf/k=",
+            "validity-url": "https://db-ip.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://db-ip.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "986"
+      ],
+      "Cache-Control": [
+         "max-age=28800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6fa977670cf09-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:34:53 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=V9uzpUSZrOGMV6HSJ4wqTNLF67VGHfw2oV7wN2TfcXY="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:18:27 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Iplb-Instance": [
+         "59215"
+      ],
+      "X-Iplb-Request-Id": [
+         "A29EA6A8:8030_93878F2E:0050_67216D43_31E45A0D:4F34"
+      ]
+   }
+}

@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-tcCk1KKWmbtUeY94QTbrqOOF5CYF0brK19pOorcmA9I=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "L6+xvIZKTMigIpp+7tjr71Q7/aDDmzXlkPPMMtjQgOs=",
+            "cert-url": "https://fidelitybank.ng/cdn-fpw/sxg/cert.pem.msg.L6-xvIZKTMigIpp-7tjr71Q7_aDDmzXlkPPMMtjQgOs",
+            "date": 1730241499,
+            "expires": 1730846299,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIAWHlOPXqsbwd4xaJzRX9Bsv6x35eFaioAmQe1vNELNtAiEAo0o5j1LnsSU7FX380EgLct8/e8kd/3U/iBD4T9kjfiE=",
+            "validity-url": "https://fidelitybank.ng/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://fidelitybank.ng/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "863070"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6ff9b412196cc-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "upgrade-insecure-requests;"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:18 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=evbiVoPyBb64Xev5oYZQEEv5JhsrGeAX1IhJbM6P45c="
+      ],
+      "Last-Modified": [
+         "Sat, 19 Oct 2024 15:31:49 GMT"
+      ],
+      "Link": [
+         "<https://fidelitybank.ng/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.woff?5510888>;rel=preload;as=font;crossorigin=anonymous;media=all,<https://fidelitybank.ng/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.woff?5510888>;rel=allowed-alt-sxg;header-integrity=\"sha256-jtdyXfgnf17SfMRE3j6+jGDUIWzgWgt9v+HDmbIDFvU=\""
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(*), autoplay=(*), camera=(*), encrypted-media=(*), fullscreen=(*), geolocation=(*), microphone=(*), midi=(*), payment=(*), display-capture=(*), geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
+      ],
+      "Referrer-Policy": [
+         "strict-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-X2mEM/2WVfaQ++Wkfb/r3c7d3zH9HV3teAYAXSwa1AI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "34QGVwC98IjFJQl8kMety1PyQqB2xC70yiJDROCW10s=",
+            "cert-url": "https://www.openphone.com/cdn-fpw/sxg/cert.pem.msg.34QGVwC98IjFJQl8kMety1PyQqB2xC70yiJDROCW10s",
+            "date": 1730242270,
+            "expires": 1730677870,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIB32LioHiSOv5IJyXPnHcupcrIsDkkK7jBDnBN2ZlXrvAiAs9h56nDPNSupVoRtHOx4Q/ccxuY4luEMDMEnCrjZmrw==",
+            "validity-url": "https://www.openphone.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.openphone.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "5773"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7127323d367af-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:10 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=sifOGjcDc/rXX0rKpnMZEF6SKQfxZjBc990CW9MU45U="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:14:41 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=432000"
+      ],
+      "Surrogate-Key": [
+         "webflow.openphone.com 6384fdd9fd42380b529fc942 pageId:63d4631c03e04175e725e435 66d6ed8aa61d1e45a12d1e9e 6685501e5ee1e3270900e347"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cluster-Name": [
+         "us-west-2-prod-hosting-red"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "b5f127f8-dd59-4e7f-892e-5fe903d17910"
+      ]
+   }
+}

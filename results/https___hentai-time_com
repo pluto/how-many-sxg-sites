@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-uZKGGs+CvwPvYF93uykMo3DWEItMRMUaPGZnP99VT1c=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "lfuAC1GX1Cf+iwZcOrW/yUjVGdL0QUSWaS+i0Zt324k=",
+            "cert-url": "https://hentai-time.com/cdn-fpw/sxg/cert.pem.msg.lfuAC1GX1Cf-iwZcOrW_yUjVGdL0QUSWaS-i0Zt324k",
+            "date": 1730241680,
+            "expires": 1730846480,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEyK5eOR8zkb9D87rrffdZ+nj2YC1+HRBvUt+6Uxbz61AiB/dNk0tdmNqTVmCzQME2hDfbXbzpIclauLGGloschFSQ==",
+            "validity-url": "https://hentai-time.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hentai-time.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70409032c967f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=9m9uvJuzdZQRWeWyrkF4BSziTSbNluHwNEzQGxA9Mj8="
+      ],
+      "Link": [
+         "<https://hentai-time.com/wp-content/litespeed/ucss/ae169f2ee02f27d303e6a09693155adf.css?ver=d2edd>;rel=preload;as=style,<https://hentai-time.com/wp-content/litespeed/ucss/ae169f2ee02f27d303e6a09693155adf.css?ver=d2edd>;rel=allowed-alt-sxg;header-integrity=\"sha256-UNze6CmdOjwvVz9q25uoWcZbsyEw3CeOPg3F0UxN1Ro=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Litespeed-Cache": [
+         "hit"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ]
+   }
+}

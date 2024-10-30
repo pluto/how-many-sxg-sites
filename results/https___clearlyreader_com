@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-MpR1pvW9m9izO9JwH8NCFF5siEhIcOj9pUjsKyF8BlU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "gB1MlNe9eoosGeWblNSK9sp6C/F/AijvtGIQT1CvKVs=",
+            "cert-url": "https://clearlyreader.com/cdn-fpw/sxg/cert.pem.msg.gB1MlNe9eoosGeWblNSK9sp6C_F_AijvtGIQT1CvKVs",
+            "date": 1730241186,
+            "expires": 1730845986,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD19xmp44M1nSETwLwqExlw6gRs9XL0RMFlLCoLM1Rm4wIgRzvpyiQ1QjZg0b15tP8vpuxjvltWVX9s2Nv8v/hn804=",
+            "validity-url": "https://clearlyreader.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://clearlyreader.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Access-Control-Allow-Headers": [
+         "*"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET,HEAD,PUT,PATCH,POST,DELETE"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f7fad135fa5a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:33:06 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=aQvtX+LuADsD+h9h4Tc6UkjGs0ku2q6W40jQ429mKVI="
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

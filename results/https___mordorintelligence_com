@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ftUfTiIJutr/Y4NyGQryqpw6wb6t5vq0svHJrzFb5SM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "tmT8wIrAksY6NRmT4msZBdhonnxaoMBWGahbqV/G3ZM=",
+            "cert-url": "https://www.mordorintelligence.com/cdn-fpw/sxg/cert.pem.msg.tmT8wIrAksY6NRmT4msZBdhonnxaoMBWGahbqV_G3ZM",
+            "date": 1730242109,
+            "expires": 1730846909,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIC+cacPwuvJICCa6lhkkQUB36ejJ6gG5QfFMIdKNPviRAiAZ5jSIfbgwH3BZoXzivQP1eFhDh2la5jVra6YxmyHRYQ==",
+            "validity-url": "https://www.mordorintelligence.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.mordorintelligence.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "1084388"
+      ],
+      "Cache-Control": [
+         "public, max-age=604800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70e85371467ee-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:29 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=GVcHYuwyNxo4a+zhxjpP4Oglfw77lKnQOU3vUcJBfN4="
+      ],
+      "Expires": [
+         "Tue, 05 Nov 2024 23:48:29 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

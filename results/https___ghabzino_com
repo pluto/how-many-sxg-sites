@@ -1,0 +1,37 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-LOB6jXeCRaoRDIaYWX7kgbkH9aMqd8Syi2krj5df7W0=",
+   "Signatures": [
+      {
+         "Label": "nginx",
+         "Params": {
+            "cert-sha256": "Ol0Zi191wWJJrbYNVD8fikUNCeFnrcqleyCPAMlB5/4=",
+            "cert-url": "https://wl.ayanco.com/sxg/ghabzino.cbor",
+            "date": 1730245196,
+            "expires": 1730849996,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEf41v+L/uPdfOKEAp2rqpZoNbClJmYxUvqzm69oxmUzAiBZte1LqfzEQg0kCTYTMcb7mvYJ32Lwu7v5FGTbdfi0tw==",
+            "validity-url": "https://ghabzino.com/validity/resource.msg"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ghabzino.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Digest": [
+         "mi-sha256-03=xIT7thZR4MCuhXMhLBQ7Kop6+XBa7R/bvwdF0Y1PDto="
+      ],
+      "Server": [
+         "AyanCo"
+      ]
+   }
+}

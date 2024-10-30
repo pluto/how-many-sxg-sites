@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-sZFYNDgJ+OPsxPoORwHaYRuFJO/ig2Jcqb70IQIUkeI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "r7zbXe36e9x5AbFB/+z+71/jd+WZ9HojaqhkQqKRkPQ=",
+            "cert-url": "https://www.notebookcheck.com/cdn-fpw/sxg/cert.pem.msg.r7zbXe36e9x5AbFB_-z-71_jd-WZ9HojaqhkQqKRkPQ",
+            "date": 1730242226,
+            "expires": 1730247626,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQC7ho2oyyowCiRY9Vk7L9LOahoJRN1h0WE2CVLrDhV7NAIgL6mM4VN71SLFdpL5P8AFOjsxCijQQC+CaciLxteU1mk=",
+            "validity-url": "https://www.notebookcheck.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.notebookcheck.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cache-Control": [
+         "max-age=1800"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Cf-Ray": [
+         "8da71155f29a1828-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:50:25 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=9mhiZsmgSJmehdS6V59+OQlX6gFySaDVC79OAfBoEjY="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:30:45 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Via": [
+         "1.1 vpro0696.proserver.punkt.de (Varnish/7.4)"
+      ],
+      "X-Frame-Options": [
+         "sameorigin"
+      ],
+      "X-Location": [
+         "standard"
+      ],
+      "X-Varnish": [
+         "22117970 30614571"
+      ],
+      "X-Varnish-Cache": [
+         "HIT"
+      ]
+   }
+}

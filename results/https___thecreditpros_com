@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-aJB3LfzP/yfo3XPnB7xv+xBnOtL1jadKmV3TanSHcI0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Y/kSCRwlqlB5Bv+BME2pxO9FsP+4xNPDwjYPrLp0k4M=",
+            "cert-url": "https://thecreditpros.com/cdn-fpw/sxg/cert.pem.msg.Y_kSCRwlqlB5Bv-BME2pxO9FsP-4xNPDwjYPrLp0k4M",
+            "date": 1730242785,
+            "expires": 1730260785,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIH52ITTReBoQbJEEkGJjmstvc+vOYJhUOxaub8EEeIgxAiEAq1l/eT49G14XpsdYUbNum8lqWP8wDE4PJZh5kIM9Y1g=",
+            "validity-url": "https://thecreditpros.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://thecreditpros.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71f04a506fa1e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:45 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=pT5lz9oYyYTWg0M0riqMXuAgJwbFYKe6WyZ5GlRPDsA="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:57:46 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 19:09:34 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "MISS"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

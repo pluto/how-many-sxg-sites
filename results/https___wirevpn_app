@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-GeTKO2kjbUQoiGJI78FMxDSpnZ4ZMxslfXvGgA6QZPU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "nC6u48GMAUaWAU74haVl8rpoWi5zHwccbojUJgWTRxo=",
+            "cert-url": "https://wirevpn.app/cdn-fpw/sxg/cert.pem.msg.nC6u48GMAUaWAU74haVl8rpoWi5zHwccbojUJgWTRxo",
+            "date": 1730243027,
+            "expires": 1730847827,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHLSzB5jRoHX89fgeSG1burggFMp/VqvddJrTM/TasJoAiBy/85HcxmC8bgKMmOiJPa+MFRdJp1OYiY+jBhheBTWKg==",
+            "validity-url": "https://wirevpn.app/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://wirevpn.app/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da724edd6289669-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=WzqZK26fm7dxbSyl6pfitN/NqrxVI9fTVVhN6Y7F/0k="
+      ],
+      "Link": [
+         "<https://wirevpn.app/_nuxt/0626b80.js>;rel=preload;as=script,<https://wirevpn.app/_nuxt/0626b80.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-GlVapGHU6Hrgpl/3AjppBAAPEYTx1LeQe8JAZ94L2ZM=\",<https://wirevpn.app/_nuxt/0df4803.js>;rel=preload;as=script,<https://wirevpn.app/_nuxt/0df4803.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-rBZVxk1BfgKbcEfc38oC3ktNl7oVc2348/WdWaRsB8I=\",<https://wirevpn.app/_nuxt/8599a24.js>;rel=preload;as=script,<https://wirevpn.app/_nuxt/8599a24.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-vDVnSnJaUPsWxLOyovKJ7VVItHG9YJWvlDxnygmTQzs=\",<https://wirevpn.app/_nuxt/27b69a9.js>;rel=preload;as=script,<https://wirevpn.app/_nuxt/27b69a9.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-7oVq5IRnT+38+Bqej/do92qFSar8KSEvn54ghQpgOYA=\",<https://wirevpn.app/_nuxt/4d11795.js>;rel=preload;as=script,<https://wirevpn.app/_nuxt/4d11795.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-KEIRFFr0PIKZS9n/B0PCkH//bEVMZK/XIvPdsW/jwNQ=\",<https://wirevpn.app/_nuxt/b313a70.js>;rel=preload;as=script,<https://wirevpn.app/_nuxt/b313a70.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-rHQSkoj59W98qF9JafTalTwo/4JZSi4PbF9DtJHaXOo=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

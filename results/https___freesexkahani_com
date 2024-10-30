@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-z4JWZdZm8ie7j37X0TCk/i1Djc8NHdfl5eJP6M8hjlY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "nocpm3m6Kx8QXNv8B37skbQrUVb8dnBbElC0xwq6xJo=",
+            "cert-url": "https://www.freesexkahani.com/cdn-fpw/sxg/cert.pem.msg.nocpm3m6Kx8QXNv8B37skbQrUVb8dnBbElC0xwq6xJo",
+            "date": 1730241542,
+            "expires": 1730846342,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBbQsxIbjqEymVwJk4byrc2bi/9LlGvovqDz790ZBZKgAiBHK8jdcEB/FQeV4XEylv1DigpeQ9GjnjtOxOzK1ZINeg==",
+            "validity-url": "https://www.freesexkahani.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.freesexkahani.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1236"
+      ],
+      "Cache-Control": [
+         "max-age=691200"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da700aae414159c-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:39:02 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=z+jjANCc2TrEB53FStuCJWdbUg7fKmFgNG/DyVtF4c0="
+      ],
+      "Fastcgi-Cache": [
+         "HIT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:18:26 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "PHP/8.1.29"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,91 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-zs59oL4TxBWbQ+yncmq5jjg0BCI+kHOK+9q1GfMeidI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "BO1AjZH+otB6Lu9dAifF9iE4cINoA/kk3u6x+EFLeEE=",
+            "cert-url": "https://rc24.xyz/cdn-fpw/sxg/cert.pem.msg.BO1AjZH-otB6Lu9dAifF9iE4cINoA_kk3u6x-EFLeEE",
+            "date": 1730242443,
+            "expires": 1730246643,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDwIc5PPSPUOaLiBtrcsi3Gg3TzfK/mw8+/RriBRlfb0QIgHFl0cYkoRBiYnFa/fXGOFpGN9jBTb2TRq0resa8E4ZI=",
+            "validity-url": "https://rc24.xyz/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://rc24.xyz/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "0"
+      ],
+      "Cache-Control": [
+         "max-age=600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da716ad63879441-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:54:03 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=zYIhP1pxrQci/jcTPw5iVlSnDCQUXU/fgc/Sc8rUB38="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 21:48:49 GMT"
+      ],
+      "Last-Modified": [
+         "Sun, 06 Oct 2024 17:48:09 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 varnish"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Cache-Hits": [
+         "0"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Fastly-Request-Id": [
+         "a216c0b87b8de9860f32d7f8244de7914aba52c3"
+      ],
+      "X-Github-Request-Id": [
+         "ABE8:352CFB:3662581:37CE1A5:672155E9"
+      ],
+      "X-Proxy-Cache": [
+         "MISS"
+      ],
+      "X-Served-By": [
+         "cache-sjc1000104-SJC"
+      ],
+      "X-Timer": [
+         "S1730246044.758901,VS0,VE92"
+      ]
+   }
+}

@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-C61GrKm/rGwFsb0OmuGEX/MOTKM9nebJ0Vh9jrH8nWU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "U89LusiwzAsmzwM6bCNQQcfUT63tMUsx/i0oMIQGZl8=",
+            "cert-url": "https://changenow.io/cdn-fpw/sxg/cert.pem.msg.U89LusiwzAsmzwM6bCNQQcfUT63tMUsx_i0oMIQGZl8",
+            "date": 1730241157,
+            "expires": 1730845957,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDfZTwgtRW9EQDBaPxwDLcZ0ksCZe/wm5k/Qtu4Z0XgCAiAvvnycuq2WAwROmYUYo92QCVDu3+zM/FwcgTuB8C8kqA==",
+            "validity-url": "https://changenow.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://changenow.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Ray": [
+         "8da6f742a36c1682-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:32:37 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=LyvK44R7xUI+0ZKM0rsJs/8R6LbfciMISF7XNLwBbLA="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:32:37 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Chnw-Id": [
+         "8"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Reg-Id": [
+         "US"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

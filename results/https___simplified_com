@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-9YAYNHC/nP82NMK6s2sIvQxhyj08R1IQ0uN/fFPbgJc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "JkhOg+G39UN5sXo7NjovaF83srz8Z1f8Mr+q4E+kCD0=",
+            "cert-url": "https://simplified.com/cdn-fpw/sxg/cert.pem.msg.JkhOg-G39UN5sXo7NjovaF83srz8Z1f8Mr-q4E-kCD0",
+            "date": 1730242620,
+            "expires": 1730847420,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBBTPCT+v2aZbaSyYS97pW2pgAOoOc8Nu2XS4VZl9VR4AiBC8UhD4YE6DdDoOxSYwW5+I5G43wXFQNrcGHBW6MwIYw==",
+            "validity-url": "https://simplified.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://simplified.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "23765"
+      ],
+      "Cache-Control": [
+         "public, s-maxage=2419200"
+      ],
+      "Cache-Url-Webflow": [
+         "https://simplified-home.webflow.io/"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71afc52d2cec5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self' https://*.webflow.com http://*.webflow.com http://*.webflow.io http://webflow.com https://webflow.com"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:00 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=vbUAGrh7nqRnOcP+dyoLalPvLIubRvm7BW7daPdtgBM="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 17:20:32 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=2147483647"
+      ],
+      "Surrogate-Key": [
+         "simplified-home.webflow.io 607f32d6309ca31d63c6724d pageId:66ed51d90e40449a7411c2a5"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "34336b75-1bd3-42ef-9744-eda5dc58a265"
+      ]
+   }
+}

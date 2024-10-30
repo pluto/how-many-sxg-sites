@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-0fH20gU0hU86d6ymU8GzAg9Phs+sJneYwY2a9z8SfEQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "5h5iYIFCutWCvfExN4kZVR83QeFmW/K5C9rpH8ScXx0=",
+            "cert-url": "https://toonily.com/cdn-fpw/sxg/cert.pem.msg.5h5iYIFCutWCvfExN4kZVR83QeFmW_K5C9rpH8ScXx0",
+            "date": 1730242828,
+            "expires": 1730847628,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIFeTPdGW/W7w2R2ewCZkm42a1SaEFH1YPohAxy9H0ItfAiAPBAHrd3VAhsSPt9TkGUpcmYv4muCivLnSfq+9uD9DcQ==",
+            "validity-url": "https://toonily.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://toonily.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7201101ce1573-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:00:28 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=LfcWLxx1S/nYbrbxZumtownPLK8UEnmd/q96ICH53PY="
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(), autoplay=*, camera=(), display-capture=*, document-domain=*, encrypted-media=*, fullscreen=*, geolocation=(self), gyroscope=(), magnetometer=(), microphone=(self), midi=(), picture-in-picture=*, publickey-credentials-get=*, sync-xhr=*, usb=(), xr-spatial-tracking=()"
+      ],
+      "Referrer-Policy": [
+         "no-referrer, strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Runcache-Type": [
+         "native"
+      ],
+      "X-Runcloud-Cache": [
+         "HIT"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

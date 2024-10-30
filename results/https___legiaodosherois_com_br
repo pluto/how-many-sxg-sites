@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Q+X1lr84FVM5PHCHP/0N0PpWezRiwtShhwoIF9PX8u4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "B1d1sh0ac71hmyMjTj33Bocf5LjZCQgcOM452QiV57c=",
+            "cert-url": "https://www.legiaodosherois.com.br/cdn-fpw/sxg/cert.pem.msg.B1d1sh0ac71hmyMjTj33Bocf5LjZCQgcOM452QiV57c",
+            "date": 1730241943,
+            "expires": 1730846743,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCHhXy38IF+OUprXPGxvv6ul60oDHaXjdFe5BVAN1E2FQIgaooe2pw3eKQubw4YrZWMg/scHku/tryqayAYxpwR4wE=",
+            "validity-url": "https://www.legiaodosherois.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.legiaodosherois.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da70a77c218236e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:43 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=e2N/63qtVnXS94JnGeGqisVTvgsUYCSvBWY0fSgbWA4="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:45:17 GMT"
+      ],
+      "Link": [
+         "<https://www.legiaodosherois.com.br/frontend/dist/ragnarok.5d165a6f30b7fd0d.umd.min.js>;rel=preload;as=script,<https://www.legiaodosherois.com.br/frontend/dist/ragnarok.5d165a6f30b7fd0d.umd.min.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-qRLx4DTHrU7wgadCsiLd+qpJJJaBHGKgVBAY4swfQ/c=\",<https://www.legiaodosherois.com.br/frontend/dist/ragnarok.5d165a6f30b7fd0d.css>;rel=preload;as=style,<https://www.legiaodosherois.com.br/frontend/dist/ragnarok.5d165a6f30b7fd0d.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-sAbc8AY9MiBwqqYbg1nS4D9u6Pzr3oseqlo+w1XSbAo=\",<https://www.legiaodosherois.com.br/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js>;rel=preload;as=script,<https://www.legiaodosherois.com.br/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-mBJpFHy/vNHEWDLxu53i/6+XMWlmG/XyP2dQaCDm1E4=\""
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

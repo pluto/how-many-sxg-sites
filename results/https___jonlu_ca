@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-OLxRNFfZfqDux7r7KqgnRWUNA4imEscxXJW1tj6olWU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "4dclY1adG8RiV1+Uyfe57qlUS3P3r7uMvgpKnZ5awc4=",
+            "cert-url": "https://blog.jonlu.ca/cdn-fpw/sxg/cert.pem.msg.4dclY1adG8RiV1-Uyfe57qlUS3P3r7uMvgpKnZ5awc4",
+            "date": 1730241857,
+            "expires": 1730259857,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGAkjnd/RvSdMyZdtuQt6hUvlAJVb47THQpOPBiknsJkAiEAjoI+ibPks7pmVBlrJ9Sc8035b5SmSVAIq3J8TNFaSic=",
+            "validity-url": "https://blog.jonlu.ca/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://blog.jonlu.ca/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Access-Control-Allow-Headers": [
+         "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Access-Control-Expose-Headers": [
+         "Content-Length,Content-Range"
+      ],
+      "Age": [
+         "3116"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7085a946cce68-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:44:17 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=kdiFCDW7Mc5R8W4MkmuH+ug4zda6Sw338EzXHsIAMPc="
+      ],
+      "Last-Modified": [
+         "Tue, 03 Sep 2024 03:35:11 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-xBB2kqNEJUnHTwDXS1fwAbyEtlNWXMCs8ZdbQk7uBJ4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "hTlvp8HF1Ty6yxKVNol2OwZwf5liAhnEgWU0LUIGAbU=",
+            "cert-url": "https://onemileatatime.com/cdn-fpw/sxg/cert.pem.msg.hTlvp8HF1Ty6yxKVNol2OwZwf5liAhnEgWU0LUIGAbU",
+            "date": 1730242261,
+            "expires": 1730246461,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDIKZw/wFkaDZIHqf7QoUZPKxkmwUCRw+A+mTwPAWhm/wIgNwVJXrfa2YX5SnavvadRx0X3gTPuUP1vML5UsFom6jI=",
+            "validity-url": "https://onemileatatime.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://onemileatatime.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=600, must-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7123ae3876444-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:01 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=eYk2V3HQ1/Z8bG+JuXxDe1CPlWhgcIciz2AoK2kA82g="
+      ],
+      "Link": [
+         "<https://onemileatatime.com/wp-content/themes/omaat/dist/fonts/SharpGroteskBook-23.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://onemileatatime.com/wp-content/themes/omaat/dist/fonts/SharpGroteskBook-23.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-G7aSp6dAkwBr/L+MIGWsH22BxUlaoBcS9CvKDIivQTI=\",<https://onemileatatime.com/wp-content/themes/omaat/dist/fonts/SharpGroteskBook-19-custom.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://onemileatatime.com/wp-content/themes/omaat/dist/fonts/SharpGroteskBook-19-custom.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-WbLaFLUvF3rbpAX515WUI9nxhIcqqF7V93NhF6ZIMqc=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+      ],
+      "X-Cache": [
+         "HIT: 12"
+      ],
+      "X-Cache-Group": [
+         "normal"
+      ],
+      "X-Cacheable": [
+         "SHORT"
+      ],
+      "X-Powered-By": [
+         "WP Engine"
+      ]
+   }
+}

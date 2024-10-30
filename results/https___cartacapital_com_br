@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-bJ2agIA3eCJWEbmK0j1Sn6JLtOFvMZLpPE/3A8VGZds=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "42UA85OpP3BtYsrsZQw5gFd8HxLWV17yuQKakLQeLs4=",
+            "cert-url": "https://www.cartacapital.com.br/cdn-fpw/sxg/cert.pem.msg.42UA85OpP3BtYsrsZQw5gFd8HxLWV17yuQKakLQeLs4",
+            "date": 1730241129,
+            "expires": 1730245329,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEiwl9XO+k05Bng5Tm4NInZUSmlpoo4X4zPjiDbemGCFAiEA5TjpokXIxdNEIRzQJkNw2xTd/sw9daV+uOgCIoUuhhw=",
+            "validity-url": "https://www.cartacapital.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.cartacapital.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=1200"
+      ],
+      "Cdn-Cache-Control": [
+         "public, max-age=600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f69503b2fab2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:32:09 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=rcTLx+lqJCygKWMm2X5q71/deFd0W2wUFxIz2nNjQg4="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:26:30 GMT"
+      ],
+      "Pragma": [
+         "no-cache"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

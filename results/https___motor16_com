@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-DMywjbUKL1xSUG3OH0I7oFFoFKQvCddMfjYmoYIyLOU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "BbtbM2M3AwgFlD6o0qKWQPT602vYWlkv8bd847MMCZ8=",
+            "cert-url": "https://www.motor16.com/cdn-fpw/sxg/cert.pem.msg.BbtbM2M3AwgFlD6o0qKWQPT602vYWlkv8bd847MMCZ8",
+            "date": 1730242115,
+            "expires": 1730846915,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDIK/JYxt4fGprQg8AXU/Cwf/p1fD1C5jZoDgfTKIWqaQIga5vK+h+Asl9j8TJ+uvPCEEN/zuk0bSiQCP4ZFkf2VDQ=",
+            "validity-url": "https://www.motor16.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.motor16.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70ea313f267e8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:34 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=3P/SMlaSYf+j53WUsgjdjo/RK+rOm6na/OCnBa77V10="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:55:58 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Rocket-Nginx-Serving-Static": [
+         "BYPASS"
+      ]
+   }
+}

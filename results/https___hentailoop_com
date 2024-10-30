@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-u5dXiKDFpmmI6HlejRuceaBuX4BkKOL0nGdccwIM5gY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "/dJav6/Me44Rc9IG5lTXafSfwBQH+m6BqTIbJTIOTvM=",
+            "cert-url": "https://hentailoop.com/cdn-fpw/sxg/cert.pem.msg._dJav6_Me44Rc9IG5lTXafSfwBQH-m6BqTIbJTIOTvM",
+            "date": 1730241681,
+            "expires": 1730846481,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBUmPJaUS2HIudkWiUVUIzw5fHBf4AItW4iC/M6GyI5dAiBNLoGXJsS7keg5kCje3Lwen+pYc5akzafSZw7/+XFaIg==",
+            "validity-url": "https://hentailoop.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hentailoop.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7040ee64b7e2a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:21 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=1RZtC/QO17TVEaJvUKN89j1ERNqesiWtsUC4MYsLpdo="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Cache-Handler": [
+         "cache-enabler-engine"
+      ],
+      "X-Powered-By": [
+         "PHP/8.1.19"
+      ]
+   }
+}

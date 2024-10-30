@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Tc15dTJ3MLTAcydGE8ugR4riMMkAExkfDD1IxCmolF4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "x+Kw6DrUjd7Y4ppKLsqYZ4prTWU2xm1wDtfa2uO66Zc=",
+            "cert-url": "https://spankbang.party/cdn-fpw/sxg/cert.pem.msg.x-Kw6DrUjd7Y4ppKLsqYZ4prTWU2xm1wDtfa2uO66Zc",
+            "date": 1730242667,
+            "expires": 1730847467,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHznG04cuWdORMjbM03ThcGyX2MiUir0CFg8/rCIYwkyAiASKZ9PfqqbgYWuf5poWnZpjVbC0XYvc8a95llZC38eww==",
+            "validity-url": "https://spankbang.party/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://spankbang.party/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Access-Control-Expose-Headers": [
+         "Content-Length,Content-Range"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71c242457174e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=hFl0oJzbPuOfp5HYR0rXpyzIhLLFdg0KkJX3Teu5DoY="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Cookie"
+      ]
+   }
+}

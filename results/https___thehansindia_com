@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ZG1wVCc7BQq8cYP35zZUwpX5xqMUj/gMEUsdA1Keoxc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "6CYjubu0Bn7Uxxpx5b7TFImsOZtSI0sp8sa/lfAp1TI=",
+            "cert-url": "https://www.thehansindia.com/cdn-fpw/sxg/cert.pem.msg.6CYjubu0Bn7Uxxpx5b7TFImsOZtSI0sp8sa_lfAp1TI",
+            "date": 1730242790,
+            "expires": 1730246990,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCID2kBh/i4YSL9namDYdidDDoRuL3jREyxYBqWohnSOsgAiAqcT6JKZJGSgsai4fmjQGkcq6/wBwHhV2NSyi+h/bq+w==",
+            "validity-url": "https://www.thehansindia.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.thehansindia.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, s-maxage=600, max-age=60"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71f1ea3fd643b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:50 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=P6KfJwW6Z4wyQA+nri5ZhF9NYG3KWN884r8EmDCNhJo="
+      ],
+      "Link": [
+         "<https://www.thehansindia.com/images/placeholder.jpg>;rel=preload;as=image,<https://www.thehansindia.com/images/placeholder.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-1D9TT4yf5szKCn9VuLwiSShPFr2M1dlaAzdMNnuxHd0=\",<https://www.thehansindia.com/scripts/hocalwirecommlightp2.min.47bef789.js>;rel=preload;as=script;crossorigin=anonymous,<https://www.thehansindia.com/scripts/hocalwirecommlightp2.min.47bef789.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-AuwBgv/2rVD/+CtZbAEL7XWXCDq+SpCh0t2Rxw71g/M=\",<https://www.thehansindia.com/styles/themehansfile.min.ba0b4ec3.css>;rel=preload;as=style,<https://www.thehansindia.com/styles/themehansfile.min.ba0b4ec3.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-IcGDo2dojQx4Gm+G12451lNugVsGAs5/FSWeTjEmWek=\",<https://www.thehansindia.com/styles/themehansfile.min.ba0b4ec3.css>;rel=preload;as=style;crossorigin=anonymous,<https://www.thehansindia.com/styles/themehansfile.min.ba0b4ec3.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-IcGDo2dojQx4Gm+G12451lNugVsGAs5/FSWeTjEmWek=\",<https://www.thehansindia.com/scripts/hocalwirecommlightp1.min.0e725c90.js>;rel=preload;as=script;crossorigin=anonymous,<https://www.thehansindia.com/scripts/hocalwirecommlightp1.min.0e725c90.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-zyaJeQm660ZNwGVYR8Kkg9tniygVMSe6eBNVvU0CS2s=\",<https://www.thehansindia.com/scripts/themehansjs.min.b0e180b2.js>;rel=preload;as=script;crossorigin=anonymous,<https://www.thehansindia.com/scripts/themehansjs.min.b0e180b2.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-pCiOicUAN43XVbOm4YDl4OxnSRyx83iSfIdysNrjGT0=\""
+      ],
+      "Permissions-Policy": [
+         "browsing-topics=()"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

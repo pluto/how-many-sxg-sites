@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-fgoTv5L3XUfLv4ZEx42UsGw328xeUDWieSg5UyPA1nw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "r6EPN7Mzfvgp8pavaU8eqkdZK55dlTZVx6CMEPe5YpQ=",
+            "cert-url": "https://www.meinvoice.vn/cdn-fpw/sxg/cert.pem.msg.r6EPN7Mzfvgp8pavaU8eqkdZK55dlTZVx6CMEPe5YpQ",
+            "date": 1730242057,
+            "expires": 1730332057,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCLPe3/yc5DX16rjDLUTQSISkOrChuWYn3O0AebaSiHjQIge9bEXtFWjOmPsiEgrxnhtO5c9NAlRdhTwf9yVAk+4To=",
+            "validity-url": "https://www.meinvoice.vn/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.meinvoice.vn/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "48302"
+      ],
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70d3e22f015fb-SJC"
+      ],
+      "Clientip": [
+         "2001:4860:7:412::2"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:47:37 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=pE9sPp8PqSSAqI3s3FPrXxJR9wWhkzwxztG25R9tLpI="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 10:01:52 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 10:01:51 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "X-Forwarded-Proto,Accept-Encoding,User-Agent"
+      ]
+   }
+}

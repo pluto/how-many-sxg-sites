@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ivI0+zlMbwJ9vohyesgDNhhxAYEykY89JHkfpxqZfa8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "EQ4O32fhp8d+Z5GRjVe3NquRsdrcAf8Rm5obz1qHgs8=",
+            "cert-url": "https://ufreegames.io/cdn-fpw/sxg/cert.pem.msg.EQ4O32fhp8d-Z5GRjVe3NquRsdrcAf8Rm5obz1qHgs8",
+            "date": 1730242885,
+            "expires": 1730419285,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDNGfjaGjS4fjP+gKDO9DtGnwl4lqJ/glXlpnaEooTiRwIhALLN9KIiUYrypAVYpNCu4wdV+aV1vdkjtFJfHmKGmqfp",
+            "validity-url": "https://ufreegames.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ufreegames.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cache-Control": [
+         "max-age=172800"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da72172743bcf45-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:24 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=bjQLnP+zepicpUTmu3gKLHiQHT+zNzh2hRGjBhevoB0="
+      ],
+      "Last-Modified": [
+         "Mon, 19 Sep 2022 07:48:46 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

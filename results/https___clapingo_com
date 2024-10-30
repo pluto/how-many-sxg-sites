@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-4tde7z1VyCx4kaJHKrCql57FILAqMttAfRfv1aBKs/I=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "KLvdQgDc+uo/KPYwOjAl4LvaMZKOTkGLJFfDgnxiWTg=",
+            "cert-url": "https://academy.clapingo.com/cdn-fpw/sxg/cert.pem.msg.KLvdQgDc-uo_KPYwOjAl4LvaMZKOTkGLJFfDgnxiWTg",
+            "date": 1730241183,
+            "expires": 1730845983,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFkTtWFDgGf6VQSKJG4L2xBYWtsVvsmL2TCvdnrgg9pNAiEAkl89WyR1l/WVvsxpdeH/OFs9PVp86av3v8v7IOHQiZY=",
+            "validity-url": "https://academy.clapingo.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://academy.clapingo.com/spoken-english-classes-online/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f7dfe29b6446-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:33:02 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=xVttDt64yLe4FA1mvnzaVsS4YbErlmaP0s6f9gbsXKk="
+      ],
+      "Last-Modified": [
+         "Tue, 22 Oct 2024 07:25:57 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Tenweb-Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

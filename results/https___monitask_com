@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-uugWqhkb0GDL4h+mG+gPUDIAs52vk1rvsNNVZRs/XSU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ObIKaz2tk+7k35wQlRlsqFbNNKAG763gKs2TsF52rZ0=",
+            "cert-url": "https://www.monitask.com/cdn-fpw/sxg/cert.pem.msg.ObIKaz2tk-7k35wQlRlsqFbNNKAG763gKs2TsF52rZ0",
+            "date": 1730242105,
+            "expires": 1730260105,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDx+RBkZ+ldGWCRXtGyU+0zp0Va+1BGPkSkSy0NharMpwIhAJt0VaqCLBuTl5rPDSnT/Hrl12czFRAMVb8DiNP1Pfu1",
+            "validity-url": "https://www.monitask.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.monitask.com/en/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "4154"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70e6961a6cfd5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:25 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=JjDOIQcKnn9epVY5NAwoBmWPTluMki+YR0fjkRMG+zI="
+      ],
+      "Last-Modified": [
+         "Sat, 19 Oct 2024 18:02:06 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Speculation-Rules": [
+         "\"/cdn-cgi/speculation\""
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ]
+   }
+}

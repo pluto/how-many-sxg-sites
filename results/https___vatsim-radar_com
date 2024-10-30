@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-dt0IZ4it91+RGDxiKhqhonNDTPk+AziAnqGmfibC0xE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "OyZwGgfx5tef6CniJ9e5X0o0FmV87sjUaxyqH0aHW/A=",
+            "cert-url": "https://vatsim-radar.com/cdn-fpw/sxg/cert.pem.msg.OyZwGgfx5tef6CniJ9e5X0o0FmV87sjUaxyqH0aHW_A",
+            "date": 1730242925,
+            "expires": 1730847725,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCRVYne5DKJReEiodKKNHE8kYtFC3PPFIZpXccUPPrt2QIhAIvUgbow9Nn1UJJ6V9EoiZUYIog7PoffUyMJxtN8qiU9",
+            "validity-url": "https://vatsim-radar.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://vatsim-radar.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7226df4faf9f9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=fN00EnM5luNogvR233eBKuCsV6ZCyWlS2me4QweCdS4="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

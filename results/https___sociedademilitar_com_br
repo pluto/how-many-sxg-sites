@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-DNcnBExnL/oaCriqHKJqSGNQO4PrXhreb9JFStNqgKo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "/EEYy7UdzKtlUpVUWuOChq4FFLdVBS5wFae79nccRRY=",
+            "cert-url": "https://www.sociedademilitar.com.br/cdn-fpw/sxg/cert.pem.msg._EEYy7UdzKtlUpVUWuOChq4FFLdVBS5wFae79nccRRY",
+            "date": 1730242654,
+            "expires": 1730246554,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEryRsOHhCIi0y2r6BDe3Kn8naMpmHFSx3SqBV+26ZKGAiEA/KF5r8UYXpgp5xhbrytt2JK8Admq2xFaQfTv0OY2J2g=",
+            "validity-url": "https://www.sociedademilitar.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.sociedademilitar.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "697"
+      ],
+      "Cache-Control": [
+         "public, max-age=300"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71bd1435afa4e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:34 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=v7VUxo02KaBAxTj6FfMiHA0ah/toz+CBqydRBOQwf+4="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:33:01 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Version": [
+         "MS24102502"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

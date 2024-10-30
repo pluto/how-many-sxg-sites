@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-/Jo7qAsOVvIdlTyYIeQfiBzu2EcoTT61PDDeKUM/0LA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "mWTH1L7A0bfspXoBiOH7sL+LzPoF50sgTMsCR4yrHYQ=",
+            "cert-url": "https://www.torcedores.com/cdn-fpw/sxg/cert.pem.msg.mWTH1L7A0bfspXoBiOH7sL-LzPoF50sgTMsCR4yrHYQ",
+            "date": 1730242833,
+            "expires": 1730246613,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDHdJS92Tgrc3p5/IcXAQRenx2CIllwDPjIO6Xhx+FtigIhAKCGutLIx824QtaU7WVx9md+Tll+tjcuNDOBy9U3NsqM",
+            "validity-url": "https://www.torcedores.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.torcedores.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=180"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7202de2de15c8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:00:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Y5v83WDcUfcLYVco0es4s2PwpjiQVCilKYXbnJ8KbhE="
+      ],
+      "Last-Modified": [
+         "Wed, 30 Oct 2024 00:00:24 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

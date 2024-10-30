@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Rw1Mo0joHW0rPQhBpZdfL435P/m6w0LNtxDu/Bj5KRI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "vWOgksXTd4DzdFs6PZ1f4IiHXUI6PDk9l6yPs8BkQKw=",
+            "cert-url": "https://foodrevolution.org/cdn-fpw/sxg/cert.pem.msg.vWOgksXTd4DzdFs6PZ1f4IiHXUI6PDk9l6yPs8BkQKw",
+            "date": 1730241528,
+            "expires": 1730273928,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDTtPitwieRR+mKw9i+6+Ldy7F6oi4iwaqW3+G5NWlgyQIhAN2FpW9Bobeby42EsMwqWIH34Q0+hmGJu2ZmeT7Iu6bh",
+            "validity-url": "https://foodrevolution.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://foodrevolution.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "6968"
+      ],
+      "Cache-Control": [
+         "public, max-age=28800, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da70051156c15ff-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:47 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=PgN/fg4uh5qUEG1C/H+1c9Q4Cpahb9Unoqv2MUlkMGA="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:41:43 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

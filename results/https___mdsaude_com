@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-lpkTf30upUyHLd4gtdWqW+2kVYusb6vluYZrqOuVKZk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "+t8GDMJE4KhCZshiWbDwE3M+H0x0cbRLR3P8ZwbALjI=",
+            "cert-url": "https://www.mdsaude.com/cdn-fpw/sxg/cert.pem.msg.-t8GDMJE4KhCZshiWbDwE3M-H0x0cbRLR3P8ZwbALjI",
+            "date": 1730242043,
+            "expires": 1730260043,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDiFAuScDl85zsb+iwWGBKz4rvfQw6PJnpyOHUvNKIp7AiEAlqdeXQ8Z0xrc3/5rGU22dkjE3xkmW+Ek6CA5FMoN+u4=",
+            "validity-url": "https://www.mdsaude.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.mdsaude.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "115"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70ce534d62314-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:47:23 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=7W/xixXv36Ak50WKuBWVkfHNBrl4tqxvXyOOIsfSUh0="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:39:11 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:39:13 GMT"
+      ],
+      "Link": [
+         "<https://www.mdsaude.com/wp-content/uploads/sindrome-metabolica-imagem.jpg>;rel=preload;as=image,<https://www.mdsaude.com/wp-content/uploads/sindrome-metabolica-imagem.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-h5E+XLnbIHT7Ld9sgTUeIHJdyythz8OkIqPafdq/dcc=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

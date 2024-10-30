@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-kHfmmTRwZGqWUSTYok3Ip9CSAzDvB5PKLEVQCzy7xGs=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "u1xo+IM5fv+DTtmJygOHhzSkrp+m9dYz5ykhI3LlS3k=",
+            "cert-url": "https://serverarmour.com/cdn-fpw/sxg/cert.pem.msg.u1xo-IM5fv-DTtmJygOHhzSkrp-m9dYz5ykhI3LlS3k",
+            "date": 1730242579,
+            "expires": 1730847379,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIGtCkq6pVglbwVR0cauWDqWFN7LNv/SLzsynYtxyRm20AiBux8aT1PNmr3jh/kzGrwTIAOZL8OcWEhsiOjJUYmbHKQ==",
+            "validity-url": "https://serverarmour.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://serverarmour.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da719f38149f9e0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:18 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=aO6HzwLGvqtS/XdwyawrZyWzEv3V65WUvohw94O5McI="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ]
+   }
+}

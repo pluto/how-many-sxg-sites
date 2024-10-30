@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Xp6AtEz7GywWxX6vOzmxPdgOb8E3xwxdXTZbN9sURyQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "5DzCW0RMApxJQo9Co+F/Vd/L4FRu/ae4DFVkVD0LYg8=",
+            "cert-url": "https://hearnow.com/cdn-fpw/sxg/cert.pem.msg.5DzCW0RMApxJQo9Co-F_Vd_L4FRu_ae4DFVkVD0LYg8",
+            "date": 1730241675,
+            "expires": 1730846475,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDz/OMFJSMp/qnaV4kncDXImEVPoWSbeifQYEo+y92gSwIhANf9bMG3NWdnEp0enTdvMaCF64ZkKuVug0iyZk/MJsYL",
+            "validity-url": "https://hearnow.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hearnow.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da703e735b3985e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "base-uri 'self';connect-src 'self' https://*.hearnow-cdn.com site-stats.hearnow.com https://api.spotify.com https://api.found.ee https://api.recurly.com https://stckjs.stackify.com https://rum.stackify.com *.cookieyes.com cdn-cookieyes.com;default-src 'self' https://api.recurly.com;font-src 'self' https://*.hearnow-cdn.com fonts.gstatic.com;form-action 'self' https://auth.cdbaby.com;frame-src 'self' site-stats.hearnow.com mailto: https://open.spotify.com https://accounts.spotify.com https://api.recurly.com;img-src 'self' https://*.hearnow-cdn.com site-stats.hearnow.com data: https://open.scdn.co https://www.gstatic.com cdn-cookieyes.com;media-src 'self' content.cdbaby.com;object-src 'none';script-src 'self' 'nonce-2mHAbZGTfjNIjwZdlXDfe195agToyqtN' https://*.hearnow-cdn.com site-stats.hearnow.com https://found.ee/dmp/pixel.js https://*.adnxs.com https://api.recurly.com https://js.recurly.com https://stckjs.stackify.com cdn-cookieyes.com;style-src 'self' 'unsafe-inline' https://*.hearnow-cdn.com https://api.recurly.com https://js.recurly.com fonts.googleapis.com"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:15 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=rQffVteTnfg9F1gkdZtW6UtYd2lX4JocXnb/gY5Bq1A="
+      ],
+      "Feature-Policy": [
+         "autoplay 'none'; document-domain 'none'; document-write 'none'; font-display-late-swap 'none'; layout-animations 'none'; legacy-image-formats 'none'; oversized-images 'none'; sync-script 'none'; unsized-media 'none'"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Stackifyid": [
+         "V1|7c01d45f-a632-460a-af01-458c879281f5|C66774|CD199|"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

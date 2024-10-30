@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-lzvZCCT3759MhWKl6Kz5xuIlnziK+Bw8SfDjql9cJAA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Zc5MITyvE7XknujYoIkfpUW99LwVaC2/zvltWmAvkTY=",
+            "cert-url": "https://spiget.org/cdn-fpw/sxg/cert.pem.msg.Zc5MITyvE7XknujYoIkfpUW99LwVaC2_zvltWmAvkTY",
+            "date": 1730242674,
+            "expires": 1730847474,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBCT/5tMKIJoViw5ntwVvlv6meK10jnGAmKsY8IibyZ8AiEAuDg90j7+GLEN8jzmNyTXsd8mtNatofR1+lY26GMRIJ8=",
+            "validity-url": "https://spiget.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://spiget.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71c4b306e96ef-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=C1OuE4dgp6y4qwJGRYWITCTrJBeuJjnvQ5+xblFskT0="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Powered-By": [
+         "PHP/7.4.33"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ]
+   }
+}

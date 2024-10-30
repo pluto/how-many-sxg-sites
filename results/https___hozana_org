@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-JKOfonDN0D5dWpkEY2Z9hNY1Rm6fDOKXXXoxp/Sw/bs=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "1pO4WAenEdXo2TCRJQ8nT5GPNgPt6bgouFU0WXff8J0=",
+            "cert-url": "https://hozana.org/cdn-fpw/sxg/cert.pem.msg.1pO4WAenEdXo2TCRJQ8nT5GPNgPt6bgouFU0WXff8J0",
+            "date": 1730241717,
+            "expires": 1730248917,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDj5oGFTylaeng0/Uvxh++qlS0rcaEvLL+FoeqWjTjKOwIgK2pbeMFFbQr2tuOcBEPw2YnUGWYPCMkviZLu0BJIFoA=",
+            "validity-url": "https://hozana.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hozana.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Access-Control-Allow-Headers": [
+         "X-Auth-Token, Access-Control-Allow-Headers, Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET,HEAD,OPTIONS,POST,PUT,DELETE,PATCH"
+      ],
+      "Access-Control-Allow-Origin": [
+         "https://hozana.org"
+      ],
+      "Cache-Control": [
+         "s-maxage=3600, stale-while-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da704f026a61686-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:57 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=w1p6WhSxlMybNb1nm9KW8LuOxEeEODVe7nsfdsiiHEE="
+      ],
+      "Link": [
+         "<https://hozana.org/_next/static/css/070634deb5ad12ca.css>;rel=preload;as=style,<https://hozana.org/_next/static/css/070634deb5ad12ca.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-vOpIGhOVwX/Hq5xGnbT1o3Ewi3jWdxkchiKFgK94aAc=\",<https://hozana.org/_next/static/css/b097076a0128975f.css>;rel=preload;as=style,<https://hozana.org/_next/static/css/b097076a0128975f.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-NUgxcpV+GgC+7+1V+IVSwOpxIdHYuOrxicfD614PvfU=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,X-is-bot"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Is-Bot": [
+         "1"
+      ],
+      "X-Nextjs-Cache": [
+         "HIT"
+      ]
+   }
+}

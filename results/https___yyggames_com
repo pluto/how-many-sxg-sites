@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-RP/cKSfziA5660gfo+RXFX0Ll9KYRPoNV5lkFvP6wqw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "AzJA6GnwA5MKdHT4/4Ay0nUaDascE9K9DRRLyGt96dg=",
+            "cert-url": "https://yyggames.com/cdn-fpw/sxg/cert.pem.msg.AzJA6GnwA5MKdHT4_4Ay0nUaDascE9K9DRRLyGt96dg",
+            "date": 1730243097,
+            "expires": 1730847897,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGJkv+oXlwuLqnI4N2RLF6RLf2tnswfpqbhgv1MbA67QAiEAsqGA1EmFyZq7sKww2EOEP2so1BHBvDvAg70EIet2wHE=",
+            "validity-url": "https://yyggames.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://yyggames.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da726a295c0229f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:57 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=EfkvZU1wQYvDKiDJEAm6c8sC4km+ID05tLSS1uRWlYU="
+      ],
+      "Last-Modified": [
+         "Sat, 23 Sep 2023 06:36:59 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

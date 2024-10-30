@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-j4PoWpwT4MX934JH3+f54m8VY++d8m/2X63UubH3cQ8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "zxcge3/OptGM3cT7+oLJ25gmrlePOV/0q+yyt3hwxWI=",
+            "cert-url": "https://www.ufreegames.com/cdn-fpw/sxg/cert.pem.msg.zxcge3_OptGM3cT7-oLJ25gmrlePOV_0q-yyt3hwxWI",
+            "date": 1730242885,
+            "expires": 1730318485,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCZjWM1LK2rZWW2JZsLeJDJ5+oDdtiSNvE/i5BfbbEIFQIgHkgH1S4M3xdXsljW+7TGtC8OoJhKWVpqJ5v63xX8BBA=",
+            "validity-url": "https://www.ufreegames.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.ufreegames.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "Origin, X-Requested-With, Content-Type, Accept, Authorization"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "28904"
+      ],
+      "Cache-Control": [
+         "public, max-age=72000"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Placement": [
+         "local-SJC"
+      ],
+      "Cf-Ray": [
+         "8da72173d41afab2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:25 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=lyW9QcZK1TAcZ5GLGlBmoSZDk8hbnzFVt8HhePxgNqc="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 20:01:25 GMT"
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 20:00:28 GMT"
+      ],
+      "S-Cache": [
+         "HIT"
+      ],
+      "S-Device": [
+         "0"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "User-Agent,X-Forwarded-Proto,Accept-Encoding"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

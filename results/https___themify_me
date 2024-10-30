@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-jDXUk/zMWIawJaDXT5bheqwiljnbYNf0ZbZ9U3XjedY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "O1lsVXrBJ1VoP/FJP/ssNtcC3AixvSklRb+MHdzGpws=",
+            "cert-url": "https://themify.me/cdn-fpw/sxg/cert.pem.msg.O1lsVXrBJ1VoP_FJP_ssNtcC3AixvSklRb-MHdzGpws",
+            "date": 1730242790,
+            "expires": 1730257190,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFwzMCliE1rKE2qs73q43cpb8nZozW6sBUed5E3CgIP/AiEAv4wP4kVDGgxxLOcoDGb3ZcYKMcWpLqTIa2XH2FX1+ls=",
+            "validity-url": "https://themify.me/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://themify.me/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "69"
+      ],
+      "Cache-Control": [
+         "max-age=10800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71f2666057aca-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:50 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=E+ZYRUKIXhVLQBwLd9CGRCq3lT+fu5FE/HpywVXqp9U="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 00:07:56 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:57:56 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

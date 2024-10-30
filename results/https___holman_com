@@ -1,0 +1,103 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-NQI/PVwaOARoyYWkdJ+JUv5an6g+UErc7G8Jk4BKsB0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "pr7HNT+e1/7NPXGqgMX6mKmWL7tjFoWsxAIjSd5LnNQ=",
+            "cert-url": "https://www.holman.com/cdn-fpw/sxg/cert.pem.msg.pr7HNT-e1_7NPXGqgMX6mKmWL7tjFoWsxAIjSd5LnNQ",
+            "date": 1730241699,
+            "expires": 1730846499,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCTz4G3r2ci80/lADas+E7iQT8V8RCpqHg8N+lidjJf6AIhALi6lYX05NLoRMXTe6q4Q2BefIPHdTvS92y1vmdidh5S",
+            "validity-url": "https://www.holman.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.holman.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Access-Control-Allow-Headers": [
+         "Authorization, Content-Type, x-xsrf-token, x_csrftoken, Cache-Control, X-Requested-With"
+      ],
+      "Access-Control-Allow-Methods": [
+         "POST, GET, PUT, OPTIONS, PATCH, DELETE"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cache-Control": [
+         "s-maxage=31536000, max-age=60, max-age=172800"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7047d20cc1736-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors https://*.holman.com"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:39 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=V9CCXaZDAvU2fWAWqG3QJfS5FRoZB6wc/BE8uJmK2pw="
+      ],
+      "Expires": [
+         "Thu, 31 Oct 2024 23:41:38 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:41:39 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Nxaccel": [
+         "BYPASS"
+      ],
+      "X-Content-Security-Policy": [
+         "frame-ancestors https://*.holman.com"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN, SAMEORIGIN"
+      ],
+      "X-Wp-Cf-Super-Cache": [
+         "DISABLED"
+      ],
+      "X-Wp-Cf-Super-Cache-Active": [
+         "1"
+      ],
+      "X-Wp-Cf-Super-Cache-Cache-Control": [
+         "s-maxage=31536000, max-age=60"
+      ],
+      "X-Wp-Cf-Super-Cache-Cookies-Bypass": [
+         "swfpc-feature-not-enabled"
+      ]
+   }
+}

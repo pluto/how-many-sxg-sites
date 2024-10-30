@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-D5QP4JusbS1701j3S1Z9duY6fSz8Wd6pBuSdcOKAAhU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "edEqjppXXSK9ADLcSMvLRm9bkZB9Qx1e6cXcYi5QGOA=",
+            "cert-url": "https://yeps.io/cdn-fpw/sxg/cert.pem.msg.edEqjppXXSK9ADLcSMvLRm9bkZB9Qx1e6cXcYi5QGOA",
+            "date": 1730243079,
+            "expires": 1730847879,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEoH99KL7d/i0W+T6YBSV+8NtcqsA60pH4EnK/9EDvQwAiEA0N3l1TUl0OXsWgFHtkXNtTgdRv/QJ0sWR4SXYQ5QeFM=",
+            "validity-url": "https://yeps.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://yeps.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7262fa663d001-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Length": [
+         "8010"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:39 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=pKY4hHkilLq8FUimopO1PlPWdnUDZU076v7O68ghY50="
+      ],
+      "Etag": [
+         "\"5cd2a8176a636da4c43feea179b5d38a\""
+      ],
+      "Last-Modified": [
+         "Tue, 13 Apr 2021 00:31:19 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Amz-Id-2": [
+         "QHbrFA3Av+3REyd/nJDSFaGfjquIh3/qCcE3ZmuR1Pkq1VfNE4cvTJeXaKmrFoQ7i0fr48M3Yn0="
+      ],
+      "X-Amz-Request-Id": [
+         "32AKNC5Z9CWXFCAS"
+      ]
+   }
+}

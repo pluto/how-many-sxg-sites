@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-5NYB5RXrY8FrcH9Ilw8OoSOBjwFC4Gcd8DFFpHzDiRI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "pSMk2y61So4i5/4tYuctQ8dTFQ4syqmVfSqfS+qVXGY=",
+            "cert-url": "https://www.yad.com/cdn-fpw/sxg/cert.pem.msg.pSMk2y61So4i5_4tYuctQ8dTFQ4syqmVfSqfS-qVXGY",
+            "date": 1730243072,
+            "expires": 1730847872,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCRE6W2ApCh2Fs3t//c7Fd7ud3if0WKXkGZGsT9EC5pmAIgVTZvPZhTkcZaCJxdPETKvYoSkpWNvf01EpGngB/hABQ=",
+            "validity-url": "https://www.yad.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.yad.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7260972d6cf05-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:32 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=SzihYJOMPVDe7RGmQN7c8KqLQAZ+hrRvpYBRJbuouNY="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

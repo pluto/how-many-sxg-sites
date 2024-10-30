@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-dTH2DncYPQkMVBaRBiG837G4NyjaG9ZjMpFD4n1nXOg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "fqojMnXmXlVSxzxYzvaj2uAq/XuXUChPHPmJCSqAEMU=",
+            "cert-url": "https://hunter.zopi.io/cdn-fpw/sxg/cert.pem.msg.fqojMnXmXlVSxzxYzvaj2uAq_XuXUChPHPmJCSqAEMU",
+            "date": 1730240889,
+            "expires": 1730845689,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIDRLOMXoz8nANzenxW/Q90In4xFASnxk+G+PdQ+0ALDJAiBNbYal2EyB3FP4VsFEmHkxoCa/B33F2yOkS2pxWd58tw==",
+            "validity-url": "https://hunter.zopi.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hunter.zopi.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Access-Control-Allow-Headers": [
+         "Authorization, Origin, X-Requested-With, Content-Type, Accept, X-Permission-Checksum"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, OPTIONS, PUT, PATCH, DELETE"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Access-Control-Max-Age": [
+         "3600"
+      ],
+      "Cf-Cache-Status": [
+         "REVALIDATED"
+      ],
+      "Cf-Ray": [
+         "8da6f0bb377c6435-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:09 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=4H2DKcK3PXkXB/cO/A5X1Hsl4pkcekFfqGbQrsuuUOg="
+      ],
+      "Last-Modified": [
+         "Tue, 30 Jul 2024 09:33:31 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

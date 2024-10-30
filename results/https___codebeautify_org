@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-OKscR0MsK7+83psp6GsQTKwn7wk4u/IjDaxzOjHeiQc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "xGGbHs+nCtIFBYeEftc06b470leJikKo9j8HhIVJRcg=",
+            "cert-url": "https://codebeautify.org/cdn-fpw/sxg/cert.pem.msg.xGGbHs-nCtIFBYeEftc06b470leJikKo9j8HhIVJRcg",
+            "date": 1730241210,
+            "expires": 1730846010,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDNypjKzyN9/mHKkqN9b1RwdLjgK1FY/kqpWrQbfskTPAIgKcOaRrC87q0g6ToPI8fzTDbs6d3v3jRArX6fFx8PzY0=",
+            "validity-url": "https://codebeautify.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://codebeautify.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "202599"
+      ],
+      "Cache-Control": [
+         "public, max-age=691200"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f88f467c2542-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:33:30 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=uzSpA8EnzyTiTmRq0n2uRNZE+cj4DkvmLrVHvLUfLmk="
+      ],
+      "Expires": [
+         "Sun, 03 Nov 2024 15:12:02 GMT"
+      ],
+      "Last-Modified": [
+         "Sun, 27 Oct 2024 15:12:02 GMT"
+      ],
+      "Pragma": [
+         "public"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Authorization"
+      ]
+   }
+}

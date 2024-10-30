@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-SfThw1lYXJh4amIhawb+UgtAjqBotTzUdcELIAM0JEY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "GqZB36t+pApzmBZG18vQaKvBeeIC77RDS39znxzIgbU=",
+            "cert-url": "https://www.avrotros.nl/cdn-fpw/sxg/cert.pem.msg.GqZB36t-pApzmBZG18vQaKvBeeIC77RDS39znxzIgbU",
+            "date": 1730240984,
+            "expires": 1730845784,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEZ7XRipINTh9vxztIZ7exjWMYtJe0Owm9FgLAn9KuksAiAjw5p9o7eC24yiKcPtT/CR0L8daQ/Xv9TJnV3wY36Qhw==",
+            "validity-url": "https://www.avrotros.nl/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.avrotros.nl/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ],
+      "Cache-Control": [
+         "public max-age=300 s-maxage=300, stale-while-revalidate=30"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Ray": [
+         "8da6f303b634ce74-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self' undefined https://nmonpoendpoint.2cnt.net https://apis.dev.avrotros.io https://apis.avrotros.io https://*.run.app/ https://*.avrotros.io https://*.avrotros.nl https://*.avrotros.site ws://localhost:* ws://0.0.0.0:* http://localhost:* http://0.0.0.0:* blob: undefined https://nmonpoendpoint.2cnt.net https://apis.dev.avrotros.io https://apis.avrotros.io https://*.run.app/ https://*.avrotros.io https://*.avrotros.nl https://*.avrotros.site ws://localhost:* ws://0.0.0.0:* http://localhost:* http://0.0.0.0:* https://*.googleusercontent.com https://*.google-analytics.com https://www.googletagmanager.com https://adscience-nocookie.nl https://stats.g.doubleclick.net https://*.google.com https://*.npo.nl https://*.fontawesome.com https://*.gstatic.com https://*.facebook.com https://*.facebook.net https://*.twitter.com https://*.youtube.com https://*.vimeo.com https://*.vimeocdn.com/ https://*.instagram.com https://*.ster.nl https://*.optoutadvertising.com https://www.riddle.com https://*.akamaized.net; font-src * data: https://fonts.gstatic.com https://*.fontawesome.com; img-src * data: 'report-sample'; script-src data: 'unsafe-inline' 'unsafe-eval' undefined https://nmonpoendpoint.2cnt.net https://apis.dev.avrotros.io https://apis.avrotros.io https://*.run.app/ https://*.avrotros.io https://*.avrotros.nl https://*.avrotros.site ws://localhost:* ws://0.0.0.0:* http://localhost:* http://0.0.0.0:* https://*.googleusercontent.com https://*.google-analytics.com https://www.googletagmanager.com https://adscience-nocookie.nl https://stats.g.doubleclick.net https://*.google.com https://*.npo.nl https://*.npo-data.nl https://tag.aticdn.net https://nmonpoendpoint.2cnt.net https://kmnl.tns-nipo.com https://*.facebook.com https://*.facebook.net https://*.twitter.com https://*.youtube.com https://*.instagram.com https://*.ster.nl https://*.optoutadvertising.com https://*.ampproject.net https://cdn.ampproject.org https://polyfill.io https://cdn.jotfor.ms https://*.fontawesome.com https://*.gstatic.com https://www.riddle.com 'report-sample'; style-src * 'unsafe-inline' 'report-sample'; media-src * blob: undefined https://nmonpoendpoint.2cnt.net https://apis.dev.avrotros.io https://apis.avrotros.io https://*.run.app/ https://*.avrotros.io https://*.avrotros.nl https://*.avrotros.site ws://localhost:* ws://0.0.0.0:* http://localhost:* http://0.0.0.0:*; frame-src *; object-src https://*.spotify.com https://media-service.vara.nl https://media.vara.nl https://player.vimeo.com https://w.soundcloud.com https://*.powned.nl https://radiobox2.omroep.nl https://icij.org https://projects.icij.org https://medicaldevices.icij.org https://medicaldevices-staging.cloud.icij.org https://*.tweedekamer.nl https://players.brightcove.net https://localfocus2.appspot.com https://localfocuswidgets.net https://*.calconic.com https://public.flourish.studio https://flo.uri.sh; base-uri 'self'; form-action 'self' 'report-sample'; manifest-src 'self' https://accounts.google.com; worker-src 'self'"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:29:44 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=364vmgJFwsBy4bAj64oEgy8QgRBRj6avTgS7oH26mZk="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:29:44 GMT"
+      ],
+      "Link": [
+         "<https://www.avrotros.nl/_nuxt/IconLoader.ac85175b.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/IconLoader.ac85175b.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-90JssDDxarHOLXH2P9O89vWeCCpsTTPm7iyP9sz6l1U=\",<https://www.avrotros.nl/_nuxt/index.d65ad647.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/index.d65ad647.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-Gi02KlUCN6wJNGqYfNSPiGHZ6gOE2HtXWcc31s/wODw=\",<https://www.avrotros.nl/_nuxt/navigation.99b551df.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/navigation.99b551df.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-wfaeGrb8ROxmgqjxOMLrkDIK9RhimWbopm+ObNoJ4Fs=\",<https://www.avrotros.nl/_nuxt/LayoutContainerFull.8a65dfa3.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/LayoutContainerFull.8a65dfa3.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-/okOiESHiXeJiRxY4Mq4/s0goIRat3g/+kUf/VSU0As=\",<https://www.avrotros.nl/_nuxt/entry.0e07ad4c.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/entry.0e07ad4c.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-vt5Af7hidyI3ml6MFxCMnqW+OH/sN0kEUeBmsNmEtE8=\",<https://www.avrotros.nl/_nuxt/ImageFocal.ed6aba1c.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/ImageFocal.ed6aba1c.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-xXiLs1Z20Aee7WWc/Zcz24yHyz4+96bxy72uwPnHOIw=\",<https://www.avrotros.nl/_nuxt/swiper.c68ce557.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/swiper.c68ce557.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-BXhSDUCKZ2KGq+WlAgvIA/AjyEGtM6WcAqPJ6BLYFpo=\",<https://www.avrotros.nl/_nuxt/LoadingIndicator.869a699c.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/LoadingIndicator.869a699c.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-fuhaZVOqOSNIyRCElgPZG318KSdB8qU6pbbmzSk1ij8=\",<https://www.avrotros.nl/_nuxt/SwiperControls.b0872816.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/SwiperControls.b0872816.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-AhzYntG4Sl2H8B76sS0/0j4ss++o/Yn5af7b9M1wYmY=\",<https://www.avrotros.nl/_nuxt/Footer.e1f9eb22.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/Footer.e1f9eb22.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-LdODONVtVz/TxgV/gQJOUbNzGeWOaD0tQbfFrNBWqfA=\",<https://www.avrotros.nl/_nuxt/StreamingVideo.b6832e75.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/StreamingVideo.b6832e75.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-YEzWcbATTczbrAyZaeFZSsxP9O18AwQrJecEDV4APcg=\",<https://www.avrotros.nl/_nuxt/HeadingResizing.e195b20b.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/HeadingResizing.e195b20b.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-35nZpON6BCXUWEsMonH3rfmG39G1XZxtUPI0T7fBomA=\",<https://www.avrotros.nl/_nuxt/default.6a844834.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/default.6a844834.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-LR2dAyIshuNC0O8kwt476r2t6/tzc/A/dIaACxaHQVU=\",<https://www.avrotros.nl/_nuxt/ReCaptchaForm.3c897d62.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/ReCaptchaForm.3c897d62.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-A60xgXFXXjqTIT8D906GVZT5KNQbUg6+B9d3lQKFDnI=\",<https://www.avrotros.nl/_nuxt/useGetGridData.66cb70bb.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/useGetGridData.66cb70bb.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-in9yH2+IorD/YDhG8/G7lgzQ8CgeXOpL9da6XwFBsuU=\",<https://www.avrotros.nl/_nuxt/AnimatedTitle.b3cb33d3.css>;rel=preload;as=style,<https://www.avrotros.nl/_nuxt/AnimatedTitle.b3cb33d3.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-UmEduIgoItleLdPYIc5MBFOGq/D3ToxRUu4etFnXXyg=\""
+      ],
+      "Permissions-Policy": [
+         "microphone=(), geolocation=(), autoplay=(self)"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 google"
+      ],
+      "X-Cloud-Trace-Context": [
+         "1c255e35bdd7ecb7c0ffeb34aeb844c7"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1;mode=block"
+      ]
+   }
+}

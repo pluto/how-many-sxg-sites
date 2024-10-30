@@ -1,0 +1,91 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-sVuVFvqzXGLEGWl4PxPJ+ZS8/UEo8xoepvbt1G4P2lw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ONnWFvX+BWZDGJdu205f1Mxh4Zg6oHhrGJIS7oeeyKI=",
+            "cert-url": "https://fashionunited.com/cdn-fpw/sxg/cert.pem.msg.ONnWFvX-BWZDGJdu205f1Mxh4Zg6oHhrGJIS7oeeyKI",
+            "date": 1730241486,
+            "expires": 1730245686,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGXeaJghxpQ0z6Ax2LkD9LDbER0oNYAlhhZM6oQZGoJlAiEAubZFHoZb4HjcUpMkyH6+fVlrcwcjGZlJWqdQvecb5Xk=",
+            "validity-url": "https://fashionunited.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://fashionunited.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "452"
+      ],
+      "Cache-Control": [
+         "max-age=600, stale-while-revalidate=3600, stale-if-error=259200"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6ff50a70867bb-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "block-all-mixed-content; object-src 'none'; base-uri 'none'; frame-ancestors 'self';"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:06 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=VSXyVVa/Rfjop4UvHcQ1XW0u6fUqjhPK/sr+JH7vBJs="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:30:06 GMT"
+      ],
+      "Link": [
+         "<https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=28,quality=10,width=42/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg>;as=image;rel=preload,<https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=28,quality=10,width=42/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg>;rel=allowed-alt-sxg;header-integrity=\"sha256-Fq6J6ic8Z0jJ4jvAExIKRgq04pGcjBWk6Wx71zyP3/Q=\",<https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=223,quality=70,width=335/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg>;as=image;imagesrcset=\"https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=223,quality=70,width=335/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg 335w, https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=335,quality=70,width=502/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg 502w, https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=380,quality=70,width=570/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg 570w, https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=414,quality=70,width=621/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg 621w, https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=447,quality=70,width=670/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg 670w, https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=480,quality=70,width=720/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg 720w, https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=828,quality=70,width=1242/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg 1242w\";rel=preload,<https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=223,quality=70,width=335/https://fashionunited.com/img/upload/2023/11/02/corocs-8rmm2ka3-2023-02-17-kf9rmk9x-2023-11-02.jpeg>;rel=allowed-alt-sxg;header-integrity=\"sha256-4qCY53JsnuR/QWzD/gwBch66g/qWigydRuEMJhsT7yE=\",<https://fashionunited.com/_next/static/lang/en-US.json>;rel=preload;crossorigin=anonymous;as=fetch,<https://fashionunited.com/_next/static/lang/en-US.json>;rel=allowed-alt-sxg;header-integrity=\"sha256-z/TEmt1xsm20/ffMeteugA9xDzTVovDlKmVf3Tdpw+g=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Key": [
+         "pwa-ssr"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Options": [
+         "nosniff"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-J-Proxy": [
+         "fashionunited.com"
+      ],
+      "X-J-Proxy-Hostname": [
+         "proxy-production-88ffc48d7-rjsrf"
+      ],
+      "X-J-Proxy-Servername": [
+         "fashionunited.com"
+      ],
+      "X-Powered-By": [
+         "Next.js"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

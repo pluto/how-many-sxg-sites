@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-58x9sibT5gkSjw9+lWowZ25VaHSlfNQwCyRkDGO+kko=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "bTraHvPrulOevg5oYPbbUffJQqWW8u9ZHf/g3DR6RRs=",
+            "cert-url": "https://stivisto.com/cdn-fpw/sxg/cert.pem.msg.bTraHvPrulOevg5oYPbbUffJQqWW8u9ZHf_g3DR6RRs",
+            "date": 1730242701,
+            "expires": 1730847501,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCnFqD+aSniWQTbtkuw9+AKxuqFnvMLnxE7Hd4rK7eqLQIhAKtJmZn70V6MSLMBJRvR0VJgf9p5LsGW3JZhnTDHXfz2",
+            "validity-url": "https://stivisto.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://stivisto.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71cf293742386-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:58:21 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=dCFGbqP4S1Ut8pBfaZUOT6Ry9AmqQFO50Ku9+eVF3HY="
+      ],
+      "Last-Modified": [
+         "Thu, 22 Dec 2022 01:38:16 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

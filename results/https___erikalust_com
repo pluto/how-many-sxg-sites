@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-E+5yNhu1aP9mOQ9fcvNn7dGA0hvpyntqv0eUGqtIe2M=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "7s2dsahhkv0bMppr0m4N4FhJveRejtKuftcHI92N2Ww=",
+            "cert-url": "https://erikalust.com/cdn-fpw/sxg/cert.pem.msg.7s2dsahhkv0bMppr0m4N4FhJveRejtKuftcHI92N2Ww",
+            "date": 1730241447,
+            "expires": 1730288247,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQD6Ck3ROZ/0K/jybCtZRn1+JaG/qIS3OsFqrnFJ9K1+3QIgaXFk3IXker5izvzW7voNr1w6jcU8V603gm40/VAvkxk=",
+            "validity-url": "https://erikalust.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://erikalust.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "13685"
+      ],
+      "Cache-Control": [
+         "max-age=43200,public"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fe5b66cbcf2d-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:37:27 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=1og6GSieZgUUnJ7xdVq4bJE/fmM2mnwK9/GHlE52eyQ="
+      ],
+      "Last-Modified": [
+         "Thu, 24 Oct 2024 10:47:28 GMT"
+      ],
+      "Link": [
+         "<https://erikalust.com/_nuxt/static/1729766338/payload.js>;rel=preload;as=script,<https://erikalust.com/_nuxt/static/1729766338/payload.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-BPtzxdlJUcVKtdNWJc3a7Ho0emNQExKCT+qG1QShHMY=\",<https://erikalust.com/_nuxt/static/1729766338/manifest.js>;rel=preload;as=script,<https://erikalust.com/_nuxt/static/1729766338/manifest.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-38a55iKugzxMUGK3AFVnhx+xg00eFUxHSpJvdWFqqs0=\",<https://erikalust.com/_nuxt/static/1729766338/state.js>;rel=preload;as=script,<https://erikalust.com/_nuxt/static/1729766338/state.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-RgAk5CFl5k4kgaeDxA+DnIZGoP25yv4CM3NLz8ggfGQ=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 346c9cdab7d3c4665c01ef09ca82f70c.cloudfront.net (CloudFront)"
+      ],
+      "X-Amz-Cf-Id": [
+         "LgJHxfLPESat4VgvPupXdRVwbMC2E_oCr2dwvN5EJ6ufoB-J3k4xGw=="
+      ],
+      "X-Amz-Cf-Pop": [
+         "LAX3-C3"
+      ],
+      "X-Amz-Server-Side-Encryption": [
+         "AES256"
+      ],
+      "X-Amz-Version-Id": [
+         "VO9QI7rg44SGubJ02Xc9MgKMQ7jY15OL"
+      ],
+      "X-Cache": [
+         "Hit from cloudfront"
+      ]
+   }
+}

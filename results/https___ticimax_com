@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-7Ph+YMhglAxuGp63AT71xVQHyFSMo8ETXYRx5QbktjU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "vF/c8Ri8QTtZUtxmtJ84+nC+eZo8vRqZJHi8wCnoqNM=",
+            "cert-url": "https://www.ticimax.com/cdn-fpw/sxg/cert.pem.msg.vF_c8Ri8QTtZUtxmtJ84-nC-eZo8vRqZJHi8wCnoqNM",
+            "date": 1730242805,
+            "expires": 1730250005,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCabQi90G0qNg76OjfzUN6qara09UaqM59nK7FF2gZbcAIhANNVpIgnYNA2l1MTOX6Tj4Qq5bYARLah810jSSniWfEX",
+            "validity-url": "https://www.ticimax.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.ticimax.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71f7bd132d03d-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "tr"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:00:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=d4jKb7hFOJPlBn6fSCWXgNutAPom+7op9iRbOc3BwiM="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 01:00:05 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:55:03 GMT"
+      ],
+      "Link": [
+         "<https://www.ticimax.com/js/jquery-3.7.1.min.js>;rel=preload;as=script,<https://www.ticimax.com/js/jquery-3.7.1.min.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-pUbZw+q0iuKrRLzM1EAB5ikBoaEaT4r8xjW20RxicZk=\",<https://www.ticimax.com/bundle/css/bundle.min.css?v=tcx6C-HqaHK_eijVsgAfvQ_Uih4>;rel=preload;as=style,<https://www.ticimax.com/bundle/css/bundle.min.css?v=tcx6C-HqaHK_eijVsgAfvQ_Uih4>;rel=allowed-alt-sxg;header-integrity=\"sha256-4ArjrpRzmhRO39tzz8lIXaErITM+Ry+Qwg2iXKxfXx0=\",<https://www.ticimax.com/js/bundle-tr.min.js?v=qqerDJc59ajV7t-mJeos8jKpK08>;rel=preload;as=script,<https://www.ticimax.com/js/bundle-tr.min.js?v=qqerDJc59ajV7t-mJeos8jKpK08>;rel=allowed-alt-sxg;header-integrity=\"sha256-cMfPjRvR0cTvQsLG1zuOwpmp+3qX0GRbfGsxdSs17iw=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Ticimax-Cache": [
+         "cache"
+      ],
+      "X-Powered-By": [
+         "Ticimax"
+      ]
+   }
+}

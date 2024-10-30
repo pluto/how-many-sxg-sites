@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-axfT3Yw2UOeoFCnQA/0+MlAOy/V/Mn7XBoFH47qJtlA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "7e9hDghQz9BiZhf21uwx0kKdAMEtx4NSiplDeDzjNE8=",
+            "cert-url": "https://anyip.io/cdn-fpw/sxg/cert.pem.msg.7e9hDghQz9BiZhf21uwx0kKdAMEtx4NSiplDeDzjNE8",
+            "date": 1730240924,
+            "expires": 1730330924,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIAU0LhenAvwB2r3bTH+5kHMHoxd9Rchkze0WBRPX/vzxAiBoTfkZbwDm4vsgzuAzLPQPH4LlqG5c/Xqso9SXUlBfWA==",
+            "validity-url": "https://anyip.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://anyip.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "6940"
+      ],
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f1929593fada-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:43 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=nt4aOHIaOO9a8kQSOTBWEvJ80VfrEp0ILOPfwwX+Xr4="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:17:24 GMT"
+      ],
+      "Link": [
+         "<https://anyip.io/cdn-prod-jsdeliver/gh/anyip-io/marketing-js-assets@2144feec5931b0907bb0b8a6c9b246ecc9242846/dist/index.js>;rel=preload;as=script,<https://anyip.io/cdn-prod-jsdeliver/gh/anyip-io/marketing-js-assets@2144feec5931b0907bb0b8a6c9b246ecc9242846/dist/index.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-YZWNLhIUzw/qSPAODkmjlSG1IVo8UIhr1SXqRxorOEM=\",<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/6534b07e5190e82a7e0c28ab_Inter-SemiBold-subset.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/6534b07e5190e82a7e0c28ab_Inter-SemiBold-subset.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-rVolIjzO3XaoQVQUSRLCCYeqfs6kM4PKCtmSRliZNyc=\",<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/6534b093515cf733604c6cd3_Inter-Regular-subset.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/6534b093515cf733604c6cd3_Inter-Regular-subset.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-R2/xJUFfdxUDxBGitdOLffR6s3N+VnPPB/x5LCckJRE=\",<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/css/anyip.webflow.45d323767.min.css>;rel=preload;as=style,<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/css/anyip.webflow.45d323767.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-NJCyzi64THAtyDS/dvdFbFeMw7VhOXX9VXANXzGBd+Q=\",<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/6534b0aa5661f381b613d998_Inter-Medium-subset.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/6534b0aa5661f381b613d998_Inter-Medium-subset.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-n50xSwvsG3/ytfUttUV94gKAergY4+4R2muJau0gaZU=\",<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/js/webflow.db8acf57a.js>;rel=preload;as=script,<https://anyip.io/cdn-prod-webflow/64c7ccf18389fcc8fd4af160/js/webflow.db8acf57a.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-sR5stBQhATCUcb1t/6VFx2Y/axI/0FRa70mPMw8jUjo=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "x-wf-forwarded-proto, Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Cache-Hits": [
+         "0"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "25bd2d20-0f17-47c0-becf-cddd1b6178be"
+      ],
+      "X-Served-By": [
+         "cache-pdk-kfty2130058-PDK"
+      ],
+      "X-Timer": [
+         "S1730236644.451978,VS0,VE1"
+      ]
+   }
+}

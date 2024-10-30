@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-yio4fkFWqO9u2l21hDOXZ4ZDATrumC+78NvQ6YRhdTc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Bvrk0nR1Blz1ZIqsZMYsrKKb0DwI63aAwpU3Za9dDnU=",
+            "cert-url": "https://www.dxlive.com/cdn-fpw/sxg/cert.pem.msg.Bvrk0nR1Blz1ZIqsZMYsrKKb0DwI63aAwpU3Za9dDnU",
+            "date": 1730241369,
+            "expires": 1730846169,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQD9KX9YBU9NqhBsLX0vAgPifap+ZBs/iURcxhffz5vdCgIhANJ4oe9apB6EVl8kBhfQAenit2xRxbI0fxJvd3FOk6NL",
+            "validity-url": "https://www.dxlive.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.dxlive.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fc6fc1d667e2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:36:08 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=qtYrzXyEEEqe25xkGJHt8N8Ucp1TaOuHeUW/2cPQVb8="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:35:05 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Serverid": [
+         "web216.vc"
+      ]
+   }
+}

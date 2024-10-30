@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-1LkOFJYgM5LKghNyedPy53rrhKMepBN0oiRjZBTpDOY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "rd5fi6ceFoIMw/bzXwsTi8AZQUMCK6OGfHwxHISLgjY=",
+            "cert-url": "https://www.shiply.com/cdn-fpw/sxg/cert.pem.msg.rd5fi6ceFoIMw_bzXwsTi8AZQUMCK6OGfHwxHISLgjY",
+            "date": 1730242604,
+            "expires": 1730847404,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFe7ZU91JAyqFfTssXBggn6edu+hzWNWwKteLo0kjnMcAiEAjy9ba2xK/dCIorRnALuMBM97cZB52cDfsU2WKbBFpFM=",
+            "validity-url": "https://www.shiply.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.shiply.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3-23=\":443\"; ma=86400"
+      ],
+      "Cf-Cache-Status": [
+         "BYPASS"
+      ],
+      "Cf-Ray": [
+         "8da71a964215cf1b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:44 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=bo1Iv499tmhqK0Py44PrtmlsBX0FWcowKn6vstn8eV0="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

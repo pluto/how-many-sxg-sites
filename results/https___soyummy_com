@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-vxnGyy6TzhSPawpVJDu8cngjWcNyFISdE7QSRDOnW3k=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "CAMJYWCn3jijpFsANI7UM8EaK+me6RJGcDBJXdd1k7Y=",
+            "cert-url": "https://soyummy.com/cdn-fpw/sxg/cert.pem.msg.CAMJYWCn3jijpFsANI7UM8EaK-me6RJGcDBJXdd1k7Y",
+            "date": 1730242665,
+            "expires": 1730260665,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQD+b9siOwsEcB9yOP+WRs4vtOJAaKtRprCJxzmmEpvC3wIhAPNp3Qj2Z+cohM44N+UE85hZr7rkEcuipByLURW7DMqR",
+            "validity-url": "https://soyummy.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://soyummy.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "18367"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71c1792ed15df-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:45 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=0iWK7THGpWM3ceVW4IvW1Sj4yAjjAScQ0uijKPTq50k="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 18:51:38 GMT"
+      ],
+      "Link": [
+         "<https://soyummy.com/wp-content/plugins/rate-my-post/public/css/fonts/ratemypost.ttf>;rel=preload;as=font;crossorigin=anonymous,<https://soyummy.com/wp-content/plugins/rate-my-post/public/css/fonts/ratemypost.ttf>;rel=allowed-alt-sxg;header-integrity=\"sha256-aJvOk9WayVlq6jv7K4G1NVc4MqdBFs8Cwv/4eZMGTGA=\",<https://soyummy.com/wp-content/plugins/rate-my-post/public/css/fonts/ratemypost.ttf>;rel=preload;as=font;crossorigin=anonymous,<https://soyummy.com/wp-content/plugins/rate-my-post/public/css/fonts/ratemypost.ttf>;rel=allowed-alt-sxg;header-integrity=\"sha256-aJvOk9WayVlq6jv7K4G1NVc4MqdBFs8Cwv/4eZMGTGA=\",<https://soyummy.com/wp-content/uploads/2024/06/MXCSOY187_9x16_recipe_06-309x550.jpg>;rel=preload;as=image,<https://soyummy.com/wp-content/uploads/2024/06/MXCSOY187_9x16_recipe_06-309x550.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-bgde9Lf2AjVXwPYPD+BeHGsi2RxcC/Q/AQxR9zs7C4c=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding"
+      ],
+      "X-Pass-Why": [
+         "custom-path"
+      ],
+      "X-Powered-By": [
+         "WP Engine"
+      ]
+   }
+}

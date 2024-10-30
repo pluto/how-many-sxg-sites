@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Ef7/HRNOgjVlk1cz+LDDF2mJAur3q/2Ao72a2rWhcRw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "1WR5FBC+Xan6GVdzHRCD77i5lw2bI6FS71dm5jOVH5E=",
+            "cert-url": "https://dubbingai.io/cdn-fpw/sxg/cert.pem.msg.1WR5FBC-Xan6GVdzHRCD77i5lw2bI6FS71dm5jOVH5E",
+            "date": 1730241364,
+            "expires": 1730846164,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQD8/5wkUStpzrjtvrIf8G6Av6tfvAxPSnl6/2MMV2sAjQIhAIfdARcBQ1xgfm+ms6yBgy1d4e5Ht2zG+RGlMUZ5UsfK",
+            "validity-url": "https://dubbingai.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://dubbingai.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fc50564bd011-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:36:04 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=+RWd2JUBrwjn9IQvC82qgGJ46Mvgfu4pKMIe7J2hvCY="
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 11:30:31 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-VG8HCxyqDBwDieynsIGMuZEF8N98dyi3L7TP7qc6RBI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "kuBEaKjkACu4tcI4GKM1B6GhK/+MWsd6QxcZKI13q4g=",
+            "cert-url": "https://www.mgfimoveis.com.br/cdn-fpw/sxg/cert.pem.msg.kuBEaKjkACu4tcI4GKM1B6GhK_-MWsd6QxcZKI13q4g",
+            "date": 1730242071,
+            "expires": 1730252871,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHyU87RiD8/SismSDp7gRLLrBnzymkQ+iWzLYXHs/vEkAiAPLvIpVLqEIjWCD44ZLHu9pNkpxn6dcUsvQC7Sy0ZXOA==",
+            "validity-url": "https://www.mgfimoveis.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.mgfimoveis.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "6986"
+      ],
+      "Cache-Control": [
+         "public, max-age=7200, immutable"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70d97b15f16a0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:47:51 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=LOMeWGBT58z8Lr1j4/6ow5jXa9fJRl1ioMzXO4kuFP8="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:32:58 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:51:25 GMT"
+      ],
+      "Pragma": [
+         "cache"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ]
+   }
+}

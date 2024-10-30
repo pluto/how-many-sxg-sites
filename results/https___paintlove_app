@@ -1,0 +1,46 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-yq3nMLPMvfQu4Wffadickl9h3sqBvAq9SivrA9dUs5A=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "1ER3LPg//z+ZxHu6QJf3zyqu9DWVYwWu70PRBU5QMwU=",
+            "cert-url": "https://paintlove.app/cdn-fpw/sxg/cert.pem.msg.1ER3LPg__z-ZxHu6QJf3zyqu9DWVYwWu70PRBU5QMwU",
+            "date": 1730242293,
+            "expires": 1730847093,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFkg69Q0yXDH4GLkDk+QwTbCJj0tEDlBPTFRSL4GsCrPAiEApUIU8HoyY5qRwF1koN20mK7Ryl1kU2YC06ZpFk0YqOs=",
+            "validity-url": "https://paintlove.app/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://paintlove.app/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7130435ecaaaf-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=gwHTfbxxrp1PmdiV5TUslOyGcvy7x5M0S3fJeIwH7BM="
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

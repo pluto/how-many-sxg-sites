@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-djCwQan285qKT4slCE+Nkk9f/f+lfyo8CxBS69w/04g=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "9q4AjQFEEFPozOo6ajVDoGNza9m+ZTNFcw45DRr+sGo=",
+            "cert-url": "https://www.sexo9.com/cdn-fpw/sxg/cert.pem.msg.9q4AjQFEEFPozOo6ajVDoGNza9m-ZTNFcw45DRr-sGo",
+            "date": 1730242587,
+            "expires": 1730246487,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCID04T9Igzo+zRdOKguyHkVukaj+TJFoLIbOk3iPxzPr7AiEAjXRJ/7z2sylI3lEKQaiszP2g6h9A9v8OG0BGl3N1S8o=",
+            "validity-url": "https://www.sexo9.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.sexo9.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=300"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71a2a14ce16a6-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:27 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=irHZTVADs+mm5EaehL/X08+OcK/1Nr3zmE0d4fmhA+w="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:32:19 GMT"
+      ],
+      "Link": [
+         "<https://www.sexo9.com/wp-content/cache/autoptimize/css/autoptimize_b39e6c73ec5ec119f3cb69e7790fa48b.css>;rel=preload;as=style,<https://www.sexo9.com/wp-content/cache/autoptimize/css/autoptimize_b39e6c73ec5ec119f3cb69e7790fa48b.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-hZ0jMRqdckbDA82gMROu/pG87FHqj879svoNNCeX9AA=\",<https://www.sexo9.com/wp-content/cache/autoptimize/js/autoptimize_1a33c3559d1120d89c96e1237df543a7.js>;rel=preload;as=script,<https://www.sexo9.com/wp-content/cache/autoptimize/js/autoptimize_1a33c3559d1120d89c96e1237df543a7.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-b3rSrg9PXsGtbgmaHNkpZe6+KiyzDLJCC1OTwqdAh1I=\""
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Version": [
+         "MS24102502"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Micro-Cache": [
+         "MISS"
+      ]
+   }
+}

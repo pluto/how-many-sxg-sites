@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-goYe7iSirgyUqe3Brflp/+K6Yb80Lkmam+MnJFGrcfs=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "O8OO4UJyctQMgrhH4/ChdaXYTFfdhCG/oHROpt0P9Lo=",
+            "cert-url": "https://www.sciencealert.com/cdn-fpw/sxg/cert.pem.msg.O8OO4UJyctQMgrhH4_ChdaXYTFfdhCG_oHROpt0P9Lo",
+            "date": 1730242548,
+            "expires": 1730246748,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBDVLRylIYreofr2WthVn6e1qaomvIvQAboVaTagmvWZAiA5noTTABQDsZwwhuY8r2oIkcJHGs8r83U/73l4GQ6meA==",
+            "validity-url": "https://www.sciencealert.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.sciencealert.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1"
+      ],
+      "Cache-Control": [
+         "max-age=600, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7193cb20c9860-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:55:48 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=NFiaL6XZajZHBwDRGj26gVCwZuo5a6nknSMEhzgVMMc="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:55:39 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+      ],
+      "X-Cache": [
+         "HIT: 21"
+      ],
+      "X-Cache-Group": [
+         "normal"
+      ],
+      "X-Cacheable": [
+         "SHORT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         ""
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

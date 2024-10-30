@@ -1,0 +1,91 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-tyx5rX6JVrLtn0dP/0ZY2zZE4aGOtTZatopx/FRXWlc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "HEh1J2HuOx+QYwLtedZ3FCjnWVYKYOGxAot5mOLlLVg=",
+            "cert-url": "https://www.caf.io/cdn-fpw/sxg/cert.pem.msg.HEh1J2HuOx-QYwLtedZ3FCjnWVYKYOGxAot5mOLlLVg",
+            "date": 1730241219,
+            "expires": 1730846019,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIB7jtjOPJ1BKXDikhDWUp4Wd3KZ/k0gACH6SjMgo5ui6AiEAlvygOglZQXVvXMORnwIrCM3hl+LgIbz1hMsLBVPqfg0=",
+            "validity-url": "https://www.caf.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.caf.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "501339"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cf-Apo-Via": [
+         "origin,host"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f8c6c7229e53-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "upgrade-insecure-requests; block-all-mixed-content; frame-ancestors *.caf.io"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:33:39 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=O8fgWeMw8YLHrXtmDg8ql4NwmpFF5tnd7GkAyXzjOUM="
+      ],
+      "Last-Modified": [
+         "Mon, 21 Oct 2024 20:02:24 GMT"
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), midi=()"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=2147483647"
+      ],
+      "Surrogate-Key": [
+         "www.caf.io 6605c62a1bf3ec3f192b3132 pageId:6605c62a1bf3ec3f192b3138"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cluster-Name": [
+         "us-west-2-prod-hosting-red"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "a6f9da70-d521-421b-a37e-b8d2163cabaa"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

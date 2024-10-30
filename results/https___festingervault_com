@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-6XEC5Ka87U+A7vJIl6CwKnLU71PwA8N3p6YrMX1B0+A=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "+SHjIZlSM6oEVMJpCY/x8IQ9zk1r0WxI5AfQAC5SM5I=",
+            "cert-url": "https://festingervault.com/cdn-fpw/sxg/cert.pem.msg.-SHjIZlSM6oEVMJpCY_x8IQ9zk1r0WxI5AfQAC5SM5I",
+            "date": 1730241496,
+            "expires": 1730846296,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIC9EOZqnxbj0CRs8A2A/lT+56pXWKEDqOQyT5Ouax2e2AiBO6VAsn5ClCK9U4OQ/U3G3diJGNdysC+schnqFkcysCg==",
+            "validity-url": "https://festingervault.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://festingervault.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "31472"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6ff8d02cb06ad-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:16 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=TIxZhx4HnHV5B21P960GAllyONRXpPCQ3hvohJZAouI="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 14:45:32 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

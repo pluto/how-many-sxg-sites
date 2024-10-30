@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-aenqXqlQMoRjBYBmrIki0q1t+mXzk2hgbiy6nVf3FUQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "wMQ/XHquIMj8gsorLhw9U5dRBhHQYUmRouQPnqzMBOM=",
+            "cert-url": "https://www.sav.com/cdn-fpw/sxg/cert.pem.msg.wMQ_XHquIMj8gsorLhw9U5dRBhHQYUmRouQPnqzMBOM",
+            "date": 1730242538,
+            "expires": 1730847338,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIHAeu0IzwtXdzgKZ0le6BRJNSQlU0ZfZ9umht1V0DsCeAiEAlcE9BJKjzDD9CQd3uhhG+toLj6l6wZ4aEMagErmiO1E=",
+            "validity-url": "https://www.sav.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.sav.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "x-requested-with, Content-Type, origin, authorization, accept, client-security-token, x-sessionid"
+      ],
+      "Access-Control-Allow-Methods": [
+         "POST, GET, OPTIONS, DELETE, PUT"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Access-Control-Max-Age": [
+         "1000"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da718fc97e76423-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:55:38 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=wdxVJDcFxN6HLl4CYJquYzz9zrbtatnHDQ05CTNh/6M="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Powered-By": [
+         "PHP/7.3.21"
+      ]
+   }
+}

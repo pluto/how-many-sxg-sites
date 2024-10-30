@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-BhRZCCvfZ9aSkyCyxZsgdxld5Q2gXRMJGSpGv9Vq9ck=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "32XbFCRu6FNAGtp7UqWQgxAuT62SKvhH/sbo0MIIqt8=",
+            "cert-url": "https://www.kibrispdr.org/cdn-fpw/sxg/cert.pem.msg.32XbFCRu6FNAGtp7UqWQgxAuT62SKvhH_sbo0MIIqt8",
+            "date": 1730241896,
+            "expires": 1730846696,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDXV5fhtCldWV5tf0HSdLJfpVITFqdwctNA4vKErdBw8wIhAILFH3JY9aPs+W0Ugi3OHe2D2nQQA5xHxvAEqCGLb37U",
+            "validity-url": "https://www.kibrispdr.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.kibrispdr.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70923436ffa8e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:44:56 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=vrRKsFRaH2nBuInsU8q43nAye3nHzsm5CSv2cal4NHg="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ]
+   }
+}

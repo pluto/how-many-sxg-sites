@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-36RQnOdABO2PlQqj34VB9vU/DGjR792Wexa9nTz6xHg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "sux6+Ij6mA565zzWGovUf6bb2ZufsDBrtyuBuaqFsiY=",
+            "cert-url": "https://www.mc-complex.com/cdn-fpw/sxg/cert.pem.msg.sux6-Ij6mA565zzWGovUf6bb2ZufsDBrtyuBuaqFsiY",
+            "date": 1730242036,
+            "expires": 1730247436,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIGTrFr9pbFYSKrtq9A/MMnicTVPdtqbk1AviRYDfrzsQAiAaIisszLlCT+MOOqTzcwEKJJcJGd+D6BgL0IiXBQ86SA==",
+            "validity-url": "https://www.mc-complex.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.mc-complex.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cache-Control": [
+         "max-age=1800, public"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70cbb7570645f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:47:16 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=bWjah11wrtDkxdq9rRPYgpkVHiQS96/bMIqhu1HuONc="
+      ],
+      "Last-Modified": [
+         "Sat, 25 Jan 2020 03:10:33 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

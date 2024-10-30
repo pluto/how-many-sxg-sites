@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-dlrplE/4jEAUZDEN+BdjikLzyW9eUOId+mjdcwzThBs=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "spnrGaOZJNUMSWx+cWmudR+MMgJS2N3y95wkHQ3Stuw=",
+            "cert-url": "https://www.verychic.fr/cdn-fpw/sxg/cert.pem.msg.spnrGaOZJNUMSWx-cWmudR-MMgJS2N3y95wkHQ3Stuw",
+            "date": 1730242937,
+            "expires": 1730253737,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDQXT6VdWsKFJY7lQJGz3Em4eTEKqbDF2NtX37jurZlOgIhALBnla/Y/McwM3mBL/2Pspg7kqSdx173BtY+RgzKzQyo",
+            "validity-url": "https://www.verychic.fr/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.verychic.fr/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "2253"
+      ],
+      "Cache-Control": [
+         "Public,max-age=7200"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da722b9668f9837-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:17 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=dIZnl3HvhsML+qDOOY6yHWHnjq2Gt66Sd0YZDSs95og="
+      ],
+      "Link": [
+         "<https://www.verychic.fr/_nuxt/3adb6f1.js>;rel=preload;as=script,<https://www.verychic.fr/_nuxt/3adb6f1.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-yo3F6mw/pu/f4pFBZdIBpOh0C7iXK8/1jKD7ZkDosaw=\",<https://www.verychic.fr/_nuxt/1b90972.js>;rel=preload;as=script,<https://www.verychic.fr/_nuxt/1b90972.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-DfK66GeSkEZ9SKlovbxWcB0ah5K2oS+J1QOnhOYMrmY=\",<https://www.verychic.fr/_nuxt/b3cee19.js>;rel=preload;as=script,<https://www.verychic.fr/_nuxt/b3cee19.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-Z97AIxtgEUibSQztZTrAHWhdVlysY244cWrkl9mPbUc=\",<https://www.verychic.fr/_nuxt/1be41bd.js>;rel=preload;as=script,<https://www.verychic.fr/_nuxt/1be41bd.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-BX7FCB409JfVYqE9P1+fgAzkb8Zcv+D4Crn4+/OenWM=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

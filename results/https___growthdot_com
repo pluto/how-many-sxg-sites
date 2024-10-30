@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ISeg4gt3nZo2f5PY17Bgp7XFtT/brj85zL0EfKIfT3M=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "4UcMwjc2jyqY/+/OrB+frmHxmWPeP6mUqXVo9AG3j2k=",
+            "cert-url": "https://growthdot.com/cdn-fpw/sxg/cert.pem.msg.4UcMwjc2jyqY_-_OrB-frmHxmWPeP6mUqXVo9AG3j2k",
+            "date": 1730241639,
+            "expires": 1730846439,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBdreiBCrfSvnkVwJxxorbXwOR7Dhw6Lc1ergQKEffHvAiEAkWAWIoW47hsqnKBxpb8LRSIkKODV7H83sxfP9e3YLIg=",
+            "validity-url": "https://growthdot.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://growthdot.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "15969"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7030c13615c1e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self' *.service-now.com;"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:40:39 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=4+EI/6es650huk4T0WnqJW7gY2D9ROZWqWfyHtrJB7o="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 18:08:37 GMT"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN, ALLOW-FROM *.service-now.com"
+      ],
+      "X-Litespeed-Cache-Control": [
+         "public,max-age=604800"
+      ],
+      "X-Litespeed-Tag": [
+         "e4314_HTTP.200,e4314_front,e4314_URL.6666cd76f96956469e7be39d750cc7d9,e4314_F,e4314_Po.2,e4314_PGS,e4314_"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

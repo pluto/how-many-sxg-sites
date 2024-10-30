@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-8Q8591CZga7JRM7bEBWqkEhCPzvH0F8aOxYz+SSdjsY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "FChxpz3K7OhFtAB0RJN3aZTWqPlt6lBZce04JR8w7gw=",
+            "cert-url": "https://www.tv3.lt/cdn-fpw/sxg/cert.pem.msg.FChxpz3K7OhFtAB0RJN3aZTWqPlt6lBZce04JR8w7gw",
+            "date": 1730242876,
+            "expires": 1730847676,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIAlpcEZESBxudZqeg//VN5vmsASrZMCpgRcL3irisAc4AiAA7BfT3BAWhmtZj6hK/qcRtLZZ2wiTG+zprVxSaf7YQQ==",
+            "validity-url": "https://www.tv3.lt/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.tv3.lt/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cache-Control": [
+         "public, max-age=30s"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7213795aa15b8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src blob: https: data: 'unsafe-eval' 'unsafe-inline'; object-src 'none';"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Cross-Origin-Embedder-Policy": [
+         "unsafe-none"
+      ],
+      "Cross-Origin-Opener-Policy": [
+         "unsafe-none"
+      ],
+      "Cross-Origin-Resource-Policy": [
+         "cross-origin"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:16 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=2SoESxdNy80E0wIoPqzciadDDGoKjhMcO3d5M9aDmJg="
+      ],
+      "Feature-Policy": [
+         "autoplay=, camera=(self), fullscreen=, geolocation=, microphone=(self), picture-in-picture=, clipboard-read=(self), clipboard-write=(self)"
+      ],
+      "Link": [
+         "<https://www.tv3.lt/pcss/2/Fonts/Montserrat/style.css?v=4.2.6.63>;rel=preload;as=style,<https://www.tv3.lt/pcss/2/Fonts/Montserrat/style.css?v=4.2.6.63>;rel=allowed-alt-sxg;header-integrity=\"sha256-YvuB+xsx1vVhWwrlYvuuasO7r5Kevo97JlwJT7e67ik=\",<https://www.tv3.lt/pcss/2/Fonts/uefaEuroMono/style.css?v=4.2.6.63>;rel=preload;as=style,<https://www.tv3.lt/pcss/2/Fonts/uefaEuroMono/style.css?v=4.2.6.63>;rel=allowed-alt-sxg;header-integrity=\"sha256-b5+8J7HOaX/Kn10x4+ETsi2ZCu7Yok2SZ7TAIsTetuk=\",<https://www.tv3.lt/pcss/2/fancybox/jquery.fancybox.min.css>;rel=preload;as=style,<https://www.tv3.lt/pcss/2/fancybox/jquery.fancybox.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-vo7W8NFKKQWQBgL7rMBpctUys79XtdRbr7Aq5cIYTCA=\",<https://www.tv3.lt/pcss/2/font-awesome/css/font-awesome.min.css?1>;rel=preload;as=style,<https://www.tv3.lt/pcss/2/font-awesome/css/font-awesome.min.css?1>;rel=allowed-alt-sxg;header-integrity=\"sha256-KVDGaa0bacj5S4EMqWyJHqTxlxRHJNjrd2mk1iYRmwo=\",<https://www.tv3.lt/pcss/2/Fonts/pe-icon-7-weather/css/pe-icon-7-weather.css>;rel=preload;as=style,<https://www.tv3.lt/pcss/2/Fonts/pe-icon-7-weather/css/pe-icon-7-weather.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-f86H9z48KMxYD+fVsB2GK8qIh8YHiIrgDumhQQa6rcQ=\",<https://www.tv3.lt/pcss/2/Fonts/olympics2024/style.css?v=4.2.6.63>;rel=preload;as=style,<https://www.tv3.lt/pcss/2/Fonts/olympics2024/style.css?v=4.2.6.63>;rel=allowed-alt-sxg;header-integrity=\"sha256-T6+qe/UCOQ+EF99XcNOuNik/KfqS8PjjwP4qXIjfoeQ=\",<https://www.tv3.lt/pcss/2/Fonts/Inter/style.css?v=4.2.6.63>;rel=preload;as=style,<https://www.tv3.lt/pcss/2/Fonts/Inter/style.css?v=4.2.6.63>;rel=allowed-alt-sxg;header-integrity=\"sha256-gEyIBPyX23lp5tnqscYgB8s2A8mgkWKDvVpNISMkPbE=\""
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

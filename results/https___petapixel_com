@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-P26v4oCmmiphHmBiJ1eUMEiBwZ+dIMVGcZW4YhtDNQg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "jHRuYTzirwXQAlPSKKDPgXaN3Pbamr+BaAnUibBZntk=",
+            "cert-url": "https://petapixel.com/cdn-fpw/sxg/cert.pem.msg.jHRuYTzirwXQAlPSKKDPgXaN3Pbamr-BaAnUibBZntk",
+            "date": 1730242328,
+            "expires": 1730247728,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEHfu9eYLAA/NdsSFZUodCLM5RYd8mFeGZsOx1zpSbxKAiB+4UE9xj0rXSYrm+QdizCp36PxKQ8XsK9xTvNXJI0JFA==",
+            "validity-url": "https://petapixel.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://petapixel.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "3038"
+      ],
+      "Cache-Control": [
+         "max-age=1800, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da713dc6701236e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:52:08 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=tZqt2c1KEXQI+6L/4jrQik7BDJ8fHJMWZwP1tsaISts="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:57:13 GMT"
+      ],
+      "Link": [
+         "<https://petapixel.com/wp-content/themes/petapixel-2017/assets/prod/fonts/roboto-v29-latin-ext_latin-900.woff2>;rel=preload;as=font,<https://petapixel.com/wp-content/themes/petapixel-2017/assets/prod/fonts/roboto-v29-latin-ext_latin-900.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-VxeNOv15kLuXvpsxdDCplOgo+D6yMD0zCLT37lFnB4g=\",<https://petapixel.com/assets/uploads/2024/10/memberships-article-header-400x209.jpg>;rel=preload;as=image,<https://petapixel.com/assets/uploads/2024/10/memberships-article-header-400x209.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-LYkKHSK/mCIMudaJwlUVksmfjjdjTrCZ1jopLsq14cg=\",<https://petapixel.com/assets/uploads/2024/10/raoul-minot-400x209.jpg>;rel=preload;as=image,<https://petapixel.com/assets/uploads/2024/10/raoul-minot-400x209.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-AskBEw0QbvbEGYc++/oAw9+wiGT6s+gWZt0TjK+ZBWQ=\",<https://petapixel.com/assets/uploads/2024/10/Close-Up-PhotographeroftheYear-550x288.jpg>;rel=preload;as=image,<https://petapixel.com/assets/uploads/2024/10/Close-Up-PhotographeroftheYear-550x288.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-EWNNmFZBSTAxkl3R0YOzwm7c9W6u+PdKPALIpIcgzV0=\",<https://petapixel.com/assets/uploads/2024/10/Close-Up-PhotographeroftheYear-400x209.jpg>;rel=preload;as=image,<https://petapixel.com/assets/uploads/2024/10/Close-Up-PhotographeroftheYear-400x209.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-1nofgWNAUwlVt9tVIVqIapb9eqaHuD8UG4v+dfCECaQ=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+      ],
+      "X-Cache": [
+         "HIT: 3"
+      ],
+      "X-Cache-Group": [
+         "normal"
+      ],
+      "X-Cacheable": [
+         "SHORT"
+      ]
+   }
+}

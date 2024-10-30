@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-KYtHYHIkDkKEoItV6/1PB687xyfIAqi1y7hJofNg1Y0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "cnanUaIm8GlVB1hhFtJW/KxQ0ubxZsCPdcB5Tmrlg88=",
+            "cert-url": "https://www.bigscoots.com/cdn-fpw/sxg/cert.pem.msg.cnanUaIm8GlVB1hhFtJW_KxQ0ubxZsCPdcB5Tmrlg88",
+            "date": 1730241042,
+            "expires": 1730845842,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCS4/CwZPGY6+pbZj36b4hOOESk/sAxQm8MuMC037WIWQIgUzF13yJWevJmbIx5i9fuxx6dmYlYMGnE3RlXMqKCBZ4=",
+            "validity-url": "https://www.bigscoots.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.bigscoots.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "8286"
+      ],
+      "Cache-Control": [
+         "s-maxage=31536000, max-age=60"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f473c62f1588-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "block-all-mixed-content; frame-ancestors https://bigscoots.com https://portal.bigscoots.com/ https://www.bigscoots.com"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:30:41 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=vW4qMSDiESAIihnyNkT5dvbor6kD5iCIbSj9Z4kj4kM="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:11:47 GMT"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Bigscoots-Cache": [
+         "cache"
+      ],
+      "X-Bigscoots-Cache-Control": [
+         "s-maxage=31536000, max-age=60"
+      ],
+      "X-Bigscoots-Cache-Plan": [
+         "Standard"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Hosted-By": [
+         "BigScoots"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

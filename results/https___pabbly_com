@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-8U8FtlMadcKXGA9daeqmdeNuqOk0Ny4VWWyY8TSA16s=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "GpshuMWVqHSR++YzTFRPQW/J3izzKjM10CuMlbzGruU=",
+            "cert-url": "https://www.pabbly.com/cdn-fpw/sxg/cert.pem.msg.GpshuMWVqHSR--YzTFRPQW_J3izzKjM10CuMlbzGruU",
+            "date": 1730242291,
+            "expires": 1730260291,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCFcT0jDWybow6RYcKBOhW08FCUH7dYrLb2y1yvSMAWdwIgJqGTGUsYVfIqAflLO76g3YpILcobwWNMZB/MZ+DWIXs=",
+            "validity-url": "https://www.pabbly.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.pabbly.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Age": [
+         "53740"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da712f2774d172e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:30 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=5jmOdtO1fepcYavrDh8vw9TsaDkx2fEajcJ8rbnH89U="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 08:17:34 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Wpo-Cache-Status": [
+         "cached"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Permissions-Policy": [
+         "clipboard-read=(self), clipboard-write=(self), filesystem=()"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

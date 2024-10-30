@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-cOV0gIziAJOw4Bxrz5EjNruRqHSaI/ziPXT3Z+1fH1w=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Ih5eXzyvqIib4gzryKAS+G9fyBPiJVy2z2qOX9VXYxg=",
+            "cert-url": "https://imazing.com/cdn-fpw/sxg/cert.pem.msg.Ih5eXzyvqIib4gzryKAS-G9fyBPiJVy2z2qOX9VXYxg",
+            "date": 1730241765,
+            "expires": 1730846565,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDypdsWFLQZoQElWv/VNBi+748/wXInoea3jadEIU1fpwIgL9SEphFp22oTZz/BxjfqmKpDSLS+f/sXLh5ke0XIrI4=",
+            "validity-url": "https://imazing.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://imazing.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "31246"
+      ],
+      "Cache-Control": [
+         "public, max-age=604800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7061a01ee1701-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:42:44 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=dl+s5JoWCJyn9AascpjGue0IJi/y8T4XERqJ1R6eyyQ="
+      ],
+      "Expires": [
+         "Tue, 05 Nov 2024 23:42:44 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 14:58:03 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cloud-Trace-Context": [
+         "5f0b486608e77ef42e562aab327b5211"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

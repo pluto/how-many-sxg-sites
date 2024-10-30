@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-7PckRhxL27V+cJ3nudgy+l0atTT6OAxM8Hjg+/jYlVo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "bjAVodohnXrPmcBa3LEohkBdbwALWtJL2iKH8QvcSW4=",
+            "cert-url": "https://sharegate.com/cdn-fpw/sxg/cert.pem.msg.bjAVodohnXrPmcBa3LEohkBdbwALWtJL2iKH8QvcSW4",
+            "date": 1730242592,
+            "expires": 1730260592,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIHoMU63f4YWOKDbdOrtS34lhFCec+C9DZsI8lxIolpBJAiEAktTbkx8mul9j/R3QoWiDe1VZzbnku9KbETEUMuFb0xg=",
+            "validity-url": "https://sharegate.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://sharegate.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "30319"
+      ],
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71a50424267eb-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:32 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=8gXVFP8Az4ZeWqZtGc/GHp61Ebon9Q8WsrGVawfl/Qs="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 03:56:32 GMT"
+      ],
+      "Last-Modified": [
+         "Fri, 25 Oct 2024 16:40:06 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding"
+      ],
+      "X-Cache": [
+         "MISS"
+      ],
+      "X-Cache-Group": [
+         "bot-mobile"
+      ],
+      "X-Cacheable": [
+         "bot"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

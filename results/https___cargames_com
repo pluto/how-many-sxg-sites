@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-MBDDS/0REUFUT3TBLI7UlQYHSXpnB2srtmYXawBG9oA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "BXXsvgiEc/XqkvagbQ/rWhFSWm9/ia0nhOZ3Uf9EWso=",
+            "cert-url": "https://www.cargames.com/cdn-fpw/sxg/cert.pem.msg.BXXsvgiEc_XqkvagbQ_rWhFSWm9_ia0nhOZ3Uf9EWso",
+            "date": 1730241127,
+            "expires": 1730845927,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHI7JsyPpFsuMIF/DXJwbN/ylVYh6ZU0DpbYgjfc/oBFAiB8AM/goBBWLKEkqOgg+cDBzJmVog/slCzxAxulCik6lg==",
+            "validity-url": "https://www.cargames.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.cargames.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f688a4d16894-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:32:07 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=+tOi3MOVZSIAGcIB1c+THrw4nxq0v7ofOmZ3yoQ2ig0="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

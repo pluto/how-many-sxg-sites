@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-0KSQVbJuh4uOfXTMg8h3NDbqTqqPaQ7KN0gu/LmZz5k=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "W+wOtTupXI0x8JPRypCODRHipc2/YQRLbfQm2IJBGug=",
+            "cert-url": "https://www.werstreamt.es/cdn-fpw/sxg/cert.pem.msg.W-wOtTupXI0x8JPRypCODRHipc2_YQRLbfQm2IJBGug",
+            "date": 1730243014,
+            "expires": 1730247514,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDQ+rMSk6k6qGFkvx5X22q2b1W/HuT8qb07DXw/dcWOWgIgFif94TGtDLa7HDxP/J/AGRobfbnPcUPR2lNRrRQSjEM=",
+            "validity-url": "https://www.werstreamt.es/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.werstreamt.es/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "must-revalidate, max-age=900"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Ray": [
+         "8da7248bb57a1666-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:34 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=3iJhH71Wb85mYyAKu8U1lyrbAthXP6Kcy25HYtU9Wk8="
+      ],
+      "Etag": [
+         "\"bafa4c1bab5e6c634cc0115a99332482\""
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 00:18:34 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "X-Forwarded-Protocol"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Download-Options": [
+         "noopen"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

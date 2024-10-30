@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-RBUUH+rgG3zP0VsbqEfeUKVYBZISda34U4XdzmMxCto=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "6nbX/qr6aNbvIgWGynXuBxUHnoXfzZTMfCtup7a4mH8=",
+            "cert-url": "https://moogold.com/cdn-fpw/sxg/cert.pem.msg.6nbX_qr6aNbvIgWGynXuBxUHnoXfzZTMfCtup7a4mH8",
+            "date": 1730242108,
+            "expires": 1730846908,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCLsOQ17bIeh8jT/RZQil14lCktokZsqni9za9QgsV+twIhAN4JuwcYn8fsw11vYbc3uxA0wn45vQfI9HEiLzShFDGy",
+            "validity-url": "https://moogold.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://moogold.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Cf-Ray": [
+         "8da70e7951d6ced9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:28 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=RaUlpZCeJr4qBC0s+Ylh9rKNYHR8uLgAUKimY/XpDM8="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:48:28 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Fastcgi-Cache": [
+         "MISS"
+      ]
+   }
+}

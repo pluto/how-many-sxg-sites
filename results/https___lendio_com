@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-n2pSoF+SpIUFQ+xAMnKj0bQa5tlfUJvbbUUpwY/64rg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "7ATrYIV2NAv+2Gfa4RVRMWSoSZ41DXd4m6LDnVu7CEE=",
+            "cert-url": "https://www.lendio.com/cdn-fpw/sxg/cert.pem.msg.7ATrYIV2NAv-2Gfa4RVRMWSoSZ41DXd4m6LDnVu7CEE",
+            "date": 1730241946,
+            "expires": 1730259946,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCICq3U6pfxGdbG9PC1DzQeOm+1h2Gj9i2zOeU8y+QbIrxAiAyTKJGJfrcmfv9XZ2CUrtj2zxdkwSWs3LP51RWz1uXyQ==",
+            "validity-url": "https://www.lendio.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.lendio.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "Origin, X-Prototype-Version, X-Requested-With, Content-Type, Accept, Authorization"
+      ],
+      "Access-Control-Allow-Methods": [
+         "POST, GET, OPTIONS, PUT, DELETE, HEAD, PATCH"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "6148"
+      ],
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70a8803ec2517-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:46 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=GCCN4qP6mqzeq5Seok0Wi4CFa6MzMJ/o9Db7x/+IOAs="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 03:45:46 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 07:49:52 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

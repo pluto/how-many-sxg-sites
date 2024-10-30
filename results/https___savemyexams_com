@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-d8f/jtucMDEaEFSckpH2gPJfcNI0y3eRp6p6MaBeLzg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "pgCW1N43XB7SzhuD+OXuj4TfNYQSepj5k4b5eE5Xkmo=",
+            "cert-url": "https://www.savemyexams.com/cdn-fpw/sxg/cert.pem.msg.pgCW1N43XB7SzhuD-OXuj4TfNYQSepj5k4b5eE5Xkmo",
+            "date": 1730242538,
+            "expires": 1730246258,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDQ1zxt6NHdQoZvXeWprxascWhSSVwYmpz7Jv34T2CdggIhAM0qLaDpnm7+m6NfAC5+1WwNyUtfUAtLQ+IbuNjRR1oP",
+            "validity-url": "https://www.savemyexams.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.savemyexams.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "7921"
+      ],
+      "Cache-Control": [
+         "public, max-age=120"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da718fb7356f9ed-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src *  data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval'; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src * data: blob: ; style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline'; frame-ancestors * data: blob: ;"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:55:38 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=dfc7JP1lPsjxjSpxqK9hYvRqoYJGGT0DlvUAIni2fcw="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:57:38 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:43:37 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Do-App-Origin": [
+         "6cb9bfc1-47c7-4ac2-9361-16325a570f0c"
+      ],
+      "X-Do-Orig-Status": [
+         "200"
+      ],
+      "X-Powered-By": [
+         "Next.js"
+      ]
+   }
+}

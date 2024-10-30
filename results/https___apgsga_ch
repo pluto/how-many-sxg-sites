@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-puQzZTKGxew5PdtxpNPYrArrO5VCK43XvY2hT1Yokus=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "aQ19/AeOFk352m7gWo8JpM24bw8UPsj/8swe02Kt9zY=",
+            "cert-url": "https://www.apgsga.ch/cdn-fpw/sxg/cert.pem.msg.aQ19_AeOFk352m7gWo8JpM24bw8UPsj_8swe02Kt9zY",
+            "date": 1730240928,
+            "expires": 1730258928,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCXnB+WZNQjKgz3wtA0s1e4xIhZ4hMQfvkTGwcgsghMiwIgVlTdfdGF9PiyJ8mld9SoFKEgCLFRSeXpojcSV2dKmeE=",
+            "validity-url": "https://www.apgsga.ch/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.apgsga.ch/de/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Cf-Ray": [
+         "8da6f1abb0affaf0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "de"
+      ],
+      "Content-Security-Policy": [
+         "script-src * 'self' 'unsafe-eval' 'unsafe-inline' blob:; style-src * 'self' 'unsafe-eval' 'unsafe-inline'; default-src * 'self'; font-src *; media-src * 'self' https://*.divio-media.org data: blob:; img-src * 'self' https://*.divio-media.org https://www.google.com/ https://www.google-analytics.com/ data:"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:48 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=O9QrequP7dA/2kfe0wfD+GUTlfUdGw20IbZe+ic3s1c="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 03:28:48 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:28:48 GMT"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         ", Cookie, Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Divio-App": [
+         "apgwebsite2021privatecloud-live-e989965b0aeb487ca582b7e0d4fd0c08"
+      ],
+      "X-Divio-Handler": [
+         "wICLQwd_46aCcyAfl9m_MQ"
+      ],
+      "X-Divio-Request-Id": [
+         "6527ae1e0d69d66e83f68ce78d83aa37"
+      ],
+      "X-Divio-Request-Time": [
+         "0.047"
+      ],
+      "X-Divio-Request-Upstream-Time": [
+         "0.047"
+      ],
+      "X-Divio-Router": [
+         "nSXW-jjZQJ4nb0nf7a0Zfg"
+      ]
+   }
+}

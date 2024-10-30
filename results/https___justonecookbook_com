@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ivk3FtNwk1pPASRppT+jxHrDCvh47SCmcAgu+m84esw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "D4lM3NE+/4ew0DXcvSezNtzyVnfrIJfBoIPnJb7mcnY=",
+            "cert-url": "https://www.justonecookbook.com/cdn-fpw/sxg/cert.pem.msg.D4lM3NE-_4ew0DXcvSezNtzyVnfrIJfBoIPnJb7mcnY",
+            "date": 1730241866,
+            "expires": 1730846666,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFkC8/uKfQe/3Z2aH/2xwR1l8IMcl672fSDn3kfo68ouAiEAi+36FwdsvhhIv6zRUP7gH39+CU5ULLVSO29T5UONCQg=",
+            "validity-url": "https://www.justonecookbook.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.justonecookbook.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "8365"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da70896b415234f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "block-all-mixed-content"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Cross-Origin-Opener-Policy": [
+         "same-origin"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:44:26 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=9ZBhMLcw7nvkvuQYtctK2b14YkuXTY16F16DJxYsbf8="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Litespeed-Cache": [
+         "miss"
+      ],
+      "X-Litespeed-Cache-Control": [
+         "public,max-age=604800"
+      ],
+      "X-Litespeed-Tag": [
+         "027_HTTP.200,027_front,027_URL.6666cd76f96956469e7be39d750cc7d9,027_F,027_Po.112773,027_PGS,027_"
+      ],
+      "X-Powered-By": [
+         "PHP/7.4.33"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

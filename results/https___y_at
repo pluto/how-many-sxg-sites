@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-d5hdq3ysNx799LvxdGbM0JcoSR6a+kFW61x932kNNDc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "DVqOrYaxErkmgMrtlI4AHu5ItHlFEm35HR/z1Wf+uQY=",
+            "cert-url": "https://y.at/cdn-fpw/sxg/cert.pem.msg.DVqOrYaxErkmgMrtlI4AHu5ItHlFEm35HR_z1Wf-uQY",
+            "date": 1730243071,
+            "expires": 1730333071,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDCodxgaSJYMdQ35RqH8Tp7gOBjEXG6eM+QCvUCGayP2wIgTXx6/BLmZKUAjyMemx6ut/IsPABUh5TSdswwkRIKixw=",
+            "validity-url": "https://y.at/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://y.at/index.html",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Cache-Control": [
+         "public,max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7260025519658-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:31 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=OED0lszZOQK2jcu3u5peH7iSe+HyPI8lSP22HhJBm0g="
+      ],
+      "Last-Modified": [
+         "Tue, 15 Oct 2024 14:06:14 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-TbCOMlbA8PHjrUYFjiiraiAl50YlQUPY4aucE1EiBag=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "c4o8bf421o32+VCmmDpXWBOjbo2R5QBdnXlJq7RBzZw=",
+            "cert-url": "https://www.ewg.org/cdn-fpw/sxg/cert.pem.msg.c4o8bf421o32-VCmmDpXWBOjbo2R5QBdnXlJq7RBzZw",
+            "date": 1730241467,
+            "expires": 1730245367,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIE9Oi2dbbHSHFqJG1H9cS+Tlbl+UpD/+9sPExNiIKSrrAiEA7VWbIhUVqNmka0inWX6HbSDDRZ2yu6zgSdDd250Qq/c=",
+            "validity-url": "https://www.ewg.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.ewg.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "142"
+      ],
+      "Cache-Control": [
+         "max-age=300, public"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fed8966afa4a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:37:48 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=1lni6v0lr9ejOPpE6FSFuvOqKgbJDg5n97oHBTs42js="
+      ],
+      "Expires": [
+         "Sun, 19 Nov 1978 05:00:00 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:22:59 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Cache-Hits": [
+         "18"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

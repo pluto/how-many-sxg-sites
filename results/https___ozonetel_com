@@ -1,0 +1,91 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-kqK426mWZY/rUYGSAj+QREUppskDi8m/JpT0tITSfxk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "hIQ3KgnzCUek23UXZXuhFxVvXLQLrK3p6nsTzaJCi3c=",
+            "cert-url": "https://ozonetel.com/cdn-fpw/sxg/cert.pem.msg.hIQ3KgnzCUek23UXZXuhFxVvXLQLrK3p6nsTzaJCi3c",
+            "date": 1730242288,
+            "expires": 1730246488,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDLMIAnrsLlTTbZG3L64rIpACXR3Wc7IXOF2d2OpwFk8QIhAMGv6wqdYtSFisqF/JYF02BGP7tjQ0Qm/fTPCWW3mXr4",
+            "validity-url": "https://ozonetel.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ozonetel.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Access-Control-Allow-Headers": [
+         "Origin, X-Requested-With, Content-Type, Accept"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Access-Control-Expose-Headers": [
+         "Access-Control-Allow-Origin"
+      ],
+      "Age": [
+         "132345"
+      ],
+      "Cache-Control": [
+         "max-age=600"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da712e465b0f9ed-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:28 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=PJvQzpko3pLOyMNmWOmdOaExSU54+sTUoH3503WmtOY="
+      ],
+      "Expires": [
+         "Mon, 28 Oct 2024 11:15:41 GMT"
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 11:05:43 GMT"
+      ],
+      "Permissions-Policy": [
+         "geolocation=(self), vibrate=(none)"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

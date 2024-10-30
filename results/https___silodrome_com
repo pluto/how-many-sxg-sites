@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-qQ+Wz2mC8RM0BkJSib01Sq6C495iv8WP4mTPwfyedag=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "GiuIaD4OiSR2ouV9oqSqGRmW1xB37AKZ7EREj/0qvwg=",
+            "cert-url": "https://silodrome.com/cdn-fpw/sxg/cert.pem.msg.GiuIaD4OiSR2ouV9oqSqGRmW1xB37AKZ7EREj_0qvwg",
+            "date": 1730242617,
+            "expires": 1730847417,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEYPUxmawuAtvVqxiFkAUzEWmBhvQs3N4l6AKUs5KgjgAiALClpPy4VOKA45S3iptDqK9yMAOq4IgiWt7wxe59JR5g==",
+            "validity-url": "https://silodrome.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://silodrome.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1867"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71aeaa20696e1-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "upgrade-insecure-requests"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:56:57 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=f2linGHoOthjx0nTY72sYEEjmiQA8hvU9+e/Rk/Q+TI="
+      ],
+      "Link": [
+         "<https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce-356x273.jpg>;rel=preload;as=image;imagesrcset=\"https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce-356x273.jpg 356w, https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce-740x566.jpg 740w, https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce-768x588.jpg 768w, https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce-1536x1176.jpg 1536w, https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce-1600x1225.jpg 1600w, https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce-150x115.jpg 150w, https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce.jpg 2000w\";imagesizes=\"(max-width: 480px) 100vw, (max-width: 960px) 70vw, 290px\",<https://silodrome.com/wp-content/uploads/2024/10/Chevrolet-Nova-Yenko-Deuce-356x273.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-lmc0HQ4qhIWAeoeLatssGJTrz9/iRJh3d8VRiasON9s=\",<https://silodrome.com/wp-content/themes/silodrome/img/Silodrome-Logo-2021.svg>;rel=preload;as=image,<https://silodrome.com/wp-content/themes/silodrome/img/Silodrome-Logo-2021.svg>;rel=allowed-alt-sxg;header-integrity=\"sha256-YJP+XreQJevluSW5ak8Qhkt3ky35yON+nEY2sZCztAo=\",<https://silodrome.com/wp-content/cache/perfmatters/silodrome.com/css/home.used.css?ver=1716220165>;rel=preload;as=style,<https://silodrome.com/wp-content/cache/perfmatters/silodrome.com/css/home.used.css?ver=1716220165>;rel=allowed-alt-sxg;header-integrity=\"sha256-MlAOvSPc/Ey2xavkTJWxjA6ILmXcUgD4qi9KLb1xJ0Y=\""
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(), autoplay=(self), camera=(), cross-origin-isolated=(), display-capture=(), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(self), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(self), usb=(), xr-spatial-tracking=()"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Litespeed-Cache": [
+         "hit"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

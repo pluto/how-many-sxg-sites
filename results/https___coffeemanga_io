@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-MLHS+OoAD7yWDSsUIlQMGQY+1PO3VJdYgeu26/Os/Hk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "oyOdACfwXDVG9WAdd0+utBMpaQ7mTsuMcmWPu9tv8tc=",
+            "cert-url": "https://coffeemanga.io/cdn-fpw/sxg/cert.pem.msg.oyOdACfwXDVG9WAdd0-utBMpaQ7mTsuMcmWPu9tv8tc",
+            "date": 1730241212,
+            "expires": 1730248412,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCiYB3Ad9Qbv3+rzrvimzHak7yhQSJ8VrApLSPEBOp4HQIgV3Bd2gGEMAgCZQ4zjt1bDQVNR2IZCGzpJWwrxpjH3Cw=",
+            "validity-url": "https://coffeemanga.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://coffeemanga.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1914"
+      ],
+      "Cache-Control": [
+         "max-age=3600"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6f89cb38215a4-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:33:32 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=OoXBh1PI2cFF7MUitnJ4+en5yxsXOcsVuAzHCBC6kro="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:13:43 GMT"
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Pingback": [
+         "https://coffeemanga.io/xmlrpc.php"
+      ],
+      "X-Powered-By": [
+         "WPTangTocOLS"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ],
+      "X-Xss-Protection": [
+         "1;mode=block"
+      ]
+   }
+}

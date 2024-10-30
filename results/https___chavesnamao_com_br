@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-U+sW3E8a+ycoGt0O1zsCRvKIeIldXiRhv49GkD3/fSI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "JU679caZULemY4ogWA9z353fYKtzjGoWqBAbptDTyQg=",
+            "cert-url": "https://www.chavesnamao.com.br/cdn-fpw/sxg/cert.pem.msg.JU679caZULemY4ogWA9z353fYKtzjGoWqBAbptDTyQg",
+            "date": 1730241162,
+            "expires": 1730845962,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCX+w8wasar7hBlyTB83357Cnq4ib63p5DopALwbS9wCgIhAIi6Tct05TR0e4PyxU1PSaebJ93Fm1bunt9bYOwZeqgZ",
+            "validity-url": "https://www.chavesnamao.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.chavesnamao.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "true"
+      ],
+      "Access-Control-Allow-Origin": [
+         "https://www-chavesnamao-com-br.cdn.ampproject.org"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f762b3fb67b9-SJC"
+      ],
+      "Cnm_device": [
+         "desktop"
+      ],
+      "Cnm_ok": [
+         "/"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:32:42 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=MJ8nB9Tc1mfqlyqFGBo1MdbQnOHWteqBgBbnusOtzYA="
+      ],
+      "Etag": [
+         "W/\"150aa-P3TyhMkKFwvnfu3ZqzI9JISVKho\""
+      ],
+      "Link": [
+         "<https://www.chavesnamao.com.br/static/fonts/cnm-Medium.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.chavesnamao.com.br/static/fonts/cnm-Medium.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-5kMP+EfXUGZcOFnGyJxCfKvNEB5PLVGO6pHdQzHHIKw=\",<https://www.chavesnamao.com.br/static/fonts/cnm-Bold.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.chavesnamao.com.br/static/fonts/cnm-Bold.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-/reS69AwhirBSaqY+LoE4tNV/LJLAMpjWr2h1/vFp9U=\",<https://www.chavesnamao.com.br/static/fonts/icomoon.woff?ualb95>;rel=preload;as=font;crossorigin=anonymous,<https://www.chavesnamao.com.br/static/fonts/icomoon.woff?ualb95>;rel=allowed-alt-sxg;header-integrity=\"sha256-FlW+1U5MVt6zhvoZegL+O9Wy9mSn7loJYbtz1XLwTu0=\",<https://www.chavesnamao.com.br/_next/static/css/bfc072c2c17f1841.css>;rel=preload;as=style;crossorigin=anonymous,<https://www.chavesnamao.com.br/_next/static/css/bfc072c2c17f1841.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-xMKZWgYnLIiU8PEb9rN1pSkxHFab0yvlV2LbPCT7aNk=\",<https://www.chavesnamao.com.br/static/fonts/cnm-Regular.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.chavesnamao.com.br/static/fonts/cnm-Regular.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-yiRs+m/iyn/5WQVCA6xu9/d6Jrpl4vjOtea0jezVIfE=\",<https://www.chavesnamao.com.br/_next/static/chunks/main-9a81c5abae978a48.js>;rel=preload;as=script,<https://www.chavesnamao.com.br/_next/static/chunks/main-9a81c5abae978a48.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-3IElDQ9YAf5639Ri1UCtu03whvDXNhtnc7MuViMfNUw=\",<https://www.chavesnamao.com.br/_next/static/chunks/framework-45ce3d09104a2cae.js>;rel=preload;as=script,<https://www.chavesnamao.com.br/_next/static/chunks/framework-45ce3d09104a2cae.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-bylVybx1bAwSwoOPIcVnI/R5loZR+3VIloWHt3Tl5gc=\",<https://www.chavesnamao.com.br/_next/static/chunks/webpack-8da136a80ec9fbe7.js>;rel=preload;as=script,<https://www.chavesnamao.com.br/_next/static/chunks/webpack-8da136a80ec9fbe7.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-yGC5pgU1YK9xf49OnSPK1O/Am6CPnihozrvfsVrrvFM=\",<https://www.chavesnamao.com.br/static/fonts/cnm-SemiBold.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.chavesnamao.com.br/static/fonts/cnm-SemiBold.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-DhAuB4g6Ln8XX35PJR4FOttv+ZBe3Bk/SEoeW/K8h6E=\""
+      ],
+      "Referrer-Policy": [
+         "strict-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "Next.js"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

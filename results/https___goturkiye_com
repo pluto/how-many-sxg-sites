@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-EO8BnDwksE4vZ/9ENaygq3qfkBkR/9xVwkMquukhQ1w=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "kt2XSPLS5sbd4h4v2+thOqL320vPJzPVmFCpm+VGYXQ=",
+            "cert-url": "https://goturkiye.com/cdn-fpw/sxg/cert.pem.msg.kt2XSPLS5sbd4h4v2-thOqL320vPJzPVmFCpm-VGYXQ",
+            "date": 1730241626,
+            "expires": 1730846426,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCSNFj8y+/rvknx25pbrpHHeeh26NSJ8UNHdEQkNSJHmAIhALfFw279ss2++PLpjTfnwziHE81gK7SBzleVupN7VHss",
+            "validity-url": "https://goturkiye.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://goturkiye.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da702b785fefa8a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:40:26 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=cAQZH98ydiv486sdEgmuvanfKcPJLjXy6z34yqVEBUw="
+      ],
+      "Link": [
+         "<https://goturkiye.com/_next/static/css/f843fbbb44f5cb28545c.css>;rel=preload;as=style;crossorigin=anonymous,<https://goturkiye.com/_next/static/css/f843fbbb44f5cb28545c.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-rsTOZblc7Q/8n8M/W3mdykdGnkVDXi0KbP5wEQlg8TM=\",<https://goturkiye.com/_next/static/chunks/webpack-6d2da33030760e79b04f.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/webpack-6d2da33030760e79b04f.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-F2HAU7qJwmmBcq/jS8aUIaZsMqRkqHTL0VG0CkuEvGM=\",<https://goturkiye.com/_next/static/chunks/pages/_app-9b0eb3d50e495a11c212.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/pages/_app-9b0eb3d50e495a11c212.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-oDr10wMafDHSgEOiuVJiy5o/XKmuE7tR6Jr+8LNwJXM=\",<https://goturkiye.com/_next/static/chunks/2852872c-fa4857e736b1d7a9eb4c.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/2852872c-fa4857e736b1d7a9eb4c.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-ARuZheJaS66lq+vTeeBcubxQQfPW3itl5eT6NNMejIs=\",<https://goturkiye.com/_next/static/chunks/framework-d51b7e5ee9895977fd52.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/framework-d51b7e5ee9895977fd52.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-Iwxpv9+a/YHgJ/lP6xpqMoREGQ1TXWv6po4HLkfWMKI=\",<https://goturkiye.com/_next/static/css/b711f6d0b017a69f0899.css>;rel=preload;as=style;crossorigin=anonymous,<https://goturkiye.com/_next/static/css/b711f6d0b017a69f0899.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-QAdk+AbmbnVkXap01j/JRwnORb3qd8hEFqQ5yWNBJNg=\",<https://goturkiye.com/_next/static/chunks/68c0a17d-64f3cdaa5a43a6e2f65c.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/68c0a17d-64f3cdaa5a43a6e2f65c.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-DnsEUgSEEYSq7Nou+TCh1rz2ACYpVaihKKAvJO+OnpQ=\",<https://goturkiye.com/_next/static/chunks/346-ae4d20a34cf841d65dfe.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/346-ae4d20a34cf841d65dfe.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-INqTgdvXVtOv/vmH6J2CpdKSvBP84D4m7CsRWBBlKRQ=\",<https://goturkiye.com/_next/static/chunks/main-f169b89fcad39fc85eed.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/main-f169b89fcad39fc85eed.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-MBCJbu5xWc80Yj+BmuniqGrR/NmPf9eUkxgTCzTS+NU=\",<https://goturkiye.com/_next/static/chunks/pages/index-c777771b1954fc06e1e1.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/pages/index-c777771b1954fc06e1e1.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-moMdeLFb6DGum0aWaUMvb1Hgmmtkdbm3OOkApEeRSso=\",<https://goturkiye.com/_next/static/chunks/996-7c7b8900fac154e58a04.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/996-7c7b8900fac154e58a04.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-7Ne6y30FGUgaSryiKW/uKNxTX35Xf33xxnhHCaoNyP4=\",<https://goturkiye.com/_next/static/chunks/597-2b6822a29f0b3e2a98a2.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/597-2b6822a29f0b3e2a98a2.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-AtVevGU+SoJrt83ojVnilFyYweSEllFQh3rCH2wJZDw=\",<https://goturkiye.com/_next/static/chunks/75fc9c18-96647c347895bf24656d.js>;rel=preload;as=script;crossorigin=anonymous,<https://goturkiye.com/_next/static/chunks/75fc9c18-96647c347895bf24656d.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-CQDSmfG4dfuHnd1V00d1P1GcoR3p2QuuBuHS2M4yRPk=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 google"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

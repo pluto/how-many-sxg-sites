@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-lkMwbOUtdKxCaHouss/pwghygS2PtYOZ84ltM+85GfE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "puBCdRu1R4Nqq2V80lZV35tpjarPuafWu9M6KPYtIgE=",
+            "cert-url": "https://www.ory.sh/cdn-fpw/sxg/cert.pem.msg.puBCdRu1R4Nqq2V80lZV35tpjarPuafWu9M6KPYtIgE",
+            "date": 1730242280,
+            "expires": 1730247680,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQD+aFiyNznhd2CbbK/DXePWVl9ULZMvunkHqJVk2hQKMwIhAPh4zXcJyhAsLVY50XoARyf1zQYXCpNfF4lf4C4K+KWS",
+            "validity-url": "https://www.ory.sh/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.ory.sh/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "21"
+      ],
+      "Cache-Control": [
+         "public, max-age=1800"
+      ],
+      "Cache-Status": [
+         "\"Netlify Edge\"; fwd=stale"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da712b09325fa9a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self' blob: 'unsafe-inline' 'unsafe-eval' unpkg.com miro.com *.algolianet.com *.algolianet.net storage.googleapis.com tagmanager.google.com *.googletagmanager.com *.google-analytics.com google-analytics.com ssl.gstatic.com gstatic.com github.com *.githubusercontent.com gh-card.dev *.ory.sh *.youtube.com *.youtube-nocookie.com data: s.ytimg.com app.termly.io *.reo.dev ipapi.co *.iubenda.com *.cloudfront.net *.licdn.com *.hs-scripts.com *.hsleadflows.net *.hs-banner.com *.hsadspixel.net *.hubspotfeedback.com *.usemessages.com *.hs-analytics.net *.hscollectedforms.net *.hsforms.net *.hsforms.com *.g.doubleclick.net *.hubapi.com *.hubspot.com *.loom.com analytics.google.com *.analytics.google.com cdn.linkedin.oribi.io static.cloudflareinsights.com www.google.be www.google.com; img-src * data: blob: www.ory.dev www.ory.net"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=f5XH968V9vASJ0nNzQ9XerRraeGOcNGXVeaNtricfxE="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 00:21:20 GMT"
+      ],
+      "Link": [
+         "<https://www.ory.sh/bfb334c01b56b4d603f029f9012616c7c04cb2b1-a80130926590f8dee995.js>;rel=preload;as=script,<https://www.ory.sh/bfb334c01b56b4d603f029f9012616c7c04cb2b1-a80130926590f8dee995.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-RkhyChiQCsij8SHeM8t9/+5jxNXDO6AYqIl2oHtMuz8=\",<https://www.ory.sh/fonts/Share_Tech_Mono/ShareTechMono.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.ory.sh/fonts/Share_Tech_Mono/ShareTechMono.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-FxmIV+2LoKYMMMOzOKJNbo8H+JmRWp1EJebbgsHpyc0=\",<https://www.ory.sh/styles.23f2348f1fc2dd04cffc.css>;rel=preload;as=style,<https://www.ory.sh/styles.23f2348f1fc2dd04cffc.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-HsO3SpJCVAzpv3iSnQQ+5eBnICFBYF7UFaVPUh4Zzkc=\",<https://www.ory.sh/cta-fill-e053e4e4d96e26ee2d07.js>;rel=preload;as=script,<https://www.ory.sh/cta-fill-e053e4e4d96e26ee2d07.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-TmxNm5WNealVneDSoO2J9CCCyy8kpeZghpNg6EQoerQ=\",<https://www.ory.sh/fonts/Inter/InterVariable.woff2?v=4.0>;rel=preload;as=font;crossorigin=anonymous,<https://www.ory.sh/fonts/Inter/InterVariable.woff2?v=4.0>;rel=allowed-alt-sxg;header-integrity=\"sha256-bxCf5ohf5UXOPU6SquHeKsqzW05cdR69mzyumR7Z6MU=\",<https://www.ory.sh/layouts-markdown-markdown-99675ede8b22a1634b65.js>;rel=preload;as=script,<https://www.ory.sh/layouts-markdown-markdown-99675ede8b22a1634b65.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-IGaUSosU13o/0/2jvWt/pwTd1E9d3r7MrWk9XzZaorQ=\""
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(), ambient-light-sensor=(), battery=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), usb=()"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Nf-Request-Id": [
+         "01JB9XP72QVTVK2YT6MG8ZVCC5"
+      ],
+      "X-Xss-Protection": [
+         "1"
+      ]
+   }
+}

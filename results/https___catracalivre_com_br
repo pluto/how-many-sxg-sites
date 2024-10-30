@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-uvwpY6jszMUE08p3HvKkubcCZiUFE8yDpsNhnGvRubY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "AcmH7edWCnZu0mOYBC9sZltbDWb4czDnk1omqbX5a8c=",
+            "cert-url": "https://catracalivre.com.br/cdn-fpw/sxg/cert.pem.msg.AcmH7edWCnZu0mOYBC9sZltbDWb4czDnk1omqbX5a8c",
+            "date": 1730241133,
+            "expires": 1730245333,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCV2cm2vMLzPSFq2krumhhuUGKkxsVWzTRgUsUOFO6+fAIgb6K1t3NbHt5e30/3/zbrGv+ntiP1qzOYL6C8fXD0gZ8=",
+            "validity-url": "https://catracalivre.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://catracalivre.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=600, public, s-maxage=600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f6af40af641c-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:32:13 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=o0Aeh7xiymY4pK4vheDo3DDmgeBTdmgCbBVDlPICjQM="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:42:13 GMT"
+      ],
+      "Pragma": [
+         "public"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "accept-encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Servebolt-Plugin": [
+         "active"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-RiDy9b2+V+2x01HJtbUmf7UkO4Ig9/b6fe3DE6u+O2U=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "bURr2tkdxD0hfJB0lFyUEAk9jL6Lf2m2oL4VFZY6MFw=",
+            "cert-url": "https://www.vinaudit.com/cdn-fpw/sxg/cert.pem.msg.bURr2tkdxD0hfJB0lFyUEAk9jL6Lf2m2oL4VFZY6MFw",
+            "date": 1730242950,
+            "expires": 1730332950,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCICDc6kCuqnYHGdKtP0b6837yU21EQnfkl0Z6gPdZXIIZAiEAvmmjbbysI+dhAy85wTHlRbTci10pWj4ZDTXRyNPjYGs=",
+            "validity-url": "https://www.vinaudit.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.vinaudit.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "9459"
+      ],
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7230a7218159c-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:30 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=u41Yxbe1JzZJkMNRH+qy3KyLC0tWnmfjIAcIpKxV/rw="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 22:24:51 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 21:24:51 GMT"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "X-Forwarded-Proto,Accept-Encoding"
+      ],
+      "X-Powered-By": [
+         "W3 Total Cache/2.7.7"
+      ]
+   }
+}

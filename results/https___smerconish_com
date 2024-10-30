@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-VQkY6G/EJWwuU7EaL3SqaVj0FNuRuUqtWLLplKuxu54=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "dcYYADscnJCBPIYKkp0oN/zne+KhJiqIrMLUU9kmMHQ=",
+            "cert-url": "https://www.smerconish.com/cdn-fpw/sxg/cert.pem.msg.dcYYADscnJCBPIYKkp0oN_zne-KhJiqIrMLUU9kmMHQ",
+            "date": 1730242645,
+            "expires": 1730247445,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCZ0Jvv0yUoLX2pAPMy9fkSqBZ1u1E3WrDfqlVRJtb4TQIhAKG7ZnpLbtomEiTGfHHwkDNdf50+m8xXrFBARLgdtPVs",
+            "validity-url": "https://www.smerconish.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.smerconish.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=1200, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71b9757251679-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:25 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=dPuNAWOgwc2s4H+suLQmII+HyY58A7YxWv1JnmRCNVA="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:57:25 GMT"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+      ],
+      "X-Cache": [
+         "HIT: 2"
+      ],
+      "X-Cache-Group": [
+         "normal"
+      ],
+      "X-Cacheable": [
+         "SHORT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "WP Engine"
+      ]
+   }
+}

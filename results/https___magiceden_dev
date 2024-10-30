@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-cLqKaZu7nIqqLJu62998VZ8q+91NHedEdOG7+pNkzI4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "qNIXQCZfYS1f1CddiCNRAUK5PRUzDCYblySzegUnfUY=",
+            "cert-url": "https://docs.magiceden.io/cdn-fpw/sxg/cert.pem.msg.qNIXQCZfYS1f1CddiCNRAUK5PRUzDCYblySzegUnfUY",
+            "date": 1730242002,
+            "expires": 1730246502,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQD1SsamiZ5kH8rcOVVtgCQHwGCeuAEu2XETNpxp9ENR4wIhAIuuh7kzT1hvcKoKmynfDRSV3zaIG3Wpy9KK96pMcvS5",
+            "validity-url": "https://docs.magiceden.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://docs.magiceden.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "s-maxage=900"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70be64614239e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:46:42 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Z4bKEJdfVQ9a/8wFtyrx+eKMQW5/eaqD2RYfOFs2obo="
+      ],
+      "Render-Cf-Cache": [
+         "private, max-age=0, no-transform"
+      ],
+      "Rndr-Id": [
+         "0a493908-7b5e-4c0d"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "off"
+      ],
+      "X-Download-Options": [
+         "noopen"
+      ],
+      "X-Frame-Options": [
+         "Deny"
+      ],
+      "X-Ratelimit-Limit": [
+         "100"
+      ],
+      "X-Ratelimit-Remaining": [
+         "97"
+      ],
+      "X-Ratelimit-Reset": [
+         "1730244918"
+      ],
+      "X-Render-Origin-Server": [
+         "Render"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

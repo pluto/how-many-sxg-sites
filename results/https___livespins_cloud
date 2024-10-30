@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-4DlzPDM3f+16JlT1aD8/2dIjaBqJJZ2fo0bSOl+sios=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "FFZk1IftafcdVQVPuLGrP7L3ZapmqUqYa566eCExtjc=",
+            "cert-url": "https://livespins.com/cdn-fpw/sxg/cert.pem.msg.FFZk1IftafcdVQVPuLGrP7L3ZapmqUqYa566eCExtjc",
+            "date": 1730241967,
+            "expires": 1730846767,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIH21RT6sJNJ1wuUC6rK5aQKt3RP9kcSiQwnCxNp5nBDkAiANJIuag7iIvzXE1MOINnueJXoi8XLSsU9xFH1FBpzgaA==",
+            "validity-url": "https://livespins.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://livespins.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70b0613a7cf25-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:46:07 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=3VMoHiDPnb+VM+d31nlk59gTZGaivPiXh7ZvNsTIGqY="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

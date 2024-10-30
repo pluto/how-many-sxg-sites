@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-whKsHup7k0O54n13Ghg7uADixALyGCuUVkr+fZ4Z5/s=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "mPuYNUlLTcqau1VKlDH7RCVY1n4ElBz3gUVuyuldXME=",
+            "cert-url": "https://www.gazetaesportiva.com/cdn-fpw/sxg/cert.pem.msg.mPuYNUlLTcqau1VKlDH7RCVY1n4ElBz3gUVuyuldXME",
+            "date": 1730241571,
+            "expires": 1730846371,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHuhHq85pDvfidlKDQPfeWj04indew0ZewfSUsSau+zYAiAi5DFLwcJSB0x2p5Ra5YPDhCWj+IusEvliGAq5q0Vnuw==",
+            "validity-url": "https://www.gazetaesportiva.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.gazetaesportiva.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Ray": [
+         "8da7015ec7616892-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:39:31 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=4DgWC+vMQ1OM9MnXwzM0oXybUINInaMAy0FYCpvro3k="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:39:31 GMT"
+      ],
+      "Permissions-Policy": [
+         "geolocation=(), camera=()"
+      ],
+      "Referrer-Policy": [
+         "same-origin, no-referrer"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+      ],
+      "X-Cache": [
+         "HIT: 6"
+      ],
+      "X-Cache-Group": [
+         "normal"
+      ],
+      "X-Cacheable": [
+         "SHORT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff, nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN, SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "WP Engine"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block, 1; mode=block"
+      ]
+   }
+}

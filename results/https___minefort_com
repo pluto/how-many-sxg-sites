@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-RZwyIp2VK68YdkAwIfL1OIc6CPYj7oAuSRN7sunV5iw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "YdDpxEMom3jYvi7FUq3oz2JYm3tNC1KSFmtylRjd/7s=",
+            "cert-url": "https://minefort.com/cdn-fpw/sxg/cert.pem.msg.YdDpxEMom3jYvi7FUq3oz2JYm3tNC1KSFmtylRjd_7s",
+            "date": 1730242081,
+            "expires": 1730846881,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDDuT8WW2AMTxJXapnnAaFgOESLJeGatGgPflDd5lHH+QIgJOyKs70EQUqabmngWj+oZgPw7WvhEZb2VwyfJpFTvoc=",
+            "validity-url": "https://minefort.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://minefort.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70dd21754252d-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:01 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=WwBDmeACrkYb9pADz5MQRNt10iusIYtgDeZJakiQGlk="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Nel": [
+         "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Report-To": [
+         "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2B3bKmIcOATbYMCdsXTnF12wKWvACqLFrZ3GhOplO4U2B6pulYKW3uPxFwWyIeT%2BkeQ2lrozAmjiruXy1vWSb7VeHSYep9a5WlNR05RpmkOM2TBN6ijT2aWjlsve3yVXukj4Y9HqmDMw%2FKiw%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Robots-Tag": [
+         "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

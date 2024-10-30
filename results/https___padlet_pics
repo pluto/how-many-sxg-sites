@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-R/ppx4p+/hawvd4NDZ4HCRv4uH0cAlvqlvy5LBoziAo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "mjIy1TEueR8tVkAqYc+AJ5LqA6RRfipO+TDc1/OKcRA=",
+            "cert-url": "https://padlet.pics/cdn-fpw/sxg/cert.pem.msg.mjIy1TEueR8tVkAqYc-AJ5LqA6RRfipO-TDc1_OKcRA",
+            "date": 1730242291,
+            "expires": 1730847091,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIAfi3iO7q9Y6OXGAo0dHBwjonEjD0nBg2UPrGb38eEtOAiBqkBIB9nLyj2A/z/fKAuUpmHm5aGUfNRfRa1VDquahgw==",
+            "validity-url": "https://padlet.pics/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://padlet.pics/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da712f6f08cfab2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:51:31 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=8jXRwakjzvGih+TxnCehEb99HZFYjFMshC3CXBgjfxw="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Via": [
+         "1.1 google"
+      ],
+      "X-Backend-Old": [
+         "GKE"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Robots-Tag": [
+         "noindex"
+      ]
+   }
+}

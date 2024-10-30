@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-DeYDQ/iP/BmuonXHIAQ+gaq6XwbJnHwqWPDOM2R/xRQ=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "PkupYN1DPdgK+MP1CfnPJ0ZkHx0Wd+6MvI+LSE5B+nA=",
+            "cert-url": "https://hkgolden.com/cdn-fpw/sxg/cert.pem.msg.PkupYN1DPdgK-MP1CfnPJ0ZkHx0Wd-6MvI-LSE5B-nA",
+            "date": 1730241693,
+            "expires": 1730846493,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCICiutVOqZz9lcugCfW6iC0eDixJGo8R5ZMXWCZeENcGIAiEA7h+O5wvVzDm5/dIMVryLxJFVcymaTyyQVsUa4Nn5dX8=",
+            "validity-url": "https://hkgolden.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hkgolden.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7045da3667e2b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=gFc7QTVmU0RBt5Ayrg72cvB3CZ8xWshCJBV7Du9f4YI="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Last-Modified": [
+         "Fri, 26 Jan 2024 08:01:22 GMT"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Via": [
+         "1.1 google"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

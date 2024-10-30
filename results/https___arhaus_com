@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-JccyBAhINCKv9jwxArjZpq6RU081DObhuT8jeP0yick=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "t+kQbnbddXm3jIQgn6mnqhGbRB0UH3UcY93FIpP4NPM=",
+            "cert-url": "https://www.arhaus.com/cdn-fpw/sxg/cert.pem.msg.t-kQbnbddXm3jIQgn6mnqhGbRB0UH3UcY93FIpP4NPM",
+            "date": 1730240942,
+            "expires": 1730845742,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBOMl4HOA4U5yYJE5eAy8m15u3lJ0ZsnuFTI4CRhXpM1AiASLMzUUxUV12lZTqWWwVvJ5KPA2DZ0+1XHmP086Hrh/w==",
+            "validity-url": "https://www.arhaus.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.arhaus.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "clear"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en-US"
+      ],
+      "Content-Security-Policy": [
+         "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;"
+      ],
+      "Content-Type": [
+         "application/signed-exchange; charset=utf-8"
+      ],
+      "Digest": [
+         "mi-sha256-03=9pyzuP8hzyI6yqqtQPDAx2BpNG90dbm9MD9KfBb4rxI="
+      ],
+      "Etag": [
+         "W/\"cacheable:36819edb7f878b59bf8ea7aecb2b8e79\""
+      ],
+      "Nel": [
+         "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Powered-By": [
+         "Shopify"
+      ],
+      "Report-To": [
+         "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=SOkmf%2BxzxsHmiHnJrkL5AxxSSxbz2rM0GFWzR2bvY%2BiyghJ2AgA81h%2Ff5lRSUVwcRl4%2FMX5lTbr0u35DWvVK5N%2BpMxPAbG0FyJU9Noji4FtPiKpnMgDmBcrSUo03yUZCs6hcskv3op80n3VP\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Download-Options": [
+         "noopen"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Shopify-Nginx-No-Cookies": [
+         "0"
+      ],
+      "X-Sorting-Hat-Podid": [
+         "170"
+      ],
+      "X-Sorting-Hat-Shopid": [
+         "50790170795"
+      ],
+      "X-Storefront-Renderer-Rendered": [
+         "1"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

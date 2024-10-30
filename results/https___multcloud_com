@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-6lNWyCL7XqGXWfAWE/XwmFzkNAzuEp/ddyTYwpmEqBc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "tS7I6ghFexBOAlWSLC8RL2XMbhAgDkeQrcvzMadgWX4=",
+            "cert-url": "https://www.multcloud.com/cdn-fpw/sxg/cert.pem.msg.tS7I6ghFexBOAlWSLC8RL2XMbhAgDkeQrcvzMadgWX4",
+            "date": 1730242124,
+            "expires": 1730846924,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEXC08orsuwJkrMpxHNJPELWCsFsYmCfcvld2jUsH+SjAiEA0XqMw6Q6lg15eWM6Wtq4TLURH+qJoHYS46VJ4XYKaqg=",
+            "validity-url": "https://www.multcloud.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.multcloud.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70ede2228cf55-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:48:44 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=+q8LxOSHWe/vn1Yr8lxzV/v0gHRyAhoBk71+w0GxYyM="
+      ],
+      "Last-Modified": [
+         "Mon, 09 Sep 2024 03:30:48 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

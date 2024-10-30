@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Cfl7c17+PlZtjmqcpbbEjAT8ed06O5XE2rA5l/KpbFw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ibrgjWmmSCfvZdgrgoJmn5IUpm+QOq/lXeuU8htr1FQ=",
+            "cert-url": "https://tidbyt.com/cdn-fpw/sxg/cert.pem.msg.ibrgjWmmSCfvZdgrgoJmn5IUpm-QOq_lXeuU8htr1FQ",
+            "date": 1730242806,
+            "expires": 1730847606,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIG6aBeSzjsOcTYF5YunyZ8G/fuRIU2adGZ0crHKQNxC7AiEA5TOdCzQJXnD2MKs7+YxHifp9GApBN/TYLIvYTF/NBdQ=",
+            "validity-url": "https://tidbyt.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://tidbyt.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "clear"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en-US"
+      ],
+      "Content-Security-Policy": [
+         "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;"
+      ],
+      "Content-Type": [
+         "application/signed-exchange; charset=utf-8"
+      ],
+      "Digest": [
+         "mi-sha256-03=cXwN/BzKmBD8M/OPYulmNgkCcX4p4uOKECMf0/Uocn8="
+      ],
+      "Etag": [
+         "W/\"cacheable:dd99340e5f3cfcaba05074d8a4370027\""
+      ],
+      "Nel": [
+         "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Powered-By": [
+         "Shopify"
+      ],
+      "Report-To": [
+         "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=KC3SLdbmAk4Rf28nRTV5XxTkrFqrc8iaz680MGArWK8PAaep4a%2FGtyvowiEfnwMTpoKeE00597vJdhT4JoYDFdK5gKageuJZ0WX1szoqVKg8VTDZyJUuvzIGIbbrA5Y7EtkO5Hg1qdY%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Download-Options": [
+         "noopen"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Shopify-Nginx-No-Cookies": [
+         "0"
+      ],
+      "X-Sorting-Hat-Podid": [
+         "232"
+      ],
+      "X-Sorting-Hat-Shopid": [
+         "42647683235"
+      ],
+      "X-Storefront-Renderer-Rendered": [
+         "1"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

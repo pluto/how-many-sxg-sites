@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-7Zi0w3aYwwNzKLgqxJdsyZOHFYWAnBRKIYxXSbmbd3A=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "dnNSFoiIaIjoaI870db+c0AuA1PoJgz3qGYpRSMJYr0=",
+            "cert-url": "https://hothardware.com/cdn-fpw/sxg/cert.pem.msg.dnNSFoiIaIjoaI870db-c0AuA1PoJgz3qGYpRSMJYr0",
+            "date": 1730241714,
+            "expires": 1730846514,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDbh251Uw1NPqHKS/jetGpp8yjZqNaXQrnsI9JBkX2uHAiEArRs9D9gzqpcAjD7fY/tv19CkE8D5dY63alM++xHGzyA=",
+            "validity-url": "https://hothardware.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://hothardware.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "Content-Type, Authorization"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da704dd65adfaca-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:41:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=YeLnqpGBKqK60sG62OD0aC0wm4zDWLTtpxHI38rzMpM="
+      ],
+      "Link": [
+         "<https://hothardware.com/content/fonts/palatinoroman.woff>;rel=preload;as=font;crossorigin=anonymous,<https://hothardware.com/content/fonts/palatinoroman.woff>;rel=allowed-alt-sxg;header-integrity=\"sha256-LrMfwD4pzy1tBOg32Bvdc1FLzds/A3rlHLG/MCLlGF8=\",<https://hothardware.com/content/fonts/gillsansmt.woff>;rel=preload;as=font;crossorigin=anonymous,<https://hothardware.com/content/fonts/gillsansmt.woff>;rel=allowed-alt-sxg;header-integrity=\"sha256-IOmjk3uOTWTkFEOExNOonc78DnSOOL0i/0Riyu5xnBM=\",<https://hothardware.com/content/images/social-logos.png>;rel=preload;as=image,<https://hothardware.com/content/images/social-logos.png>;rel=allowed-alt-sxg;header-integrity=\"sha256-WRy69QkKAJNV6cf58rgWh0VkI1Kbf9gDPoGgBG1RG30=\",<https://hothardware.com/content/production/jquery.mcustomscrollbar.css>;rel=preload;as=style,<https://hothardware.com/content/production/jquery.mcustomscrollbar.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-5ThvB/9B4asINs7z/hgpGwTb3G9JdmCr6S4SMtI77Ss=\",<https://hothardware.com/content/production/tile.css>;rel=preload;as=style,<https://hothardware.com/content/production/tile.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-RPHuB3ZMs552ns8i8O0zhe3vmbSBCrR0tv69Vbg5Avo=\",<https://hothardware.com/content/production/accordionmenu.css>;rel=preload;as=style,<https://hothardware.com/content/production/accordionmenu.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-q9WU+8KyPSKyYpZFKJIoFhIg6RgSKeUGc9iK2nm7LEM=\",<https://hothardware.com/content/production/lite-yt-embed.css>;rel=preload;as=style,<https://hothardware.com/content/production/lite-yt-embed.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-yFAkgjeT6aHh8F58A3ceqxOtmWHfo+SoSx2BX+uHz1Y=\",<https://hothardware.com/>;rel=preload,<https://hothardware.com/>;rel=allowed-alt-sxg;header-integrity=\"sha256-kJEieFstUh81WAppvnv3wkuc7b7JAmffU3PMkLy9znI=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

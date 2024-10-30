@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ZzDUmDugppxNM90ay/r494GKyl7RBILem8mT50oPUMg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "pWZhD6ploBRZbe+AOpZoTlzLOzgbuLfwkSxTQ9HmgNA=",
+            "cert-url": "https://manhuaplus.com/cdn-fpw/sxg/cert.pem.msg.pWZhD6ploBRZbe-AOpZoTlzLOzgbuLfwkSxTQ9HmgNA",
+            "date": 1730242016,
+            "expires": 1730846816,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDxQq75tS30tgLP/N+bX442J8pwEznxLMUezTuDP/8ULQIhAIGNSiN9lDU9Gb2PGcy1L0AQJHwCaHKq8PiOT3rRPqHO",
+            "validity-url": "https://manhuaplus.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://manhuaplus.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70c3ce61867b9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:46:56 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=9rQ+PHz1b9He0mXGOlDTZkTuFBMFZfEDrLt8tMto+zo="
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "\"nosniff\" always"
+      ],
+      "X-Served-By": [
+         "manhuaplus.com"
+      ],
+      "X-Xss-Protection": [
+         "\"1; mode=block\" always"
+      ]
+   }
+}

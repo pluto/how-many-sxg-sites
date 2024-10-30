@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Dy0rxnGm7HxFV1wb8/AEbXf3GrWOUqX7Y8ayVs+cnIU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "RowRZEGu05qWBw3kbNJh0zjS9N1cUuKAFJYQfWH5k7w=",
+            "cert-url": "https://www.vinmec.com/cdn-fpw/sxg/cert.pem.msg.RowRZEGu05qWBw3kbNJh0zjS9N1cUuKAFJYQfWH5k7w",
+            "date": 1730242950,
+            "expires": 1730847750,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQD4f0WneyJ13/SYWlK2IdlNetuT7JYAGMM/ohtEcAv5uwIhAOzASc6Iv18/BshPWD223DRG7d1nToy9PYHFCqaNUvMc",
+            "validity-url": "https://www.vinmec.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.vinmec.com/vie",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Host"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Access-Control-Expose-Headers": [
+         "Content-Length,Content-Range"
+      ],
+      "Age": [
+         "112164"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7230ca70796f3-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:30 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=wQmTo+PL5WLNhA9E8wjl9d9TGh3I7ETiSHb7yOU8wbk="
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 16:41:45 GMT"
+      ],
+      "Link": [
+         "<https://www.vinmec.com/assets/images/close.svg>;rel=preload;as=image,<https://www.vinmec.com/assets/images/close.svg>;rel=allowed-alt-sxg;header-integrity=\"sha256-S22UWjw45/75yRY7fc382dQCZ85h3LxhLfSur+U9phE=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Sm-Cache-Status": [
+         "hit"
+      ],
+      "Ttl": [
+         "1730436511"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

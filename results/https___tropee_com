@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-fezeaOGwjBfMq86J8W1Msaok+cyazj19mGAtNwbo/k8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Zs4wGfjTC+al/+Cdwd755k+GMgkR017P7YR+xdOm5iQ=",
+            "cert-url": "https://www.tropee.com/cdn-fpw/sxg/cert.pem.msg.Zs4wGfjTC-al_-Cdwd755k-GMgkR017P7YR-xdOm5iQ",
+            "date": 1730242862,
+            "expires": 1730678462,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDatyFvsXarFOop3xBU5fADyF8EQKV4UHHyJTnjZSK91gIhAM+4XZF/gxg19SbxlcMetVRU0lc+6opM4sQyJxTnYd+c",
+            "validity-url": "https://www.tropee.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.tropee.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "169971"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da720e326ea944a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self'; script-src 'self' 'unsafe-eval' static.cloudflareinsights.com ajax.cloudflare.com https://js.stripe.com https://challenges.cloudflare.com storybook.dev.tropee.com player.vimeo.com cdn.segment.com *.sharethis.com *.hotjar.com fast.trychameleon.com cdn.jetboost.io https://assets-global.website-files.com d3e54v103j8qbb.cloudfront.net uploads-ssl.webflow.com inline www.googletagmanager.com; object-src 'none'; base-uri www.tropee.com demo.tropee.com *.preview.tropee.com; script-src-elem *.hsforms.net 'self' https://www.redditstatic.com/ads/pixel.js https://assets.sandbox.cello.so https://assets.cello.so telegram.org https://js.stripe.com https://www.googleadservices.com https://challenges.cloudflare.com cdn.tailwindcss.com https://www.youtube.com 'unsafe-inline' ajax.cloudflare.com https://googleads.g.doubleclick.net cdn.tokenproof.xyz *.hotjar.com segcdn.tropee.com code.jquery.com snap.licdn.com player.vimeo.com client.crisp.chat fast.trychameleon.com assets.calendly.com cdn.segment.com maps.googleapis.com static.cloudflareinsights.com www.googletagmanager.com js.hsforms.net js-eu1.hs-analytics.net js-eu1.hs-scripts.com js-eu1.hscollectedforms.net app.getbeamer.com js-eu1.hs-banner.com uploads-ssl.webflow.com https://cdn.prod.website-files.com https://assets-global.website-files.com *.sharethis.com ajax.googleapis.com cdn.jetboost.io d3e54v103j8qbb.cloudfront.net www.google-analytics.com connect.facebook.net analytics.tiktok.com static.ads-twitter.com https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js; style-src 'self' inline fonts.googleapis.com https://client.crisp.chat/static/stylesheets/client_default.css uploads-ssl.webflow.com https://cdn.prod.website-files.com https://assets-global.website-files.com https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css; style-src-elem 'unsafe-inline' 'self' fonts.googleapis.com client.crisp.chat app.getbeamer.com https://*.typekit.net https://p.typekit.net uploads-ssl.webflow.com https://assets-global.website-files.com https://cdn.prod.website-files.com app.tor.us https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css; style-src-attr  'unsafe-inline'; img-src 'self' data: blob: *; font-src 'self' data: rsms.me fonts.gstatic.com client.crisp.chat *.typekit.net uploads-ssl.webflow.com; connect-src 'self' data: https://tropee-demo-user-public-content.02cae71ebaedab0d6784208c256967d6.r2.cloudflarestorage.com https://tropee-user-public-content.02cae71ebaedab0d6784208c256967d6.r2.cloudflarestorage.com tropee-dev-core-service-private-content.s3.eu-west-1.amazonaws.com tropee-dev-core-service-public-content.s3.eu-west-1.amazonaws.com tropee-uat-core-service-private-content.s3.eu-west-1.amazonaws.com tropee-uat-core-service-public-content.s3.eu-west-1.amazonaws.com tropee-demo2-core-service-private-content.s3.eu-west-1.amazonaws.com tropee-demo2-core-service-public-content.s3.eu-west-1.amazonaws.com tropee-prod-core-service-private-content.s3.eu-west-1.amazonaws.com tropee-prod-core-service-public-content.s3.eu-west-1.amazonaws.com https://www.redditstatic.com https://pixel-config.reddit.com https://*.typekit.net https://conversions-config.reddit.com cdn.linkedin.oribi.io https://noembed.com wss://relay.walletconnect.com https://unavatar.io https://rsms.me/inter/font-files/Inter-roman.var.woff2 https://*.analytics.google.com https://px.ads.linkedin.com https://share.sandbox.cello.so https://share.cello.so client.crisp.chat https://storage.crisp.chat https://google.com https://api-js.mixpanel.com explorer-api.walletconnect.com oauth.telegram.org https://pagead2.googlesyndication.com https://analytics.pangle-ads.com https://adservice.google.com storybook.dev.tropee.com wss://*.pusher.com *.pusher.com auth.tokenproof.xyz forms-eu1.hscollectedforms.net registry.walletconnect.com wss://*.bridge.walletconnect.org wss://www.walletlink.org *.tropee.com s3.eu-west-1.amazonaws.com browser-http-intake.logs.datadoghq.eu client.relay.crisp.chat api.tor.us *.hotjar.com *.hotjar.io wss://*.hotjar.com wss://client.relay.crisp.chat api.segment.io app.launchdarkly.com events.launchdarkly.com fast.trychameleon.com mainnet-infura.wallet.coinbase.com cdn.segment.com eth-mainnet.alchemyapi.io o1045850.ingest.sentry.io *.google-analytics.com *.hubspot.com auth.unstoppabledomains.com polygon-mainnet.g.alchemy.com metadata.unstoppabledomains.com backend.getbeamer.com api.lens.dev *.preview.tropee.com api.demo.tropee.com api.uat.tropee.com api.dev.tropee.com *.sharethis.com www.facebook.com api.jetboost.io analytics.tiktok.com stats.g.doubleclick.net webflow.com data.stbuttons.click; media-src 'self' blob: data: * lh3.googleusercontent.com api.tropee.com cdn.simplehash.com *.preview.tropee.com minio.localhost.tropee.com tropee-dev-core-service-private-content.s3.eu-west-1.amazonaws.com s3.eu-west-1.amazonaws.com/tropee-dev-core-service-private-content tropee-dev-core-service-public-content.s3.eu-west-1.amazonaws.com s3.eu-west-1.amazonaws.com/tropee-dev-core-service-public-content tropee-uat-core-service-private-content.s3.eu-west-1.amazonaws.com s3.eu-west-1.amazonaws.com/tropee-uat-core-service-private-content tropee-uat-core-service-public-content.s3.eu-west-1.amazonaws.com s3.eu-west-1.amazonaws.com/tropee-uat-core-service-public-content tropee-demo2-core-service-private-content.s3.eu-west-1.amazonaws.com s3.eu-west-1.amazonaws.com/tropee-demo2-core-service-private-content tropee-demo2-core-service-public-content.s3.eu-west-1.amazonaws.com s3.eu-west-1.amazonaws.com/tropee-demo2-core-service-public-content tropee-prod-core-service-private-content.s3.eu-west-1.amazonaws.com s3.eu-west-1.amazonaws.com/tropee-prod-core-service-private-content tropee-prod-core-service-public-content.s3.eu-west-1.amazonaws.com s3.eu-west-1.amazonaws.com/tropee-prod-core-service-public-content; worker-src 'self'; frame-src *.preview.tropee.com *.tropee.com *.demo.tropee.com *.uat.tropee.com *.dev.tropee.com vars.hotjar.com verify.walletconnect.com *.embednotionpage.com storybook.dev.tropee.com calendly.com https://challenges.cloudflare.com www.crossmint.com form.typeform.com app.getbeamer.com td.doubleclick.net app.tor.us player.vimeo.com www.youtube.com auth.magic.link *.sharethis.com www.facebook.com https://js.stripe.com; frame-ancestors 'self' tropee-embed.pages.dev;"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:02 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=rLwCOwMc5cT4M9EpqZ2NDQuqqY45F18u8BQGYDE/REQ="
+      ],
+      "Last-Modified": [
+         "Sun, 27 Oct 2024 15:35:54 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=432000"
+      ],
+      "Surrogate-Key": [
+         "tropee.webflow.io 5f4df5f44c6e9b7e6a1edbcf pageId:65ba427adb8d562f49ba173d 66228a5f9296a5670ae300b9"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Lambda-Id": [
+         "2618c7e8-ecf8-48b5-9b24-da6c1e30faa0"
+      ]
+   }
+}

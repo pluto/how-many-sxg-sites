@@ -1,0 +1,97 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-/R2iRGy2LWhVn1Ae2b5WgySz695G+uoYghCrH2ywsDk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "JmTbtI/cb8a9yQYh1aMe8KWWsormcXrGXcJekE9m8ug=",
+            "cert-url": "https://bloodyelbow.com/cdn-fpw/sxg/cert.pem.msg.JmTbtI_cb8a9yQYh1aMe8KWWsormcXrGXcJekE9m8ug",
+            "date": 1730241065,
+            "expires": 1730259065,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCl49qVQbrahCe/QguOyBZmXp027fboWODjqks9px5yggIhANq9F4t3KG4/UlrGObFTar/pBgNgVGsoMTt83gq81k30",
+            "validity-url": "https://bloodyelbow.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://bloodyelbow.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Headers": [
+         "Origin, Content-Type, Accept, Authorization"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST, PUT, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "1241"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6f505e3621754-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src https: data: 'unsafe-eval' 'unsafe-inline' blob:"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:31:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=pszDborfXTcrEafi1r/d/D93M698PZH67iRutyfL6YU="
+      ],
+      "Gci-Cache": [
+         "{}"
+      ],
+      "Gci-Cache-Url": [
+         "https://bloodyelbow.com/"
+      ],
+      "Gci-Msg": [
+         "gci-4.5;live;"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:03:59 GMT"
+      ],
+      "Link": [
+         "<https://bloodyelbow.com/wp-content/themes/grv-media/css/deferred-carousel-custom.css?ver=1.15.30>;rel=preload;as=style,<https://bloodyelbow.com/wp-content/themes/grv-media/css/deferred-carousel-custom.css?ver=1.15.30>;rel=allowed-alt-sxg;header-integrity=\"sha256-y+v2eDsCL3Cjuzo5xb0Afv68SrHBBO+iB3WO+sTINGw=\",<https://bloodyelbow.com/wp-content/themes/bloody-elbow/css/deferred.css?ver=1.1.23>;rel=preload;as=style,<https://bloodyelbow.com/wp-content/themes/bloody-elbow/css/deferred.css?ver=1.1.23>;rel=allowed-alt-sxg;header-integrity=\"sha256-WIfTZFN/0IlpKmwdzJOkf/dx3cYwWfw2wu9zqAfHRUs=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

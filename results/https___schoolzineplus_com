@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-uopqFvYZy3LBLNRQPO8f4Emk2QBitMRG7PnKiKsh6Rg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "jY7Qkpb7gmAr5EXWHx93R9TTFI6wot/wh6JHy/H4eLo=",
+            "cert-url": "https://global2.schoolzineplus.com/cdn-fpw/sxg/cert.pem.msg.jY7Qkpb7gmAr5EXWHx93R9TTFI6wot_wh6JHy_H4eLo",
+            "date": 1730242550,
+            "expires": 1730847350,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCgPVUG933bn9WR2r9UL9iWpHGFF8Cm+CxlFXn5tr5n8wIgNQK5RQ23avMfSaJW7DgT5xeyMnI8D3iKZFKKXissrM8=",
+            "validity-url": "https://global2.schoolzineplus.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://global2.schoolzineplus.com/auth?callback=https%3A%2F%2Fwww.schoolzineplus.com%2Fschool%2Fselect",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71945d330cf1e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:55:50 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=vcyrDryCc/ThEl35IgV/AgCHtxwD7dOPA4j8sx++1d4="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ]
+   }
+}

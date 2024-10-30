@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-sWEgpS9ZBP8DWYRoKiUH4Jjui1GBqQN73c+PSVTl72s=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "eP+pNW1CaOkJJ2vGzCvdwPUP2NvfGtutyFgSEg9OVyM=",
+            "cert-url": "https://www.myinstants.com/cdn-fpw/sxg/cert.pem.msg.eP-pNW1CaOkJJ2vGzCvdwPUP2NvfGtutyFgSEg9OVyM",
+            "date": 1730242144,
+            "expires": 1730249344,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEzuJwEwb39t8mc0BubxhstXuhbYLSRMGvISYvi5MadUAiEAkMT5e1s3ZhwGwSF63M3sB2fAqiuGDAQaLI5+vWAYXuM=",
+            "validity-url": "https://www.myinstants.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.myinstants.com/en/index/us/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "55313"
+      ],
+      "Cache-Control": [
+         "max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70f5cb69567bb-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:49:04 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=UshzrKQFKpMT/MAFxuXged/gax9IvRj+Q81HFosmTGQ="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 05:38:20 GMT"
+      ],
+      "Link": [
+         "<https://www.myinstants.com/media/images/transparent_button_small_shadow.png>;rel=preload;as=image,<https://www.myinstants.com/media/images/transparent_button_small_shadow.png>;rel=allowed-alt-sxg;header-integrity=\"sha256-ouogiKQIKagHqtmHlIYfPtyn0AFteIhAbaARQP+w4M0=\",<https://www.myinstants.com/media/js/external.js>;rel=preload;as=script,<https://www.myinstants.com/media/js/external.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-qrPLuHhsx5HIuwFag1OftUNuW6s0otz8QSIM7t/j3oQ=\",<https://www.myinstants.com/media/images/transparent_button_small_sprite.png>;rel=preload;as=image,<https://www.myinstants.com/media/images/transparent_button_small_sprite.png>;rel=allowed-alt-sxg;header-integrity=\"sha256-BL8R0UwvuUptqIEYeoTjkyJiNhJu4HxDJrfxTx4dgmQ=\",<https://www.myinstants.com/media/js/bootstrap.bundle.min.js>;rel=preload;as=script,<https://www.myinstants.com/media/js/bootstrap.bundle.min.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-Aqel82wJ9RLLlN/L+826bSx+fKRSPcniBxHdgz045uQ=\",<https://www.myinstants.com/media/css/bootstrap-dark-5-1.1.3.min.css>;rel=preload;as=style,<https://www.myinstants.com/media/css/bootstrap-dark-5-1.1.3.min.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-rcLAxGatF23VakXXrvfRXbI3MDClQWhwNsVu793YytY=\",<https://www.myinstants.com/media/css/external.css>;rel=preload;as=style,<https://www.myinstants.com/media/css/external.css>;rel=allowed-alt-sxg;header-integrity=\"sha256-wbYW7komRVlzVBcSsOfJCHar6AFo5Uv/d1UM8g2hUxI=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Cookie,Accept-Encoding"
+      ]
+   }
+}

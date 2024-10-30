@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-T1SL7qY838HNsE4KLdV7iKfVhChLiWg/7qBvYyBchh4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "6im5InceR8qcHzgOJ2mA0MT/NNGdkUCO6g5FaV68C3Y=",
+            "cert-url": "https://gjirafa.tech/cdn-fpw/sxg/cert.pem.msg.6im5InceR8qcHzgOJ2mA0MT_NNGdkUCO6g5FaV68C3Y",
+            "date": 1730241601,
+            "expires": 1730846401,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQC6VJFP2u/W4aZGBeK8HqZdAjmEaPO5rRnLpGbxhzYtFwIgDiYY1ldee2nMGyXIB2jYuhltdepbn5HtQKy2+3F6wv0=",
+            "validity-url": "https://gjirafa.tech/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://gjirafa.tech/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7021c803ffaf4-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:40:01 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=+ImO0lVNRhHdWVIJnYN7MuFRESZupWKknDt+uyZBGXM="
+      ],
+      "Etag": [
+         "W/\"c157-vNWwc7vrO+EjmHwmeGttKodUceQ\""
+      ],
+      "Link": [
+         "<https://gjirafa.tech/_nuxt/11a4546.js>;rel=preload;as=script,<https://gjirafa.tech/_nuxt/11a4546.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-yU2Wg4id4q+zPuHQEzfRb7af7dv1fxT7RhIDV/9Jq8k=\",<https://gjirafa.tech/_nuxt/16ee4f4.js>;rel=preload;as=script,<https://gjirafa.tech/_nuxt/16ee4f4.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-FOgQj0YA520mzSFiW9qete2aA6A8t3OemS1+bA/vCr0=\",<https://gjirafa.tech/_nuxt/8301173.js>;rel=preload;as=script,<https://gjirafa.tech/_nuxt/8301173.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-tNxqaXiJcLWhA4NVlTiSQGbCeuKpDHGFf6takgQN3hc=\",<https://gjirafa.tech/_nuxt/fd7006e.js>;rel=preload;as=script,<https://gjirafa.tech/_nuxt/fd7006e.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-eOkM/ofDLk1WbJreMpz8i5LfG1auURvy0eUMe5lxkOU=\",<https://gjirafa.tech/_nuxt/8a37c7c.js>;rel=preload;as=script,<https://gjirafa.tech/_nuxt/8a37c7c.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-3OstRKqFEby6uFhblMXxLabnUxSENO6Et00bSva0uO0=\",<https://gjirafa.tech/_nuxt/8598790.js>;rel=preload;as=script,<https://gjirafa.tech/_nuxt/8598790.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-G+T1D1DolNEIW/WAudxZ3ga6qfefT8KzTRQOHsHbU8g=\",<https://gjirafa.tech/_nuxt/45b4763.js>;rel=preload;as=script,<https://gjirafa.tech/_nuxt/45b4763.js>;rel=allowed-alt-sxg;header-integrity=\"sha256-ES4jTihsursI8M/cv9/dQRW3U4UdSC7d3l7jjpC3RtQ=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

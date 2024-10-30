@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-k9fcWuAUnj2vBjjODhbeOPGRV+ESAiw9V/zt3vsPNZk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "giyTwSAyFvQQzaM05XX2wJaZjzSpRcPtZmpE5YWCk/k=",
+            "cert-url": "https://xconfessions.com/cdn-fpw/sxg/cert.pem.msg.giyTwSAyFvQQzaM05XX2wJaZjzSpRcPtZmpE5YWCk_k",
+            "date": 1730243049,
+            "expires": 1730847849,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGWjKCoizE3qvvTNaLZ/nE6b9uRSOqv9j+4bbDgj6ebAAiEAufLuXKYCxIlXOiWfkBGTTqct4SbWzeHuBy9DTIakcFw=",
+            "validity-url": "https://xconfessions.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://xconfessions.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "218"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da725766291ce78-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:04:09 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Ka7TSbyBP7x7/cbB+H/9yzA9DNX8Z1AINVId5SukLIM="
+      ],
+      "One_language": [
+         ""
+      ],
+      "Origin-Backend": [
+         "backend"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Server-Id": [
+         "erikaapp-production-varnish-cluster-1"
+      ],
+      "Vary": [
+         "Accept-Encoding, X-UA-Device, CF-IPCountry"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Device": [
+         "pc"
+      ]
+   }
+}

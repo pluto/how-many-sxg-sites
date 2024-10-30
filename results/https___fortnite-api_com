@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-nBw0CjHNdrQnOFblOkaSJlvhWjnIZC835JTKNYseZGM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "8FUUat9/9rNZ1hJv6Q9RyVxC1RGibkp80FlsBgRmv9k=",
+            "cert-url": "https://fortnite-api.com/cdn-fpw/sxg/cert.pem.msg.8FUUat9_9rNZ1hJv6Q9RyVxC1RGibkp80FlsBgRmv9k",
+            "date": 1730241532,
+            "expires": 1730331532,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIQCG4pngTrat4GdVGdt2kdq04uTQtJHsAYeJgBu181b78gIfGKr3hdUobpbL/qU7i5qNJJDUKbB2LUZWg70zSYHgDA==",
+            "validity-url": "https://fortnite-api.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://fortnite-api.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "52315"
+      ],
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7006e05751739-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:52 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=ceU5O5IqtfwetQdMJh9Kr5cPzGhjSBNZe48L2mZ522w="
+      ],
+      "Last-Modified": [
+         "Mon, 02 Sep 2024 06:25:22 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

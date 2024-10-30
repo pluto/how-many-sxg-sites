@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-f0s3FLVGZNhPzoCjESSRsmZSFVcVCTXiqBrTBMzFlhE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ciEjCTJDHykEZPMMW1HA+WUmRYseHsDD/72AHFyDeG0=",
+            "cert-url": "https://www.acordacidade.com.br/cdn-fpw/sxg/cert.pem.msg.ciEjCTJDHykEZPMMW1HA-WUmRYseHsDD_72AHFyDeG0",
+            "date": 1730240837,
+            "expires": 1730845637,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCICskgRnPNXTtJQq778BuzgsNRydByOff5IEmmuRQ/B9GAiAxJKRqp2HLRPDoDLskxadn9paAQpgxEQmct0atdZfr9g==",
+            "validity-url": "https://www.acordacidade.com.br/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.acordacidade.com.br/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Methods": [
+         "OPTIONS, DELETE, POST, GET, PATCH, PUT"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Cf-Ray": [
+         "8da6ef6f1196cf72-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:27:17 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=kUf/uVYORFCFrxpThDl4C5TBCazhnDxZi8sod2IjJ0k="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:27:07 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Status": [
+         "BYPASS"
+      ]
+   }
+}

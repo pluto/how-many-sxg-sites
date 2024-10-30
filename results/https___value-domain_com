@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-mV7rCWyJ7QETRIlYT3hRahPHiis4h3ntnv1nPtEtcnc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "2xRuPpcjgpYOiZq1iayBPYzWyTg3W06ar+jfEAhANb0=",
+            "cert-url": "https://www.value-domain.com/cdn-fpw/sxg/cert.pem.msg.2xRuPpcjgpYOiZq1iayBPYzWyTg3W06ar-jfEAhANb0",
+            "date": 1730242923,
+            "expires": 1730847723,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDIB4s3qaU6xly2a7h06227t2dc0ydlhz4LyvXwM50c4wIgNMUOxhnL+J74i1nC4HfxF4FoOt2giQ/dhHM9RH7vWek=",
+            "validity-url": "https://www.value-domain.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.value-domain.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da72264646a9834-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self' 'unsafe-inline' 'unsafe-eval' *.value-domain.com *.googleapis.com *.googletagmanager.com *.google-analytics.com  *.jquery.com *.ud-sandbox.com unstoppabledomains.com *.stripe.com *.gmo.jp cdn.jsdelivr.net siteseal.gmo-cybersecurity.com translate.google.com www.gstatic.com connect.facebook.net s.yimg.jp static-fe.payments-amazon.com *.cloudfront.net payments.amazon.co.jp *.amazon.com auth.login.yahoo.co.jp cdnjs.cloudflare.com fonts.gstatic.com data: blob: *.zopim.com *.zdassets.com wss: *.zopim.io cdn.datatables.net  *.google.com gmo-cybersecurity.com *.epsilon.jp *.webmoney.ne.jp *.ssl-images-amazon.com *.media-amazon.com cdn.polyfill.io platform.twitter.com kit.fontawesome.com *.globalsign.com *.doubleclick.net *.ads-twitter.com *.ebis.ne.jp minerva-deliver.sp.gmossp-sp.jp analytics.twitter.com t.co minerva-js.sp.gmossp-sp.jp *.yahoo.co.jp *.google.co.jp www.facebook.com analytics.google.com www.googleadservices.com *.fontawesome.com unpkg.com maxcdn.bootstrapcdn.com oss.maxcdn.com *.clarity.ms *.googlesyndication.com ajax.cloudflare.com c.bing.com *.docsbot.ai docsbot.ai *.youtube.com  *.fullstar10.com;"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:03 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=dgIk6Lrshiy6wfwwqIIYrFZPzw36RNgsQb/XyABWlB4="
+      ],
+      "Last-Modified": [
+         "Wed, 30 Oct 2024 00:00:02 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

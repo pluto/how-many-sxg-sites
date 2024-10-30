@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-xIdgi7uraUYyVUQrbDIfcca8GVXs2eXjYsggik3nmpU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "A3+vSlNEzVHDqf7IABR39tzny84BN1NULdzwc+Dvtrs=",
+            "cert-url": "https://ipban.com/cdn-fpw/sxg/cert.pem.msg.A3-vSlNEzVHDqf7IABR39tzny84BN1NULdzwc-Dvtrs",
+            "date": 1730241811,
+            "expires": 1730331811,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCjBZivCfEal4KbIOagnrf7CCCSYCxCtdpvfRtiFP9B8QIhAJaYOnkE0frND5vCb4pyEojKEqyaYAOVQY/Rg/FcApIY",
+            "validity-url": "https://ipban.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ipban.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=86400, must-revalidate"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7073484d3cf1b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:43:30 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=BpH55PkkLJrBJ6avslL55/MtiiUA6DeQjuPnDfSahZI="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 20:35:23 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

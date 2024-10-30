@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-hVVXxMDoW5zkhRY03Bohk5uUy0h9jG3Qvqj34dqQxrY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "u4wPy8OxICG+zEECo1nX+qFLCYwIibroBocXU97amKM=",
+            "cert-url": "https://fptcloud.com/cdn-fpw/sxg/cert.pem.msg.u4wPy8OxICG-zEECo1nX-qFLCYwIibroBocXU97amKM",
+            "date": 1730241538,
+            "expires": 1730846338,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDsEwb+Z2eOXwz43wnxwVknPHxvsbbD86qwVwZhcMVD+AiEA+ImDGfED3qnoPNi/HtLfGAIU10rwDH+0mOtwHXDxrGU=",
+            "validity-url": "https://fptcloud.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://fptcloud.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70085b21e15ae-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src 'self'; frame-src 'self' www.facebook.com web.facebook.com www.youtube.com livechat.fpt.ai; font-src * data:;img-src * data:; script-src 'unsafe-eval' 'unsafe-inline' *; style-src 'unsafe-inline' *; connect-src *"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:57 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=ZIRuZsaVv/ZUOoNcseWCaUw865k+R1d8AFbB96+b1oQ="
+      ],
+      "Permissions-Policy": [
+         "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()"
+      ],
+      "Referrer-Policy": [
+         "strict-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-kZhz4z9O7SSZnqg5RBL9jb+YWY15UcoauwoML2BVDT8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "fzTJO8nVK+Eewg6b8rYGe3A2i+GFUs51x+bVZ6exBns=",
+            "cert-url": "https://asianpinay.com/cdn-fpw/sxg/cert.pem.msg.fzTJO8nVK-Eewg6b8rYGe3A2i-GFUs51x-bVZ6exBns",
+            "date": 1730240951,
+            "expires": 1730248151,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGy/+THoWNu/aCmvUCFf+SirCQhneoUIBPq9piJhqUgIAiEA6BgF7kp/xHZ+mVBWi4Lhe4dQrAURSZ+Kk00Zi8MYMpY=",
+            "validity-url": "https://asianpinay.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://asianpinay.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "73808"
+      ],
+      "Cache-Control": [
+         "max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f23eb0deab8b-SJC-PIG"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:29:11 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=lX7DuRTCjkzlSYrnkzr1tfZD43GS4XBA4m949sOO7YY="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 02:58:51 GMT"
+      ],
+      "Link": [
+         "<https://asianpinay.com/wp-content/litespeed/ucss/e033ca0d0b0f6b1dddaff2d589224125.css?ver=c9825>;rel=preload;as=style,<https://asianpinay.com/wp-content/litespeed/ucss/e033ca0d0b0f6b1dddaff2d589224125.css?ver=c9825>;rel=allowed-alt-sxg;header-integrity=\"sha256-roTK36T81PSZHZcBRr7TR9DrH3c7g118MCOReKo/Zhg=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Litespeed-Cache": [
+         "hit"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ]
+   }
+}

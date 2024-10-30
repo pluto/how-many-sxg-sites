@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-JpJvNaXbXCJZjMZzs8veTNorEQgt3RBpoGCzSYX4oGI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "p5eUXUwtNC2D5tpGK522uvYNeAum6KDfAm7o2YS1o24=",
+            "cert-url": "https://www.puresquare.com/cdn-fpw/sxg/cert.pem.msg.p5eUXUwtNC2D5tpGK522uvYNeAum6KDfAm7o2YS1o24",
+            "date": 1730242408,
+            "expires": 1730847208,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCICjTwLrxPbNrcamhGRfO3H7tyHXt1dndhBHA+awbeMCDAiEA4KZGpnpK6WLOICC1yqD6IjJYwEZPBBiXOeIeATefMPQ=",
+            "validity-url": "https://www.puresquare.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.puresquare.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da715cc764efad2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src * data: 'unsafe-inline' 'unsafe-eval'; worker-src 'self' blob:;"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:28 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=681pUN0dKlZxNPM4WJhbbAyDSu7uGcOgxTdrCXbqHoQ="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Powered-By": [
+         "PHP/7.4.33"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

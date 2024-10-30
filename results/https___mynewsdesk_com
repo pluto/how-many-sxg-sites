@@ -1,0 +1,67 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-uFiMLo11snatNHWjglaXUkWcdPkUbCxtX3VZWihptVk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "UvzfrX51InDGnb/emPCE9EEr486LsVKw00LT1ncYhdU=",
+            "cert-url": "https://www.mynewsdesk.com/cdn-fpw/sxg/cert.pem.msg.UvzfrX51InDGnb_emPCE9EEr486LsVKw00LT1ncYhdU",
+            "date": 1730242149,
+            "expires": 1730256549,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCzhBObLi8Iw54mPN6SwRcZgn3qSPe7BXkAGZfHYqbfhwIge3Y66xRbNZgJcH2byO3WXv4P+A87BEccj2VHNs+JT28=",
+            "validity-url": "https://www.mynewsdesk.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.mynewsdesk.com/en/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=10800, must-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70f7fc02916fa-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:49:09 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=S2rnTyZquw58VHAf3Q9mTqrLgPkMa5x7o6cCfEMTSmc="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:28:41 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT: 1"
+      ],
+      "X-Cache-Group": [
+         "bot"
+      ],
+      "X-Cacheable": [
+         "bot"
+      ],
+      "X-Powered-By": [
+         "WP Engine"
+      ]
+   }
+}

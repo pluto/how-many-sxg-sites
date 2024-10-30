@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-GCHDLW7Jed70geHlp3FrRpyW7h99Uf0+7PCKEIGsdIg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "c7r+7tW/zhf+PclfHg3Rle+/+ub2kjl4eI+N7BwMWls=",
+            "cert-url": "https://iningame.com/cdn-fpw/sxg/cert.pem.msg.c7r-7tW_zhf-PclfHg3Rle-_-ub2kjl4eI-N7BwMWls",
+            "date": 1730241786,
+            "expires": 1730846586,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHC7tWLvsin2hcLX3dMIUC9a4L11mB74eIOX0y3PIFoLAiAf2EYECeo1uDvhzxr/+IsmWN6zSnYqNPnsdSbx8eTM5Q==",
+            "validity-url": "https://iningame.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://iningame.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Access-Control-Allow-Headers": [
+         "*"
+      ],
+      "Access-Control-Allow-Methods": [
+         "GET, POST,DELETE,PATCH, OPTIONS"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "37526"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da706a0e0d067a3-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:43:06 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=xrlCEJ8bGG1VA5TyMDXDlhnZtNB/I/DQHbTKaq6Xr9A="
+      ],
+      "Last-Modified": [
+         "Thu, 29 Aug 2024 03:10:06 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

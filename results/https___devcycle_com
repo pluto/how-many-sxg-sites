@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-iJ4G5ctv3znOulu8p8uJ4JuqcaLIf7+O6aOW8ob55lc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "s5UCPIbg2yK3EknF4cXJbAee9biLezXtj84eXxuCh6c=",
+            "cert-url": "https://devcycle.com/cdn-fpw/sxg/cert.pem.msg.s5UCPIbg2yK3EknF4cXJbAee9biLezXtj84eXxuCh6c",
+            "date": 1730241311,
+            "expires": 1730259311,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDmr8yZPWapJ46ev5ly/XPw1qaYuPypgJrcV8AgnmweQQIgFlfPlUydKMH47TLTRC3FzRaTWVDiDFglbATnwGWqJfU=",
+            "validity-url": "https://devcycle.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://devcycle.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Cf-Ray": [
+         "8da6fb0a130f985b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:11 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=+pQ77wOzgsdikPgeX93RwBoUMh2HSdcwgRqkc8UCkCM="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 03:35:11 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "RSC, Next-Router-State-Tree, Next-Router-Prefetch"
+      ],
+      "X-Matched-Path": [
+         "/"
+      ],
+      "X-Vercel-Cache": [
+         "HIT"
+      ],
+      "X-Vercel-Id": [
+         "cle1::iad1::75w7f-1730244911745-f51237574710"
+      ]
+   }
+}

@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-MnEmYkuqHHLcRv4WWVmXEHSv7deyCJPeUF9XH2z/OIg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "2gl/I/IbI2G/nnv+pFQchTeWucqDruqSh6xUSyZjuB8=",
+            "cert-url": "https://www.anyviewer.com/cdn-fpw/sxg/cert.pem.msg.2gl_I_IbI2G_nnv-pFQchTeWucqDruqSh6xUSyZjuB8",
+            "date": 1730240924,
+            "expires": 1730845724,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCAqOiqFW504yZV9XT7aq1n7vOmc74E5ktnDSKEUrFyoQIgBxu5dG0Zjgwj8aeNIPKw3I9EXUZfNiCB0IWAC+B1fO4=",
+            "validity-url": "https://www.anyviewer.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.anyviewer.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f1975677aab2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:44 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=EKjHQh8/yMhNSA7zXROocJu9m9nZ8K4yTWmVffVxQ4g="
+      ],
+      "Last-Modified": [
+         "Tue, 23 Jul 2024 07:24:03 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

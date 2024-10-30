@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-FOqvmeRaFybQ+2+vftg3j3LQ59EsrT/d9VkfuAP721c=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "m+GR/O7gn0JstR+YsuGPv0KhoxZAEnReVtScFQ1sFoI=",
+            "cert-url": "https://weszlo.com/cdn-fpw/sxg/cert.pem.msg.m-GR_O7gn0JstR-YsuGPv0KhoxZAEnReVtScFQ1sFoI",
+            "date": 1730243014,
+            "expires": 1730847814,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDbhPWBfnka8aoJVjuhnqck7GeR3WJBi1PuP2JLx7VYLQIgDhh5OLvPPXc/f0B898X/1gIGVbggPLB+NiZK6OspCFU=",
+            "validity-url": "https://weszlo.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://weszlo.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7249404d115e5-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=P7Lpi26p9PDt89zOxpHgV4WVx9+yadNKR2F38GTZwx0="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Nginx-Cache": [
+         "HIT"
+      ],
+      "X-Pingback": [
+         "https://weszlo.com/xmlrpc.php"
+      ]
+   }
+}

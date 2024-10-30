@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-YXgUHZSqU9VJDwweci85eng7VdBh0Sitpr53qpUGLcI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "S48D6SjauzrI3urccPR1jInjoqFkGxkjP/UorKqtQXk=",
+            "cert-url": "https://www.footballtransfers.com/cdn-fpw/sxg/cert.pem.msg.S48D6SjauzrI3urccPR1jInjoqFkGxkjP_UorKqtQXk",
+            "date": 1730241531,
+            "expires": 1730245731,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIHfwpxf6MPedKw3EEpSZk8VY8btzLI2bFzVIbOzBwP/yAiAzj5HDDwGf9QtB/Q36BLVRBveo4Nydk0XdEIT2A0RgEQ==",
+            "validity-url": "https://www.footballtransfers.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.footballtransfers.com/en",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "stale-while-revalidate=30, max-age=600, s-maxage=600"
+      ],
+      "Cf-Cache-Status": [
+         "EXPIRED"
+      ],
+      "Cf-Ray": [
+         "8da7006071f422c6-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "upgrade-insecure-requests"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:38:50 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Zwi/FOAU9gVpeNb7rns+boHapz2V1jOdLZ3pWP2mGiM="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:00:00 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

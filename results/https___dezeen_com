@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-g0vj43z77jNt1osyvLKZN7cbR045m5qPYH5PJAzK/eg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "RZ0Q19RSbg7lYxSUiNh+8nIoL2wBn8b8/RNXNJI+VhU=",
+            "cert-url": "https://www.dezeen.com/cdn-fpw/sxg/cert.pem.msg.RZ0Q19RSbg7lYxSUiNh-8nIoL2wBn8b8_RNXNJI-VhU",
+            "date": 1730241314,
+            "expires": 1730248514,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFmz0hvB3S5qqyhApqhJFp8nIebFcw4xcrbwv9rHiwPGAiEAgTXz6e0JyWqIr7aoYjry+YQ4tdksURjMJQ+5LydUBvU=",
+            "validity-url": "https://www.dezeen.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.dezeen.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "9715"
+      ],
+      "Cache-Control": [
+         "max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fb18963616a2-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:14 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=1iKZ029i4lCtnY4N4Ej6r/LSqaMLbjlhiSN5s8kRyVQ="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 21:53:18 GMT"
+      ],
+      "Obj-Hits": [
+         "2813"
+      ],
+      "Permissions-Policy": [
+         "\"browsing-topics=()\""
+      ],
+      "Seen-Cookie": [
+         ""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "accept-encoding"
+      ],
+      "Via": [
+         "1.1 varnish (Varnish/6.2)"
+      ],
+      "X-Cache": [
+         "hit cached"
+      ],
+      "X-Dzn-V": [
+         "1"
+      ],
+      "X-Geo-Varnish": [
+         ""
+      ],
+      "X-Grace": [
+         "normal"
+      ],
+      "X-Varnish": [
+         "663404910 663396023"
+      ]
+   }
+}

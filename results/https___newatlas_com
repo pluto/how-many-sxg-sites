@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-1wq1MI+pmgYq7yo/S3/oXUzXojfMhuWbRrpdIta6riU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Pe/Y4o8VKYNwCnyYGxOL3U6SvEILmnoP9a0T5jO1Jsg=",
+            "cert-url": "https://newatlas.com/cdn-fpw/sxg/cert.pem.msg.Pe_Y4o8VKYNwCnyYGxOL3U6SvEILmnoP9a0T5jO1Jsg",
+            "date": 1730242193,
+            "expires": 1730245913,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCaFjUDhcFDzd+igHPimPpg4/tFUh1k0KnntK55DRlGQwIhAJerq5/7U/ck1vhmb6gnLSU2p58Y2qV5cOkLnhfUe9Rq",
+            "validity-url": "https://newatlas.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://newatlas.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "92"
+      ],
+      "Cache-Control": [
+         "max-age=10, s-maxage=120"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71090a56b15eb-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html;charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:49:53 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=KXl2NsfJkQEgIGNpNSW3VU2hQuoAOUHsYJmLgcIVhnA="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:47:55 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 339452c01390814e1d6acd3488d8087e.cloudfront.net (CloudFront)"
+      ],
+      "X-Amz-Cf-Id": [
+         "OXfgD3ceHBpjeut4JABYVYpkehrssU7ubYoxEjvFIUBUPvz1-EiM-A=="
+      ],
+      "X-Amz-Cf-Pop": [
+         "LAX54-P5"
+      ],
+      "X-Cache": [
+         "Miss from cloudfront"
+      ],
+      "X-Na-Flags": [
+         "image_optimisation,trendmd_clw"
+      ],
+      "X-Robots-Tag": [
+         "max-image-preview:large"
+      ]
+   }
+}

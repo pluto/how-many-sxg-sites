@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-6jzNL2+k79Nb7k/LfBCyk2q0JdR1GvZFc+gqX2r/AZE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "mA9YgyRiRjoPhSjCLm3Zl+Sl/6kiRaerkW64B/4FQIM=",
+            "cert-url": "https://www.winkelstraat.nl/cdn-fpw/sxg/cert.pem.msg.mA9YgyRiRjoPhSjCLm3Zl-Sl_6kiRaerkW64B_4FQIM",
+            "date": 1730243026,
+            "expires": 1730247826,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDsOrQQme6DTEcobUuEYbYf6utf/oSiiWOv3PHJYIDSugIhAOVVbrLgcT3vTV2+ZVwrRWex9ZAfsxMihu7So84z+1M+",
+            "validity-url": "https://www.winkelstraat.nl/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.winkelstraat.nl/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1108"
+      ],
+      "Cache-Control": [
+         "max-age=1200"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da724ea005067d0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:46 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=xunfwWZWMumo9t6MpHtPJVEd5mh0etPPSgO3BGtgTBk="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:30:30 GMT"
+      ],
+      "Link": [
+         "<https://www.winkelstraat.nl/assets/fonts/neue-pixel-grotesk/NeuePixelGrotesk_Regular.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://www.winkelstraat.nl/assets/fonts/neue-pixel-grotesk/NeuePixelGrotesk_Regular.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-A5ObcXv7JQoskBElErKbmogJa0M56p88OGGY0xVbhmM=\""
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "off"
+      ],
+      "X-Download-Options": [
+         "noopen"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN, SAMEORIGIN"
+      ],
+      "X-Vs-Cache": [
+         "Hit"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

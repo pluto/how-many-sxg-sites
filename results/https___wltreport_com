@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-ZXoHDYSpC9Wc62THQig6glzw76uGrJ11OrTGKm8RrFg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "0JnT8U7h6sC9Po6PgEhnXVkZUlnSAvu9M3OnQs97AkA=",
+            "cert-url": "https://wltreport.com/cdn-fpw/sxg/cert.pem.msg.0JnT8U7h6sC9Po6PgEhnXVkZUlnSAvu9M3OnQs97AkA",
+            "date": 1730243030,
+            "expires": 1730847830,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCUtrKkJfQKESM2BwLfCR93cFGBbi+3DalOiAipqm/TmAIgM/k6qv/hV7ERgfxu18BQD6/WZl7Lf8O9Qwb5Td8UPKY=",
+            "validity-url": "https://wltreport.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://wltreport.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da72500373d9429-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Cross-Origin-Opener-Policy": [
+         "same-origin-allow-popups"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:50 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=tb08MyhuxAR2GlZIxWsJRADfCuUdN5/Ck2K3haBpdwo="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Status": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

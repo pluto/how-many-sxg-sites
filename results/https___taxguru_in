@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-/hlSpvHw73uWzFuzbO5iDspc3xOMOBhi+ikO9dIAAJk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "fm8FnwEAd1SatAnHl0nTkGC7U6d2lm6yrpLS2jJB+H8=",
+            "cert-url": "https://taxguru.in/cdn-fpw/sxg/cert.pem.msg.fm8FnwEAd1SatAnHl0nTkGC7U6d2lm6yrpLS2jJB-H8",
+            "date": 1730242752,
+            "expires": 1730248152,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBWAAQPF68RiORjSacRhiWRqOEGTYDa1tMsxErJ1fxKcAiEAxXRd0TesLScF+QBmxxWPyEvKE2NBu94WtEyijYM9I7E=",
+            "validity-url": "https://taxguru.in/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://taxguru.in/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "45930"
+      ],
+      "Cache-Control": [
+         "max-age=1800"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71e3655c3cf25-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:12 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=4Fi9Dq7Y4dWsUfXEldGT8U4XFHuLaRMlYsmE/SJ+vAU="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 11:11:01 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,Cookie"
+      ]
+   }
+}

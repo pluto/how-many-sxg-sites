@@ -1,0 +1,112 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-miHEFSxHNQvdLiYMkP0nD1jT3r2u+vC9lMauT0G9Ma8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "XS8i1mD6Tkue7gIbE+Q+0leAyrgaNhTSrvQwpz98FVI=",
+            "cert-url": "https://graylog.org/cdn-fpw/sxg/cert.pem.msg.XS8i1mD6Tkue7gIbE-Q-0leAyrgaNhTSrvQwpz98FVI",
+            "date": 1730241633,
+            "expires": 1730331633,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIFoZpNg4mabMR9kn0yBfzUxKJ/yKh2z89O5e4sQhHq3cAiBo2gl5xsROzkMzNmNMOxOvEoWfZQ4f+rKM28JT9IWv8Q==",
+            "validity-url": "https://graylog.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://graylog.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ch": [
+         "Sec-CH-UA-Mobile"
+      ],
+      "Cache-Control": [
+         "public, max-age=86400"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "MISS"
+      ],
+      "Cf-Edge-Cache": [
+         "no-cache"
+      ],
+      "Cf-Ray": [
+         "8da702e2e07fce84-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self';"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:40:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=0An5lWEwhc/uhI2NZygbWncWHKX70chiTjgLrZG3fF4="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:40:33 GMT"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Cookie, Cookie"
+      ],
+      "Via": [
+         "1.1 varnish, 1.1 varnish"
+      ],
+      "X-Cache": [
+         "MISS, HIT"
+      ],
+      "X-Cache-Hits": [
+         "0, 5272"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Nitro-Cache": [
+         "MISS"
+      ],
+      "X-Nitro-Disabled": [
+         "1"
+      ],
+      "X-Nitro-Disabled-Reason": [
+         "request type not allowed"
+      ],
+      "X-Pantheon-Styx-Hostname": [
+         "styx-fe3-b-7c5f7ff685-b4kd8"
+      ],
+      "X-Served-By": [
+         "cache-chi-klot8100031-CHI, cache-mia-kmia1760033-MIA"
+      ],
+      "X-Styx-Req-Id": [
+         "76c160bf-962d-11ef-accf-ba97463b1319"
+      ],
+      "X-Timer": [
+         "S1730245233.317875,VS0,VE4"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

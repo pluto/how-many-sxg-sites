@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-OL5ybKG7RhrdqXtPw6C7hT+s52IlKkv8RXL1hB1CWo4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "lzNQLCbasyhDnns65EgA+qs8pNawY3t+soZ9XuNpmeA=",
+            "cert-url": "https://adapty.io/cdn-fpw/sxg/cert.pem.msg.lzNQLCbasyhDnns65EgA-qs8pNawY3t-soZ9XuNpmeA",
+            "date": 1730240840,
+            "expires": 1730258840,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIF/3+XNTiU36vUs37epDS4KmPZR30rdaVeK0IkXSt7TGAiBH4ECsKgjvov5ca8G5ahC6KfrR/HxVRqjYIEPyIfnH4Q==",
+            "validity-url": "https://adapty.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://adapty.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "130393"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6ef87f6c79669-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:27:20 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=HFgNH9FO9ppaq2aHLj/s2jFMvz/0IEwmJAAKCH2tnqo="
+      ],
+      "Last-Modified": [
+         "Thu, 24 Oct 2024 08:49:07 GMT"
+      ],
+      "Permissions-Policy": [
+         "interest-cohort=()"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

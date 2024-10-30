@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-1btc1TilJodI7o+aK391RpOfNXYPiNTgHHnIUzm0bOg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "zCD0Efsm6dP9ZfdKtRhhiw0rHuF5bjGRr4UIPoAm/2M=",
+            "cert-url": "https://doradobet.com/cdn-fpw/sxg/cert.pem.msg.zCD0Efsm6dP9ZfdKtRhhiw0rHuF5bjGRr4UIPoAm_2M",
+            "date": 1730241350,
+            "expires": 1730846150,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDbNRBo53ReyxWqlkiAZDX0upHWzx4MVP8JQasj7bi88AIgO0wGBBm0txwG/MXSo5RwJlNc0s1AgPVLzuA3/zFA9NM=",
+            "validity-url": "https://doradobet.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://doradobet.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fbf8f35b96d8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:50 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=NDbVM6KROMu0xOY5CI/s1lk9qdQgObRvhdYPyeoCdUk="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

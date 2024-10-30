@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Ae8K2htGwJ4UDfQzLF3dAIDOsCzz1vZfY6XDcaPBSdc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "fdL7sJD7EIFQGdXH0KdO8V/tj3d9ViCpQopgyPczBQM=",
+            "cert-url": "https://namu.wiki/cdn-fpw/sxg/cert.pem.msg.fdL7sJD7EIFQGdXH0KdO8V_tj3d9ViCpQopgyPczBQM",
+            "date": 1730242167,
+            "expires": 1730846967,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDeSnncoiueh/+0j9wEnzgoNsQjLWRx1dmqfpUYD1J8WgIhAJZl+yrPhNMsVZjTrRHHVAZRmvwzoJ0pstubAMzNdCfc",
+            "validity-url": "https://namu.wiki/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70feb84d9fa3a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:49:27 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=3OwQqcYuUJKm4teHGH3keu2BZ9gdn6etp8dzXRfxo7g="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Namu-Source": [
+         "2"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

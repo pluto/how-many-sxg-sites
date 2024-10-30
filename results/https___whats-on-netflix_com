@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-v6hX+hjuPjTlKk/zRXJ1KL7+0V3OdWiimGopDYs6y14=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "O9PJdgL2DQdM7WgGI+s94t4U4hPPdGc2lO1ZR3SlAKs=",
+            "cert-url": "https://www.whats-on-netflix.com/cdn-fpw/sxg/cert.pem.msg.O9PJdgL2DQdM7WgGI-s94t4U4hPPdGc2lO1ZR3SlAKs",
+            "date": 1730243016,
+            "expires": 1730261016,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIArhWYvEi1AHf3T2AG5EwMaqWreqa1Hip2FWJpUmt0g7AiEA1eICrirVsbZUM3un66Bh1ekkGYrNdoti3/AAZo7HVe4=",
+            "validity-url": "https://www.whats-on-netflix.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.whats-on-netflix.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "origin,miss"
+      ],
+      "Cf-Cache-Status": [
+         "REVALIDATED"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da724ab379f24c9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:36 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=JND2iPglD2shbDXSdLoG9OKPkDlZxbfuNXPjxidEDcQ="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 00:03:36 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:34:02 GMT"
+      ],
+      "Link": [
+         "<https://www.whats-on-netflix.com/wp-content/uploads/2024/10/starting-renewed-for-season-netflix-943x530.jpg>;rel=preload;as=image;imagesrcset=\"https://www.whats-on-netflix.com/wp-content/uploads/2024/10/starting-renewed-for-season-netflix-943x530.jpg 943w, https://www.whats-on-netflix.com/wp-content/uploads/2024/10/starting-renewed-for-season-netflix-480x270.jpg 480w, https://www.whats-on-netflix.com/wp-content/uploads/2024/10/starting-renewed-for-season-netflix-768x432.jpg 768w, https://www.whats-on-netflix.com/wp-content/uploads/2024/10/starting-renewed-for-season-netflix-1280x720.jpg 1280w, https://www.whats-on-netflix.com/wp-content/uploads/2024/10/starting-renewed-for-season-netflix-jpg.webp 1200w\";imagesizes=\"(max-width: 943px) 100vw, 943px\";media=\"screen and (min-width: 481px)\",<https://www.whats-on-netflix.com/wp-content/uploads/2024/10/starting-renewed-for-season-netflix-943x530.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-rzcndtj2RB3uPUS4Mdyd07jdIPvclnXLwPXfuvDQusQ=\",<https://www.whats-on-netflix.com/wp-content/uploads/2024/10/Laurence-OFuarain-Teases-Roles-in-The-Sandman-season-943x530.jpg>;rel=preload;as=image;imagesrcset=\"https://www.whats-on-netflix.com/wp-content/uploads/2024/10/Laurence-OFuarain-Teases-Roles-in-The-Sandman-season-943x530.jpg 943w, https://www.whats-on-netflix.com/wp-content/uploads/2024/10/Laurence-OFuarain-Teases-Roles-in-The-Sandman-season-480x270.jpg 480w, https://www.whats-on-netflix.com/wp-content/uploads/2024/10/Laurence-OFuarain-Teases-Roles-in-The-Sandman-season-768x432.jpg 768w, https://www.whats-on-netflix.com/wp-content/uploads/2024/10/Laurence-OFuarain-Teases-Roles-in-The-Sandman-season-1280x720.jpg 1280w, https://www.whats-on-netflix.com/wp-content/uploads/2024/10/Laurence-OFuarain-Teases-Roles-in-The-Sandman-season-jpg.webp 1200w\";imagesizes=\"(max-width: 943px) 100vw, 943px\";media=\"screen and (max-width: 480px)\",<https://www.whats-on-netflix.com/wp-content/uploads/2024/10/Laurence-OFuarain-Teases-Roles-in-The-Sandman-season-943x530.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-Q25QX0KWMBqU1c42RTyOgxK+AZxuEAdNiulwEJrLc+Y=\",<https://www.whats-on-netflix.com/wp-content/uploads/2024/02/american-primeval-netflix-release-date-netflix.jpg>;rel=preload;as=image,<https://www.whats-on-netflix.com/wp-content/uploads/2024/02/american-primeval-netflix-release-date-netflix.jpg>;rel=allowed-alt-sxg;header-integrity=\"sha256-/bbTp5y7bpaSkyC9zWhf9BPmWOo1OpblHQpxdzpAMcM=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Server-Timing": [
+         "wp-before-template;dur=98.17"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent,User-Agent,Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ]
+   }
+}

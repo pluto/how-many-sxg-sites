@@ -1,0 +1,46 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-LSxiGjCk93s/Q6uulXa5gpHl4N6tfQAf0xicef3lUYY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "slkOKSZRCyhfcR2s2ED32zvh8sS3LIlk+mIVlG9uzWg=",
+            "cert-url": "https://www.dialog.ua/cdn-fpw/sxg/cert.pem.msg.slkOKSZRCyhfcR2s2ED32zvh8sS3LIlk-mIVlG9uzWg",
+            "date": 1730241318,
+            "expires": 1730846118,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBsMJb2KIF3ajDArt3YoxPfqTe5ln0qFwNr5tq10Ng1nAiB4sSVvYszTDDSN4xxP4e7psBESVMsJk6x/AulxsPjrsw==",
+            "validity-url": "https://www.dialog.ua/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.dialog.ua/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fb2e1012983a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:18 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=7J611flUaSYLG1+SeywhQHlg4pvMqMuW0QUclpeb6BM="
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

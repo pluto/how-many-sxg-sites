@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-+VuYDBxUhAwpK3ob2F2naRSiLLkD5vUAt9+bxBiRDtw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "PiqyU6TfLJmGHIWsx17iZOzlJ41DiBcsmG/+yLoZETM=",
+            "cert-url": "https://ecuabet.com/cdn-fpw/sxg/cert.pem.msg.PiqyU6TfLJmGHIWsx17iZOzlJ41DiBcsmG_-yLoZETM",
+            "date": 1730241395,
+            "expires": 1730846195,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCT2JbBmRoE10vfJ2T5pGpkP5/RsxBXz8QAbMe0qBFmPwIgbKNIt9YBfRQ5fM+UpKAekZJz/7Dd214O63emdB04PRY=",
+            "validity-url": "https://ecuabet.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ecuabet.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fd1426bd67f4-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:36:35 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=qXYfOJVl66ow7x8ETFxr+UX55ohAzZB1A+hq2nd8vbI="
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Xss-Protection": [
+         "1;mode=block"
+      ]
+   }
+}

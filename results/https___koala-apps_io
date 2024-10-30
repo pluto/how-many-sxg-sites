@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Syx66qzess4LD9aQ2C9fUtf1sgbJE0t/eV84n9ffLSw=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "CdNXCZKAjdmMiVMW94AwrlRAYAXoHrWWRISayGq0t8A=",
+            "cert-url": "https://koala-apps.io/cdn-fpw/sxg/cert.pem.msg.CdNXCZKAjdmMiVMW94AwrlRAYAXoHrWWRISayGq0t8A",
+            "date": 1730241903,
+            "expires": 1730259903,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBfnfuW4uZm1ujTMWKqBhRs2osrIzvYTrl55JIRvLVeGAiAV11u1PEB9TddflIk1JNcpZCrx+oMIhfYZGccsEuBJJA==",
+            "validity-url": "https://koala-apps.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://koala-apps.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "14923"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7097ab41296e7-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:45:03 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=eTpiVTpFz/ZfZm0Mc+WPVL5u2KL/3VvAamvlCoD2G8I="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 14:13:53 GMT"
+      ],
+      "Permissions-Policy": [
+         "accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), fullscreen=(), geolocation=(), gyroscope=(), interest-cohort=(), layout-animations=(), legacy-image-formats=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), oversized-images=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-script=(), sync-xhr=(), usb=(), vertical-scroll=(), web-share=(), wake-lock=(), xr-spatial-tracking=()"
+      ],
+      "Referrer-Policy": [
+         ""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "MISS"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ]
+   }
+}

@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-tRgbtV2rR7pHDvjayqGR80lyaqhi7tHJLnwq5UZkosc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "mhrzRowukdweCJrcBtEXhuYNi+7BTQ9hYoGEnJxG1go=",
+            "cert-url": "https://crypto.news/cdn-fpw/sxg/cert.pem.msg.mhrzRowukdweCJrcBtEXhuYNi-7BTQ9hYoGEnJxG1go",
+            "date": 1730241258,
+            "expires": 1730244978,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIFSxizydrkAouZmuu+7a3fW0mXU3EpaaCoThy+dVnuplAiB2IRuefWUe5DNJivM14YxsKw7ljFLFHj/UX8ltJpptvA==",
+            "validity-url": "https://crypto.news/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://crypto.news/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "2045"
+      ],
+      "Cache-Control": [
+         "max-age=120"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6f9be118afae3-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:34:18 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=vDR6BHu2Si0k2JrCIkOVrf46LkdjI1CGfT+WGqr2ZXU="
+      ],
+      "Fastcgi-Cache": [
+         "EXPIRED"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:00:13 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

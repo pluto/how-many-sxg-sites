@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-yKWO3fG13apRWli9y3k2mNy0kXSJlAD7rTj/gDtcGPY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "wwosaJQhMZkp2R/3xIZceZR6w67o7dA+GzvM6MeFPNM=",
+            "cert-url": "https://www.aznude.com/cdn-fpw/sxg/cert.pem.msg.wwosaJQhMZkp2R_3xIZceZR6w67o7dA-GzvM6MeFPNM",
+            "date": 1730240989,
+            "expires": 1730248189,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQDJ6N6wZUfeWb5SiERTCAVZpJwCiajaEWxHwmPyfbCbhAIgfKjKcm39AIto41hTDteRmwK90m2UeWC8Rct5N5mJGNQ=",
+            "validity-url": "https://www.aznude.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.aznude.com/index.html",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "2525"
+      ],
+      "Cache-Control": [
+         "public, max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f32b43f8fa52-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:29:49 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=xGBmritJgqRHIrSqhgCz7Y3l5ezzMKuIWlUSmz0dKtA="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:47:44 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 13:05:45 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Goog-Generation": [
+         "1730207145009519"
+      ],
+      "X-Goog-Hash": [
+         "crc32c=/bKSxQ==, md5=s2Pd/T4pDqP8Oc7RcZfPjA=="
+      ],
+      "X-Goog-Meta-Goog-Reserved-File-Mtime": [
+         "1730191632"
+      ],
+      "X-Goog-Metageneration": [
+         "1"
+      ],
+      "X-Goog-Storage-Class": [
+         "STANDARD"
+      ],
+      "X-Goog-Stored-Content-Encoding": [
+         "identity"
+      ],
+      "X-Goog-Stored-Content-Length": [
+         "165098"
+      ],
+      "X-Guploader-Uploadid": [
+         "AHmUCY0gfuCUXaL9-biWUOpN17h5AdY8BuyHEMIZqZ8sAgUcewnKXqM-p3yG38lXkO9Le6_U6tE"
+      ]
+   }
+}

@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-uU+JgtKOLDpD7DZy4B786fGHIGYQa2++1gksjxkCu2w=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Xp8MmatT4Ih6I28GwYQX7lmthnZ4GBrJA8XbtimSYKM=",
+            "cert-url": "https://telqtele.com/cdn-fpw/sxg/cert.pem.msg.Xp8MmatT4Ih6I28GwYQX7lmthnZ4GBrJA8XbtimSYKM",
+            "date": 1730242769,
+            "expires": 1730246669,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIE00/flR3A4ynpguxnmc0pfMES+pGID0cwYAl0YGlj0OAiBAozfVdADa+CHTnLyp9+QSUKbj1PZFzjRn9W6CJHeMwA==",
+            "validity-url": "https://telqtele.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://telqtele.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "123417"
+      ],
+      "Cache-Control": [
+         "max-age=300"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71ea0d2dcceb9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:29 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=21wVSB4TkJuggol6qyk9S1ARSnT+kF6nWSZmeVKb4Ew="
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 10:40:44 GMT"
+      ],
+      "Link": [
+         "<https://telqtele.com/wp-content/uploads/elementor/css/post-10.css?ver=1722501437>;rel=preload;as=style,<https://telqtele.com/wp-content/uploads/elementor/css/post-10.css?ver=1722501437>;rel=allowed-alt-sxg;header-integrity=\"sha256-7GcLSbLS0Sq3zyLWyQzq57JjTreES0Vjtqxkm8uPnZY=\",<https://telqtele.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.7.4>;rel=preload;as=style,<https://telqtele.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.7.4>;rel=allowed-alt-sxg;header-integrity=\"sha256-ohJk9hJrBs0+TrNTbD4mr+fvXi2xLDdfD/krJ/tJud4=\",<https://telqtele.com/wp-content/uploads/essential-addons-elementor/eael-6229.css?ver=1724930473>;rel=preload;as=style,<https://telqtele.com/wp-content/uploads/essential-addons-elementor/eael-6229.css?ver=1724930473>;rel=allowed-alt-sxg;header-integrity=\"sha256-bOjDN4LhlSklAyfXWsB20qB+PpiT0yGGwDx+jmXJNkA=\",<https://telqtele.com/wp-content/themes/silicon/assets/vendor/swiper/swiper-bundle.min.css?ver=1.6.8>;rel=preload;as=style,<https://telqtele.com/wp-content/themes/silicon/assets/vendor/swiper/swiper-bundle.min.css?ver=1.6.8>;rel=allowed-alt-sxg;header-integrity=\"sha256-viNkRJCSpqt0dmoDtDK75Bd+WrLicYkLYavQH6TVkzo=\",<https://telqtele.com/wp-content/uploads/elementor/css/post-6229.css?ver=1724926898>;rel=preload;as=style,<https://telqtele.com/wp-content/uploads/elementor/css/post-6229.css?ver=1724926898>;rel=allowed-alt-sxg;header-integrity=\"sha256-tDlxTPYkIIYwpsjtfYzuuMDjWE9alWPV0u/6GMamO0o=\",<https://telqtele.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.3>;rel=preload;as=style,<https://telqtele.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.3>;rel=allowed-alt-sxg;header-integrity=\"sha256-7G44M3mh4OzKm2Jqna0x6O8CLz9nYZb14L3H6GRXabo=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Litespeed-Tag": [
+         "11f_HTTP.200"
+      ]
+   }
+}

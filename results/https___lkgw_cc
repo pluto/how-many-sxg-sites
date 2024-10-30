@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-RkxqLOleegBMAPqLZxO01HEN6j6nFCSb5iso2oo9YOM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Q9oFR8/w8ZXxvLO2S3P8oIYRW/M5bmR7SZTt0RuqoMo=",
+            "cert-url": "https://cutt.ly/cdn-fpw/sxg/cert.pem.msg.Q9oFR8_w8ZXxvLO2S3P8oIYRW_M5bmR7SZTt0RuqoMo",
+            "date": 1730241969,
+            "expires": 1730846769,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFa3nrFd8SK/pXhegECsrc18HkKUBIhJPrm12GRgPeKYAiEAw/mp5XJI02mKLc34UQ7DbLHv2cH1GRyY+YLYJi5LQQk=",
+            "validity-url": "https://cutt.ly/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://cutt.ly/branded-domains/lkgw.cc",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da70b19615615d4-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:46:09 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=CzR/l1UgYMSrilDt6DdOL4xT1aTKankynhF+kRb6Ir8="
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-l9cVlMkf28Wpjz353IYBPPNsbW7Yeb1ME2Nysu5mUnk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "p5w2+UijfPfDmWYMoXy+JyZfifGx220U7Itx+jyP7uQ=",
+            "cert-url": "https://alarbda.com/cdn-fpw/sxg/cert.pem.msg.p5w2-UijfPfDmWYMoXy-JyZfifGx220U7Itx-jyP7uQ",
+            "date": 1730240884,
+            "expires": 1730845684,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBwZUPDjPUIwJEur5LQ61csN7u+aF5JMN+q6SymEVaR8AiEAidWSOnf4qvOubO2ukyEYep7yz8NuVFwQVmFmGLapuPs=",
+            "validity-url": "https://alarbda.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://alarbda.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=31536000"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f09993cd6804-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:04 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=NFJcGzIYqNDlGLUcm1YcUzV35Zynn4H4uubPV1KvBSE="
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 16:45:10 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

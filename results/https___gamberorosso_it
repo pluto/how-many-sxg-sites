@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-HwBk4bil0haTWSlepHlXrp3uX9ru6W105KC/WC4kmqo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "m1Ee5EgCeuQAPfvJmgSF0Sh1QzfQ8zkDqUYU2RbJg4s=",
+            "cert-url": "https://www.gamberorosso.it/cdn-fpw/sxg/cert.pem.msg.m1Ee5EgCeuQAPfvJmgSF0Sh1QzfQ8zkDqUYU2RbJg4s",
+            "date": 1730241561,
+            "expires": 1730246961,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDoseDZ0krhcFf+C+82DfV7El/516YwXG0iYzSgKkKShgIhAMVylgOv43JLNJ1r+TZzEr1xFuMD9DacN96XgEQenHLL",
+            "validity-url": "https://www.gamberorosso.it/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.gamberorosso.it/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ],
+      "Cache-Control": [
+         "max-age=1800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da70120e4aef9f9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:39:21 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=kHz+b9sta3n0Wm29VVgQAjNUyAYPT9nzrbn+W9h9lds="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 22:49:49 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "Via": [
+         "1.1 google"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

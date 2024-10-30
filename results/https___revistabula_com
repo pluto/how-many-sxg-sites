@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-x+C9BoFMC4WchxA3L481SCWYxqLqcQRlNuz9ozByPwE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "mMqQK9pEjKsQxm+dIzCZS1X+BfbkwoSu2oAL2WDs1QA=",
+            "cert-url": "https://www.revistabula.com/cdn-fpw/sxg/cert.pem.msg.mMqQK9pEjKsQxm-dIzCZS1X-BfbkwoSu2oAL2WDs1QA",
+            "date": 1730242471,
+            "expires": 1730847271,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDa2bsksxMvL+HQcBGFn6qTcbXZQKpMfpiYeic2nRk4GgIhAKYyUBZTmhsNN0ipWhNo+dYV03okb0+sW3f7VUbSbnDV",
+            "validity-url": "https://www.revistabula.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.revistabula.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da71758b2c596c9-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:54:31 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=cHzm4nGu0Frbf3kfSwhj8USQV0yFghsRRQaeVNmo/aw="
+      ],
+      "Link": [
+         "<https://www.revistabula.com/wp/wp-content/litespeed/css/784a4d2b8a6e3c7aead3a7d69580b08a.css?ver=e839a>;rel=preload;as=style,<https://www.revistabula.com/wp/wp-content/litespeed/css/784a4d2b8a6e3c7aead3a7d69580b08a.css?ver=e839a>;rel=allowed-alt-sxg;header-integrity=\"sha256-zfJisCieWiQ6HfJde+UEjEfgGCADZ1CY64vEb2WQ2d8=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Dns-Prefetch-Control": [
+         "on"
+      ],
+      "X-Litespeed-Cache": [
+         "hit"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ]
+   }
+}

@@ -1,0 +1,55 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-iqy1BXHcL8imzmnhQXjpXNorpCceAaoSA2FDCTohIH4=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "PV6e51762Wm/GxgPEp7IhIfrGkXBnYvWFkO6PjfgW/A=",
+            "cert-url": "https://www.trustguard.com/cdn-fpw/sxg/cert.pem.msg.PV6e51762Wm_GxgPEp7IhIfrGkXBnYvWFkO6PjfgW_A",
+            "date": 1730242865,
+            "expires": 1730247065,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDcwSMWAa8t7tsNIwmsALZGTEGlAEX+y+pLerOo/3g11AIhAJ8LzRFHb/Og/dU9xMqpzBw6wfSxuZXbxh7VVmOgdju/",
+            "validity-url": "https://www.trustguard.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.trustguard.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=600"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da720f7f13bfb40-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:05 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=k/1DD6B32XiuDVvI6nTN0V5TKOHsr0qIMTyHawf6S0Q="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 00:11:05 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding,User-Agent"
+      ]
+   }
+}

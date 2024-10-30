@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-EBz/fdDMrHxOq09evW7Owit5LL1LlZb9E3fMlm14QrY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "ikP7GtHJFkELP4DnD0NVKKp29mdqJ9iJ/xV4gs5Qd/E=",
+            "cert-url": "https://pmvhaven.com/cdn-fpw/sxg/cert.pem.msg.ikP7GtHJFkELP4DnD0NVKKp29mdqJ9iJ_xV4gs5Qd_E",
+            "date": 1730242357,
+            "expires": 1730332357,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQCeGBWOtkWgYPABpORLSH2qe1BSk9NsbZIPnPALHj3u0QIhAOFrwSsyw+jchp18i83eazLqz3aYHqyYsekZJLHZxzGA",
+            "validity-url": "https://pmvhaven.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://pmvhaven.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "549"
+      ],
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7148fa0be2710-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html;charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:52:37 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=hmFYGQLpqbQNYA1pP1CKkPBjXxvMEoRXJp1aJDhcZS8="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:43:28 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Powered-By": [
+         "Nuxt"
+      ]
+   }
+}

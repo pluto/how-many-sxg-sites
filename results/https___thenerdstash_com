@@ -1,0 +1,97 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-7z3waUYF104wGwb84BTd0GeOPxsWuMf93KqWfWLmy2c=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "rIRwZx+NGXPqrOhSAsO9PUrqMUimEdkpiE+PdR2lZ1o=",
+            "cert-url": "https://thenerdstash.com/cdn-fpw/sxg/cert.pem.msg.rIRwZx-NGXPqrOhSAsO9PUrqMUimEdkpiE-PdR2lZ1o",
+            "date": 1730242791,
+            "expires": 1730847591,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBBsDGXW6m7xepPT2rMqJMpppZUq9athmBXh0J2/jadpAiEAuXWn1cKycZxTqqvqkZl+7o+RNF/d26DscML1S6iX75A=",
+            "validity-url": "https://thenerdstash.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://thenerdstash.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "952"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+      ],
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cdn-Cache-Control": [
+         "max-age=2592000"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71f2ac78e17e0-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:59:51 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=qhRpODeQGtz63mPAoF8gti/ZQBpLdNrUrnAl8SMzjV4="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:43:39 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:43:39 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Flying-Press-Cache": [
+         "MISS"
+      ],
+      "X-Flying-Press-Source": [
+         "PHP"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         ""
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

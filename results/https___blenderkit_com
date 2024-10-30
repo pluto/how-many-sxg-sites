@@ -1,0 +1,82 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-otnO/+kAonnGcfin06bpJAZCC2BOA69YraKDNoJa+Ug=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "gZ/G3ueM7vYVogDqeaAg2/mfb7PlGCsb5GU6/btrz6U=",
+            "cert-url": "https://www.blenderkit.com/cdn-fpw/sxg/cert.pem.msg.gZ_G3ueM7vYVogDqeaAg2_mfb7PlGCsb5GU6_btrz6U",
+            "date": 1730241057,
+            "expires": 1730331057,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDQiBrUKJvMqieKkrp+CiVHw83Y5ASfdmg3eakp6emvPgIhAIC4hsE7VU64FNpFc0rPuy3Uc+mCqG+u6uO3IU8NxHBr",
+            "validity-url": "https://www.blenderkit.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.blenderkit.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "635"
+      ],
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f4d3c7439661-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Cross-Origin-Opener-Policy": [
+         "same-origin"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:30:57 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=2BUFS1IiY9VXxOZMyZMyVmfKnjK1QbsG8uHEeC5C2X8="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 13:10:31 GMT"
+      ],
+      "Nel": [
+         "{\"report_to\":\"heroku-nel\",\"max_age\":3600,\"success_fraction\":0.005,\"failure_fraction\":0.05,\"response_headers\":[\"Via\"]}"
+      ],
+      "Referrer-Policy": [
+         "same-origin"
+      ],
+      "Report-To": [
+         "{\"group\":\"heroku-nel\",\"max_age\":3600,\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?ts=1730207431&sid=67ff5de4-ad2b-4112-9289-cf96be89efed&s=6MlDLri37RXSG9jNJugdgCMENk3Na7fITzaNZ%2BaDmuE%3D\"}]}"
+      ],
+      "Reporting-Endpoints": [
+         "heroku-nel=https://nel.heroku.com/reports?ts=1730207431&sid=67ff5de4-ad2b-4112-9289-cf96be89efed&s=6MlDLri37RXSG9jNJugdgCMENk3Na7fITzaNZ%2BaDmuE%3D"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Cookie, Accept-Encoding, origin"
+      ],
+      "Via": [
+         "1.1 vegur"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ]
+   }
+}

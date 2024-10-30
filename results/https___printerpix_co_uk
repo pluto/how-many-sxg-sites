@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-UuHUnu4v0QCD6457zF8y54T3TMMjQJj7w/T9kFo75IM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "rT4K3HUpLZNsmqgCwVet0CgEJXsNAsAd9B/7m6pSl3w=",
+            "cert-url": "https://www.printerpix.co.uk/cdn-fpw/sxg/cert.pem.msg.rT4K3HUpLZNsmqgCwVet0CgEJXsNAsAd9B_7m6pSl3w",
+            "date": 1730242388,
+            "expires": 1730847188,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCxWk5dOU/1TorSiz+bzBa8Myi/qJpvylrcfHjXwIcGoQIgeUu8K+qnl7gQsfdXSylV+oZNYefoB85/8kxToLgGVKY=",
+            "validity-url": "https://www.printerpix.co.uk/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.printerpix.co.uk/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7154a1418f99f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:07 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=9zpOg5Rfye0K26GeLL6P8Ga/EragCYNW7ZjDdU3hGoA="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Country": [
+         "US"
+      ],
+      "X-Ip": [
+         "2a06:98c0:3600::103"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ],
+      "X-Src-Ip": [
+         "2a06:98c0:3600::103"
+      ],
+      "X-Svr-Id": [
+         "UKLB1"
+      ]
+   }
+}

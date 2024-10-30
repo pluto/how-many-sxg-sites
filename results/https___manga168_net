@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-rjokYv1fiiBg9+RiyyosNrlORDu3x6VN8to9o9f5Zdk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "B0eQXANVz36iAYuSCNOp46At7/U0209jV4VU6ULMtRY=",
+            "cert-url": "https://manga168.net/cdn-fpw/sxg/cert.pem.msg.B0eQXANVz36iAYuSCNOp46At7_U0209jV4VU6ULMtRY",
+            "date": 1730242014,
+            "expires": 1730332014,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIA85M6Gxlhu7MEmFH3nN9RJbTacJ5jUXnSNvz1MJth/5AiBIGcgIZZl3J3vLuiHgjJ/ghDIB+w0eacsZxl4RgyrH/Q==",
+            "validity-url": "https://manga168.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://manga168.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=86400"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da70c33d45c67d7-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:46:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=ggp6QjSdmlq3ZTNF0CtGzeHt8HAAlDRj5SPTXUW1hLw="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:39:06 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Rocket-Nginx-Serving-Static": [
+         "MISS"
+      ]
+   }
+}

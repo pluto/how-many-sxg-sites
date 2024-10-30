@@ -1,0 +1,52 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-/9F+RL6hsRp3XAzcE5fK7N8tFZEtOWni0rcg6HavE5o=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "djgb9CHo7M/4jOUoxlHnpOKKokdpmwQSg1yFlb31vys=",
+            "cert-url": "https://scriptengine.net/cdn-fpw/sxg/cert.pem.msg.djgb9CHo7M_4jOUoxlHnpOKKokdpmwQSg1yFlb31vys",
+            "date": 1730242551,
+            "expires": 1730847351,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCLRfUGej9nGUKuVCwQzIsGPZt7gXjRj+e3GL5crmaPJAIgW5ikDTtGBkKjdLdclxUWITpYrnXgsesoQiXPhAzFR7U=",
+            "validity-url": "https://scriptengine.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://scriptengine.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7194f8339980b-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:55:51 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=yr1ZjwV/ydJIeg8R+rigkgBgrCOglrVck60JWDiZteM="
+      ],
+      "Last-Modified": [
+         "Tue, 27 Dec 2022 16:04:19 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

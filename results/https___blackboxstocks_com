@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-vZEKrsFjsPmVVo2BkoLzWjAzYbAhoRYKguyI1MdVyG0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "k24Ta+r+SrIlj3g5DXV1FPBCz2b//T+5WZSsPPlQ7nM=",
+            "cert-url": "https://blackboxstocks.com/cdn-fpw/sxg/cert.pem.msg.k24Ta-r-SrIlj3g5DXV1FPBCz2b__T-5WZSsPPlQ7nM",
+            "date": 1730241054,
+            "expires": 1730331054,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBw14Ewxn8Ok45V3wmNMdwxyCduEhwQPMTPd2J9t2JrRAiB+hjp52btNM4rwgQEwL4VQ+JaHx1iIXTTHaLDxi7n5vA==",
+            "validity-url": "https://blackboxstocks.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://blackboxstocks.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "566"
+      ],
+      "Cache-Control": [
+         "max-age=86400, must-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f4c1b30b15cc-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:30:54 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=d0J9OBxA86y4KTSUJHJE1X1QFmoUHpLakJc5DNmGaQM="
+      ],
+      "Last-Modified": [
+         "Tue, 22 Oct 2024 14:44:41 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+      ],
+      "X-Cache": [
+         "HIT: 4"
+      ],
+      "X-Cache-Group": [
+         "iphone"
+      ],
+      "X-Cacheable": [
+         "SHORT"
+      ],
+      "X-Powered-By": [
+         "WP Engine"
+      ]
+   }
+}

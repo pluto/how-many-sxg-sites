@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-mvJJ7T/9asSSoQX35Nf9GHe7Z/g7LMSFv8JvjMvUCX8=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "JGuDwzV0RWQKAt+idDq1XcPu6qZliI7UOcqPWq4M/3U=",
+            "cert-url": "https://wefunder.com/cdn-fpw/sxg/cert.pem.msg.JGuDwzV0RWQKAt-idDq1XcPu6qZliI7UOcqPWq4M_3U",
+            "date": 1730243007,
+            "expires": 1730847807,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIBrNu+ybBv/K5lqrcHC7Xh+hlZ5huOEDRxVdnkWCEVhiAiEA5QzFFKhuzgchDF2S0IuTHqYJUODSJxHC7ROkO85NyFk=",
+            "validity-url": "https://wefunder.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://wefunder.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Credentials": [
+         "wefunder.honeycombcredit.com"
+      ],
+      "Access-Control-Allow-Origin": [
+         "wefunder.honeycombcredit.com"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da7246eb2279698-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:03:27 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=ANXPxVIdCAfpdWOZeqMNBJFpPxXSdOuJIUn4lNOMkGE="
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept, Origin"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Permitted-Cross-Domain-Policies": [
+         "none"
+      ],
+      "X-Request-Id": [
+         "84b59e4e38c56dbc8ba380f8c35a0948"
+      ],
+      "X-Xss-Protection": [
+         "0"
+      ]
+   }
+}

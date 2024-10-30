@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-j7SuBQt1Fcx6ETBK2gnGy0DoTHHm2g9o6nQFPKAk6Vo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "W+syW3uLBYt4d65O9IsTIYlDmf4SygRee3IlRYcJdew=",
+            "cert-url": "https://ssstik.io/cdn-fpw/sxg/cert.pem.msg.W-syW3uLBYt4d65O9IsTIYlDmf4SygRee3IlRYcJdew",
+            "date": 1730242686,
+            "expires": 1730847486,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCPw1LRSFjf4uYlMehK+3OmuZzD8fhVlx03njEwNVgXHQIgPPCUkUHcCV2VaCrEG7Dd9OlAalJUyRppPB8NShgP4tg=",
+            "validity-url": "https://ssstik.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ssstik.io/en-1",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "38983"
+      ],
+      "Cache-Control": [
+         "max-age=604800"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71c9c10579815-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:58:06 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Hl/I0GLFYOH9CylppGWrnkCI+VdTdr/EXVsj38VPx0I="
+      ],
+      "Expires": [
+         "Tue, 05 Nov 2024 13:08:12 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 13:08:12 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "sameorigin"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

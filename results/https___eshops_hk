@@ -1,0 +1,46 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-k16erqQ85VXGtw5zxCPQrz0ukjk33LhXIpTxPMTOGts=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "2uda/UUlBY24SYaDwC4GrXWOJWebct8e0CYu8sKT1fA=",
+            "cert-url": "https://eshops.hk/cdn-fpw/sxg/cert.pem.msg.2uda_UUlBY24SYaDwC4GrXWOJWebct8e0CYu8sKT1fA",
+            "date": 1730241451,
+            "expires": 1730846251,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIH+S9DMdq2CRp5VFx9VKlrSuwACDgYpKsvZFADrXlwM8AiEAwFkrmAQNM5cFeFI6OC4uI1z+1THefGxe8Nip+1fN4wY=",
+            "validity-url": "https://eshops.hk/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://eshops.hk/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fe7052a0fa8e-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:37:31 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=1vVH0vs7QYOfrBOeaVZZ3PUbd4Kr5k4L6XmY0xhYHUQ="
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

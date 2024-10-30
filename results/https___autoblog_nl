@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-0Q0Z5wwA0LpMUMLeCwBYxbAZ7IIgiYcBcfX//T8um68=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "trqaUCFM3hhNqZjb7jERt7G60OBySYSknP2hLz24TMU=",
+            "cert-url": "https://www.autoblog.nl/cdn-fpw/sxg/cert.pem.msg.trqaUCFM3hhNqZjb7jERt7G60OBySYSknP2hLz24TMU",
+            "date": 1730240973,
+            "expires": 1730245173,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCpIGMEstIdEQBOzhll5nRPoUoBbfsmsppSBh//0BZOawIgeTrTjlAaCJv7iiaL07UsIDqcDWbMZnNqj9gI137/Gpc=",
+            "validity-url": "https://www.autoblog.nl/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.autoblog.nl/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=600, public, s-maxage=600"
+      ],
+      "Cache-Trigger": [
+         "5"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6f2c7555167fd-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:29:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=xrhHujXpsGOxJFpyDkL+i7seLdzp1Bnz6kfkwoGo8W8="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:33:45 GMT"
+      ],
+      "Pragma": [
+         "public"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Frontend-Cache": [
+         "HIT"
+      ],
+      "X-Servebolt-Plugin": [
+         "active"
+      ]
+   }
+}

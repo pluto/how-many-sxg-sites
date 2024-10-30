@@ -1,0 +1,79 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-lJMkI5GVD39N00vaHOAfgrz7wURcYgFMyOpkDUDBKjc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "PhpjKuybDc2PgUZX3VD250GqyoXErW3QNGDd1WHMiKw=",
+            "cert-url": "https://www.eraser.io/cdn-fpw/sxg/cert.pem.msg.PhpjKuybDc2PgUZX3VD250GqyoXErW3QNGDd1WHMiKw",
+            "date": 1730241447,
+            "expires": 1730677047,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIH3RHV/Vkd0GwFAVKqYe9kh/B9wlt8r36+xwFRSzZYXUAiAF39dbyqI6yL5bjPjd2h/Y4Swx5albMw7rohSa3YMAGA==",
+            "validity-url": "https://www.eraser.io/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.eraser.io/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "42843"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=86400"
+      ],
+      "Cache-Control": [
+         "max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6fe59627b9432-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'self'"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:37:27 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=SoXTSBriN59mFMN0Xjr6NhsvkmcK3OmKody/1BGONkw="
+      ],
+      "Last-Modified": [
+         "Mon, 28 Oct 2024 07:11:03 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Surrogate-Control": [
+         "max-age=432000"
+      ],
+      "Surrogate-Key": [
+         "www.eraser.io 62d58a323cbc396f06a780aa pageId:65dc1d60bdbb9aca7884c9b2 65dc1d60bdbb9aca7884c9ba"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cluster-Name": [
+         "us-west-2-prod-hosting-red"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Lambda-Id": [
+         "c9dd28fc-d777-4080-9f1a-e1f53daa70ab"
+      ]
+   }
+}

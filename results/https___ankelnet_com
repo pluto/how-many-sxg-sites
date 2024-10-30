@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-yJ62bXT+PiwrCVaP9tjBGzdxDpKdMappxDQrWoPf5hs=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "k4ID/zUQDhtNVYWH7adDpbnYHj+F7kkpIwHBO8XYIXo=",
+            "cert-url": "https://ankelnet.com/cdn-fpw/sxg/cert.pem.msg.k4ID_zUQDhtNVYWH7adDpbnYHj-F7kkpIwHBO8XYIXo",
+            "date": 1730240921,
+            "expires": 1730845721,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDq4e3jifZlU84jAD4Ft4pFD7DrZYlnAANEeMajPZg1GAIhAPnucFcJjMLtHjFJL1ZEarTg0XFKO1RcMHZrCQJ8vOdz",
+            "validity-url": "https://ankelnet.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://ankelnet.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f182f225169a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:28:41 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=cD9Hy1gMCdihcvjxS/eArVYW/YcIjDDrIjEmCVf7eBw="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ]
+   }
+}

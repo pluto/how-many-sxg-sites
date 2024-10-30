@@ -1,0 +1,70 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-xUiJtnOfnnAjAkDE6q0AiMEyB5KzgCTcgXsaIOCPbzM=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "lbuExWFl/KOTBCycqIqiujqehiop4ZGC8rIZChk862E=",
+            "cert-url": "https://snapsave.app/cdn-fpw/sxg/cert.pem.msg.lbuExWFl_KOTBCycqIqiujqehiop4ZGC8rIZChk862E",
+            "date": 1730242648,
+            "expires": 1730246848,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDuI63D/zW8s9zX75lGlFflRzD4PX3023CPEAywKrs7oAiEAk1yv/n55MjNDF0/yTVt8TUNoW1Qkl0dFKhCUqgdueho=",
+            "validity-url": "https://snapsave.app/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://snapsave.app/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "556"
+      ],
+      "Cache-Control": [
+         "max-age=600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da71badf4079831-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:57:28 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=PYSLF4hDErcUtMFWyH949AytoNX02J9claVp8IXF9zA="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:48:12 GMT"
+      ],
+      "Link": [
+         "<https://snapsave.app/css/css_sprites.png>;rel=preload;as=image,<https://snapsave.app/css/css_sprites.png>;rel=allowed-alt-sxg;header-integrity=\"sha256-mhmLT10rNAwubhGj3aTS4EVxxcWsKo9VtYXxj1KnR40=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

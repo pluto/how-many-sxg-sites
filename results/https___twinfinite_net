@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-QKfeu6ZpW4UXKHJ5p9SlfGYDNHFXVD0iYceIyEoOO14=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "PncjF2T61QyHuJ1ejf7DaJ36PkGIfgz1oIvjFPkef4s=",
+            "cert-url": "https://twinfinite.net/cdn-fpw/sxg/cert.pem.msg.PncjF2T61QyHuJ1ejf7DaJ36PkGIfgz1oIvjFPkef4s",
+            "date": 1730242876,
+            "expires": 1730246776,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIGxhRSp9iNyHXwOfDfShCEZlxLLdjO5wj9Rx1JWbqPKbAiEAn7Yf+vs6JBc4SIj0Pqa4rg40Bdwej83ZCAoga9g4XRM=",
+            "validity-url": "https://twinfinite.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://twinfinite.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "max-age=300, must-revalidate"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da7213ed71c643a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:01:16 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=bJ2+mz1PrEU9ZZMWC47111a3T5TmfYD9Z5tsW1PCfGM="
+      ],
+      "Host-Header": [
+         "a9130478a60e5f9135f765b23f26593b"
+      ],
+      "Last-Modified": [
+         "Wed, 30 Oct 2024 00:01:12 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "MISS"
+      ],
+      "X-Gg-Tsp": [
+         "Yes"
+      ],
+      "X-Hacker": [
+         "If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header."
+      ],
+      "X-Rq": [
+         "jfk1 96 185 443"
+      ]
+   }
+}

@@ -1,0 +1,91 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-OjYlnSnQfN/CxkmquUtWyaUPYPqzbKOe3OkV5/OzIQk=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "W93YcgoDJ46BLgwweJuHostX7TqxuJskwHS5PLxcDtU=",
+            "cert-url": "https://emeritus.org/cdn-fpw/sxg/cert.pem.msg.W93YcgoDJ46BLgwweJuHostX7TqxuJskwHS5PLxcDtU",
+            "date": 1730241426,
+            "expires": 1730245326,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIEaTgVVX/yc08jU/GWIZ+mWHpad+ufGquWE/FdC9UGAvAiAxFR+2PbGzMntIM/WlmovRoDD+nITiS0RhekhMlCtJvg==",
+            "validity-url": "https://emeritus.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://emeritus.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "5112"
+      ],
+      "Cache-Control": [
+         "public, max-age=300"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6fdd6601f9e5f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:37:06 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=T8QNWazhJbAzFwcYlLKUhQaP2NWiV/jsCQcKx3JPMr0="
+      ],
+      "Expect-Ct": [
+         "max-age=86400, enforce"
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 23:42:06 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 20:45:21 GMT"
+      ],
+      "Referrer-Policy": [
+         "strict-origin-when-cross-origin"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Security-Policy": [
+         "default-src 'self'; script-src 'self';"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Gateway-Cache-Key": [
+         "1730195973.255|mobile|https|emeritus.org|||/|"
+      ],
+      "X-Gateway-Cache-Status": [
+         "MISS"
+      ],
+      "X-Gateway-Request-Id": [
+         "b3ca416747d90f71765f4c898a84e9a1"
+      ],
+      "X-Gateway-Skip-Cache": [
+         "0"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,49 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-pTRXzo6aSA2qqD6bOKA+KOouEU3spwAehgkwEj1ocOI=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "/qO9ukz5CD6fVRu3eb7o7Kgk5/bEMGkpWzMQ03dcrSk=",
+            "cert-url": "https://www.321sexchat.com/cdn-fpw/sxg/cert.pem.msg._qO9ukz5CD6fVRu3eb7o7Kgk5_bEMGkpWzMQ03dcrSk",
+            "date": 1730240800,
+            "expires": 1730845600,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIGSuidHV5hKHcRnCRrcg5aGTIsaoIvoF+Yu68i9PCnUGAiBZlzEM/t/rOdO4Z1yOtvUuJEpscZCMEwWdaLDeNMGRWA==",
+            "validity-url": "https://www.321sexchat.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.321sexchat.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6ee8ce6ba9657-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:26:40 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=wRCDICGMNLnhQfPrH4qUfCZeCkbzijZgTEntyMMp6uE="
+      ],
+      "Link": [
+         "<https://www.321sexchat.com/fonts/fontello.woff2?63986143>;rel=preload;as=font;crossorigin=anonymous,<https://www.321sexchat.com/fonts/fontello.woff2?63986143>;rel=allowed-alt-sxg;header-integrity=\"sha256-M+pr1vFXskofhLUFuWld3yQWxMeDX8A7kmAQFxXbWG4=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

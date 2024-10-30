@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-CfgVf+1tT8qHCVXqJCk6uPghdrD4QdOjT8meSnBPZeA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "VriYg/eHnZcsuX4rgHUviDMboLR3OdC2rNLjraSBS6Q=",
+            "cert-url": "https://www.atlantic.net/cdn-fpw/sxg/cert.pem.msg.VriYg_eHnZcsuX4rgHUviDMboLR3OdC2rNLjraSBS6Q",
+            "date": 1730240964,
+            "expires": 1730845764,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIGNQQpmFF9wouqkVXDZGSurg+L/WQNt5iQNza80SgLVIAiAbRJJpyuHnogFHFjWkfkNHKBPU/Ul++PUOL8OTt86sWA==",
+            "validity-url": "https://www.atlantic.net/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.atlantic.net/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "11649"
+      ],
+      "Cache-Control": [
+         "max-age=31536000"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6f28ce104cf13-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "frame-ancestors 'none'"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:29:23 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=qw5F32Z6XBB0HYltJjXTBW4fJB2vBXdGIP6Y4t6gtKo="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 19:48:55 GMT"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

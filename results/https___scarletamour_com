@@ -1,0 +1,58 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-10wFeEW1597jGAwP4FW1DLyFMXI5G3veMXGiOBYI1IU=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "Nb393IJ0GdmlItCxCFr3ZSo+dILXSqc7uLuhspG3IeY=",
+            "cert-url": "https://www.scarletamour.com/cdn-fpw/sxg/cert.pem.msg.Nb393IJ0GdmlItCxCFr3ZSo-dILXSqc7uLuhspG3IeY",
+            "date": 1730242546,
+            "expires": 1730847346,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCID7fDCyNUZShOYeanujP233GLRC6EJmlDGkoN0qkwfC7AiEAtYiBQ/aTsEw6GAMV34KCdi0Gq/CFWCjiKxnmUn99D9M=",
+            "validity-url": "https://www.scarletamour.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.scarletamour.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da719285237984f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en"
+      ],
+      "Content-Type": [
+         "text/html;charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:55:45 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=6Gt09M6BaUk0yI/rkAFUSXGqs6i0cT8P9ddMujn/XiY="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "DENY"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

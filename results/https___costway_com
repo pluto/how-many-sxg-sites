@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-DOmLxuj+fZAW5REmBc/vjxCWcfYY1u30TPh19xiqOcA=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "VR4jbbjuSckBUXU8P7f6pJnDUAFft54ZF8/jhiEkAHI=",
+            "cert-url": "https://www.costway.com/cdn-fpw/sxg/cert.pem.msg.VR4jbbjuSckBUXU8P7f6pJnDUAFft54ZF8_jhiEkAHI",
+            "date": 1730241243,
+            "expires": 1730846043,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCMg+2SKa8QDjbM2f5xHs4Z747MOoujxda2e26I1wuG/QIgC43qHua4Iwg4LAjeyZ2FguQUpkdZjzBbJUgUQZZ3nH4=",
+            "validity-url": "https://www.costway.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.costway.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6f95d5101cf8f-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "upgrade-insecure-requests"
+      ],
+      "Content-Type": [
+         "text/html; charset=utf-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:34:03 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=QFfvqnZH/yCwACBdFiKEMcZQd3qsmOW8B5gA7UBT9Ik="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Powered-By": [
+         "Express"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-0MO/qgyF7rs3M1t/8Eltk1HbeFmDSFG71OHGZAKDimc=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "qSEO3N57BhbljO8+Ah0hiwhZKf10wBL7TMZ8DfD+bDM=",
+            "cert-url": "https://design-milk.com/cdn-fpw/sxg/cert.pem.msg.qSEO3N57BhbljO8-Ah0hiwhZKf10wBL7TMZ8DfD-bDM",
+            "date": 1730241314,
+            "expires": 1730846114,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIGBwCfN3y1tiSbdYf6mCuRghO+r5ols2Uz6CeZZTqls3AiBhNJmbv4uDQAMIVM4R9gKQYMaL+MTjSLGRsU9eHkTokA==",
+            "validity-url": "https://design-milk.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://design-milk.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "12702"
+      ],
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6fb18173315d8-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:14 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=Ua/CLWgSRgni9GYbUdPbmLN7FyBWi2ctTr94uUBocA4="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ]
+   }
+}

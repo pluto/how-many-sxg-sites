@@ -1,0 +1,88 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Od2YaBQlIeLTxnjWDi11K40cYlxP/+Cls5G2GEDiQV0=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "uPb7ePMWYJrspKR+T/jizT+rWCXB2grpO1BcYuIdIx0=",
+            "cert-url": "https://www.gcu.edu/cdn-fpw/sxg/cert.pem.msg.uPb7ePMWYJrspKR-T_jizT-rWCXB2grpO1BcYuIdIx0",
+            "date": 1730241573,
+            "expires": 1730259573,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIAcNx69/VGjbfG3QOhfWPIAwAW6g6gc1IlqFQlnwVKrkAiEAiguc5WDnsxuGZ0SiCgcuuJKxL1h/C8kFGFDTMboT73E=",
+            "validity-url": "https://www.gcu.edu/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.gcu.edu/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "Age": [
+         "1"
+      ],
+      "Cache-Control": [
+         "public, max-age=14400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da7016bd4926459-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Language": [
+         "en"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:39:33 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=nB3WhseCL4VK6gXwLIhRq+anl/9qqJS72pDjFixODk8="
+      ],
+      "Expires": [
+         "Wed, 30 Oct 2024 03:39:33 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:36:42 GMT"
+      ],
+      "Link": [
+         "<https://www.gcu.edu/themes/custom/gcu/assets/styles/main.css?v=0.1.3>;rel=preload;as=style,<https://www.gcu.edu/themes/custom/gcu/assets/styles/main.css?v=0.1.3>;rel=allowed-alt-sxg;header-integrity=\"sha256-yB4uZftIA7LYIq3CxEcOiytJfEUcDVP2eP8bKTZ2oOo=\""
+      ],
+      "Permissions-Policy": [
+         "interest-cohort=()"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Cookie,Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Drupal-Cache": [
+         "MISS"
+      ],
+      "X-Drupal-Dynamic-Cache": [
+         "HIT"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Ua-Compatible": [
+         "IE=edge"
+      ]
+   }
+}

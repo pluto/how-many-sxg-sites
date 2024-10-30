@@ -1,0 +1,43 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-mJ43bak0kp1do9SEjVUrgMwDCny2qWAzZ1lwcR7kV6U=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "U65Ex598zU2bVGxdrtZhKSWSxmdJPU4tslas9A5F7dU=",
+            "cert-url": "https://qtxasset.com/cdn-fpw/sxg/cert.pem.msg.U65Ex598zU2bVGxdrtZhKSWSxmdJPU4tslas9A5F7dU",
+            "date": 1730242417,
+            "expires": 1730847217,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIEcsI9IyWsHPFHbopliwps9NucpfQJOCHHDqOpOITFJPAiEApvOCKa1fl+tebWUaSl/8bCThy5tkxfGgVbV7VpZ57cE=",
+            "validity-url": "https://qtxasset.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://qtxasset.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cache-Control": [
+         "public, max-age=31536000"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "application/xml"
+      ],
+      "Digest": [
+         "mi-sha256-03=qW6y8jSt9SIKrlvzjDLiUoIlX+4XKdTtDG86vfYor1g="
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Amz-Bucket-Region": [
+         "us-east-1"
+      ]
+   }
+}

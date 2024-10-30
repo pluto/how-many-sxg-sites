@@ -1,0 +1,61 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-QSRoDcJL+WR56IXCKvVSJPldNVn0L6axz4juLTOr+yY=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "MSUUXKcY20OHNKRemo+CbKepKi/Jr7M7atoADj0kzQQ=",
+            "cert-url": "https://24timezones.com/cdn-fpw/sxg/cert.pem.msg.MSUUXKcY20OHNKRemo-CbKepKi_Jr7M7atoADj0kzQQ",
+            "date": 1730240797,
+            "expires": 1730845597,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEQCIBgEYSMdOMFVAQPcsmtBsVj0lc0ZCtCp++3uDpU4qkfUAiBAmB4kgeT08OYVQWtr1+5XLxXNC9m15dkxsOjRuz8zhg==",
+            "validity-url": "https://24timezones.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://24timezones.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "1274"
+      ],
+      "Alt-Svc": [
+         "h3=\":443\"; ma=2592000"
+      ],
+      "Cache-Control": [
+         "max-age=2678400"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da6ee7d93facf0a-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:26:37 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=4b2msVDYXOby6dHUdfMS2ooPzBZo5nPxuvFHiLQFe8I="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 23:05:23 GMT"
+      ],
+      "Link": [
+         "<https://24timezones.com/deferred-styles.css?_1729892584>;rel=preload;as=style,<https://24timezones.com/deferred-styles.css?_1729892584>;rel=allowed-alt-sxg;header-integrity=\"sha256-PUO3jLF+G8l1mIkuKi+SkOySkdDjILyYV41fNEh8Yk8=\",<https://24timezones.com/t?callback=handleServerTime>;rel=preload;as=script,<https://24timezones.com/t?callback=handleServerTime>;rel=allowed-alt-sxg;header-integrity=\"sha256-P0eR5Q+EROZSqL2/0+qlvdqk3wbTidIvzgT09F32joQ=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ]
+   }
+}

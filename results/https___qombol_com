@@ -1,0 +1,76 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-khiJEMcPnEJuTVnjLisOxlIOtbCdjyaKM5PyNv2L+tE=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "T9uO+taPPbup1kvEKEdKTQYD/6y52dtvUZ2QbglgAq8=",
+            "cert-url": "https://www.qombol.com/cdn-fpw/sxg/cert.pem.msg.T9uO-taPPbup1kvEKEdKTQYD_6y52dtvUZ2QbglgAq8",
+            "date": 1730242416,
+            "expires": 1730847216,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIDiypOS9nlrjXBacFZrggc/7Nc3Or5gRQ/JWEcyuz3U9AiEA2K8TkfUtgO3W2QXTj5+ZCfEKTrCvCs/hGcYLO1n8ulk=",
+            "validity-url": "https://www.qombol.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://www.qombol.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da71601733c2284-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Security-Policy": [
+         "default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:53:36 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=5SfU7uvAXLYu1A3VUHcIZbwnThtXCJ1GMmmAuAZMKvk="
+      ],
+      "Last-Modified": [
+         "Tue, 29 Oct 2024 08:15:19 GMT"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Cache-Status": [
+         "HIT"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Rocket-Nginx-Serving-Static": [
+         "BYPASS"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

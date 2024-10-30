@@ -1,0 +1,85 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-kLwdtwSbRsc0sTDlR5FLBMhj6XOZAdf8K1B2vFAWJVo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "9WPzyXQXlamb20h8UJk4AE3ugEjTYUXXZuvNSY6Nwvc=",
+            "cert-url": "https://vuukle.com/cdn-fpw/sxg/cert.pem.msg.9WPzyXQXlamb20h8UJk4AE3ugEjTYUXXZuvNSY6Nwvc",
+            "date": 1730242978,
+            "expires": 1730250178,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIQCi7DwhZu4AiJtj/kpz25Drk2mea130ojUAmj12idPzeQIgRRT7MwoNVZK4IynaGIeeMw963Gg39BO6Ij6PN/nFr7U=",
+            "validity-url": "https://vuukle.com/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://vuukle.com/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Accept-Ranges": [
+         "bytes"
+      ],
+      "Age": [
+         "50068"
+      ],
+      "Cache-Control": [
+         "public, max-age=3600"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Ray": [
+         "8da723b7635215df-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Wed, 30 Oct 2024 00:02:57 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=O8jePR6wRnOLy3YbhNcpHScNcfslVf1k/AeZSsbzaOw="
+      ],
+      "Expires": [
+         "Tue, 29 Oct 2024 11:08:29 GMT"
+      ],
+      "Last-Modified": [
+         "Tue, 08 Oct 2024 09:52:31 GMT"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "X-Goog-Generation": [
+         "1728381151252662"
+      ],
+      "X-Goog-Hash": [
+         "crc32c=GDsMLw==, md5=FfRwzZfWg0TuZSZ5tqpPkQ=="
+      ],
+      "X-Goog-Meta-Goog-Reserved-File-Mtime": [
+         "1728381123"
+      ],
+      "X-Goog-Metageneration": [
+         "1"
+      ],
+      "X-Goog-Storage-Class": [
+         "STANDARD"
+      ],
+      "X-Goog-Stored-Content-Encoding": [
+         "identity"
+      ],
+      "X-Goog-Stored-Content-Length": [
+         "7226"
+      ],
+      "X-Guploader-Uploadid": [
+         "AHmUCY0zohfRVNdiZ4pO822vthhVcICm28xpuiyk03PS-m_iYNpBWPxEQSnGmsn-sDhEUtjomfQ"
+      ]
+   }
+}

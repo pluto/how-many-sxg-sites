@@ -1,0 +1,64 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-Bw346hAnkQeU7OPAMbIMFnGuiHk/rZzadpJ3TxzHHTo=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "MWcI8yNzw0LV2Y0VTV9zoASH2Q091uTsM+s0bAqVWHA=",
+            "cert-url": "https://danbo.org/cdn-fpw/sxg/cert.pem.msg.MWcI8yNzw0LV2Y0VTV9zoASH2Q091uTsM-s0bAqVWHA",
+            "date": 1730241283,
+            "expires": 1730846083,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEUCIFVPSI0NN/0Kz3r8bopOua2t4DAesyqCJLlj2TWw6mxCAiEAig6fnEKV+0k0TbfQEtueYCXbzaLiNU2/2YQixjQlkec=",
+            "validity-url": "https://danbo.org/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://danbo.org/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Cf-Cache-Status": [
+         "DYNAMIC"
+      ],
+      "Cf-Ray": [
+         "8da6fa57267b7e2d-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:34:43 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=ozJ+NLMHvTV8Kc/rJDqDSL71rMN9iIFtZ/pc5dOipGQ="
+      ],
+      "Last-Modified": [
+         "Thu, 17 Oct 2024 04:31:57 GMT"
+      ],
+      "Referrer-Policy": [
+         "no-referrer-when-downgrade"
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Content-Type-Options": [
+         "nosniff"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Xss-Protection": [
+         "1; mode=block"
+      ]
+   }
+}

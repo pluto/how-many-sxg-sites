@@ -1,0 +1,73 @@
+{
+   "Valid": true,
+   "HeaderIntegrity": "sha256-4ap8uX7H8XYYM5rEIGTYUiwgmjus91EmeXEnQvTGVwg=",
+   "Signatures": [
+      {
+         "Label": "sig",
+         "Params": {
+            "cert-sha256": "yMSKWWNF4YwJhbu+qOSpb+5/HortS5pPBqCh3HBaakM=",
+            "cert-url": "https://definicion.de/cdn-fpw/sxg/cert.pem.msg.yMSKWWNF4YwJhbu-qOSpb-5_HortS5pPBqCh3HBaakM",
+            "date": 1730241301,
+            "expires": 1730288101,
+            "integrity": "digest/mi-sha256-03",
+            "sig": "MEYCIQDyGfm6tfWxrh97sgqBmhA/tWiLc3hwOR31+gVTKy/TRAIhAIAqGXtw9Sz6PKACLPz0jX9F/uzo2bQlH9N5v5IqY4Xj",
+            "validity-url": "https://definicion.de/cdn-fpw/sxg/valid.msg.validity"
+         }
+      }
+   ],
+   "Version": "1b3",
+   "RequestURI": "https://definicion.de/",
+   "RequestMethod": "GET",
+   "RequestHeaders": {},
+   "ResponseStatus": 200,
+   "ResponseHeaders": {
+      "Age": [
+         "2958"
+      ],
+      "Cache-Control": [
+         "max-age=43200"
+      ],
+      "Cf-Apo-Via": [
+         "tcache"
+      ],
+      "Cf-Cache-Status": [
+         "HIT"
+      ],
+      "Cf-Edge-Cache": [
+         "cache,platform=wordpress"
+      ],
+      "Cf-Ray": [
+         "8da6faca950f67dc-SJC"
+      ],
+      "Content-Encoding": [
+         "mi-sha256-03"
+      ],
+      "Content-Type": [
+         "text/html; charset=UTF-8"
+      ],
+      "Date": [
+         "Tue, 29 Oct 2024 23:35:01 GMT"
+      ],
+      "Digest": [
+         "mi-sha256-03=gYKrr96Rl0OyzqwfSAOXD5PVOf0wn9GxTjaxt4bI9bQ="
+      ],
+      "Link": [
+         "<https://definicion.de/wp-content/themes/definicion/Brawler.woff2>;rel=preload;as=font;crossorigin=anonymous,<https://definicion.de/wp-content/themes/definicion/Brawler.woff2>;rel=allowed-alt-sxg;header-integrity=\"sha256-1SKdb8atxLA2O9s3ikJy2jafHvX6hyN3a7zu+qLXEFw=\""
+      ],
+      "Server": [
+         "cloudflare"
+      ],
+      "Vary": [
+         "Accept-Encoding"
+      ],
+      "X-Frame-Options": [
+         "SAMEORIGIN"
+      ],
+      "X-Litespeed-Cache": [
+         "miss"
+      ],
+      "X-Turbo-Charged-By": [
+         "LiteSpeed"
+      ]
+   }
+}
