@@ -23,5 +23,5 @@ Usage:
 go run main.go
 
 # prints the number of sites using SXG plus 1
-ls -l | wc -l 
+ls -l results  | wc -l 
 ```
