@@ -6,13 +6,6 @@
   how many of the top million sites use cloudflare sxg
 </p>
 
-<div align="center">
-  <a href="https://x.com/cryptograthor">
-    <img src="https://img.shields.io/badge/made_by_cryptograthor-black?style=flat&logo=undertale&logoColor=hotpink" />
-    <!-- ![](https://img.shields.io/badge/made_by_cryptograthor-black?style=flat&logo=undertale&logoColor=hotpink) -->
-  </a>
-  </div>
-
 - Top million domain ranking obtained from [cloudflare](https://radar.cloudflare.com/domains).
 - `dump-signedexchange` obtained from [webpackage](https://github.com/WICG/webpackage/blob/main/go/signedexchange/cmd/dump-signedexchange/main.go)
 
